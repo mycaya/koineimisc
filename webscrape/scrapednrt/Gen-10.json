@@ -1,0 +1,290 @@
+[
+    {
+        "chapter": 10,
+        "verse": 0,
+        "text": "Список народов",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 1,
+        "text": "Вот родословие Сима, Хама и Иафета, сыновей Ноя, у которых после потопа тоже родились сыновья. Потомки Иафета",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 2,
+        "text": "Пар. 1:5-7)",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 3,
+        "text": "Сыновья Иафета: Гомер, Магог, Мадай, Иаван, Тувал, Мешех и Тирас.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 4,
+        "text": "Сыновья Гомера: Ашкеназ, Рифат и Тогарма.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 5,
+        "text": "Сыновья Иавана: Элиша, Таршиш, Киттим и Роданим.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 6,
+        "text": "(От них произошли приморские народы и распространились по своим землям, среди своих народов; у каждого свой язык, свое племя). Потомки Хама",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 7,
+        "text": "Пар. 1:8-16)",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 8,
+        "text": "Сыновья Хама: Куш, Мицраим, Пут и Ханаан.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 9,
+        "text": "Сыновья Куша: Сева, Хавила, Савта, Раама и Савтеха. Сыновья Раамы: Шева и Дедан.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 10,
+        "text": "Куш был отцом и Нимрода, который стал первым на земле могучим воином.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 11,
+        "text": "Он был величайшим охотником перед Господом, поэтому и говорится: «Величайший охотник перед Господом, как Нимрод».",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 12,
+        "text": "Первыми городами в его царстве были Вавилон, Эрех, Аккад и Халне в Шинаре.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 13,
+        "text": "Из той земли он перешел в Ассирию, где построил Ниневию, Реховот-Ир, Калах",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 14,
+        "text": "и Ресен, между Ниневией и Калахом – великий город.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 15,
+        "text": "Мицраим был отцом лудеев, анамеев, легавеев, нафтухеев,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 16,
+        "text": "патрусеев, каслухеев (от которых произошли филистимляне), и кафтореев.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 17,
+        "text": "Ханаан был отцом Сидона, первенца его, Хетта,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 18,
+        "text": "а также иевусеев, аморреев, гергесеев,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 19,
+        "text": "хиввеев, аркеев, синеев,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 20,
+        "text": "арвадеев, цемареев и хаматеев. Позже ханаанские племена рассеялись,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 21,
+        "text": "и границы Ханаана простирались от Сидона к Герару до Газы, а оттуда к Содому, Гоморре, Адме и Цевоиму до Лаши.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 22,
+        "text": "Таковы произошедшие от Хама народы по своим родам, со своим языком, в своих землях. Потомки Сима",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 23,
+        "text": "Пар. 1:17-23)",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 24,
+        "text": "Родились сыновья и у Сима, старшего брата Иафета. Сим был предком всех сыновей Евера.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 25,
+        "text": "Сыновья Сима: Елам, Ашшур, Арпахшад, Луд и Арам.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 26,
+        "text": "Сыновья Арама: Уц, Хул, Гетер и Мешех.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 27,
+        "text": "У Арпахшада родился Шелах, а у Шелаха родился Евер.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 28,
+        "text": "У Евера родилось двое сыновей: одного звали Пелег (потому что в его дни земля была разделена), а его брата – Иоктан.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 29,
+        "text": "Иоктан был отцом Алмодада, Шалефа, Хацармавета, Иераха,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 30,
+        "text": "Гадорама, Узала, Диклы,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 31,
+        "text": "Овала, Авимаила, Шевы,",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 32,
+        "text": "Офира, Хавилы и Иовава. Все они были сыновьями Иоктана.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 33,
+        "text": "Область, где они жили, простиралась от Меши до Сефара в восточных нагорьях.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 34,
+        "text": "Таковы произошедшие от Сима народы по своим родам, со своим языком, в своих землях.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    },
+    {
+        "chapter": 10,
+        "verse": 35,
+        "text": "Таковы племена сыновей Ноя, по их родословиям в их народах; от них после потопа произошли все народы на земле.",
+        "translation_id": "NRT",
+        "book_id": "Gen",
+        "book_name": "Genesis"
+    }
+]

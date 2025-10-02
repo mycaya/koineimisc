@@ -1,0 +1,42 @@
+[
+    {
+        "chapter": 99,
+        "verse": 1,
+        "text": "Хвалебный псалом. Воскликни Господу, вся земля!",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 99,
+        "verse": 2,
+        "text": "Служите Господу с радостью, с песнопением приходите к Нему.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 99,
+        "verse": 3,
+        "text": "Знайте, что Господь – Бог! Он сотворил нас, и мы принадлежим Ему; мы – народ Его и овцы Его стада.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 99,
+        "verse": 4,
+        "text": "Входите в ворота Его с благодарением и во дворы Его с хвалою; благодарите Его и благословляйте имя Его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 99,
+        "verse": 5,
+        "text": "Ведь Господь благ, милость Его навеки, и верность Его из поколения в поколение.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    }
+]

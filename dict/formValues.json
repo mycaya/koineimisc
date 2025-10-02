@@ -1,0 +1,3210 @@
+[
+    {
+        "grammar": "inanimate masculine accusative singular",
+        "count": 6217
+    },
+    {
+        "grammar": "inanimate neuter accusative singular",
+        "count": 6187
+    },
+    {
+        "grammar": "inanimate feminine nominative singular",
+        "count": 5940
+    },
+    {
+        "grammar": "inanimate feminine accusative singular",
+        "count": 5824
+    },
+    {
+        "grammar": "inanimate masculine nominative singular",
+        "count": 5663
+    },
+    {
+        "grammar": "inanimate neuter nominative singular",
+        "count": 5638
+    },
+    {
+        "grammar": "feminine nominative singular",
+        "count": 5365
+    },
+    {
+        "grammar": "inanimate masculine genitive singular",
+        "count": 5305
+    },
+    {
+        "grammar": "feminine accusative singular",
+        "count": 5305
+    },
+    {
+        "grammar": "neuter accusative singular",
+        "count": 5176
+    },
+    {
+        "grammar": "neuter nominative singular",
+        "count": 5176
+    },
+    {
+        "grammar": "inanimate feminine genitive singular",
+        "count": 5118
+    },
+    {
+        "grammar": "inanimate masculine dative singular",
+        "count": 5062
+    },
+    {
+        "grammar": "inanimate feminine dative singular",
+        "count": 4861
+    },
+    {
+        "grammar": "inanimate feminine prepositional singular",
+        "count": 4858
+    },
+    {
+        "grammar": "inanimate neuter genitive singular",
+        "count": 4837
+    },
+    {
+        "grammar": "inanimate feminine genitive plural",
+        "count": 4790
+    },
+    {
+        "grammar": "feminine genitive plural",
+        "count": 4784
+    },
+    {
+        "grammar": "masculine accusative singular",
+        "count": 4766
+    },
+    {
+        "grammar": "masculine nominative singular",
+        "count": 4763
+    },
+    {
+        "grammar": "inanimate masculine instrumental singular",
+        "count": 4761
+    },
+    {
+        "grammar": "inanimate neuter dative singular",
+        "count": 4749
+    },
+    {
+        "grammar": "masculine genitive singular",
+        "count": 4642
+    },
+    {
+        "grammar": "inanimate feminine instrumental singular",
+        "count": 4636
+    },
+    {
+        "grammar": "inanimate neuter instrumental singular",
+        "count": 4556
+    },
+    {
+        "grammar": "inanimate neuter genitive plural",
+        "count": 4517
+    },
+    {
+        "grammar": "neuter genitive plural",
+        "count": 4508
+    },
+    {
+        "grammar": "feminine genitive singular",
+        "count": 4495
+    },
+    {
+        "grammar": "inanimate masculine prepositional singular",
+        "count": 4489
+    },
+    {
+        "grammar": "inanimate feminine nominative plural",
+        "count": 4418
+    },
+    {
+        "grammar": "inanimate feminine accusative plural",
+        "count": 4417
+    },
+    {
+        "grammar": "feminine nominative plural",
+        "count": 4412
+    },
+    {
+        "grammar": "feminine accusative plural",
+        "count": 4411
+    },
+    {
+        "grammar": "inanimate masculine instrumental plural",
+        "count": 4363
+    },
+    {
+        "grammar": "inanimate neuter instrumental plural",
+        "count": 4329
+    },
+    {
+        "grammar": "inanimate masculine dative plural",
+        "count": 4314
+    },
+    {
+        "grammar": "neuter genitive singular",
+        "count": 4292
+    },
+    {
+        "grammar": "inanimate neuter dative plural",
+        "count": 4285
+    },
+    {
+        "grammar": "inanimate neuter accusative plural",
+        "count": 4268
+    },
+    {
+        "grammar": "inanimate neuter nominative plural",
+        "count": 4268
+    },
+    {
+        "grammar": "neuter accusative plural",
+        "count": 4260
+    },
+    {
+        "grammar": "neuter nominative plural",
+        "count": 4260
+    },
+    {
+        "grammar": "inanimate neuter prepositional singular",
+        "count": 4258
+    },
+    {
+        "grammar": "feminine prepositional singular",
+        "count": 4240
+    },
+    {
+        "grammar": "feminine dative singular",
+        "count": 4240
+    },
+    {
+        "grammar": "inanimate masculine nominative plural",
+        "count": 4122
+    },
+    {
+        "grammar": "inanimate masculine accusative plural",
+        "count": 4121
+    },
+    {
+        "grammar": "masculine nominative plural",
+        "count": 4116
+    },
+    {
+        "grammar": "masculine accusative plural",
+        "count": 4115
+    },
+    {
+        "grammar": "masculine prepositional singular",
+        "count": 4050
+    },
+    {
+        "grammar": "inanimate feminine prepositional plural",
+        "count": 4029
+    },
+    {
+        "grammar": "feminine prepositional plural",
+        "count": 4023
+    },
+    {
+        "grammar": "feminine instrumental singular",
+        "count": 4008
+    },
+    {
+        "grammar": "masculine dative singular",
+        "count": 4003
+    },
+    {
+        "grammar": "inanimate feminine dative plural",
+        "count": 3984
+    },
+    {
+        "grammar": "feminine dative plural",
+        "count": 3978
+    },
+    {
+        "grammar": "masculine instrumental singular",
+        "count": 3971
+    },
+    {
+        "grammar": "neuter prepositional singular",
+        "count": 3936
+    },
+    {
+        "grammar": "neuter instrumental singular",
+        "count": 3891
+    },
+    {
+        "grammar": "inanimate masculine genitive plural",
+        "count": 3857
+    },
+    {
+        "grammar": "masculine genitive plural",
+        "count": 3851
+    },
+    {
+        "grammar": "neuter dative singular",
+        "count": 3810
+    },
+    {
+        "grammar": "inanimate feminine instrumental plural",
+        "count": 3683
+    },
+    {
+        "grammar": "masculine instrumental plural",
+        "count": 3681
+    },
+    {
+        "grammar": "feminine instrumental plural",
+        "count": 3677
+    },
+    {
+        "grammar": "neuter instrumental plural",
+        "count": 3650
+    },
+    {
+        "grammar": "inanimate masculine prepositional plural",
+        "count": 3641
+    },
+    {
+        "grammar": "inanimate neuter prepositional plural",
+        "count": 3635
+    },
+    {
+        "grammar": "masculine prepositional plural",
+        "count": 3633
+    },
+    {
+        "grammar": "masculine dative plural",
+        "count": 3632
+    },
+    {
+        "grammar": "neuter prepositional plural",
+        "count": 3629
+    },
+    {
+        "grammar": "neuter dative plural",
+        "count": 3607
+    },
+    {
+        "grammar": "animate masculine accusative singular",
+        "count": 2365
+    },
+    {
+        "grammar": "animate masculine nominative singular",
+        "count": 2264
+    },
+    {
+        "grammar": "animate masculine dative singular",
+        "count": 1678
+    },
+    {
+        "grammar": "inanimate accusative plural",
+        "count": 1613
+    },
+    {
+        "grammar": "animate accusative plural",
+        "count": 1540
+    },
+    {
+        "grammar": "animate masculine genitive singular",
+        "count": 1538
+    },
+    {
+        "grammar": "past active transitive masculine singular",
+        "count": 1461
+    },
+    {
+        "grammar": "normal form",
+        "count": 1451
+    },
+    {
+        "grammar": "animate masculine instrumental singular",
+        "count": 1325
+    },
+    {
+        "grammar": "infinitive active transitive",
+        "count": 1290
+    },
+    {
+        "grammar": "animate masculine instrumental plural",
+        "count": 1247
+    },
+    {
+        "grammar": "second imperative active transitive singular",
+        "count": 1178
+    },
+    {
+        "grammar": "animate feminine nominative singular",
+        "count": 1156
+    },
+    {
+        "grammar": "animate masculine dative plural",
+        "count": 1149
+    },
+    {
+        "grammar": "animate feminine genitive singular",
+        "count": 1129
+    },
+    {
+        "grammar": "past active transitive plural",
+        "count": 1105
+    },
+    {
+        "grammar": "animate feminine dative singular",
+        "count": 1071
+    },
+    {
+        "grammar": "animate neuter accusative singular",
+        "count": 1044
+    },
+    {
+        "grammar": "animate feminine instrumental singular",
+        "count": 1033
+    },
+    {
+        "grammar": "animate feminine prepositional singular",
+        "count": 971
+    },
+    {
+        "grammar": "animate neuter dative singular",
+        "count": 959
+    },
+    {
+        "grammar": "inanimate nominative plural",
+        "count": 944
+    },
+    {
+        "grammar": "animate feminine accusative singular",
+        "count": 932
+    },
+    {
+        "grammar": "past active intransitive masculine singular",
+        "count": 916
+    },
+    {
+        "grammar": "animate masculine nominative plural",
+        "count": 885
+    },
+    {
+        "grammar": "animate nominative plural",
+        "count": 877
+    },
+    {
+        "grammar": "past active intransitive plural",
+        "count": 863
+    },
+    {
+        "grammar": "animate masculine prepositional singular",
+        "count": 806
+    },
+    {
+        "grammar": "animate masculine genitive plural",
+        "count": 790
+    },
+    {
+        "grammar": "infinitive active intransitive",
+        "count": 789
+    },
+    {
+        "grammar": "animate masculine accusative plural",
+        "count": 746
+    },
+    {
+        "grammar": "inanimate genitive plural",
+        "count": 723
+    },
+    {
+        "grammar": "third present active transitive singular",
+        "count": 719
+    },
+    {
+        "grammar": "inanimate prepositional plural",
+        "count": 711
+    },
+    {
+        "grammar": "animate neuter instrumental plural",
+        "count": 691
+    },
+    {
+        "grammar": "animate neuter instrumental singular",
+        "count": 690
+    },
+    {
+        "grammar": "animate genitive plural",
+        "count": 689
+    },
+    {
+        "grammar": "animate prepositional plural",
+        "count": 688
+    },
+    {
+        "grammar": "animate neuter dative plural",
+        "count": 684
+    },
+    {
+        "grammar": "third future active transitive singular",
+        "count": 678
+    },
+    {
+        "grammar": "third present active intransitive singular",
+        "count": 651
+    },
+    {
+        "grammar": "animate masculine singular",
+        "count": 607
+    },
+    {
+        "grammar": "inanimate masculine singular",
+        "count": 607
+    },
+    {
+        "grammar": "animate neuter singular",
+        "count": 580
+    },
+    {
+        "grammar": "inanimate neuter singular",
+        "count": 580
+    },
+    {
+        "grammar": "animate neuter genitive singular",
+        "count": 573
+    },
+    {
+        "grammar": "first future active transitive singular",
+        "count": 549
+    },
+    {
+        "grammar": "second imperative active transitive plural",
+        "count": 540
+    },
+    {
+        "grammar": "third future active intransitive singular",
+        "count": 513
+    },
+    {
+        "grammar": "animate feminine genitive plural",
+        "count": 510
+    },
+    {
+        "grammar": "past active transitive feminine singular",
+        "count": 506
+    },
+    {
+        "grammar": "animate neuter nominative singular",
+        "count": 505
+    },
+    {
+        "grammar": "second imperative active intransitive singular",
+        "count": 500
+    },
+    {
+        "grammar": "third present active transitive plural",
+        "count": 497
+    },
+    {
+        "grammar": "inanimate instrumental plural",
+        "count": 489
+    },
+    {
+        "grammar": "third present active intransitive plural",
+        "count": 462
+    },
+    {
+        "grammar": "animate instrumental plural",
+        "count": 458
+    },
+    {
+        "grammar": "past active intransitive feminine singular",
+        "count": 444
+    },
+    {
+        "grammar": "animate feminine nominative plural",
+        "count": 419
+    },
+    {
+        "grammar": "past passive animate transitive masculine singular",
+        "count": 415
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine singular",
+        "count": 415
+    },
+    {
+        "grammar": "animate plural",
+        "count": 394
+    },
+    {
+        "grammar": "inanimate plural",
+        "count": 394
+    },
+    {
+        "grammar": "animate feminine singular",
+        "count": 380
+    },
+    {
+        "grammar": "inanimate feminine singular",
+        "count": 380
+    },
+    {
+        "grammar": "past passive animate transitive plural",
+        "count": 373
+    },
+    {
+        "grammar": "past passive inanimate transitive plural",
+        "count": 373
+    },
+    {
+        "grammar": "third future active intransitive plural",
+        "count": 372
+    },
+    {
+        "grammar": "third future active transitive plural",
+        "count": 369
+    },
+    {
+        "grammar": "animate feminine accusative plural",
+        "count": 364
+    },
+    {
+        "grammar": "present active transitive",
+        "count": 361
+    },
+    {
+        "grammar": "animate masculine prepositional plural",
+        "count": 356
+    },
+    {
+        "grammar": "past active transitive",
+        "count": 353
+    },
+    {
+        "grammar": "first animate masculine genitive singular",
+        "count": 350
+    },
+    {
+        "grammar": "first animate masculine accusative singular",
+        "count": 342
+    },
+    {
+        "grammar": "animate neuter prepositional singular",
+        "count": 336
+    },
+    {
+        "grammar": "past active intransitive neuter singular",
+        "count": 319
+    },
+    {
+        "grammar": "past passive animate transitive accusative plural",
+        "count": 309
+    },
+    {
+        "grammar": "past passive inanimate transitive accusative plural",
+        "count": 309
+    },
+    {
+        "grammar": "animate feminine instrumental plural",
+        "count": 302
+    },
+    {
+        "grammar": "animate feminine prepositional plural",
+        "count": 290
+    },
+    {
+        "grammar": "second imperative active intransitive plural",
+        "count": 288
+    },
+    {
+        "grammar": "animate feminine dative plural",
+        "count": 287
+    },
+    {
+        "grammar": "first animate masculine nominative singular",
+        "count": 278
+    },
+    {
+        "grammar": "first animate feminine nominative singular",
+        "count": 275
+    },
+    {
+        "grammar": "first present active transitive singular",
+        "count": 252
+    },
+    {
+        "grammar": "past passive animate transitive masculine accusative singular",
+        "count": 243
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine accusative singular",
+        "count": 243
+    },
+    {
+        "grammar": "past passive animate transitive feminine singular",
+        "count": 231
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine singular",
+        "count": 231
+    },
+    {
+        "grammar": "present active intransitive",
+        "count": 229
+    },
+    {
+        "grammar": "first future imperative active transitive plural",
+        "count": 212
+    },
+    {
+        "grammar": "past active intransitive",
+        "count": 210
+    },
+    {
+        "grammar": "second future active transitive singular",
+        "count": 209
+    },
+    {
+        "grammar": "past passive animate transitive neuter singular",
+        "count": 208
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter singular",
+        "count": 208
+    },
+    {
+        "grammar": "first animate feminine genitive plural",
+        "count": 206
+    },
+    {
+        "grammar": "second present active transitive singular",
+        "count": 203
+    },
+    {
+        "grammar": "present active animate transitive masculine accusative singular",
+        "count": 202
+    },
+    {
+        "grammar": "present active inanimate transitive masculine accusative singular",
+        "count": 202
+    },
+    {
+        "grammar": "past passive animate transitive neuter accusative singular",
+        "count": 192
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter accusative singular",
+        "count": 192
+    },
+    {
+        "grammar": "first future active intransitive singular",
+        "count": 181
+    },
+    {
+        "grammar": "past passive animate transitive nominative plural",
+        "count": 178
+    },
+    {
+        "grammar": "past passive inanimate transitive nominative plural",
+        "count": 178
+    },
+    {
+        "grammar": "first animate masculine dative singular",
+        "count": 177
+    },
+    {
+        "grammar": "present active animate intransitive masculine accusative singular",
+        "count": 170
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine accusative singular",
+        "count": 170
+    },
+    {
+        "grammar": "first present active intransitive singular",
+        "count": 166
+    },
+    {
+        "grammar": "present active animate intransitive accusative plural",
+        "count": 164
+    },
+    {
+        "grammar": "present active inanimate intransitive accusative plural",
+        "count": 164
+    },
+    {
+        "grammar": "present active animate transitive masculine nominative singular",
+        "count": 161
+    },
+    {
+        "grammar": "present active inanimate transitive masculine nominative singular",
+        "count": 161
+    },
+    {
+        "grammar": "second future imperative active transitive plural",
+        "count": 154
+    },
+    {
+        "grammar": "past passive animate transitive masculine nominative singular",
+        "count": 150
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine nominative singular",
+        "count": 150
+    },
+    {
+        "grammar": "animate masculine vocative singular",
+        "count": 149
+    },
+    {
+        "grammar": "animate masculine vocative plural",
+        "count": 146
+    },
+    {
+        "grammar": "animate feminine vocative plural",
+        "count": 146
+    },
+    {
+        "grammar": "animate feminine vocative singular",
+        "count": 146
+    },
+    {
+        "grammar": "first animate masculine prepositional singular",
+        "count": 144
+    },
+    {
+        "grammar": "past active transitive neuter singular",
+        "count": 143
+    },
+    {
+        "grammar": "present active animate transitive accusative plural",
+        "count": 142
+    },
+    {
+        "grammar": "present active inanimate transitive accusative plural",
+        "count": 142
+    },
+    {
+        "grammar": "animate comparative",
+        "count": 137
+    },
+    {
+        "grammar": "inanimate comparative",
+        "count": 137
+    },
+    {
+        "grammar": "past passive animate transitive neuter dative singular",
+        "count": 135
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter dative singular",
+        "count": 135
+    },
+    {
+        "grammar": "past passive animate transitive masculine dative singular",
+        "count": 135
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine dative singular",
+        "count": 135
+    },
+    {
+        "grammar": "second present active transitive plural",
+        "count": 134
+    },
+    {
+        "grammar": "first animate masculine instrumental singular",
+        "count": 132
+    },
+    {
+        "grammar": "past passive animate transitive prepositional plural",
+        "count": 131
+    },
+    {
+        "grammar": "past passive inanimate transitive prepositional plural",
+        "count": 131
+    },
+    {
+        "grammar": "past passive animate transitive genitive plural",
+        "count": 131
+    },
+    {
+        "grammar": "past passive inanimate transitive genitive plural",
+        "count": 131
+    },
+    {
+        "grammar": "second future active intransitive singular",
+        "count": 130
+    },
+    {
+        "grammar": "past active animate intransitive accusative plural",
+        "count": 129
+    },
+    {
+        "grammar": "past active inanimate intransitive accusative plural",
+        "count": 129
+    },
+    {
+        "grammar": "present",
+        "count": 122
+    },
+    {
+        "grammar": "second present active intransitive singular",
+        "count": 113
+    },
+    {
+        "grammar": "present active animate intransitive masculine nominative singular",
+        "count": 112
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine nominative singular",
+        "count": 112
+    },
+    {
+        "grammar": "first animate feminine accusative singular",
+        "count": 110
+    },
+    {
+        "grammar": "first animate feminine genitive singular",
+        "count": 110
+    },
+    {
+        "grammar": "first animate feminine nominative plural",
+        "count": 109
+    },
+    {
+        "grammar": "first animate masculine nominative plural",
+        "count": 107
+    },
+    {
+        "grammar": "first animate feminine accusative plural",
+        "count": 106
+    },
+    {
+        "grammar": "accusative",
+        "count": 106
+    },
+    {
+        "grammar": "first animate feminine prepositional singular",
+        "count": 105
+    },
+    {
+        "grammar": "first animate feminine dative singular",
+        "count": 105
+    },
+    {
+        "grammar": "first present passive animate transitive masculine plural",
+        "count": 103
+    },
+    {
+        "grammar": "first present active animate transitive masculine plural",
+        "count": 103
+    },
+    {
+        "grammar": "first present passive inanimate transitive masculine plural",
+        "count": 103
+    },
+    {
+        "grammar": "first present active inanimate transitive masculine plural",
+        "count": 103
+    },
+    {
+        "grammar": "first present passive animate transitive masculine singular",
+        "count": 103
+    },
+    {
+        "grammar": "first present active animate transitive masculine singular",
+        "count": 103
+    },
+    {
+        "grammar": "first present passive inanimate transitive masculine singular",
+        "count": 103
+    },
+    {
+        "grammar": "first present active inanimate transitive masculine singular",
+        "count": 103
+    },
+    {
+        "grammar": "past passive animate transitive neuter nominative singular",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter nominative singular",
+        "count": 99
+    },
+    {
+        "grammar": "past passive animate transitive neuter instrumental plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter instrumental plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive animate transitive neuter instrumental singular",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter instrumental singular",
+        "count": 99
+    },
+    {
+        "grammar": "past passive animate transitive neuter dative plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter dative plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive animate transitive masculine instrumental plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine instrumental plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive animate transitive masculine instrumental singular",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine instrumental singular",
+        "count": 99
+    },
+    {
+        "grammar": "past passive animate transitive masculine dative plural",
+        "count": 99
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine dative plural",
+        "count": 99
+    },
+    {
+        "grammar": "past active animate transitive masculine accusative singular",
+        "count": 97
+    },
+    {
+        "grammar": "past active inanimate transitive masculine accusative singular",
+        "count": 97
+    },
+    {
+        "grammar": "accusative plural",
+        "count": 95
+    },
+    {
+        "grammar": "past passive animate transitive neuter genitive singular",
+        "count": 93
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter genitive singular",
+        "count": 93
+    },
+    {
+        "grammar": "past passive animate transitive masculine genitive singular",
+        "count": 93
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine genitive singular",
+        "count": 93
+    },
+    {
+        "grammar": "past passive animate transitive feminine prepositional singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine prepositional singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive animate transitive feminine instrumental singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine instrumental singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive animate transitive feminine dative singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine dative singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive animate transitive feminine genitive singular",
+        "count": 92
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine genitive singular",
+        "count": 92
+    },
+    {
+        "grammar": "first future imperative active intransitive plural",
+        "count": 91
+    },
+    {
+        "grammar": "nominative plural",
+        "count": 90
+    },
+    {
+        "grammar": "first present active intransitive plural",
+        "count": 89
+    },
+    {
+        "grammar": "present active animate intransitive neuter accusative singular",
+        "count": 88
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter accusative singular",
+        "count": 88
+    },
+    {
+        "grammar": "first animate masculine genitive plural",
+        "count": 87
+    },
+    {
+        "grammar": "nominative",
+        "count": 87
+    },
+    {
+        "grammar": "present active animate transitive nominative plural",
+        "count": 86
+    },
+    {
+        "grammar": "present active inanimate transitive nominative plural",
+        "count": 86
+    },
+    {
+        "grammar": "second future active transitive plural",
+        "count": 85
+    },
+    {
+        "grammar": "present active animate intransitive neuter dative singular",
+        "count": 84
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter dative singular",
+        "count": 84
+    },
+    {
+        "grammar": "present active animate intransitive masculine dative singular",
+        "count": 84
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine dative singular",
+        "count": 84
+    },
+    {
+        "grammar": "past active animate intransitive masculine accusative singular",
+        "count": 84
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine accusative singular",
+        "count": 84
+    },
+    {
+        "grammar": "second present imperative active transitive plural",
+        "count": 83
+    },
+    {
+        "grammar": "present active animate intransitive nominative plural",
+        "count": 83
+    },
+    {
+        "grammar": "present active inanimate intransitive nominative plural",
+        "count": 83
+    },
+    {
+        "grammar": "present active animate intransitive prepositional plural",
+        "count": 81
+    },
+    {
+        "grammar": "present active inanimate intransitive prepositional plural",
+        "count": 81
+    },
+    {
+        "grammar": "present active animate intransitive genitive plural",
+        "count": 81
+    },
+    {
+        "grammar": "present active inanimate intransitive genitive plural",
+        "count": 81
+    },
+    {
+        "grammar": "past passive animate transitive instrumental plural",
+        "count": 80
+    },
+    {
+        "grammar": "past passive inanimate transitive instrumental plural",
+        "count": 80
+    },
+    {
+        "grammar": "past active animate transitive masculine nominative singular",
+        "count": 79
+    },
+    {
+        "grammar": "past active inanimate transitive masculine nominative singular",
+        "count": 79
+    },
+    {
+        "grammar": "second present imperative active intransitive plural",
+        "count": 78
+    },
+    {
+        "grammar": "present active animate transitive neuter dative singular",
+        "count": 77
+    },
+    {
+        "grammar": "present active inanimate transitive neuter dative singular",
+        "count": 77
+    },
+    {
+        "grammar": "present active animate transitive masculine dative singular",
+        "count": 77
+    },
+    {
+        "grammar": "present active inanimate transitive masculine dative singular",
+        "count": 77
+    },
+    {
+        "grammar": "past passive animate transitive feminine nominative singular",
+        "count": 74
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine nominative singular",
+        "count": 74
+    },
+    {
+        "grammar": "second future imperative active intransitive plural",
+        "count": 74
+    },
+    {
+        "grammar": "first animate masculine accusative plural",
+        "count": 73
+    },
+    {
+        "grammar": "second present active intransitive plural",
+        "count": 73
+    },
+    {
+        "grammar": "first animate feminine instrumental singular",
+        "count": 69
+    },
+    {
+        "grammar": "past passive animate transitive feminine accusative singular",
+        "count": 69
+    },
+    {
+        "grammar": "past passive inanimate transitive feminine accusative singular",
+        "count": 69
+    },
+    {
+        "grammar": "past active animate transitive accusative plural",
+        "count": 68
+    },
+    {
+        "grammar": "past active inanimate transitive accusative plural",
+        "count": 68
+    },
+    {
+        "grammar": "past active animate intransitive nominative plural",
+        "count": 65
+    },
+    {
+        "grammar": "past active inanimate intransitive nominative plural",
+        "count": 65
+    },
+    {
+        "grammar": "past active animate intransitive prepositional plural",
+        "count": 64
+    },
+    {
+        "grammar": "past active inanimate intransitive prepositional plural",
+        "count": 64
+    },
+    {
+        "grammar": "past active animate intransitive genitive plural",
+        "count": 64
+    },
+    {
+        "grammar": "past active inanimate intransitive genitive plural",
+        "count": 64
+    },
+    {
+        "grammar": "first animate feminine dative plural",
+        "count": 63
+    },
+    {
+        "grammar": "present active animate intransitive neuter instrumental plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter instrumental plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active animate intransitive neuter instrumental singular",
+        "count": 62
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter instrumental singular",
+        "count": 62
+    },
+    {
+        "grammar": "present active animate intransitive neuter dative plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter dative plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active animate intransitive masculine instrumental plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine instrumental plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active animate intransitive masculine instrumental singular",
+        "count": 62
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine instrumental singular",
+        "count": 62
+    },
+    {
+        "grammar": "present active animate intransitive masculine dative plural",
+        "count": 62
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine dative plural",
+        "count": 62
+    },
+    {
+        "grammar": "second future active intransitive plural",
+        "count": 61
+    },
+    {
+        "grammar": "present active animate intransitive neuter genitive singular",
+        "count": 58
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter genitive singular",
+        "count": 58
+    },
+    {
+        "grammar": "present active animate intransitive masculine genitive singular",
+        "count": 58
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine genitive singular",
+        "count": 58
+    },
+    {
+        "grammar": "present active animate transitive neuter accusative singular",
+        "count": 57
+    },
+    {
+        "grammar": "present active inanimate transitive neuter accusative singular",
+        "count": 57
+    },
+    {
+        "grammar": "present active animate transitive prepositional plural",
+        "count": 56
+    },
+    {
+        "grammar": "present active inanimate transitive prepositional plural",
+        "count": 56
+    },
+    {
+        "grammar": "present active animate transitive genitive plural",
+        "count": 56
+    },
+    {
+        "grammar": "present active inanimate transitive genitive plural",
+        "count": 56
+    },
+    {
+        "grammar": "genitive",
+        "count": 55
+    },
+    {
+        "grammar": "genitive plural",
+        "count": 54
+    },
+    {
+        "grammar": "past active animate intransitive masculine nominative singular",
+        "count": 54
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine nominative singular",
+        "count": 54
+    },
+    {
+        "grammar": "present active animate transitive neuter instrumental plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active inanimate transitive neuter instrumental plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active animate transitive neuter instrumental singular",
+        "count": 53
+    },
+    {
+        "grammar": "present active inanimate transitive neuter instrumental singular",
+        "count": 53
+    },
+    {
+        "grammar": "present active animate transitive neuter dative plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active inanimate transitive neuter dative plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active animate transitive masculine instrumental plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active inanimate transitive masculine instrumental plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active animate transitive masculine instrumental singular",
+        "count": 53
+    },
+    {
+        "grammar": "present active inanimate transitive masculine instrumental singular",
+        "count": 53
+    },
+    {
+        "grammar": "present active animate transitive masculine dative plural",
+        "count": 53
+    },
+    {
+        "grammar": "present active inanimate transitive masculine dative plural",
+        "count": 53
+    },
+    {
+        "grammar": "first animate masculine prepositional plural",
+        "count": 52
+    },
+    {
+        "grammar": "first animate feminine prepositional plural",
+        "count": 51
+    },
+    {
+        "grammar": "animate feminine prepositional comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "inanimate feminine prepositional comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "animate feminine instrumental comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "inanimate feminine instrumental comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "animate feminine dative comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "inanimate feminine dative comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "animate feminine genitive comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "inanimate feminine genitive comparative singular",
+        "count": 49
+    },
+    {
+        "grammar": "past active animate intransitive neuter accusative singular",
+        "count": 48
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter accusative singular",
+        "count": 48
+    },
+    {
+        "grammar": "first animate masculine dative plural",
+        "count": 47
+    },
+    {
+        "grammar": "prepositional",
+        "count": 45
+    },
+    {
+        "grammar": "instrumental plural",
+        "count": 44
+    },
+    {
+        "grammar": "prepositional plural",
+        "count": 42
+    },
+    {
+        "grammar": "animate neuter accusative comparative singular",
+        "count": 41
+    },
+    {
+        "grammar": "inanimate neuter accusative comparative singular",
+        "count": 41
+    },
+    {
+        "grammar": "animate neuter nominative comparative singular",
+        "count": 41
+    },
+    {
+        "grammar": "inanimate neuter nominative comparative singular",
+        "count": 41
+    },
+    {
+        "grammar": "present active animate transitive neuter genitive singular",
+        "count": 41
+    },
+    {
+        "grammar": "present active inanimate transitive neuter genitive singular",
+        "count": 41
+    },
+    {
+        "grammar": "present active animate transitive masculine genitive singular",
+        "count": 41
+    },
+    {
+        "grammar": "present active inanimate transitive masculine genitive singular",
+        "count": 41
+    },
+    {
+        "grammar": "dative",
+        "count": 40
+    },
+    {
+        "grammar": "past active animate transitive nominative plural",
+        "count": 40
+    },
+    {
+        "grammar": "past active inanimate transitive nominative plural",
+        "count": 40
+    },
+    {
+        "grammar": "present active animate intransitive feminine prepositional singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active inanimate intransitive feminine prepositional singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active animate intransitive feminine instrumental singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active inanimate intransitive feminine instrumental singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active animate intransitive feminine dative singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active inanimate intransitive feminine dative singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active animate intransitive feminine genitive singular",
+        "count": 37
+    },
+    {
+        "grammar": "present active inanimate intransitive feminine genitive singular",
+        "count": 37
+    },
+    {
+        "grammar": "past passive animate transitive neuter prepositional singular",
+        "count": 36
+    },
+    {
+        "grammar": "past passive inanimate transitive neuter prepositional singular",
+        "count": 36
+    },
+    {
+        "grammar": "past passive animate transitive masculine prepositional singular",
+        "count": 36
+    },
+    {
+        "grammar": "past passive inanimate transitive masculine prepositional singular",
+        "count": 36
+    },
+    {
+        "grammar": "past active animate intransitive neuter dative singular",
+        "count": 35
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter dative singular",
+        "count": 35
+    },
+    {
+        "grammar": "past active animate intransitive masculine dative singular",
+        "count": 35
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine dative singular",
+        "count": 35
+    },
+    {
+        "grammar": "inanimate dative plural",
+        "count": 33
+    },
+    {
+        "grammar": "first present active transitive plural",
+        "count": 32
+    },
+    {
+        "grammar": "first animate masculine instrumental plural",
+        "count": 31
+    },
+    {
+        "grammar": "past active animate transitive neuter dative singular",
+        "count": 31
+    },
+    {
+        "grammar": "past active inanimate transitive neuter dative singular",
+        "count": 31
+    },
+    {
+        "grammar": "past active animate transitive masculine dative singular",
+        "count": 31
+    },
+    {
+        "grammar": "past active inanimate transitive masculine dative singular",
+        "count": 31
+    },
+    {
+        "grammar": "instrumental",
+        "count": 30
+    },
+    {
+        "grammar": "present active animate intransitive neuter nominative singular",
+        "count": 30
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter nominative singular",
+        "count": 30
+    },
+    {
+        "grammar": "past active animate intransitive neuter genitive singular",
+        "count": 30
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter genitive singular",
+        "count": 30
+    },
+    {
+        "grammar": "past active animate intransitive masculine genitive singular",
+        "count": 30
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine genitive singular",
+        "count": 30
+    },
+    {
+        "grammar": "present passive animate transitive feminine singular",
+        "count": 29
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine singular",
+        "count": 29
+    },
+    {
+        "grammar": "dative plural",
+        "count": 28
+    },
+    {
+        "grammar": "past active animate transitive prepositional plural",
+        "count": 28
+    },
+    {
+        "grammar": "past active inanimate transitive prepositional plural",
+        "count": 28
+    },
+    {
+        "grammar": "past active animate transitive genitive plural",
+        "count": 28
+    },
+    {
+        "grammar": "past active inanimate transitive genitive plural",
+        "count": 28
+    },
+    {
+        "grammar": "present active animate intransitive instrumental plural",
+        "count": 28
+    },
+    {
+        "grammar": "present active inanimate intransitive instrumental plural",
+        "count": 28
+    },
+    {
+        "grammar": "present passive animate transitive accusative plural",
+        "count": 27
+    },
+    {
+        "grammar": "present passive inanimate transitive accusative plural",
+        "count": 27
+    },
+    {
+        "grammar": "animate neuter genitive plural",
+        "count": 26
+    },
+    {
+        "grammar": "third future passive animate transitive masculine plural",
+        "count": 26
+    },
+    {
+        "grammar": "third future active animate transitive masculine plural",
+        "count": 26
+    },
+    {
+        "grammar": "third future passive inanimate transitive masculine plural",
+        "count": 26
+    },
+    {
+        "grammar": "third future active inanimate transitive masculine plural",
+        "count": 26
+    },
+    {
+        "grammar": "third future passive animate transitive masculine singular",
+        "count": 26
+    },
+    {
+        "grammar": "third future active animate transitive masculine singular",
+        "count": 26
+    },
+    {
+        "grammar": "third future passive inanimate transitive masculine singular",
+        "count": 26
+    },
+    {
+        "grammar": "third future active inanimate transitive masculine singular",
+        "count": 26
+    },
+    {
+        "grammar": "past active animate intransitive neuter instrumental plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter instrumental plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active animate intransitive neuter instrumental singular",
+        "count": 25
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter instrumental singular",
+        "count": 25
+    },
+    {
+        "grammar": "past active animate intransitive neuter dative plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter dative plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active animate intransitive masculine instrumental plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine instrumental plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active animate intransitive masculine instrumental singular",
+        "count": 25
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine instrumental singular",
+        "count": 25
+    },
+    {
+        "grammar": "past active animate intransitive masculine dative plural",
+        "count": 25
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine dative plural",
+        "count": 25
+    },
+    {
+        "grammar": "present active animate intransitive feminine accusative singular",
+        "count": 24
+    },
+    {
+        "grammar": "present active inanimate intransitive feminine accusative singular",
+        "count": 24
+    },
+    {
+        "grammar": "first animate masculine vocative plural",
+        "count": 23
+    },
+    {
+        "grammar": "first animate masculine vocative singular",
+        "count": 23
+    },
+    {
+        "grammar": "present passive animate transitive masculine accusative singular",
+        "count": 23
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine accusative singular",
+        "count": 23
+    },
+    {
+        "grammar": "animate neuter nominative plural",
+        "count": 22
+    },
+    {
+        "grammar": "inanimate masculine vocative singular",
+        "count": 22
+    },
+    {
+        "grammar": "inanimate neuter vocative singular",
+        "count": 21
+    },
+    {
+        "grammar": "present passive animate transitive neuter accusative singular",
+        "count": 21
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter accusative singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive neuter accusative singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive neuter accusative singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive neuter instrumental plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive neuter instrumental plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive neuter instrumental singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive neuter instrumental singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive neuter dative plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive neuter dative plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive masculine instrumental plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive masculine instrumental plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive masculine instrumental singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive masculine instrumental singular",
+        "count": 21
+    },
+    {
+        "grammar": "past active animate transitive masculine dative plural",
+        "count": 21
+    },
+    {
+        "grammar": "past active inanimate transitive masculine dative plural",
+        "count": 21
+    },
+    {
+        "grammar": "third past passive animate transitive masculine plural",
+        "count": 21
+    },
+    {
+        "grammar": "third past active animate transitive masculine plural",
+        "count": 21
+    },
+    {
+        "grammar": "third past passive inanimate transitive masculine plural",
+        "count": 21
+    },
+    {
+        "grammar": "third past active inanimate transitive masculine plural",
+        "count": 21
+    },
+    {
+        "grammar": "third past passive animate transitive masculine singular",
+        "count": 21
+    },
+    {
+        "grammar": "third past active animate transitive masculine singular",
+        "count": 21
+    },
+    {
+        "grammar": "third past passive inanimate transitive masculine singular",
+        "count": 21
+    },
+    {
+        "grammar": "third past active inanimate transitive masculine singular",
+        "count": 21
+    },
+    {
+        "grammar": "first animate feminine instrumental plural",
+        "count": 20
+    },
+    {
+        "grammar": "present active animate intransitive feminine nominative singular",
+        "count": 20
+    },
+    {
+        "grammar": "present active inanimate intransitive feminine nominative singular",
+        "count": 20
+    },
+    {
+        "grammar": "present active animate transitive feminine nominative singular",
+        "count": 20
+    },
+    {
+        "grammar": "present active inanimate transitive feminine nominative singular",
+        "count": 20
+    },
+    {
+        "grammar": "present active animate transitive feminine prepositional singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active inanimate transitive feminine prepositional singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active animate transitive feminine instrumental singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active inanimate transitive feminine instrumental singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active animate transitive feminine dative singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active inanimate transitive feminine dative singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active animate transitive feminine genitive singular",
+        "count": 19
+    },
+    {
+        "grammar": "present active inanimate transitive feminine genitive singular",
+        "count": 19
+    },
+    {
+        "grammar": "animate neuter accusative plural",
+        "count": 18
+    },
+    {
+        "grammar": "past active animate transitive neuter genitive singular",
+        "count": 18
+    },
+    {
+        "grammar": "past active inanimate transitive neuter genitive singular",
+        "count": 18
+    },
+    {
+        "grammar": "past active animate transitive masculine genitive singular",
+        "count": 18
+    },
+    {
+        "grammar": "past active inanimate transitive masculine genitive singular",
+        "count": 18
+    },
+    {
+        "grammar": "past active animate intransitive neuter nominative singular",
+        "count": 18
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter nominative singular",
+        "count": 18
+    },
+    {
+        "grammar": "inanimate neuter vocative plural",
+        "count": 17
+    },
+    {
+        "grammar": "animate dative plural",
+        "count": 17
+    },
+    {
+        "grammar": "present passive animate transitive nominative plural",
+        "count": 17
+    },
+    {
+        "grammar": "present passive inanimate transitive nominative plural",
+        "count": 17
+    },
+    {
+        "grammar": "past active animate intransitive feminine nominative singular",
+        "count": 17
+    },
+    {
+        "grammar": "past active inanimate intransitive feminine nominative singular",
+        "count": 17
+    },
+    {
+        "grammar": "masculine vocative singular",
+        "count": 16
+    },
+    {
+        "grammar": "past active animate intransitive feminine accusative singular",
+        "count": 16
+    },
+    {
+        "grammar": "past active inanimate intransitive feminine accusative singular",
+        "count": 16
+    },
+    {
+        "grammar": "present active animate transitive neuter nominative singular",
+        "count": 16
+    },
+    {
+        "grammar": "present active inanimate transitive neuter nominative singular",
+        "count": 16
+    },
+    {
+        "grammar": "present active animate transitive instrumental plural",
+        "count": 16
+    },
+    {
+        "grammar": "present active inanimate transitive instrumental plural",
+        "count": 16
+    },
+    {
+        "grammar": "inanimate feminine vocative singular",
+        "count": 15
+    },
+    {
+        "grammar": "neuter vocative singular",
+        "count": 15
+    },
+    {
+        "grammar": "past active animate transitive feminine nominative singular",
+        "count": 14
+    },
+    {
+        "grammar": "past active inanimate transitive feminine nominative singular",
+        "count": 14
+    },
+    {
+        "grammar": "present passive animate transitive masculine nominative singular",
+        "count": 13
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine nominative singular",
+        "count": 13
+    },
+    {
+        "grammar": "animate neuter prepositional plural",
+        "count": 12
+    },
+    {
+        "grammar": "masculine accusative",
+        "count": 12
+    },
+    {
+        "grammar": "neuter accusative",
+        "count": 12
+    },
+    {
+        "grammar": "past active animate intransitive feminine prepositional singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active inanimate intransitive feminine prepositional singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active animate intransitive feminine instrumental singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active inanimate intransitive feminine instrumental singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active animate intransitive feminine dative singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active inanimate intransitive feminine dative singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active animate intransitive feminine genitive singular",
+        "count": 12
+    },
+    {
+        "grammar": "past active inanimate intransitive feminine genitive singular",
+        "count": 12
+    },
+    {
+        "grammar": "animate prepositional comparative",
+        "count": 12
+    },
+    {
+        "grammar": "inanimate prepositional comparative",
+        "count": 12
+    },
+    {
+        "grammar": "animate genitive comparative",
+        "count": 12
+    },
+    {
+        "grammar": "inanimate genitive comparative",
+        "count": 12
+    },
+    {
+        "grammar": "present passive animate transitive plural",
+        "count": 12
+    },
+    {
+        "grammar": "present passive inanimate transitive plural",
+        "count": 12
+    },
+    {
+        "grammar": "present passive animate transitive feminine nominative singular",
+        "count": 12
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine nominative singular",
+        "count": 12
+    },
+    {
+        "grammar": "present passive animate transitive neuter dative singular",
+        "count": 12
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter dative singular",
+        "count": 12
+    },
+    {
+        "grammar": "present passive animate transitive masculine dative singular",
+        "count": 12
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine dative singular",
+        "count": 12
+    },
+    {
+        "grammar": "inanimate feminine vocative plural",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate prepositional singular",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate instrumental singular",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate accusative singular",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate dative singular",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate genitive singular",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate vocative plural",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate vocative singular",
+        "count": 11
+    },
+    {
+        "grammar": "inanimate nominative singular",
+        "count": 11
+    },
+    {
+        "grammar": "neuter vocative plural",
+        "count": 11
+    },
+    {
+        "grammar": "past impersonal",
+        "count": 11
+    },
+    {
+        "grammar": "present passive animate transitive neuter nominative singular",
+        "count": 11
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter nominative singular",
+        "count": 11
+    },
+    {
+        "grammar": "past active animate intransitive instrumental plural",
+        "count": 11
+    },
+    {
+        "grammar": "past active inanimate intransitive instrumental plural",
+        "count": 11
+    },
+    {
+        "grammar": "present active animate transitive feminine accusative singular",
+        "count": 11
+    },
+    {
+        "grammar": "present active inanimate transitive feminine accusative singular",
+        "count": 11
+    },
+    {
+        "grammar": "animate prepositional singular",
+        "count": 10
+    },
+    {
+        "grammar": "animate instrumental singular",
+        "count": 10
+    },
+    {
+        "grammar": "animate accusative singular",
+        "count": 10
+    },
+    {
+        "grammar": "animate dative singular",
+        "count": 10
+    },
+    {
+        "grammar": "animate genitive singular",
+        "count": 10
+    },
+    {
+        "grammar": "animate vocative plural",
+        "count": 10
+    },
+    {
+        "grammar": "animate vocative singular",
+        "count": 10
+    },
+    {
+        "grammar": "animate nominative singular",
+        "count": 10
+    },
+    {
+        "grammar": "present passive animate transitive neuter genitive singular",
+        "count": 10
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter genitive singular",
+        "count": 10
+    },
+    {
+        "grammar": "present passive animate transitive masculine genitive singular",
+        "count": 10
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine genitive singular",
+        "count": 10
+    },
+    {
+        "grammar": "present passive animate transitive prepositional plural",
+        "count": 10
+    },
+    {
+        "grammar": "present passive inanimate transitive prepositional plural",
+        "count": 10
+    },
+    {
+        "grammar": "present passive animate transitive genitive plural",
+        "count": 10
+    },
+    {
+        "grammar": "present passive inanimate transitive genitive plural",
+        "count": 10
+    },
+    {
+        "grammar": "inanimate masculine vocative plural",
+        "count": 9
+    },
+    {
+        "grammar": "feminine accusative",
+        "count": 9
+    },
+    {
+        "grammar": "present impersonal",
+        "count": 9
+    },
+    {
+        "grammar": "first animate feminine vocative plural",
+        "count": 9
+    },
+    {
+        "grammar": "first animate feminine vocative singular",
+        "count": 9
+    },
+    {
+        "grammar": "present active animate intransitive neuter prepositional singular",
+        "count": 9
+    },
+    {
+        "grammar": "present active inanimate intransitive neuter prepositional singular",
+        "count": 9
+    },
+    {
+        "grammar": "present active animate intransitive masculine prepositional singular",
+        "count": 9
+    },
+    {
+        "grammar": "present active inanimate intransitive masculine prepositional singular",
+        "count": 9
+    },
+    {
+        "grammar": "feminine vocative singular",
+        "count": 9
+    },
+    {
+        "grammar": "present passive animate transitive instrumental plural",
+        "count": 9
+    },
+    {
+        "grammar": "present passive inanimate transitive instrumental plural",
+        "count": 9
+    },
+    {
+        "grammar": "first present imperative passive animate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative passive animate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative active animate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative active animate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative passive inanimate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative passive inanimate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative active inanimate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative active inanimate transitive masculine plural",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative passive animate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative passive animate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative active animate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative active animate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative passive inanimate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative passive inanimate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first present imperative active inanimate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "first future imperative active inanimate transitive masculine singular",
+        "count": 8
+    },
+    {
+        "grammar": "masculine nominative",
+        "count": 7
+    },
+    {
+        "grammar": "neuter nominative",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive feminine prepositional singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine prepositional singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive feminine instrumental singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine instrumental singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive feminine dative singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine dative singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive feminine genitive singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine genitive singular",
+        "count": 7
+    },
+    {
+        "grammar": "past active animate transitive feminine accusative singular",
+        "count": 7
+    },
+    {
+        "grammar": "past active inanimate transitive feminine accusative singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive neuter instrumental plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter instrumental plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive neuter instrumental singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter instrumental singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive neuter dative plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter dative plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive masculine instrumental plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine instrumental plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive masculine instrumental singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine instrumental singular",
+        "count": 7
+    },
+    {
+        "grammar": "present passive animate transitive masculine dative plural",
+        "count": 7
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine dative plural",
+        "count": 7
+    },
+    {
+        "grammar": "animate neuter vocative plural",
+        "count": 6
+    },
+    {
+        "grammar": "animate neuter vocative singular",
+        "count": 6
+    },
+    {
+        "grammar": "comparative",
+        "count": 6
+    },
+    {
+        "grammar": "feminine nominative",
+        "count": 6
+    },
+    {
+        "grammar": "neuter dative",
+        "count": 6
+    },
+    {
+        "grammar": "masculine dative",
+        "count": 6
+    },
+    {
+        "grammar": "infinitive impersonal",
+        "count": 6
+    },
+    {
+        "grammar": "first present imperative active intransitive plural",
+        "count": 6
+    },
+    {
+        "grammar": "past active animate intransitive neuter prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active inanimate intransitive neuter prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active animate intransitive masculine prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active inanimate intransitive masculine prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "present passive animate transitive neuter prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "present passive animate transitive masculine prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "present passive inanimate transitive masculine prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active animate transitive feminine prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active inanimate transitive feminine prepositional singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active animate transitive feminine instrumental singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active inanimate transitive feminine instrumental singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active animate transitive feminine dative singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active inanimate transitive feminine dative singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active animate transitive feminine genitive singular",
+        "count": 6
+    },
+    {
+        "grammar": "past active inanimate transitive feminine genitive singular",
+        "count": 6
+    },
+    {
+        "grammar": "third feminine genitive singular",
+        "count": 5
+    },
+    {
+        "grammar": "third feminine instrumental singular",
+        "count": 5
+    },
+    {
+        "grammar": "neuter genitive",
+        "count": 5
+    },
+    {
+        "grammar": "masculine genitive",
+        "count": 5
+    },
+    {
+        "grammar": "feminine prepositional",
+        "count": 5
+    },
+    {
+        "grammar": "feminine genitive",
+        "count": 5
+    },
+    {
+        "grammar": "second infinitive imperative active intransitive singular",
+        "count": 5
+    },
+    {
+        "grammar": "first future active intransitive plural",
+        "count": 5
+    },
+    {
+        "grammar": "feminine vocative plural",
+        "count": 5
+    },
+    {
+        "grammar": "present passive animate transitive feminine accusative singular",
+        "count": 5
+    },
+    {
+        "grammar": "present passive inanimate transitive feminine accusative singular",
+        "count": 5
+    },
+    {
+        "grammar": "third neuter accusative singular",
+        "count": 4
+    },
+    {
+        "grammar": "third neuter genitive singular",
+        "count": 4
+    },
+    {
+        "grammar": "third masculine accusative singular",
+        "count": 4
+    },
+    {
+        "grammar": "third masculine genitive singular",
+        "count": 4
+    },
+    {
+        "grammar": "third neuter instrumental singular",
+        "count": 4
+    },
+    {
+        "grammar": "third masculine instrumental singular",
+        "count": 4
+    },
+    {
+        "grammar": "third dative plural",
+        "count": 4
+    },
+    {
+        "grammar": "third neuter dative singular",
+        "count": 4
+    },
+    {
+        "grammar": "third masculine dative singular",
+        "count": 4
+    },
+    {
+        "grammar": "third feminine accusative singular",
+        "count": 4
+    },
+    {
+        "grammar": "second instrumental singular",
+        "count": 4
+    },
+    {
+        "grammar": "first instrumental singular",
+        "count": 4
+    },
+    {
+        "grammar": "neuter prepositional",
+        "count": 4
+    },
+    {
+        "grammar": "masculine prepositional",
+        "count": 4
+    },
+    {
+        "grammar": "feminine dative",
+        "count": 4
+    },
+    {
+        "grammar": "neuter instrumental",
+        "count": 4
+    },
+    {
+        "grammar": "masculine instrumental",
+        "count": 4
+    },
+    {
+        "grammar": "genitive singular",
+        "count": 4
+    },
+    {
+        "grammar": "past active animate transitive instrumental plural",
+        "count": 4
+    },
+    {
+        "grammar": "past active inanimate transitive instrumental plural",
+        "count": 4
+    },
+    {
+        "grammar": "present active animate transitive neuter prepositional singular",
+        "count": 4
+    },
+    {
+        "grammar": "present active inanimate transitive neuter prepositional singular",
+        "count": 4
+    },
+    {
+        "grammar": "present active animate transitive masculine prepositional singular",
+        "count": 4
+    },
+    {
+        "grammar": "present active inanimate transitive masculine prepositional singular",
+        "count": 4
+    },
+    {
+        "grammar": "third accusative plural",
+        "count": 3
+    },
+    {
+        "grammar": "third genitive plural",
+        "count": 3
+    },
+    {
+        "grammar": "third instrumental plural",
+        "count": 3
+    },
+    {
+        "grammar": "third feminine dative singular",
+        "count": 3
+    },
+    {
+        "grammar": "present comparative",
+        "count": 3
+    },
+    {
+        "grammar": "feminine instrumental",
+        "count": 3
+    },
+    {
+        "grammar": "masculine vocative plural",
+        "count": 3
+    },
+    {
+        "grammar": "dative singular",
+        "count": 3
+    },
+    {
+        "grammar": "future impersonal",
+        "count": 3
+    },
+    {
+        "grammar": "present passive animate transitive neuter singular",
+        "count": 3
+    },
+    {
+        "grammar": "present passive inanimate transitive neuter singular",
+        "count": 3
+    },
+    {
+        "grammar": "first animate neuter prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "first inanimate neuter prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "first inanimate masculine prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "past active animate transitive neuter prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "past active inanimate transitive neuter prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "past active animate transitive masculine prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "past active inanimate transitive masculine prepositional singular",
+        "count": 3
+    },
+    {
+        "grammar": "past active animate transitive neuter nominative singular",
+        "count": 3
+    },
+    {
+        "grammar": "past active inanimate transitive neuter nominative singular",
+        "count": 3
+    },
+    {
+        "grammar": "first nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "third masculine nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "third nominative plural",
+        "count": 2
+    },
+    {
+        "grammar": "second nominative plural",
+        "count": 2
+    },
+    {
+        "grammar": "second nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "first accusative singular",
+        "count": 2
+    },
+    {
+        "grammar": "first genitive singular",
+        "count": 2
+    },
+    {
+        "grammar": "second accusative singular",
+        "count": 2
+    },
+    {
+        "grammar": "second genitive singular",
+        "count": 2
+    },
+    {
+        "grammar": "second prepositional plural",
+        "count": 2
+    },
+    {
+        "grammar": "second accusative plural",
+        "count": 2
+    },
+    {
+        "grammar": "second genitive plural",
+        "count": 2
+    },
+    {
+        "grammar": "first prepositional singular",
+        "count": 2
+    },
+    {
+        "grammar": "first dative singular",
+        "count": 2
+    },
+    {
+        "grammar": "first nominative plural",
+        "count": 2
+    },
+    {
+        "grammar": "second dative plural",
+        "count": 2
+    },
+    {
+        "grammar": "second prepositional singular",
+        "count": 2
+    },
+    {
+        "grammar": "second dative singular",
+        "count": 2
+    },
+    {
+        "grammar": "first prepositional plural",
+        "count": 2
+    },
+    {
+        "grammar": "first accusative plural",
+        "count": 2
+    },
+    {
+        "grammar": "first genitive plural",
+        "count": 2
+    },
+    {
+        "grammar": "third feminine nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "first dative plural",
+        "count": 2
+    },
+    {
+        "grammar": "third neuter prepositional singular",
+        "count": 2
+    },
+    {
+        "grammar": "third masculine prepositional singular",
+        "count": 2
+    },
+    {
+        "grammar": "third neuter nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "animate intransitive neuter singular",
+        "count": 2
+    },
+    {
+        "grammar": "inanimate intransitive neuter singular",
+        "count": 2
+    },
+    {
+        "grammar": "second present imperative active transitive singular",
+        "count": 2
+    },
+    {
+        "grammar": "second future imperative active transitive singular",
+        "count": 2
+    },
+    {
+        "grammar": "instrumental singular",
+        "count": 2
+    },
+    {
+        "grammar": "animate intransitive neuter accusative singular",
+        "count": 2
+    },
+    {
+        "grammar": "inanimate intransitive neuter accusative singular",
+        "count": 2
+    },
+    {
+        "grammar": "third present passive animate transitive masculine plural",
+        "count": 2
+    },
+    {
+        "grammar": "third present active animate transitive masculine plural",
+        "count": 2
+    },
+    {
+        "grammar": "third present passive inanimate transitive masculine plural",
+        "count": 2
+    },
+    {
+        "grammar": "third present active inanimate transitive masculine plural",
+        "count": 2
+    },
+    {
+        "grammar": "third present passive animate transitive masculine singular",
+        "count": 2
+    },
+    {
+        "grammar": "third present active animate transitive masculine singular",
+        "count": 2
+    },
+    {
+        "grammar": "third present passive inanimate transitive masculine singular",
+        "count": 2
+    },
+    {
+        "grammar": "third present active inanimate transitive masculine singular",
+        "count": 2
+    },
+    {
+        "grammar": "second future imperative active intransitive singular",
+        "count": 2
+    },
+    {
+        "grammar": "accusative singular",
+        "count": 2
+    },
+    {
+        "grammar": "animate intransitive feminine nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "inanimate intransitive feminine nominative singular",
+        "count": 2
+    },
+    {
+        "grammar": "past intransitive impersonal",
+        "count": 2
+    },
+    {
+        "grammar": "animate intransitive neuter dative singular",
+        "count": 2
+    },
+    {
+        "grammar": "inanimate intransitive neuter dative singular",
+        "count": 2
+    },
+    {
+        "grammar": "animate intransitive masculine dative singular",
+        "count": 2
+    },
+    {
+        "grammar": "inanimate intransitive masculine dative singular",
+        "count": 2
+    },
+    {
+        "grammar": "third prepositional plural",
+        "count": 1
+    },
+    {
+        "grammar": "third feminine prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "second instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "first instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive plural",
+        "count": 1
+    },
+    {
+        "grammar": "first imperative active intransitive plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive neuter nominative singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive neuter nominative singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive feminine prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive feminine prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive feminine instrumental singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive feminine instrumental singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive feminine dative singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive feminine dative singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive feminine genitive singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive feminine genitive singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive comparative",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive comparative",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "vocative plural",
+        "count": 1
+    },
+    {
+        "grammar": "vocative singular",
+        "count": 1
+    },
+    {
+        "grammar": "nominative singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive neuter genitive singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive neuter genitive singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine accusative singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine accusative singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine genitive singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine genitive singular",
+        "count": 1
+    },
+    {
+        "grammar": "future intransitive impersonal",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive neuter prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive neuter prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine prepositional singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive feminine accusative singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive feminine accusative singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive accusative plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive accusative plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive nominative plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive nominative plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive neuter instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive neuter instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive neuter instrumental singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive neuter instrumental singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive neuter dative plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive neuter dative plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine instrumental plural",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine instrumental singular",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine instrumental singular",
+        "count": 1
+    },
+    {
+        "grammar": "animate intransitive masculine dative plural",
+        "count": 1
+    },
+    {
+        "grammar": "inanimate intransitive masculine dative plural",
+        "count": 1
+    }
+]

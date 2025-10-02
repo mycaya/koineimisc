@@ -1,0 +1,4826 @@
+[
+    {
+        "text": "Семья",
+        "chapter": 1,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элканы",
+        "chapter": 1,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Был",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "некий",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "человек",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "из",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Раматаима,",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "цуфит",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "из",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "нагорий",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Ефрема,",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "которого",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "звали",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элкана.",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Он",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "был",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сыном",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Иерохама,",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элигу,",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Тоху,",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Цуфа,",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ефремит.",
+        "chapter": 1,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "У",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элканы",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "было",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "две",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жены.",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Одну",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "звали",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна,",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "а",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "другую",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Фенанна.",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "У",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Фенанны",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "были",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дети,",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "у",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анны",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "же",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "их",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "было.",
+        "chapter": 1,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Из",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "года",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "год",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "этот",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "человек",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ходил",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "из",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "своего",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "города",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Шило,",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "поклоняться",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "приносить",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жертву",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Сил.",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Хофни",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Пинехас,",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "два",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Илия,",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "были",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "там",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "священниками",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господа.",
+        "chapter": 1,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Всякий",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "раз,",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "когда",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элкана",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "приносил",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жертву,",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "он",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "давал",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "часть",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мяса",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "своей",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жене",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Фенанне",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "всем",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сыновьям",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дочерям.",
+        "chapter": 1,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Но",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анне",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "он",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "давал",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "двойную",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "часть,",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "потому",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "что",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "любил",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее,",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "хотя",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господь",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "закрыл",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чрево.",
+        "chapter": 1,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Оттого",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "что",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господь",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "закрыл",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чрево",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анны,",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "соперница",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жестоко",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "изводила",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "унижала",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее.",
+        "chapter": 1,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Так",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "продолжалось",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "из",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "года",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "год.",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Всякий",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "раз,",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "когда",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ходила",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дом",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господа,",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "соперница",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "изводила",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее,",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "та",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "плакала",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ела.",
+        "chapter": 1,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элкана",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "говорил",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ей:",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна,",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "почему",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ты",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "плачешь?",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Почему",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ешь?",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Почему",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "скорбит",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "твое",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сердце?",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Разве",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "значу",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "для",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "тебя",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "больше,",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чем",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "десять",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сыновей?",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Молитва",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анны",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "рождение",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Самуила",
+        "chapter": 1,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Однажды,",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "когда",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "они",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "поели",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "попили",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Шило,",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "встала.",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Священник",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Илий",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сидел",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "у",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дверей",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "храма",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господа.",
+        "chapter": 1,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Скорбя",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "душой,",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "горько",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "плакала",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "молилась",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу.",
+        "chapter": 1,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Она",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дала",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "обет,",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "говоря:",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "О",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господь",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Сил,",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "если",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Ты",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "только",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "посмотришь",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "на",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "горе",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Своей",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "служанки",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "вспомнишь",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "меня,",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "если",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "забудешь",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Свою",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "служанку,",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "но",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дашь",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ей",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына,",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "то",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отдам",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "на",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "всю",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жизнь,",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "бритва",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "никогда",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "коснется",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "головы.",
+        "chapter": 1,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Пока",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "она",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "молилась",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу,",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Илий",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "следил",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "за",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "губами.",
+        "chapter": 1,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "молилась",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сердце,",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "губы",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "двигались,",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "но",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "голоса",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "слышно",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "было.",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Илий",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "подумал,",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "что",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "она",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пьяна,",
+        "chapter": 1,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сказал",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ей:",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Долго",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ли",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ты",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "еще",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "будешь",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пьяной?",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Протрезвись",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "от",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "вина!",
+        "chapter": 1,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Нет,",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мой",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "господин,",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ответила",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна,",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "глубоко",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "скорблю.",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Я",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пила",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ни",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "вина,",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ни",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пива.",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Я",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "изливала",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "душу",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "перед",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господом.",
+        "chapter": 1,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Не",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "думай,",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "что",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "твоя",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "служанка",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "нечестивая",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "женщина;",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "молилась",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "здесь",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "из-за",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "великой",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "боли",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "печали.",
+        "chapter": 1,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Илий",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ответил:",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Иди",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "с",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "миром,",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пусть",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Бог",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Израиля",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "даст",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "тебе",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "то,",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "о",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чем",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ты",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Его",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "просила.",
+        "chapter": 1,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Она",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сказала:",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Пусть",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "твоя",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "служанка",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "найдет",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "расположение",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "твоих",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "глазах.",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Затем",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "она",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пошла",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "своей",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дорогой,",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "поела,",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "лицо",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ее",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "уже",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "больше",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "было",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "печально.",
+        "chapter": 1,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "На",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "следующее",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "утро",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "они",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "встали",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "рано,",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "поклонились",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пустились",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "обратный",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "путь",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "к",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "себе",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "домой,",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Раму.",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элкана",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "лег",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "со",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "своей",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "женой",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анной,",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господь",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "вспомнил",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "про",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "нее.",
+        "chapter": 1,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Через",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "некоторое",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "время",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "зачала",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "родила",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына.",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Она",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "назвала",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Самуил,",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "говоря:",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "«Я",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "назвала",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "так,",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "потому",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "что",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "просила",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "у",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господа».",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "посвящает",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Самуила",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу",
+        "chapter": 1,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "В",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "следующий",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "раз,",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "когда",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Элкана",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "вместе",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "со",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "всей",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "своей",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "семьей",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отправился",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "принести",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жертву",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "исполнить",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "обет,",
+        "chapter": 1,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пошла.",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Она",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сказала",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мужу:",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "После",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "того",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "как",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ребенок",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "будет",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отнят",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "от",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "груди,",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отведу",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Шило,",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "он",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "предстал",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "перед",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господом.",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Он",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "останется",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "там",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жить",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "навсегда.",
+        "chapter": 1,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Поступай,",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "как",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "тебе",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "угодно,",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сказал",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ей",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "муж.",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Оставайся",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "здесь,",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пока",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отнимешь",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "от",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "груди.",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "И",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пусть",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господь",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "утвердит",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Свое",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "слово.",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Она",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "оставалась",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дома",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "кормила",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "своего",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сына",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "до",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "тех",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пор,",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пока",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "не",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отняла",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "от",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "груди.",
+        "chapter": 1,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "После",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "того",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "как",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "он",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "был",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отнят",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "от",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "груди,",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "она",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "повела",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мальчика",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "в",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Шило.",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "взяла",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "с",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "собой",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "трехлетнего",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "быка,",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ефу",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "муки",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мех",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "вина.",
+        "chapter": 1,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Заколов",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "быка",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "взяв",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его,",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Анна",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "с",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мальчиком",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "пришли",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "к",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Илию,",
+        "chapter": 1,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "она",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "сказала",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ему:",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Верно,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "как",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "то,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "что",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ты",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жив,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мой",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "господин,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "–",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "та",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "самая",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "женщина,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "которая",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "стояла",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "здесь,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "рядом",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "с",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "тобой,",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "молясь",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу.",
+        "chapter": 1,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Я",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "молилась",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "об",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "этом",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "ребенке,",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "и",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господь",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "дал",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "мне",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "то,",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "о",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "чем",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Его",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "просила.",
+        "chapter": 1,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Теперь",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "я",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "отдаю",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу.",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Пусть",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "он",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "принадлежит",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "всю",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "его",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "жизнь.",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "И",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "он",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "поклонился",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "там",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    },
+    {
+        "text": "Господу.",
+        "chapter": 1,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "1Sam",
+        "book_name": "1 Samuel"
+    }
+]

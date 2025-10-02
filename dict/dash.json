@@ -1,0 +1,1084 @@
+[
+    {
+        "rus": "из-за",
+        "count": 253,
+        "forms": [
+            {
+                "text": "из-за",
+                "form": "",
+                "part": "preposition",
+                "dict": "из-за"
+            }
+        ]
+    },
+    {
+        "rus": "кто-то",
+        "count": 64,
+        "forms": [
+            {
+                "text": "кто-то",
+                "form": "nominative",
+                "part": "pronoun",
+                "dict": "кто-то"
+            }
+        ]
+    },
+    {
+        "rus": "кто-нибудь",
+        "count": 46,
+        "forms": [
+            {
+                "text": "кто-нибудь",
+                "form": "nominative",
+                "part": "pronoun",
+                "dict": "кто-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "что-нибудь",
+        "count": 28,
+        "forms": [
+            {
+                "text": "что-нибудь",
+                "form": "nominative",
+                "part": "pronoun",
+                "dict": "что-нибудь"
+            },
+            {
+                "text": "что-нибудь",
+                "form": "accusative",
+                "part": "pronoun",
+                "dict": "что-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "кто-либо",
+        "count": 25,
+        "forms": [
+            {
+                "text": "кто-либо",
+                "form": "nominative",
+                "part": "pronoun",
+                "dict": "кто-либо"
+            }
+        ]
+    },
+    {
+        "rus": "что-либо",
+        "count": 24,
+        "forms": [
+            {
+                "text": "что-либо",
+                "form": "nominative",
+                "part": "pronoun",
+                "dict": "что-либо"
+            },
+            {
+                "text": "что-либо",
+                "form": "accusative",
+                "part": "pronoun",
+                "dict": "что-либо"
+            }
+        ]
+    },
+    {
+        "rus": "что-то",
+        "count": 17,
+        "forms": [
+            {
+                "text": "что-то",
+                "form": "nominative",
+                "part": "pronoun",
+                "dict": "что-то"
+            },
+            {
+                "text": "что-то",
+                "form": "accusative",
+                "part": "pronoun",
+                "dict": "что-то"
+            },
+            {
+                "text": "что-то",
+                "form": "",
+                "source": "somewhat",
+                "part": "adverb",
+                "dict": "что-то"
+            }
+        ]
+    },
+    {
+        "rus": "по-прежнему",
+        "count": 16,
+        "forms": [
+            {
+                "text": "по-прежнему",
+                "form": "",
+                "part": "adverb",
+                "dict": "по-прежнему"
+            }
+        ]
+    },
+    {
+        "rus": "из-под",
+        "count": 16,
+        "forms": [
+            {
+                "text": "из-под",
+                "form": "",
+                "part": "preposition",
+                "dict": "из-под"
+            }
+        ]
+    },
+    {
+        "rus": "кого-то",
+        "count": 15,
+        "forms": [
+            {
+                "text": "кого-то",
+                "form": "genitive",
+                "part": "pronoun",
+                "dict": "кто-то"
+            },
+            {
+                "text": "кого-то",
+                "form": "accusative",
+                "part": "pronoun",
+                "dict": "кто-то"
+            }
+        ]
+    },
+    {
+        "rus": "какой-нибудь",
+        "count": 15,
+        "forms": [
+            {
+                "text": "какой-нибудь",
+                "form": "masculine nominative singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какой-нибудь",
+                "form": "masculine inanimate accusative singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какой-нибудь",
+                "form": "feminine genitive singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какой-нибудь",
+                "form": "feminine dative singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какой-нибудь",
+                "form": "feminine instrumental singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какой-нибудь",
+                "form": "feminine prepositional singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "кого-либо",
+        "count": 13,
+        "forms": [
+            {
+                "text": "кого-либо",
+                "form": "genitive",
+                "part": "pronoun",
+                "dict": "кто-либо"
+            },
+            {
+                "text": "кого-либо",
+                "form": "accusative",
+                "part": "pronoun",
+                "dict": "кто-либо"
+            }
+        ]
+    },
+    {
+        "rus": "какой-либо",
+        "count": 13,
+        "forms": [
+            {
+                "text": "какой-либо",
+                "form": "masculine nominative singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какой-либо",
+                "form": "masculine inanimate accusative singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какой-либо",
+                "form": "feminine genitive singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какой-либо",
+                "form": "feminine dative singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какой-либо",
+                "form": "feminine instrumental singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какой-либо",
+                "form": "feminine prepositional singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            }
+        ]
+    },
+    {
+        "rus": "чем-то",
+        "count": 12,
+        "forms": [
+            {
+                "text": "чем-то",
+                "form": "instrumental",
+                "part": "pronoun",
+                "dict": "что-то"
+            }
+        ]
+    },
+    {
+        "rus": "чём-то",
+        "count": 12,
+        "forms": [
+            {
+                "text": "чём-то",
+                "form": "prepositional",
+                "part": "pronoun",
+                "dict": "что-то"
+            }
+        ]
+    },
+    {
+        "rus": "когда-то",
+        "count": 11,
+        "forms": [
+            {
+                "text": "когда-то",
+                "form": "",
+                "part": "adverb",
+                "dict": "когда-то"
+            }
+        ]
+    },
+    {
+        "rus": "кому-то",
+        "count": 9,
+        "forms": [
+            {
+                "text": "кому-то",
+                "form": "dative",
+                "part": "pronoun",
+                "dict": "кто-то"
+            }
+        ]
+    },
+    {
+        "rus": "как-то",
+        "count": 9,
+        "forms": [
+            {
+                "text": "как-то",
+                "form": "",
+                "part": "adverb",
+                "dict": "как-то"
+            }
+        ]
+    },
+    {
+        "rus": "какое-то",
+        "count": 8,
+        "forms": [
+            {
+                "text": "какое-то",
+                "form": "nominative neuter singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            },
+            {
+                "text": "какое-то",
+                "form": "accusative neuter singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            }
+        ]
+    },
+    {
+        "rus": "чего-то",
+        "count": 6,
+        "forms": [
+            {
+                "text": "чего-то",
+                "form": "genitive",
+                "part": "pronoun",
+                "dict": "что-то"
+            },
+            {
+                "text": "чего-то",
+                "source": "somewhat",
+                "form": "",
+                "part": "adverb",
+                "dict": "чего-то"
+            }
+        ]
+    },
+    {
+        "rus": "каком-либо",
+        "count": 6,
+        "forms": [
+            {
+                "text": "каком-либо",
+                "form": "prepositional masculine singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "каком-либо",
+                "form": "prepositional neuter singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            }
+        ]
+    },
+    {
+        "rus": "когда-либо",
+        "count": 6,
+        "forms": [
+            {
+                "text": "когда-либо",
+                "form": "",
+                "part": "adverb",
+                "dict": "когда-либо"
+            }
+        ]
+    },
+    {
+        "rus": "когда-нибудь",
+        "count": 6,
+        "forms": [
+            {
+                "text": "когда-нибудь",
+                "form": "",
+                "part": "adverb",
+                "dict": "когда-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "кого-нибудь",
+        "count": 5,
+        "forms": [
+            {
+                "text": "кого-нибудь",
+                "form": "genitive",
+                "part": "pronoun",
+                "dict": "кто-нибудь"
+            },
+            {
+                "text": "кого-нибудь",
+                "form": "accusative",
+                "part": "pronoun",
+                "dict": "кто-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "чем-либо",
+        "count": 4,
+        "forms": [
+            {
+                "text": "чем-либо",
+                "form": "instrumental",
+                "part": "pronoun",
+                "dict": "что-либо"
+            }
+        ]
+    },
+    {
+        "rus": "чём-либо",
+        "count": 4,
+        "forms": [
+            {
+                "text": "чём-либо",
+                "form": "prepositional",
+                "part": "pronoun",
+                "dict": "что-либо"
+            }
+        ]
+    },
+    {
+        "rus": "так-то",
+        "count": 4,
+        "forms": [
+            {
+                "text": "так-то",
+                "form": "",
+                "part": "adverb",
+                "dict": "так-то"
+            }
+        ]
+    },
+    {
+        "rus": "какой-то",
+        "count": 4,
+        "forms": [
+            {
+                "text": "какой-то",
+                "form": "masculine nominative singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            },
+            {
+                "text": "какой-то",
+                "form": "masculine accusative inanimate singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            }
+        ]
+    },
+    {
+        "rus": "кому-нибудь",
+        "count": 3,
+        "forms": [
+            {
+                "text": "кому-нибудь",
+                "form": "dative",
+                "part": "pronoun",
+                "dict": "кто-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "какое-либо",
+        "count": 3,
+        "forms": [
+            {
+                "text": "какое-либо",
+                "form": "accusative neuter singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какое-либо",
+                "form": "nominative neuter singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            }
+        ]
+    },
+    {
+        "rus": "кому-либо",
+        "count": 3,
+        "forms": [
+            {
+                "text": "кому-либо",
+                "form": "dative",
+                "part": "pronoun",
+                "dict": "кто-либо"
+            }
+        ]
+    },
+    {
+        "rus": "чему-то",
+        "count": 3,
+        "forms": [
+            {
+                "text": "чему-то",
+                "form": "dative",
+                "part": "pronoun",
+                "dict": "что-то"
+            }
+        ]
+    },
+    {
+        "rus": "какое-нибудь",
+        "count": 3,
+        "forms": [
+            {
+                "text": "какое-нибудь",
+                "form": "nominative neuter singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какое-нибудь",
+                "form": "accusative neuter singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "каком-то",
+        "count": 3,
+        "forms": [
+            {
+                "text": "каком-то",
+                "form": "prepositional masculine singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            },
+            {
+                "text": "каком-то",
+                "form": "prepositional neuter singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            }
+        ]
+    },
+    {
+        "rus": "какую-нибудь",
+        "count": 2,
+        "forms": [
+            {
+                "text": "какую-нибудь",
+                "form": "feminine accusative singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какую-нибудь",
+                "form": "feminine instrumental singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "по-доброму",
+        "count": 2,
+        "forms": [
+            {
+                "text": "по-доброму",
+                "form": "",
+                "part": "adverb",
+                "dict": "по-доброму"
+            }
+        ]
+    },
+    {
+        "rus": "каких-то",
+        "count": 2,
+        "forms": [
+            {
+                "text": "каких-то",
+                "form": "genitive plural",
+                "part": "pronoun",
+                "dict": "какои-то"
+            },
+            {
+                "text": "каких-то",
+                "form": "accusative inanimate plural",
+                "part": "pronoun",
+                "dict": "каких-то"
+            },
+            {
+                "text": "каких-то",
+                "form": "prepositional plural",
+                "part": "pronoun",
+                "dict": "каких-то"
+            }
+        ]
+    },
+    {
+        "rus": "там-то",
+        "count": 2,
+        "forms": [
+            {
+                "text": "там-то",
+                "form": "",
+                "part": "adverb",
+                "dict": "там-то"
+            }
+        ]
+    },
+    {
+        "rus": "кое-что",
+        "count": 2,
+        "forms": [
+            {
+                "text": "кое-что",
+                "form": "default",
+                "part": "pronoun",
+                "dict": "кое-что"
+            }
+        ]
+    },
+    {
+        "rus": "чего-нибудь",
+        "count": 2,
+        "forms": [
+            {
+                "text": "чего-нибудь",
+                "form": "genitive",
+                "part": "pronoun",
+                "dict": "что-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "чем-нибудь",
+        "count": 2,
+        "forms": [
+            {
+                "text": "чем-нибудь",
+                "form": "instrumental",
+                "part": "pronoun",
+                "dict": "что-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "чём-нибудь",
+        "count": 2,
+        "forms": [
+            {
+                "text": "чём-нибудь",
+                "form": "prepositional",
+                "part": "pronoun",
+                "dict": "что-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "какого-либо",
+        "count": 2,
+        "forms": [
+            {
+                "text": "какого-либо",
+                "form": "masculine genitive singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какого-либо",
+                "form": "neuter genitive singular",
+                "part": "pronoun",
+                "dict": "какого-либо"
+            },
+            {
+                "text": "какого-либо",
+                "form": "masculine accusative animate singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            }
+        ]
+    },
+    {
+        "rus": "какого-нибудь",
+        "count": 2,
+        "forms": [
+            {
+                "text": "какого-нибудь",
+                "form": "masculine genitive singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какого-нибудь",
+                "form": "neuter genitive singular",
+                "part": "pronoun",
+                "dict": "какого-нибудь"
+            },
+            {
+                "text": "какого-нибудь",
+                "form": "masculine animate accusative singular",
+                "part": "pronoun",
+                "dict": "какого-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "где-то",
+        "count": 2,
+        "forms": [
+            {
+                "text": "где-то",
+                "form": "",
+                "part": "adverb",
+                "dict": "где-то"
+            }
+        ]
+    },
+    {
+        "rus": "такой-то",
+        "count": 2,
+        "forms": [
+            {
+                "text": "такой-то",
+                "form": "",
+                "part": "adjective",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "",
+                "part": "adverb",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "masculine nominative singular",
+                "part": "pronoun",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "masculine inanimate accusative singular",
+                "part": "pronoun",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "feminine genitive singular",
+                "part": "pronoun",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "feminine dative singular",
+                "part": "pronoun",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "feminine instrumental singular",
+                "part": "pronoun",
+                "dict": "такои-то"
+            },
+            {
+                "text": "такой-то",
+                "form": "feminine prepositional singular",
+                "part": "pronoun",
+                "dict": "такои-то"
+            }
+        ]
+    },
+    {
+        "rus": "по-человечески",
+        "count": 2,
+        "forms": [
+            {
+                "text": "по-человечески",
+                "form": "",
+                "part": "adverb",
+                "dict": "по-человечески"
+            }
+        ]
+    },
+    {
+        "rus": "по-детски",
+        "count": 1,
+        "forms": [
+            {
+                "text": "по-детски",
+                "form": "",
+                "part": "adverb",
+                "dict": "по-детски"
+            }
+        ]
+    },
+    {
+        "rus": "кем-то",
+        "count": 1,
+        "forms": [
+            {
+                "text": "кем-то",
+                "form": "instrumental",
+                "part": "pronoun",
+                "dict": "кто-то"
+            }
+        ]
+    },
+    {
+        "rus": "каким-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "каким-либо",
+                "form": "masculine instrumental singular",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "каким-либо",
+                "form": "neuter instrumental singular",
+                "part": "pronoun",
+                "dict": "каким-либо"
+            }
+        ]
+    },
+    {
+        "rus": "какие-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "какие-либо",
+                "form": "nominative plural",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            },
+            {
+                "text": "какие-либо",
+                "form": "accusative inanimate plural",
+                "part": "pronoun",
+                "dict": "какие-либо"
+            }
+        ]
+    },
+    {
+        "rus": "кем-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "кем-либо",
+                "form": "instrumental",
+                "part": "pronoun",
+                "dict": "кто-либо"
+            }
+        ]
+    },
+    {
+        "rus": "ком-то",
+        "count": 1,
+        "forms": [
+            {
+                "text": "ком-то",
+                "form": "prepositional",
+                "part": "pronoun",
+                "dict": "кто-то"
+            }
+        ]
+    },
+    {
+        "rus": "где-нибудь",
+        "count": 1,
+        "forms": [
+            {
+                "text": "где-нибудь",
+                "form": "default",
+                "part": "pronoun",
+                "dict": "где-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "какими-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "какими-либо",
+                "form": "instrumental plural",
+                "part": "pronoun",
+                "dict": "какои-либо"
+            }
+        ]
+    },
+    {
+        "rus": "чего-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "чего-либо",
+                "form": "genitive",
+                "part": "pronoun",
+                "dict": "что-либо"
+            }
+        ]
+    },
+    {
+        "rus": "откуда-нибудь",
+        "count": 1,
+        "forms": [
+            {
+                "text": "откуда-нибудь",
+                "form": "",
+                "part": "adverb",
+                "dict": "откуда-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "чей-то",
+        "count": 1,
+        "forms": [
+            {
+                "text": "чей-то",
+                "form": "masculine nominative singular",
+                "part": "pronoun",
+                "dict": "чеи-то"
+            },
+            {
+                "text": "чей-то",
+                "form": "masculine inanimate accusative singular",
+                "part": "pronoun",
+                "dict": "чеи-то"
+            }
+        ]
+    },
+    {
+        "rus": "по-твоему",
+        "count": 1,
+        "forms": [
+            {
+                "text": "по-твоему",
+                "form": "",
+                "part": "adverb",
+                "dict": "по-твоему"
+            }
+        ]
+    },
+    {
+        "rus": "какую-то",
+        "count": 1,
+        "forms": [
+            {
+                "text": "какую-то",
+                "form": "accusative feminine singular",
+                "part": "pronoun",
+                "dict": "какои-то"
+            }
+        ]
+    },
+    {
+        "rus": "каком-нибудь",
+        "count": 1,
+        "forms": [
+            {
+                "text": "каком-нибудь",
+                "form": "masculine singular prepositional",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "каком-нибудь",
+                "form": "neuter singular prepositional",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "какие-нибудь",
+        "count": 1,
+        "forms": [
+            {
+                "text": "какие-нибудь",
+                "form": "nominative plural",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            },
+            {
+                "text": "какие-нибудь",
+                "form": "accusative inaminate plural",
+                "part": "pronoun",
+                "dict": "какие-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "чью-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "чью-либо",
+                "form": "accusative feminine singular",
+                "part": "pronoun",
+                "dict": "чеи-либо"
+            }
+        ]
+    },
+    {
+        "rus": "чему-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "чему-либо",
+                "form": "dative",
+                "part": "pronoun",
+                "dict": "что-либо"
+            }
+        ]
+    },
+    {
+        "rus": "какие-то",
+        "count": 1,
+        "forms": [
+            {
+                "text": "какие-то",
+                "form": "nominative plural",
+                "part": "pronoun",
+                "dict": "какои-то"
+            },
+            {
+                "text": "какие-то",
+                "form": "accusative inaminate plural",
+                "part": "pronoun",
+                "dict": "какие-то"
+            }
+        ]
+    },
+    {
+        "rus": "где-либо",
+        "count": 1,
+        "forms": [
+            {
+                "text": "где-либо",
+                "form": "",
+                "part": "adverb",
+                "dict": "где-либо"
+            }
+        ]
+    },
+    {
+        "rus": "какая-нибудь",
+        "count": 1,
+        "forms": [
+            {
+                "text": "какая-нибудь",
+                "form": "nominative feminine singular",
+                "part": "pronoun",
+                "dict": "какои-нибудь"
+            }
+        ]
+    },
+    {
+        "rus": "во-первых",
+        "count": 1,
+        "forms": [
+            {
+                "text": "во-первых",
+                "form": "",
+                "part": "adverb",
+                "dict": "во-первых"
+            }
+        ]
+    }
+]

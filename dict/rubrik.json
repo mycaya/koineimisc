@@ -1,0 +1,182 @@
+[
+    {
+        "abbreviation": "мр",
+        "english": "masculine"
+    },
+    {
+        "abbreviation": "жр",
+        "english": "feminine"
+    },
+    {
+        "abbreviation": "ср",
+        "english": ""
+    },
+    {
+        "abbreviation": "од",
+        "english": "animacy"
+    },
+    {
+        "abbreviation": "но",
+        "english": ""
+    },
+    {
+        "abbreviation": "ед",
+        "english": "singular"
+    },
+    {
+        "abbreviation": "мн",
+        "english": ""
+    },
+    {
+        "abbreviation": "им",
+        "english": ""
+    },
+    {
+        "abbreviation": "рд",
+        "english": "genitive"
+    },
+    {
+        "abbreviation": "дт",
+        "english": "dative"
+    },
+    {
+        "abbreviation": "вн",
+        "english": "accusative"
+    },
+    {
+        "abbreviation": "тв",
+        "english": "instrumental"
+    },
+    {
+        "abbreviation": "пр",
+        "english": "prepositional"
+    },
+    {
+        "abbreviation": "зв",
+        "english": ""
+    },
+    {
+        "abbreviation": "2",
+        "english": ""
+    },
+    {
+        "abbreviation": "св",
+        "english": "perfective"
+    },
+    {
+        "abbreviation": "нс",
+        "english": ""
+    },
+    {
+        "abbreviation": "пе",
+        "english": "transitive"
+    },
+    {
+        "abbreviation": "нп",
+        "english": ""
+    },
+    {
+        "abbreviation": "дст",
+        "english": "active"
+    },
+    {
+        "abbreviation": "стр",
+        "english": ""
+    },
+    {
+        "abbreviation": "нст",
+        "english": "present"
+    },
+    {
+        "abbreviation": "прш",
+        "english": "past"
+    },
+    {
+        "abbreviation": "буд",
+        "english": ""
+    },
+    {
+        "abbreviation": "пвл",
+        "english": ""
+    },
+    {
+        "abbreviation": "1л",
+        "english": "first person"
+    },
+    {
+        "abbreviation": "2л",
+        "english": "second person"
+    },
+    {
+        "abbreviation": "3л",
+        "english": ""
+    },
+    {
+        "abbreviation": "0",
+        "english": ""
+    },
+    {
+        "abbreviation": "кр",
+        "english": ""
+    },
+    {
+        "abbreviation": "сравн",
+        "english": ""
+    },
+    {
+        "abbreviation": "имя",
+        "english": "name"
+    },
+    {
+        "abbreviation": "фам",
+        "english": "surname"
+    },
+    {
+        "abbreviation": "отч",
+        "english": ""
+    },
+    {
+        "abbreviation": "лок",
+        "english": "locativity"
+    },
+    {
+        "abbreviation": "орг",
+        "english": ""
+    },
+    {
+        "abbreviation": "кач",
+        "english": ""
+    },
+    {
+        "abbreviation": "вопр,относ",
+        "english": ""
+    },
+    {
+        "abbreviation": "дфст",
+        "english": ""
+    },
+    {
+        "abbreviation": "опч",
+        "english": ""
+    },
+    {
+        "abbreviation": "жарг",
+        "english": "jargon"
+    },
+    {
+        "abbreviation": "арх",
+        "english": "archaism"
+    },
+    {
+        "abbreviation": "проф",
+        "english": ""
+    },
+    {
+        "abbreviation": "аббр",
+        "english": ""
+    },
+    {
+        "abbreviation": "безл",
+        "english": ""
+    }
+]

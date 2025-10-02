@@ -1,0 +1,4922 @@
+[
+    {
+        "text": "Надел",
+        "chapter": 19,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Симеона(A)",
+        "chapter": 19,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Второй",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребий",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "выпал",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Симеона.",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Их",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "надел",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "находился",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "среди",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "земель",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иуды.",
+        "chapter": 19,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "В",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "него",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "входили:",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Вирсавия",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "(или",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шева),",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Молада,",
+        "chapter": 19,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хацар-Шуал,",
+        "chapter": 19,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Вала,",
+        "chapter": 19,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ецем,",
+        "chapter": 19,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Элтолад,",
+        "chapter": 19,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бетул,",
+        "chapter": 19,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хорма,",
+        "chapter": 19,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Циклаг,",
+        "chapter": 19,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Маркавоф,",
+        "chapter": 19,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хацар-Суса,",
+        "chapter": 19,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Леваоф",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шарухен",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "тринадцать",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городов",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями;",
+        "chapter": 19,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Аин,",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Риммон,",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ефер",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ашан",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "четыре",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями,",
+        "chapter": 19,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "также",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "все",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "другие",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселения",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "вокруг",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "этих",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городов",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "самого",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Баалаф-Беэра",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "(Рама,",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "что",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Негеве).",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Таким",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "был",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "удел",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "симеонитов",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Удел",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "симеонитов",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "был",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "взят",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "из",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "доли",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иуды,",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "потому",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "что",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "земля",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иуды",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "была",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "для",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "него",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "слишком",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "велика.",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Так",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "симеониты",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "получили",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "свой",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "удел",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "землях",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иуды.",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Надел",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Завулона",
+        "chapter": 19,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Третий",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребий",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "выпал",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "роду",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Завулона",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам:",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Граница",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "удела",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "простиралась",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Сарида.",
+        "chapter": 19,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "На",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "запад",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "она",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Маралы,",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "примыкала",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Дабешету",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "тянулась",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "потока,",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "который",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рядом",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иокнеамом.",
+        "chapter": 19,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "От",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Сарида",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "она",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поворачивала",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "восток,",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "восходу",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "солнца,",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "землям",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кислоф-Фавора,",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "тянулась",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Даврафа",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поднималась",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иафие.",
+        "chapter": 19,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Затем",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "она",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "восток",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Гат-Хеферу",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ит-Кацину,",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "тянулась",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Риммону",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поворачивала",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Нее.",
+        "chapter": 19,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Там",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "граница",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "сворачивала",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "север",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ханнафону",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "заканчивалась",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "долине",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ифтах-Эл.",
+        "chapter": 19,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "В",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "удел",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "входили",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Каттаф,",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Нагалал,",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шимрон,",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Идеала",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Вифлеем",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "двенадцать",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городов",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями.",
+        "chapter": 19,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эти",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "были",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "уделом",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Завулона",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Надел",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иссахара",
+        "chapter": 19,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Четвертый",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребий",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "выпал",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "роду",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иссахара",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "В",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "земли",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "входили:",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Изреель,",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кесуллоф,",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шунем,",
+        "chapter": 19,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хафараим,",
+        "chapter": 19,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шион,",
+        "chapter": 19,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Анахараф,",
+        "chapter": 19,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Раввиф,",
+        "chapter": 19,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кишион,",
+        "chapter": 19,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Евец,",
+        "chapter": 19,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ремет,",
+        "chapter": 19,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эн-Ганним,",
+        "chapter": 19,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эн-Хадда",
+        "chapter": 19,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Пацец.",
+        "chapter": 19,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Граница",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "примыкала",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Фавору,",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шагациме",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Шемешу",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "заканчивалась",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "у",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иордана",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шестнадцать",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городов",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями.",
+        "chapter": 19,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эти",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "были",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "уделом",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иссахара",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Надел",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Асира",
+        "chapter": 19,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Пятый",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребий",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "выпал",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "роду",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Асира",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "В",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "земли",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "входили:",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хелкаф,",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хали,",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ветен,",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ахсаф,",
+        "chapter": 19,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Аламелех,",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Амад",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Мишал.",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "На",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "западе",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "граница",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "примыкала",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кармилу",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шихор-Ливнафу.",
+        "chapter": 19,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Затем",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "она",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поворачивала",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "восток",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Дагону,",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "примыкала",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Завулону",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "долине",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ифтах-Эл",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "север",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Емеку",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Неиелу,",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "проходя",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "слева",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "от",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кавула.",
+        "chapter": 19,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Она",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Еврону,",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Рехову,",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хаммону",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кане",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "великого",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Сидона.",
+        "chapter": 19,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Затем",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "граница",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поворачивала",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "назад",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Раме",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "укрепленному",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городу",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Тиру,",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "сворачивала",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хосе",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "оканчивалась",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "у",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "моря,",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "около",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ахзива;",
+        "chapter": 19,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Умма,",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Афек",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Рехов",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "двадцать",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "два",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями.",
+        "chapter": 19,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эти",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "были",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "уделом",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Асира",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Удел",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Неффалима",
+        "chapter": 19,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шестой",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребий",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "выпал",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "роду",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Неффалима",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам:",
+        "chapter": 19,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Их",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "граница",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "от",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хелефа",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "дуба",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Цаананниме,",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "пересекала",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Адами-Некев",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иавнеил",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "до",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Лаккума",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "оканчивалась",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "у",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иордана.",
+        "chapter": 19,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Граница",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поворачивала",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "запад",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Азноф-Фавору",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шла",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "оттуда",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хукоку,",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "примыкая",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "юге",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Завулону,",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Асиру",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "западе",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "к",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иордану",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "востоке.",
+        "chapter": 19,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Укрепленными",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городами",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "были",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Циддим,",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Цер,",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хамат,",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Раккаф,",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Киннерет,",
+        "chapter": 19,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Адама,",
+        "chapter": 19,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Рама,",
+        "chapter": 19,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хацор,",
+        "chapter": 19,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Кедеш,",
+        "chapter": 19,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эдреи,",
+        "chapter": 19,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эн-Хацор,",
+        "chapter": 19,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иреон,",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Мигдал-Эл,",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Хорем,",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Анаф",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бет-Шемеш",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "девятнадцать",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "городов",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями.",
+        "chapter": 19,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эти",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "были",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "уделом",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Неффалима",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Надел",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Дана",
+        "chapter": 19,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Седьмой",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребий",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "выпал",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "роду",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Дана",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "В",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "земли",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "удела",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "входили:",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Цора,",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эштаол,",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ир-Шемеш,",
+        "chapter": 19,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шаалабин,",
+        "chapter": 19,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Айялон,",
+        "chapter": 19,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Итла,",
+        "chapter": 19,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Елон,",
+        "chapter": 19,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Тимна,",
+        "chapter": 19,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Экрон,",
+        "chapter": 19,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Элтеке,",
+        "chapter": 19,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Гиббетон,",
+        "chapter": 19,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Баалаф,",
+        "chapter": 19,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Игуд,",
+        "chapter": 19,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Бене-Верак,",
+        "chapter": 19,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Гат-Риммон,",
+        "chapter": 19,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ме-Иаркон",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ракон",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "областью,",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "что",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "напротив",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Яффы.",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Когда",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "данитяне",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "потеряли",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "свою",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "землю,",
+        "chapter": 19,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "они",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "пошли",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "напали",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Лешем.",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Взяв",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "город",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "предав",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "его",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "мечу,",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "они",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "заняли",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "его.",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Они",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселились",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Лешеме",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "назвали",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "его",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Дан",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "честь",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "своего",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "предка.",
+        "chapter": 19,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Эти",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "города",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "с",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "окрестными",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселениями",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "были",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "уделом",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "рода",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Дана",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "их",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "кланам.",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Надел",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иисуса",
+        "chapter": 19,
+        "verse": 48,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Закончив",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "делить",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "землю",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "уделы,",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "израильтяне",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "дали",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "среди",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "себя",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "удел",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иисусу,",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "сыну",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Навину,",
+        "chapter": 19,
+        "verse": 49,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "как",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "повелел",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Господь.",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Они",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "дали",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "ему",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "город,",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "который",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "он",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "просил",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "–",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Тимнат-Серах",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "нагорьях",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Ефрема.",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Он",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "отстроил",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "город",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "поселился",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "нем.",
+        "chapter": 19,
+        "verse": 50,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Таковы",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "земли,",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "которые",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "священник",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Элеазар,",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Иисус,",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "сын",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Навин,",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "и",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "главы",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "семейств",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "из",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "родов",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Израиля",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "раздали",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "по",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "жребию",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Шило",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "перед",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "Господом,",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "у",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "входа",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "в",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "шатер",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "собрания.",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "И",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "на",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "этом",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "они",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "закончили",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "делить",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    },
+    {
+        "text": "землю.",
+        "chapter": 19,
+        "verse": 51,
+        "translation_id": "NRT",
+        "book_id": "Josh",
+        "book_name": "Joshua"
+    }
+]

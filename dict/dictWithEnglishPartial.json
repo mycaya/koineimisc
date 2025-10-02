@@ -1,0 +1,1186 @@
+[
+    {
+        "rus": "из-за",
+        "count": 253,
+        "forms": [],
+        "english": [
+            "because of"
+        ]
+    },
+    {
+        "rus": "кто-то",
+        "count": 64,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "кто-нибудь",
+        "count": 46,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "Из-за",
+        "count": 35,
+        "forms": [],
+        "english": [
+            "Because of"
+        ]
+    },
+    {
+        "rus": "что-нибудь",
+        "count": 28,
+        "forms": [],
+        "english": [
+            "Something"
+        ]
+    },
+    {
+        "rus": "кто-либо",
+        "count": 25,
+        "forms": [],
+        "english": [
+            "Anyone"
+        ]
+    },
+    {
+        "rus": "что-либо",
+        "count": 24,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "все-таки",
+        "count": 22,
+        "forms": [],
+        "english": [
+            "Still"
+        ]
+    },
+    {
+        "rus": "что-то",
+        "count": 17,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "по-прежнему",
+        "count": 16,
+        "forms": [],
+        "english": [
+            "Still"
+        ]
+    },
+    {
+        "rus": "из-под",
+        "count": 16,
+        "forms": [],
+        "english": [
+            "From under"
+        ]
+    },
+    {
+        "rus": "кого-то",
+        "count": 15,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "какой-нибудь",
+        "count": 15,
+        "forms": [],
+        "english": [
+            "some"
+        ]
+    },
+    {
+        "rus": "кого-либо",
+        "count": 13,
+        "forms": [],
+        "english": [
+            "anyone"
+        ]
+    },
+    {
+        "rus": "какой-либо",
+        "count": 13,
+        "forms": [],
+        "english": [
+            "any"
+        ]
+    },
+    {
+        "rus": "чем-то",
+        "count": 12,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "когда-то",
+        "count": 11,
+        "forms": [],
+        "english": [
+            "Once"
+        ]
+    },
+    {
+        "rus": "кому-то",
+        "count": 9,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "как-то",
+        "count": 9,
+        "forms": [],
+        "english": [
+            "Somehow"
+        ]
+    },
+    {
+        "rus": "Кто-то",
+        "count": 9,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "какое-то",
+        "count": 8,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "чего-то",
+        "count": 6,
+        "forms": [],
+        "english": [
+            "Something"
+        ]
+    },
+    {
+        "rus": "по-еврейски",
+        "count": 6,
+        "forms": [],
+        "english": [
+            "Hebrew"
+        ]
+    },
+    {
+        "rus": "каком-либо",
+        "count": 6,
+        "forms": [],
+        "english": [
+            "any"
+        ]
+    },
+    {
+        "rus": "когда-либо",
+        "count": 6,
+        "forms": [],
+        "english": [
+            "ever"
+        ]
+    },
+    {
+        "rus": "когда-нибудь",
+        "count": 6,
+        "forms": [],
+        "english": [
+            "some day"
+        ]
+    },
+    {
+        "rus": "Когда-то",
+        "count": 5,
+        "forms": [],
+        "english": [
+            "Once"
+        ]
+    },
+    {
+        "rus": "кого-нибудь",
+        "count": 5,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "чем-либо",
+        "count": 4,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "так-то",
+        "count": 4,
+        "forms": [],
+        "english": [
+            "So"
+        ]
+    },
+    {
+        "rus": "чем-либо,",
+        "count": 4,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "по-еврейски:",
+        "count": 4,
+        "forms": [],
+        "english": [
+            "in Hebrew:"
+        ]
+    },
+    {
+        "rus": "какой-то",
+        "count": 4,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "кому-нибудь",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "какое-либо",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "any"
+        ]
+    },
+    {
+        "rus": "кому-либо",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "to anyone"
+        ]
+    },
+    {
+        "rus": "так-то.",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "So."
+        ]
+    },
+    {
+        "rus": "Поэтому-то",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "That's why"
+        ]
+    },
+    {
+        "rus": "чему-то",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "Something"
+        ]
+    },
+    {
+        "rus": "по-твоему,",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "In your opinion,"
+        ]
+    },
+    {
+        "rus": "что-нибудь.",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "Something."
+        ]
+    },
+    {
+        "rus": "кого-либо,",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "anyone"
+        ]
+    },
+    {
+        "rus": "что-то,",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "something,"
+        ]
+    },
+    {
+        "rus": "какое-нибудь",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "Anyone"
+        ]
+    },
+    {
+        "rus": "«Из-за",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "\"Because of"
+        ]
+    },
+    {
+        "rus": "каком-то",
+        "count": 3,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "кого-либо.",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "anyone."
+        ]
+    },
+    {
+        "rus": "во-первых,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Firstly,"
+        ]
+    },
+    {
+        "rus": "Потому-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "That's why"
+        ]
+    },
+    {
+        "rus": "все-таки,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Still,"
+        ]
+    },
+    {
+        "rus": "кого-нибудь,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "какую-нибудь",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "some"
+        ]
+    },
+    {
+        "rus": "что-нибудь,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "по-доброму",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "kindly"
+        ]
+    },
+    {
+        "rus": "Как-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Somehow"
+        ]
+    },
+    {
+        "rus": "каких-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Some"
+        ]
+    },
+    {
+        "rus": "по-арамейски,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "in Aramaic,"
+        ]
+    },
+    {
+        "rus": "там-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "There"
+        ]
+    },
+    {
+        "rus": "кое-что",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Something"
+        ]
+    },
+    {
+        "rus": "чего-нибудь",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "что-либо,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "one"
+        ]
+    },
+    {
+        "rus": "чем-нибудь",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "кто-нибудь,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "какого-либо",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "any"
+        ]
+    },
+    {
+        "rus": "по-еврейски,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "in Hebrew"
+        ]
+    },
+    {
+        "rus": "он-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "He is"
+        ]
+    },
+    {
+        "rus": "народом-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "the people"
+        ]
+    },
+    {
+        "rus": "какого-нибудь",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "some"
+        ]
+    },
+    {
+        "rus": "что-нибудь?",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Anything?"
+        ]
+    },
+    {
+        "rus": "где-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "somewhere"
+        ]
+    },
+    {
+        "rus": "чуть-чуть,",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "a little,"
+        ]
+    },
+    {
+        "rus": "такой-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Such and such"
+        ]
+    },
+    {
+        "rus": "по-гречески",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "Greek"
+        ]
+    },
+    {
+        "rus": "«Сына-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "“Son"
+        ]
+    },
+    {
+        "rus": "по-человечески",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "humanly"
+        ]
+    },
+    {
+        "rus": "«Такой-то",
+        "count": 2,
+        "forms": [],
+        "english": [
+            "“Such and such"
+        ]
+    },
+    {
+        "rus": "по-человечески,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "humanly,"
+        ]
+    },
+    {
+        "rus": "по-детски",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "childish"
+        ]
+    },
+    {
+        "rus": "по-детски.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "childish."
+        ]
+    },
+    {
+        "rus": "кем-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "чего-то,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "Этот-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "This one"
+        ]
+    },
+    {
+        "rus": "кто-то.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone."
+        ]
+    },
+    {
+        "rus": "почему-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "for some reason"
+        ]
+    },
+    {
+        "rus": "самом-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Most"
+        ]
+    },
+    {
+        "rus": "что-нибудь».",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Something. \""
+        ]
+    },
+    {
+        "rus": "там-то.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "There."
+        ]
+    },
+    {
+        "rus": "такого-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Such"
+        ]
+    },
+    {
+        "rus": "Такова-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "That is"
+        ]
+    },
+    {
+        "rus": "так-то,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "So,"
+        ]
+    },
+    {
+        "rus": "каким-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "какие-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "any"
+        ]
+    },
+    {
+        "rus": "кое-что?",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Something?"
+        ]
+    },
+    {
+        "rus": "кем-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "такую-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Such and such"
+        ]
+    },
+    {
+        "rus": "ком-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "по-арамейски:",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "in Aramaic:"
+        ]
+    },
+    {
+        "rus": "где-нибудь",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "somewhere"
+        ]
+    },
+    {
+        "rus": "кем-нибудь,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "кем-то.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone."
+        ]
+    },
+    {
+        "rus": "какими-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "by any"
+        ]
+    },
+    {
+        "rus": "чего-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "откуда-нибудь",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "From somewhere"
+        ]
+    },
+    {
+        "rus": "Какой-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "кто-то,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone,"
+        ]
+    },
+    {
+        "rus": "чей-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "кого-то,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    },
+    {
+        "rus": "по-твоему",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "In your opinion"
+        ]
+    },
+    {
+        "rus": "по-своему,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "In its own way,"
+        ]
+    },
+    {
+        "rus": "Мой-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Mine"
+        ]
+    },
+    {
+        "rus": "Кого-то,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "какую-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "some"
+        ]
+    },
+    {
+        "rus": "по-другому,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "differently,"
+        ]
+    },
+    {
+        "rus": "ее-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "her"
+        ]
+    },
+    {
+        "rus": "мои-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Mine"
+        ]
+    },
+    {
+        "rus": "каком-нибудь",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "some"
+        ]
+    },
+    {
+        "rus": "кое-что,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Something"
+        ]
+    },
+    {
+        "rus": "они-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "They are"
+        ]
+    },
+    {
+        "rus": "по-дружески,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "In a friendly manner,"
+        ]
+    },
+    {
+        "rus": "когда-то.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Once."
+        ]
+    },
+    {
+        "rus": "по-латыни",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "In Latin"
+        ]
+    },
+    {
+        "rus": "по-гречески.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Greek."
+        ]
+    },
+    {
+        "rus": "по-земному,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "in earthly,"
+        ]
+    },
+    {
+        "rus": "какие-нибудь",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Anyone"
+        ]
+    },
+    {
+        "rus": "это-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "This is what"
+        ]
+    },
+    {
+        "rus": "Какие-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Some"
+        ]
+    },
+    {
+        "rus": "Тогда-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Then"
+        ]
+    },
+    {
+        "rus": "по-настоящему.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Really."
+        ]
+    },
+    {
+        "rus": "чего-либо.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something."
+        ]
+    },
+    {
+        "rus": "чего-либо,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "чье-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "anyone"
+        ]
+    },
+    {
+        "rus": "чью-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone"
+        ]
+    },
+    {
+        "rus": "чему-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "чем-либо?",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "anything?"
+        ]
+    },
+    {
+        "rus": "какие-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Some"
+        ]
+    },
+    {
+        "rus": "где-либо",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "anywhere"
+        ]
+    },
+    {
+        "rus": "такому-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "To such"
+        ]
+    },
+    {
+        "rus": "нам-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "We"
+        ]
+    },
+    {
+        "rus": "по-еврейски.",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Hebrew."
+        ]
+    },
+    {
+        "rus": "что-то?",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something?"
+        ]
+    },
+    {
+        "rus": "чем-нибудь,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "something"
+        ]
+    },
+    {
+        "rus": "„Такой-то",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "“Such and such"
+        ]
+    },
+    {
+        "rus": "какая-нибудь",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "some"
+        ]
+    },
+    {
+        "rus": "во-первых",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Firstly"
+        ]
+    },
+    {
+        "rus": "по-новому,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "In a new way,"
+        ]
+    },
+    {
+        "rus": "Кто-то,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "Someone,"
+        ]
+    },
+    {
+        "rus": "по-доброму,",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "kindly,"
+        ]
+    },
+    {
+        "rus": "чьем-нибудь",
+        "count": 1,
+        "forms": [],
+        "english": [
+            "someone"
+        ]
+    }
+]

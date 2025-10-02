@@ -1,0 +1,938 @@
+[
+    {
+        "text": "Аллилуйя!",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Блажен",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "человек,",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "боящийся",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Господа,",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "получающий",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "большое",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "наслаждение",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "от",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Его",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "повелений.",
+        "chapter": 111,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Могущественным",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "будет",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "на",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "земле",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "потомство;",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "поколение",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "праведных",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "благословится.",
+        "chapter": 111,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Изобилие",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "богатство",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "будут",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "в",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "доме,",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "праведность",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "будет",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "пребывать",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "вечно.",
+        "chapter": 111,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Для",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "честных",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "восходит",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "свет",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "во",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "тьме,",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "он",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "милостив,",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "милосерден",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "праведен.",
+        "chapter": 111,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Благо",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "человеку,",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "который",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "великодушен",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "щедро",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "дает",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "взаймы,",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "тому,",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "кто",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "ведет",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "свои",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "дела",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "справедливо.",
+        "chapter": 111,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Он",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "никогда",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "не",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "поколеблется;",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "праведник",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "будет",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "в",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "вечной",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "памяти.",
+        "chapter": 111,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Не",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "побоится",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "плохих",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "известий;",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "сердце",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "твердо,",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "уповая",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "на",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Господа.",
+        "chapter": 111,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Сердце",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "крепко",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "–",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "он",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "не",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "испугается;",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "он",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "увидит",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "падение",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "своих",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "врагов.",
+        "chapter": 111,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Он",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "щедро",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "раздал",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "свое",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "имущество",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "бедным,",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "праведность",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "пребывает",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "вовек,",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "рог",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "его",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "вознесется",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "в",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "славе.",
+        "chapter": 111,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Нечестивый",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "увидит",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "разозлится,",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "заскрипит",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "зубами",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "и",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "исчезнет.",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "Желание",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "нечестивых",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "не",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "text": "сбудется.",
+        "chapter": 111,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    }
+]

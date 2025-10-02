@@ -1,0 +1,2694 @@
+[
+    {
+        "form": "inanimate neuter gender feminine gender masculine gender prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 1131
+    },
+    {
+        "form": "",
+        "count": 908
+    },
+    {
+        "form": "inanimate masculine gender accusative case nominative case singular",
+        "count": 561
+    },
+    {
+        "form": "transitive perfective aspect active voice past tense masculine gender singular",
+        "count": 475
+    },
+    {
+        "form": "inanimate neuter gender accusative case nominative case singular",
+        "count": 375
+    },
+    {
+        "form": "inanimate masculine gender genitive case singular",
+        "count": 339
+    },
+    {
+        "form": "inanimate neuter gender accusative case genitive case nominative case singular plural",
+        "count": 322
+    },
+    {
+        "form": "animate masculine gender nominative case singular",
+        "count": 296
+    },
+    {
+        "form": "animate masculine gender nominative case plural",
+        "count": 279
+    },
+    {
+        "form": "transitive perfective aspect active voice",
+        "count": 279
+    },
+    {
+        "form": "inanimate feminine gender accusative case genitive case nominative case singular plural",
+        "count": 277
+    },
+    {
+        "form": "transitive imperfective aspect active voice third person present tense singular",
+        "count": 276
+    },
+    {
+        "form": "transitive perfective aspect active voice third person future tense singular",
+        "count": 272
+    },
+    {
+        "form": "transitive perfective aspect active voice past tense plural",
+        "count": 268
+    },
+    {
+        "form": "transitive perfective aspect active voice imperative mood second person singular",
+        "count": 260
+    },
+    {
+        "form": "inanimate feminine gender accusative case singular",
+        "count": 249
+    },
+    {
+        "form": "intransitive imperfective aspect active voice third person present tense singular",
+        "count": 249
+    },
+    {
+        "form": "transitive imperfective aspect active voice",
+        "count": 248
+    },
+    {
+        "form": "inanimate feminine gender nominative case singular",
+        "count": 246
+    },
+    {
+        "form": "intransitive perfective aspect active voice past tense masculine gender singular",
+        "count": 245
+    },
+    {
+        "form": "inanimate masculine gender accusative case nominative case plural",
+        "count": 236
+    },
+    {
+        "form": "animate masculine gender accusative case genitive case plural",
+        "count": 212
+    },
+    {
+        "form": "qualitative adjective inanimate animate neuter gender singular",
+        "count": 210
+    },
+    {
+        "form": "animate masculine gender accusative case genitive case singular",
+        "count": 208
+    },
+    {
+        "form": "intransitive perfective aspect active voice past tense plural",
+        "count": 191
+    },
+    {
+        "form": "intransitive perfective aspect active voice third person future tense singular",
+        "count": 190
+    },
+    {
+        "form": "intransitive imperfective aspect active voice",
+        "count": 189
+    },
+    {
+        "form": "transitive perfective aspect active voice first person future tense singular",
+        "count": 186
+    },
+    {
+        "form": "qualitative adjective inanimate animate masculine gender singular",
+        "count": 185
+    },
+    {
+        "form": "last name animate masculine gender nominative case singular",
+        "count": 181
+    },
+    {
+        "form": "inanimate feminine gender genitive case plural",
+        "count": 180
+    },
+    {
+        "form": "inanimate masculine gender instrumental case singular",
+        "count": 179
+    },
+    {
+        "form": "inanimate feminine gender instrumental case singular",
+        "count": 173
+    },
+    {
+        "form": "transitive imperfective aspect active voice past tense masculine gender singular",
+        "count": 171
+    },
+    {
+        "form": "inanimate feminine gender prepositional case accusative case dative case genitive case nominative case singular plural",
+        "count": 169
+    },
+    {
+        "form": "qualitative adjective inanimate animate accusative case nominative case plural",
+        "count": 167
+    },
+    {
+        "form": "inanimate feminine gender accusative case nominative case singular",
+        "count": 165
+    },
+    {
+        "form": "qualitative adjective inanimate animate prepositional case accusative case genitive case plural",
+        "count": 154
+    },
+    {
+        "form": "transitive imperfective aspect active voice third person present tense plural",
+        "count": 153
+    },
+    {
+        "form": "transitive imperfective aspect active voice past tense plural",
+        "count": 149
+    },
+    {
+        "form": "inanimate feminine gender prepositional case dative case singular",
+        "count": 147
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense masculine gender singular",
+        "count": 146
+    },
+    {
+        "form": "inanimate masculine gender prepositional case singular",
+        "count": 144
+    },
+    {
+        "form": "inanimate neuter gender genitive case plural",
+        "count": 140
+    },
+    {
+        "form": "transitive imperfective aspect active voice imperative mood second person singular",
+        "count": 139
+    },
+    {
+        "form": "qualitative adjective inanimate animate masculine gender accusative case nominative case singular",
+        "count": 138
+    },
+    {
+        "form": "inanimate animate masculine gender accusative case nominative case singular",
+        "count": 137
+    },
+    {
+        "form": "inanimate animate accusative case nominative case plural",
+        "count": 136
+    },
+    {
+        "form": "qualitative adjective inanimate animate neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 135
+    },
+    {
+        "form": "inanimate masculine gender dative case singular",
+        "count": 129
+    },
+    {
+        "form": "intransitive imperfective aspect active voice third person present tense plural",
+        "count": 128
+    },
+    {
+        "form": "intransitive imperfective aspect active voice past tense masculine gender singular",
+        "count": 126
+    },
+    {
+        "form": "inanimate animate prepositional case accusative case genitive case plural",
+        "count": 126
+    },
+    {
+        "form": "inanimate masculine gender genitive case plural",
+        "count": 122
+    },
+    {
+        "form": "inanimate animate neuter gender masculine gender accusative case genitive case singular",
+        "count": 121
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense plural",
+        "count": 120
+    },
+    {
+        "form": "inanimate neuter gender prepositional case singular",
+        "count": 119
+    },
+    {
+        "form": "transitive perfective aspect active voice third person future tense plural",
+        "count": 116
+    },
+    {
+        "form": "intransitive imperfective aspect active voice past tense plural",
+        "count": 115
+    },
+    {
+        "form": "inanimate neuter gender instrumental case singular",
+        "count": 114
+    },
+    {
+        "form": "qualitative adjective inanimate animate plural",
+        "count": 113
+    },
+    {
+        "form": "animate masculine gender instrumental case plural",
+        "count": 112
+    },
+    {
+        "form": "intransitive perfective aspect active voice third person future tense plural",
+        "count": 109
+    },
+    {
+        "form": "intransitive perfective aspect active voice",
+        "count": 106
+    },
+    {
+        "form": "intransitive imperfective aspect active voice imperative mood second person singular",
+        "count": 103
+    },
+    {
+        "form": "qualitative adjective inanimate animate neuter gender masculine gender accusative case genitive case singular",
+        "count": 103
+    },
+    {
+        "form": "qualitative adjective inanimate animate neuter gender accusative case nominative case singular",
+        "count": 103
+    },
+    {
+        "form": "animate masculine gender dative case singular",
+        "count": 99
+    },
+    {
+        "form": "transitive imperfective aspect active voice present tense",
+        "count": 98
+    },
+    {
+        "form": "transitive imperfective aspect active voice first person present tense singular",
+        "count": 98
+    },
+    {
+        "form": "qualitative adjective inanimate animate feminine gender singular",
+        "count": 92
+    },
+    {
+        "form": "qualitative adjective inanimate animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 92
+    },
+    {
+        "form": "transitive perfective aspect active voice past tense feminine gender singular",
+        "count": 89
+    },
+    {
+        "form": "intransitive perfective aspect active voice past tense feminine gender singular",
+        "count": 88
+    },
+    {
+        "form": "animate masculine gender instrumental case singular",
+        "count": 87
+    },
+    {
+        "form": "inanimate animate feminine gender nominative case singular",
+        "count": 85
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender nominative case singular",
+        "count": 82
+    },
+    {
+        "form": "inanimate neuter gender dative case singular",
+        "count": 82
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender genitive case singular",
+        "count": 81
+    },
+    {
+        "form": "inanimate animate neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 80
+    },
+    {
+        "form": "animate masculine gender dative case plural",
+        "count": 80
+    },
+    {
+        "form": "qualitative adjective inanimate animate instrumental case plural",
+        "count": 80
+    },
+    {
+        "form": "present tense",
+        "count": 79
+    },
+    {
+        "form": "inanimate animate neuter gender accusative case nominative case singular",
+        "count": 78
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender accusative case genitive case singular",
+        "count": 76
+    },
+    {
+        "form": "animate first name masculine gender nominative case singular",
+        "count": 75
+    },
+    {
+        "form": "animate first name masculine gender accusative case genitive case singular",
+        "count": 75
+    },
+    {
+        "form": "inanimate animate neuter gender masculine gender prepositional case singular",
+        "count": 75
+    },
+    {
+        "form": "inanimate feminine gender prepositional case plural",
+        "count": 75
+    },
+    {
+        "form": "inanimate masculine gender instrumental case plural",
+        "count": 74
+    },
+    {
+        "form": "transitive imperfective aspect active voice imperative mood second person plural",
+        "count": 74
+    },
+    {
+        "form": "intransitive imperfective aspect active voice imperative mood second person plural",
+        "count": 72
+    },
+    {
+        "form": "transitive perfective aspect active voice imperative mood second person plural",
+        "count": 70
+    },
+    {
+        "form": "intransitive perfective aspect active voice imperative mood second person singular",
+        "count": 69
+    },
+    {
+        "form": "accusative case nominative case",
+        "count": 67
+    },
+    {
+        "form": "inanimate feminine gender instrumental case plural",
+        "count": 67
+    },
+    {
+        "form": "inanimate animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 66
+    },
+    {
+        "form": "last name animate invariable feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 65
+    },
+    {
+        "form": "inanimate animate feminine gender accusative case singular",
+        "count": 64
+    },
+    {
+        "form": "intransitive perfective aspect active voice past tense neuter gender singular",
+        "count": 63
+    },
+    {
+        "form": "transitive perfective aspect active voice past tense",
+        "count": 63
+    },
+    {
+        "form": "qualitative adjective inanimate animate feminine gender nominative case singular",
+        "count": 60
+    },
+    {
+        "form": "intransitive imperfective aspect active voice present tense",
+        "count": 58
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense feminine gender singular",
+        "count": 58
+    },
+    {
+        "form": "intransitive imperfective aspect active voice first person present tense singular",
+        "count": 57
+    },
+    {
+        "form": "animate feminine gender nominative case singular",
+        "count": 57
+    },
+    {
+        "form": "inanimate animate masculine gender singular",
+        "count": 56
+    },
+    {
+        "form": "inanimate masculine gender prepositional case plural",
+        "count": 56
+    },
+    {
+        "form": "qualitative adjective inanimate animate feminine gender accusative case singular",
+        "count": 55
+    },
+    {
+        "form": "last name animate masculine gender accusative case genitive case singular",
+        "count": 53
+    },
+    {
+        "form": "inanimate animate neuter gender masculine gender dative case singular",
+        "count": 53
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense neuter gender singular",
+        "count": 53
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender accusative case nominative case singular",
+        "count": 51
+    },
+    {
+        "form": "qualitative adjective comparative form inanimate animate",
+        "count": 50
+    },
+    {
+        "form": "transitive perfective aspect active voice second person future tense singular",
+        "count": 48
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender accusative case genitive case plural",
+        "count": 47
+    },
+    {
+        "form": "inanimate animate neuter gender singular",
+        "count": 47
+    },
+    {
+        "form": "intransitive imperfective aspect active voice past tense feminine gender singular",
+        "count": 47
+    },
+    {
+        "form": "inanimate animate instrumental case plural",
+        "count": 47
+    },
+    {
+        "form": "transitive imperfective aspect active voice second person present tense singular",
+        "count": 46
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender nominative case singular",
+        "count": 46
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense accusative case nominative case plural",
+        "count": 46
+    },
+    {
+        "form": "animate feminine gender genitive case nominative case singular plural",
+        "count": 45
+    },
+    {
+        "form": "intransitive perfective aspect active voice first person future tense singular",
+        "count": 45
+    },
+    {
+        "form": "inanimate masculine gender dative case plural",
+        "count": 44
+    },
+    {
+        "form": "inanimate neuter gender prepositional case plural",
+        "count": 44
+    },
+    {
+        "form": "inanimate neuter gender instrumental case plural",
+        "count": 44
+    },
+    {
+        "form": "animate first name masculine gender dative case singular",
+        "count": 43
+    },
+    {
+        "form": "inanimate animate feminine gender masculine gender prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 43
+    },
+    {
+        "form": "inanimate feminine gender dative case plural",
+        "count": 42
+    },
+    {
+        "form": "animate feminine gender accusative case singular",
+        "count": 41
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender accusative case nominative case singular",
+        "count": 40
+    },
+    {
+        "form": "inanimate neuter gender prepositional case accusative case nominative case singular",
+        "count": 40
+    },
+    {
+        "form": "transitive perfective aspect active voice imperative mood first person future tense plural",
+        "count": 40
+    },
+    {
+        "form": "transitive imperfective aspect active voice imperative mood second person present tense plural",
+        "count": 39
+    },
+    {
+        "form": "inanimate animate feminine gender singular",
+        "count": 38
+    },
+    {
+        "form": "transitive imperfective aspect active voice past tense feminine gender singular",
+        "count": 38
+    },
+    {
+        "form": "inanimate neuter gender dative case plural",
+        "count": 37
+    },
+    {
+        "form": "intransitive perfective aspect active voice past tense",
+        "count": 37
+    },
+    {
+        "form": "transitive perfective aspect active voice imperative mood second person future tense plural",
+        "count": 37
+    },
+    {
+        "form": "intransitive imperfective aspect active voice past tense neuter gender singular",
+        "count": 36
+    },
+    {
+        "form": "inanimate masculine gender accusative case genitive case nominative case singular plural",
+        "count": 36
+    },
+    {
+        "form": "animate masculine gender prepositional case singular",
+        "count": 36
+    },
+    {
+        "form": "animate feminine gender accusative case genitive case plural",
+        "count": 36
+    },
+    {
+        "form": "transitive imperfective aspect active voice second person present tense plural",
+        "count": 36
+    },
+    {
+        "form": "qualitative adjective inanimate animate neuter gender masculine gender dative case singular",
+        "count": 36
+    },
+    {
+        "form": "inanimate accusative case nominative case plural",
+        "count": 34
+    },
+    {
+        "form": "animate masculine gender prepositional case accusative case genitive case plural",
+        "count": 34
+    },
+    {
+        "form": "qualitative adjective inanimate animate neuter gender masculine gender prepositional case singular",
+        "count": 33
+    },
+    {
+        "form": "last name animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 32
+    },
+    {
+        "form": "intransitive imperfective aspect active voice imperative mood second person present tense plural",
+        "count": 32
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender accusative case singular",
+        "count": 31
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender prepositional case singular",
+        "count": 30
+    },
+    {
+        "form": "last name animate feminine gender masculine gender nominative case plural",
+        "count": 30
+    },
+    {
+        "form": "last name animate feminine gender masculine gender prepositional case accusative case genitive case plural",
+        "count": 30
+    },
+    {
+        "form": "intransitive perfective aspect active voice second person future tense singular",
+        "count": 30
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense masculine gender accusative case nominative case singular",
+        "count": 30
+    },
+    {
+        "form": "animate first name masculine gender instrumental case singular",
+        "count": 29
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 29
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense neuter gender accusative case nominative case singular",
+        "count": 28
+    },
+    {
+        "form": "inanimate animate plural",
+        "count": 27
+    },
+    {
+        "form": "last name animate masculine gender prepositional case singular",
+        "count": 27
+    },
+    {
+        "form": "intransitive perfective aspect active voice imperative mood second person plural",
+        "count": 27
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense masculine gender accusative case nominative case singular",
+        "count": 27
+    },
+    {
+        "form": "animate masculine gender instrumental case dative case singular plural",
+        "count": 26
+    },
+    {
+        "form": "last name animate feminine gender masculine gender accusative case genitive case nominative case singular",
+        "count": 26
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense masculine gender accusative case nominative case singular",
+        "count": 25
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender prepositional case dative case genitive case nominative case singular plural",
+        "count": 24
+    },
+    {
+        "form": "animate feminine gender instrumental case singular",
+        "count": 24
+    },
+    {
+        "form": "invariable",
+        "count": 23
+    },
+    {
+        "form": "inanimate neuter gender accusative case nominative case plural",
+        "count": 23
+    },
+    {
+        "form": "intransitive imperfective aspect active voice second person present tense singular",
+        "count": 23
+    },
+    {
+        "form": "transitive imperfective aspect passive voice active voice inanimate animate first person present tense masculine gender singular plural",
+        "count": 23
+    },
+    {
+        "form": "singularia tantum inanimate masculine gender genitive case singular",
+        "count": 23
+    },
+    {
+        "form": "qualitative adjective inanimate animate feminine gender masculine gender prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 22
+    },
+    {
+        "form": "intransitive imperfective aspect active voice second person present tense plural",
+        "count": 22
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender nominative case singular",
+        "count": 21
+    },
+    {
+        "form": "inanimate secondary genitive or prepositional case masculine gender prepositional case dative case singular",
+        "count": 21
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender dative case singular",
+        "count": 21
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender genitive case nominative case singular plural",
+        "count": 21
+    },
+    {
+        "form": "intransitive imperfective aspect active voice first person present tense plural",
+        "count": 21
+    },
+    {
+        "form": "animate masculine gender prepositional case plural",
+        "count": 21
+    },
+    {
+        "form": "interrogative",
+        "count": 20
+    },
+    {
+        "form": "transitive perfective aspect active voice past tense neuter gender singular",
+        "count": 20
+    },
+    {
+        "form": "animate feminine gender nominative case plural",
+        "count": 20
+    },
+    {
+        "form": "animate masculine gender genitive case nominative case singular plural",
+        "count": 19
+    },
+    {
+        "form": "inanimate genitive case plural",
+        "count": 19
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender instrumental case singular",
+        "count": 19
+    },
+    {
+        "form": "intransitive perfective aspect active voice imperative mood first person future tense plural",
+        "count": 19
+    },
+    {
+        "form": "animate feminine gender instrumental case plural",
+        "count": 18
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender dative case singular",
+        "count": 18
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender nominative case singular",
+        "count": 18
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 18
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense accusative case nominative case plural",
+        "count": 18
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 18
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender prepositional case dative case singular",
+        "count": 17
+    },
+    {
+        "form": "transitive perfective aspect active voice second person future tense plural",
+        "count": 17
+    },
+    {
+        "form": "intransitive perfective aspect active voice second person future tense plural",
+        "count": 17
+    },
+    {
+        "form": "animate first name masculine gender prepositional case singular",
+        "count": 16
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender accusative case nominative case singular",
+        "count": 15
+    },
+    {
+        "form": "animate feminine gender dative case plural",
+        "count": 15
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense prepositional case accusative case genitive case plural",
+        "count": 15
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender nominative case plural",
+        "count": 15
+    },
+    {
+        "form": "animate feminine gender prepositional case dative case singular",
+        "count": 15
+    },
+    {
+        "form": "transitive imperfective aspect active voice first person present tense plural",
+        "count": 15
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense accusative case nominative case plural",
+        "count": 15
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender prepositional case singular",
+        "count": 15
+    },
+    {
+        "form": "last name animate feminine gender masculine gender accusative case genitive case plural",
+        "count": 14
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender genitive case singular",
+        "count": 14
+    },
+    {
+        "form": "inanimate neuter gender genitive case singular",
+        "count": 14
+    },
+    {
+        "form": "animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 14
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender instrumental case singular",
+        "count": 14
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 14
+    },
+    {
+        "form": "neuter gender genitive case singular",
+        "count": 13
+    },
+    {
+        "form": "instrumental case",
+        "count": 13
+    },
+    {
+        "form": "animate feminine gender prepositional case accusative case genitive case plural",
+        "count": 13
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender instrumental case singular",
+        "count": 13
+    },
+    {
+        "form": "prepositional case dative case genitive case",
+        "count": 13
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 13
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender accusative case nominative case plural",
+        "count": 13
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 13
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender prepositional case dative case singular",
+        "count": 13
+    },
+    {
+        "form": "intransitive perfective aspect active voice imperative mood second person future tense plural",
+        "count": 13
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender accusative case genitive case nominative case singular plural",
+        "count": 12
+    },
+    {
+        "form": "last name animate feminine gender masculine gender accusative case dative case singular",
+        "count": 12
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender accusative case singular",
+        "count": 12
+    },
+    {
+        "form": "inanimate secondary genitive or prepositional case feminine gender prepositional case accusative case dative case genitive case nominative case singular plural",
+        "count": 12
+    },
+    {
+        "form": "last name animate masculine gender dative case singular",
+        "count": 12
+    },
+    {
+        "form": "transitive imperfective aspect active voice past tense neuter gender singular",
+        "count": 12
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 12
+    },
+    {
+        "form": "last name animate feminine gender masculine gender instrumental case plural",
+        "count": 12
+    },
+    {
+        "form": "comparative form inanimate animate neuter gender accusative case nominative case singular",
+        "count": 12
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender prepositional case dative case singular",
+        "count": 11
+    },
+    {
+        "form": "animate feminine gender prepositional case dative case genitive case nominative case singular plural",
+        "count": 11
+    },
+    {
+        "form": "animate first name feminine gender nominative case singular",
+        "count": 11
+    },
+    {
+        "form": "prepositional case accusative case genitive case",
+        "count": 11
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender instrumental case singular",
+        "count": 11
+    },
+    {
+        "form": "inanimate prepositional case plural",
+        "count": 11
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender accusative case singular",
+        "count": 11
+    },
+    {
+        "form": "singularia tantum organization inanimate masculine gender accusative case nominative case singular",
+        "count": 11
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense prepositional case accusative case genitive case plural",
+        "count": 11
+    },
+    {
+        "form": "neuter gender accusative case nominative case singular",
+        "count": 10
+    },
+    {
+        "form": "inanimate secondary genitive or prepositional case masculine gender dative case genitive case singular",
+        "count": 10
+    },
+    {
+        "form": "animate first name feminine gender accusative case singular",
+        "count": 10
+    },
+    {
+        "form": "animate first name masculine gender nominative case plural",
+        "count": 10
+    },
+    {
+        "form": "animate feminine gender accusative case nominative case singular",
+        "count": 10
+    },
+    {
+        "form": "animate feminine gender masculine gender accusative case genitive case plural",
+        "count": 10
+    },
+    {
+        "form": "singularia tantum inanimate masculine gender accusative case nominative case singular",
+        "count": 10
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense feminine gender singular",
+        "count": 10
+    },
+    {
+        "form": "inanimate instrumental case plural",
+        "count": 10
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense accusative case nominative case plural",
+        "count": 10
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender instrumental case singular",
+        "count": 10
+    },
+    {
+        "form": "last name animate feminine gender masculine gender instrumental case dative case singular plural",
+        "count": 10
+    },
+    {
+        "form": "animate first name masculine gender accusative case genitive case plural",
+        "count": 9
+    },
+    {
+        "form": "animate masculine gender accusative case singular",
+        "count": 9
+    },
+    {
+        "form": "animate masculine gender prepositional case dative case singular",
+        "count": 9
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender instrumental case dative case singular plural",
+        "count": 9
+    },
+    {
+        "form": "comparative form inanimate animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 9
+    },
+    {
+        "form": "singularia tantum organization inanimate masculine gender genitive case singular",
+        "count": 9
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender accusative case genitive case plural",
+        "count": 9
+    },
+    {
+        "form": "animate first name masculine gender instrumental case plural",
+        "count": 9
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense feminine gender accusative case singular",
+        "count": 9
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender dative case singular",
+        "count": 9
+    },
+    {
+        "form": "animate first name feminine gender accusative case genitive case plural",
+        "count": 8
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice past tense masculine gender singular",
+        "count": 8
+    },
+    {
+        "form": "inanimate secondary genitive or prepositional case masculine gender prepositional case dative case genitive case singular",
+        "count": 8
+    },
+    {
+        "form": "inanimate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 8
+    },
+    {
+        "form": "animate feminine gender masculine gender nominative case singular",
+        "count": 8
+    },
+    {
+        "form": "last name animate feminine gender nominative case singular",
+        "count": 8
+    },
+    {
+        "form": "inanimate invariable neuter gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 8
+    },
+    {
+        "form": "transitive perfective aspect passive voice active voice inanimate animate third person past tense future tense masculine gender singular plural",
+        "count": 8
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense instrumental case plural",
+        "count": 8
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender instrumental case singular",
+        "count": 8
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice",
+        "count": 8
+    },
+    {
+        "form": "animate feminine gender prepositional case plural",
+        "count": 8
+    },
+    {
+        "form": "animate feminine gender masculine gender accusative case singular",
+        "count": 8
+    },
+    {
+        "form": "prepositional case accusative case genitive case plural",
+        "count": 7
+    },
+    {
+        "form": "masculine gender accusative case genitive case singular",
+        "count": 7
+    },
+    {
+        "form": "neuter gender dative case singular",
+        "count": 7
+    },
+    {
+        "form": "neuter gender instrumental case singular",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender prepositional case accusative case dative case genitive case nominative case singular plural",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender prepositional case dative case genitive case singular",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum inanimate masculine gender prepositional case singular",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender prepositional case nominative case singular plural",
+        "count": 7
+    },
+    {
+        "form": "accusative case nominative case plural",
+        "count": 7
+    },
+    {
+        "form": "inanimate dative case plural",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender prepositional case genitive case plural",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender accusative case nominative case plural",
+        "count": 7
+    },
+    {
+        "form": "animate nominative case plural",
+        "count": 7
+    },
+    {
+        "form": "animate feminine gender masculine gender genitive case nominative case singular plural",
+        "count": 7
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense feminine gender nominative case singular",
+        "count": 7
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender genitive case singular",
+        "count": 7
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 7
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense neuter gender masculine gender dative case singular",
+        "count": 7
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 7
+    },
+    {
+        "form": "invariable inanimate animate neuter gender feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 6
+    },
+    {
+        "form": "masculine gender nominative case singular",
+        "count": 6
+    },
+    {
+        "form": "singularia tantum animate first name invariable masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 6
+    },
+    {
+        "form": "comparative form",
+        "count": 6
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender prepositional case singular",
+        "count": 6
+    },
+    {
+        "form": "imperfective aspect impersonal verb present tense",
+        "count": 6
+    },
+    {
+        "form": "invariable inanimate animate vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 6
+    },
+    {
+        "form": "animate prepositional case accusative case genitive case plural",
+        "count": 6
+    },
+    {
+        "form": "intransitive imperfective aspect active voice past tense",
+        "count": 6
+    },
+    {
+        "form": "comparative form inanimate animate",
+        "count": 6
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender instrumental case plural",
+        "count": 6
+    },
+    {
+        "form": "inanimate feminine gender accusative case nominative case plural",
+        "count": 6
+    },
+    {
+        "form": "singularia tantum animate first name invariable feminine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 6
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice third person future tense present tense singular",
+        "count": 6
+    },
+    {
+        "form": "animate masculine gender accusative case genitive case nominative case singular plural",
+        "count": 6
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice past tense plural",
+        "count": 6
+    },
+    {
+        "form": "neuter gender masculine gender accusative case nominative case",
+        "count": 5
+    },
+    {
+        "form": "instrumental case plural",
+        "count": 5
+    },
+    {
+        "form": "masculine gender dative case singular",
+        "count": 5
+    },
+    {
+        "form": "inanimate feminine gender prepositional case genitive case plural",
+        "count": 5
+    },
+    {
+        "form": "animate first name masculine gender prepositional case plural",
+        "count": 5
+    },
+    {
+        "form": "inanimate neuter gender prepositional case genitive case plural",
+        "count": 5
+    },
+    {
+        "form": "animate first name feminine gender instrumental case singular",
+        "count": 5
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender genitive case singular",
+        "count": 5
+    },
+    {
+        "form": "qualitative adjective comparative form inanimate animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 5
+    },
+    {
+        "form": "singularia tantum inanimate masculine gender dative case singular",
+        "count": 5
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender dative case plural",
+        "count": 5
+    },
+    {
+        "form": "last name animate masculine gender instrumental case singular",
+        "count": 5
+    },
+    {
+        "form": "transitive perfective aspect active voice inanimate animate past tense masculine gender accusative case nominative case singular",
+        "count": 5
+    },
+    {
+        "form": "animate feminine gender masculine gender prepositional case dative case singular",
+        "count": 5
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense feminine gender nominative case singular",
+        "count": 5
+    },
+    {
+        "form": "third person neuter gender accusative case genitive case singular",
+        "count": 4
+    },
+    {
+        "form": "third person masculine gender accusative case genitive case singular",
+        "count": 4
+    },
+    {
+        "form": "third person neuter gender instrumental case singular",
+        "count": 4
+    },
+    {
+        "form": "third person masculine gender instrumental case singular",
+        "count": 4
+    },
+    {
+        "form": "third person dative case plural",
+        "count": 4
+    },
+    {
+        "form": "third person neuter gender dative case singular",
+        "count": 4
+    },
+    {
+        "form": "third person masculine gender dative case singular",
+        "count": 4
+    },
+    {
+        "form": "second person instrumental case singular",
+        "count": 4
+    },
+    {
+        "form": "first person instrumental case singular",
+        "count": 4
+    },
+    {
+        "form": "inanimate neuter gender prepositional case dative case genitive case singular",
+        "count": 4
+    },
+    {
+        "form": "animate first name feminine gender prepositional case dative case singular",
+        "count": 4
+    },
+    {
+        "form": "animate neuter gender accusative case nominative case singular",
+        "count": 4
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender prepositional case accusative case nominative case singular",
+        "count": 4
+    },
+    {
+        "form": "masculine gender accusative case nominative case singular",
+        "count": 4
+    },
+    {
+        "form": "animate neuter gender genitive case nominative case singular plural",
+        "count": 4
+    },
+    {
+        "form": "animate first name masculine gender vocative case accusative case genitive case singular plural",
+        "count": 4
+    },
+    {
+        "form": "last name animate feminine gender masculine gender dative case plural",
+        "count": 4
+    },
+    {
+        "form": "last name animate feminine gender masculine gender prepositional case plural",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice past tense plural",
+        "count": 4
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender genitive case singular",
+        "count": 4
+    },
+    {
+        "form": "masculine gender prepositional case singular",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice third person future tense present tense singular",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice",
+        "count": 4
+    },
+    {
+        "form": "animate first name masculine gender prepositional case nominative case singular plural",
+        "count": 4
+    },
+    {
+        "form": "inanimate animate masculine gender nominative case singular",
+        "count": 4
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense masculine gender singular",
+        "count": 4
+    },
+    {
+        "form": "animate feminine gender masculine gender instrumental case plural",
+        "count": 4
+    },
+    {
+        "form": "imperfective aspect impersonal verb past tense",
+        "count": 4
+    },
+    {
+        "form": "inanimate animate neuter gender nominative case singular",
+        "count": 4
+    },
+    {
+        "form": "inanimate feminine gender instrumental case genitive case singular plural",
+        "count": 4
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense accusative case nominative case plural",
+        "count": 4
+    },
+    {
+        "form": "last name animate feminine gender masculine gender genitive case nominative case singular plural",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 4
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense masculine gender accusative case nominative case singular",
+        "count": 4
+    },
+    {
+        "form": "genitive case",
+        "count": 4
+    },
+    {
+        "form": "last name animate feminine gender accusative case singular",
+        "count": 4
+    },
+    {
+        "form": "singularia tantum inanimate masculine gender accusative case nominative case plural",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender dative case singular",
+        "count": 4
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense instrumental case plural",
+        "count": 4
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice first person future tense present tense singular",
+        "count": 4
+    },
+    {
+        "form": "third person feminine gender accusative case genitive case singular",
+        "count": 3
+    },
+    {
+        "form": "accusative case genitive case",
+        "count": 3
+    },
+    {
+        "form": "third person instrumental case plural",
+        "count": 3
+    },
+    {
+        "form": "neuter gender prepositional case singular",
+        "count": 3
+    },
+    {
+        "form": "feminine gender accusative case nominative case",
+        "count": 3
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice past tense masculine gender singular",
+        "count": 3
+    },
+    {
+        "form": "comparative form present tense",
+        "count": 3
+    },
+    {
+        "form": "animate first name feminine gender masculine gender nominative case singular",
+        "count": 3
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender genitive case plural",
+        "count": 3
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender accusative case nominative case singular",
+        "count": 3
+    },
+    {
+        "form": "feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 3
+    },
+    {
+        "form": "last name animate feminine gender masculine gender accusative case singular",
+        "count": 3
+    },
+    {
+        "form": "masculine gender instrumental case singular",
+        "count": 3
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender instrumental case dative case singular plural",
+        "count": 3
+    },
+    {
+        "form": "animate feminine gender masculine gender instrumental case singular",
+        "count": 3
+    },
+    {
+        "form": "inanimate neuter gender instrumental case dative case singular plural",
+        "count": 3
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender dative case plural",
+        "count": 3
+    },
+    {
+        "form": "inanimate animate nominative case plural",
+        "count": 3
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice imperative mood second person singular",
+        "count": 3
+    },
+    {
+        "form": "animate first name masculine gender dative case plural",
+        "count": 3
+    },
+    {
+        "form": "singularia tantum inanimate masculine gender instrumental case singular",
+        "count": 3
+    },
+    {
+        "form": "animate first name feminine gender prepositional case dative case genitive case nominative case singular plural",
+        "count": 3
+    },
+    {
+        "form": "inanimate prepositional case genitive case plural",
+        "count": 3
+    },
+    {
+        "form": "animate first name feminine gender genitive case nominative case singular plural",
+        "count": 3
+    },
+    {
+        "form": "feminine gender nominative case singular",
+        "count": 3
+    },
+    {
+        "form": "animate neuter gender instrumental case plural",
+        "count": 3
+    },
+    {
+        "form": "qualitative adjective secondary genitive or prepositional case comparative form inanimate animate",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect active voice past tense",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice imperative mood second person singular",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 3
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense feminine gender accusative case singular",
+        "count": 3
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense masculine gender singular",
+        "count": 3
+    },
+    {
+        "form": "singularia tantum organization inanimate masculine gender accusative case nominative case plural",
+        "count": 3
+    },
+    {
+        "form": "locativity inanimate accusative case nominative case plural",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense feminine gender nominative case singular",
+        "count": 3
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice past tense",
+        "count": 3
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice third person future tense present tense plural",
+        "count": 3
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense masculine gender accusative case nominative case singular",
+        "count": 3
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 3
+    },
+    {
+        "form": "first person nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "third person accusative case genitive case plural",
+        "count": 2
+    },
+    {
+        "form": "third person masculine gender nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate masculine gender nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "third person nominative case plural",
+        "count": 2
+    },
+    {
+        "form": "inanimate animate neuter gender accusative case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "neuter gender accusative case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice third person future tense singular",
+        "count": 2
+    },
+    {
+        "form": "second person nominative case plural",
+        "count": 2
+    },
+    {
+        "form": "second person nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate masculine gender accusative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "first person accusative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "second person accusative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "second person prepositional case accusative case genitive case plural",
+        "count": 2
+    },
+    {
+        "form": "first person prepositional case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "inanimate abbreviation neuter gender genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "first person nominative case plural",
+        "count": 2
+    },
+    {
+        "form": "second person dative case plural",
+        "count": 2
+    },
+    {
+        "form": "second person prepositional case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice third person future tense plural",
+        "count": 2
+    },
+    {
+        "form": "first person prepositional case accusative case genitive case plural",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate masculine gender dative case singular",
+        "count": 2
+    },
+    {
+        "form": "third person feminine gender nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice third person present tense singular plural",
+        "count": 2
+    },
+    {
+        "form": "locativity inanimate invariable neuter gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "first person dative case plural",
+        "count": 2
+    },
+    {
+        "form": "neuter gender prepositional case instrumental case dative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "inanimate animate neuter gender masculine gender prepositional case instrumental case dative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "neuter gender prepositional case instrumental case singular",
+        "count": 2
+    },
+    {
+        "form": "masculine gender accusative case nominative case",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum inanimate abbreviation invariable masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice first person future tense singular",
+        "count": 2
+    },
+    {
+        "form": "prepositional case dative case",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate masculine gender instrumental case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice second person future tense singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender accusative case genitive case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "third person neuter gender prepositional case singular",
+        "count": 2
+    },
+    {
+        "form": "third person masculine gender prepositional case singular",
+        "count": 2
+    },
+    {
+        "form": "neuter gender masculine gender accusative case genitive case",
+        "count": 2
+    },
+    {
+        "form": "inanimate masculine gender prepositional case accusative case dative case genitive case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "third person feminine gender instrumental case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "third person neuter gender nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice imperative mood first person future tense plural",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice past tense feminine gender singular",
+        "count": 2
+    },
+    {
+        "form": "neuter gender accusative case nominative case",
+        "count": 2
+    },
+    {
+        "form": "animate first name feminine gender masculine gender accusative case singular",
+        "count": 2
+    },
+    {
+        "form": "feminine gender nominative case",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender accusative case genitive case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender accusative case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "neuter gender masculine gender dative case",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate masculine gender prepositional case singular",
+        "count": 2
+    },
+    {
+        "form": "nominative case plural",
+        "count": 2
+    },
+    {
+        "form": "animate neuter gender instrumental case singular",
+        "count": 2
+    },
+    {
+        "form": "neuter gender masculine gender instrumental case dative case",
+        "count": 2
+    },
+    {
+        "form": "last name animate feminine gender masculine gender prepositional case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender accusative case nominative case plural",
+        "count": 2
+    },
+    {
+        "form": "animate first name feminine gender masculine gender prepositional case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "animate first name feminine gender accusative case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "neuter gender nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect inanimate animate neuter gender singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect active voice imperative mood second person present tense singular",
+        "count": 2
+    },
+    {
+        "form": "animate neuter gender dative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate feminine gender genitive case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "animate neuter gender accusative case genitive case plural",
+        "count": 2
+    },
+    {
+        "form": "prepositional case instrumental case dative case genitive case",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender prepositional case dative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate feminine gender nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "inanimate animate neuter gender feminine gender masculine gender accusative case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender prepositional case dative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "feminine gender accusative case singular",
+        "count": 2
+    },
+    {
+        "form": "animate dative case plural",
+        "count": 2
+    },
+    {
+        "form": "locativity inanimate genitive case plural",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender genitive case nominative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense masculine gender accusative case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense plural",
+        "count": 2
+    },
+    {
+        "form": "perfective aspect impersonal verb future tense",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice imperative mood first person present tense plural",
+        "count": 2
+    },
+    {
+        "form": "transitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense accusative case nominative case plural",
+        "count": 2
+    },
+    {
+        "form": "dative case",
+        "count": 2
+    },
+    {
+        "form": "transitive perfective aspect active voice imperative mood second person future tense singular",
+        "count": 2
+    },
+    {
+        "form": "last name animate feminine gender masculine gender instrumental case singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense neuter gender accusative case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender dative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice first person future tense present tense singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice third person future tense present tense plural",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense plural",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum organization inanimate masculine gender prepositional case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender accusative case singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender dative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum locativity inanimate invariable masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice past tense feminine gender singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice present tense",
+        "count": 2
+    },
+    {
+        "form": "animate instrumental case plural",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "animate feminine gender masculine gender dative case plural",
+        "count": 2
+    },
+    {
+        "form": "animate first name masculine gender prepositional case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender prepositional case dative case singular",
+        "count": 2
+    },
+    {
+        "form": "singularia tantum organization inanimate masculine gender dative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense instrumental case plural",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice past tense",
+        "count": 2
+    },
+    {
+        "form": "transitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 2
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense feminine gender accusative case singular",
+        "count": 2
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense instrumental case plural",
+        "count": 2
+    },
+    {
+        "form": "third person prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate masculine gender vocative case singular",
+        "count": 1
+    },
+    {
+        "form": "third person feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "second person instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect active voice second person future tense plural",
+        "count": 1
+    },
+    {
+        "form": "first person instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "neuter gender feminine gender masculine gender prepositional case accusative case genitive case",
+        "count": 1
+    },
+    {
+        "form": "animate masculine gender vocative case singular",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate masculine gender genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "feminine gender prepositional case instrumental case dative case genitive case",
+        "count": 1
+    },
+    {
+        "form": "inanimate animate neuter gender feminine gender masculine gender accusative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "third person feminine gender instrumental case singular",
+        "count": 1
+    },
+    {
+        "form": "animate first name feminine gender masculine gender genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "feminine gender accusative case",
+        "count": 1
+    },
+    {
+        "form": "animate first name masculine gender genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "animate neuter gender prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate masculine gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "masculine gender nominative case accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "neuter gender feminine gender masculine gender instrumental case",
+        "count": 1
+    },
+    {
+        "form": "neuter gender masculine gender prepositional case",
+        "count": 1
+    },
+    {
+        "form": "animate first name feminine gender masculine gender instrumental case singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate invariable masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "archaism intransitive imperfective aspect active voice inanimate animate present tense prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "inanimate masculine gender prepositional case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "imperfective aspect impersonal verb",
+        "count": 1
+    },
+    {
+        "form": "neuter gender masculine gender prepositional case accusative case genitive case",
+        "count": 1
+    },
+    {
+        "form": "prepositional case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate feminine gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "animate masculine gender instrumental case accusative case genitive case singular plural",
+        "count": 1
+    },
+    {
+        "form": "inanimate animate prepositional case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate feminine gender accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "animate first name feminine gender prepositional case plural",
+        "count": 1
+    },
+    {
+        "form": "archaism animate feminine gender accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "animate neuter gender nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "dative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender prepositional case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "archaism animate feminine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "neuter gender instrumental case dative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "last name animate masculine gender nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "neuter gender feminine gender masculine gender dative case",
+        "count": 1
+    },
+    {
+        "form": "genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate masculine gender instrumental case singular",
+        "count": 1
+    },
+    {
+        "form": "last name animate feminine gender masculine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate masculine gender dative case singular",
+        "count": 1
+    },
+    {
+        "form": "feminine gender prepositional case accusative case genitive case",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate invariable neuter gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "animate neuter gender genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate comparative form inanimate animate",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate first name feminine gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "animate neuter gender instrumental case dative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "transitive perfective aspect passive voice inanimate animate past tense neuter gender masculine gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect inanimate animate masculine gender singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate feminine gender genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate inanimate animate neuter gender singular",
+        "count": 1
+    },
+    {
+        "form": "archaism animate feminine gender accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate masculine gender instrumental case dative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "animate first name masculine gender genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense masculine gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "archaism inanimate animate neuter gender singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "dative case plural",
+        "count": 1
+    },
+    {
+        "form": "neuter gender masculine gender instrumental case dative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate feminine gender dative case plural",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate animate neuter gender genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect inanimate animate plural",
+        "count": 1
+    },
+    {
+        "form": "archaism transitive perfective aspect active voice past tense masculine gender singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "last name animate feminine gender masculine gender prepositional case instrumental case dative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "animate feminine gender masculine gender prepositional case plural",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate masculine gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender prepositional case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum organization inanimate masculine gender prepositional case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate past tense masculine gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "animate feminine gender genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice first person future tense plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense accusative case nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice imperative mood second person plural",
+        "count": 1
+    },
+    {
+        "form": "animate patronymic feminine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "archaism animate feminine gender genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate neuter gender accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "animate neuter gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "instrumental case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense neuter gender masculine gender dative case singular",
+        "count": 1
+    },
+    {
+        "form": "qualitative adjective comparative form inanimate animate neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate feminine gender accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum organization inanimate invariable feminine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate secondary genitive or prepositional case masculine gender prepositional case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "last name animate feminine gender masculine gender prepositional case dative case genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate patronymic feminine gender accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender prepositional case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender dative case singular",
+        "count": 1
+    },
+    {
+        "form": "inanimate animate feminine gender instrumental case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate invariable feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "archaism intransitive imperfective aspect active voice inanimate animate present tense accusative case nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "feminine gender dative case",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice past tense neuter gender singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice second person future tense present tense singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum animate first name masculine gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "perfective aspect impersonal verb past tense",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate invariable feminine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate invariable feminine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate secondary genitive or prepositional case masculine gender prepositional case dative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense plural",
+        "count": 1
+    },
+    {
+        "form": "inanimate feminine gender nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "archaism intransitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender accusative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "archaism intransitive imperfective aspect active voice inanimate animate present tense neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive perfective aspect active voice inanimate animate past tense accusative case nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "animate first name feminine gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate present tense prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender dative case plural",
+        "count": 1
+    },
+    {
+        "form": "inanimate masculine gender prepositional case dative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense neuter gender masculine gender dative case singular",
+        "count": 1
+    },
+    {
+        "form": "animate neuter gender prepositional case accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "locativity inanimate invariable feminine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate masculine gender dative case plural",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice imperative mood first person plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum organization inanimate feminine gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "archaism intransitive imperfective aspect active voice inanimate animate present tense neuter gender masculine gender prepositional case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender dative case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender instrumental case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate past tense accusative case nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate feminine gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum organization inanimate abbreviation invariable masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "masculine gender prepositional case instrumental case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect passive voice inanimate animate past tense neuter gender singular",
+        "count": 1
+    },
+    {
+        "form": "neuter gender masculine gender instrumental case",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum locativity inanimate neuter gender prepositional case accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense feminine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect active voice inanimate animate present tense neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive perfective aspect active voice inanimate animate past tense feminine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive perfective aspect active voice inanimate animate past tense prepositional case accusative case genitive case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice inanimate animate past tense feminine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect perfective aspect active voice inanimate animate past tense accusative case nominative case plural",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect perfective aspect active voice inanimate animate past tense feminine gender accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "transitive imperfective aspect passive voice inanimate animate past tense neuter gender masculine gender dative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate past tense feminine gender nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect inanimate animate neuter gender accusative case nominative case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect inanimate animate feminine gender prepositional case instrumental case dative case genitive case singular",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect comparative form inanimate animate",
+        "count": 1
+    },
+    {
+        "form": "intransitive imperfective aspect active voice inanimate animate present tense feminine gender accusative case singular",
+        "count": 1
+    },
+    {
+        "form": "singularia tantum inanimate feminine gender prepositional case plural",
+        "count": 1
+    }
+]

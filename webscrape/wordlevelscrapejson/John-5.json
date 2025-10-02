@@ -1,0 +1,6562 @@
+[
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исцеляет",
+        "chapter": 5,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "больного",
+        "chapter": 5,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "у",
+        "chapter": 5,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бассейна",
+        "chapter": 5,
+        "verse": 0,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Немного",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "позже",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пошел",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "на",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "иудейский",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "праздник",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иерусалим.",
+        "chapter": 5,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "В",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иерусалиме,",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "недалеко",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Овечьих",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ворот,",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "есть",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пруд,",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "называемый",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "по-еврейски",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Вифезда,",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "окруженный",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пятью",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "крытыми",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "колоннадами.",
+        "chapter": 5,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Там",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "лежало",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "много",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "инвалидов,",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слепых,",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "хромых",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "парализованных.",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Они",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ожидали",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "движения",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "воды.",
+        "chapter": 5,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иногда",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ангел",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Господа",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сходил",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "возмущал",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "воду,",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тогда",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "первый,",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "входил",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пруд,",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исцелялся",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "любой",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "болезни.",
+        "chapter": 5,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Среди",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "них",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "был",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "человек,",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "больной",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "уже",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тридцать",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "восемь",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "лет.",
+        "chapter": 5,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Когда",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "увидел",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "его",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "лежащим",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "там",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "узнал,",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тот",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "уже",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "давно",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "таком",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "состоянии,",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "спросил",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "его:",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ты",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "хочешь",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "выздороветь?",
+        "chapter": 5,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Больной",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ответил:",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Господин,",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "да",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ведь",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нет",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "никого,",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бы",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "помог",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "мне",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "войти",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "воду,",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "когда",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вода",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бурлит.",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "А",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "когда",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "я",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "стараюсь",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сам",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "дойти",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "до",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "воды,",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто-нибудь",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "меня",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "уже",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "опережает.",
+        "chapter": 5,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тогда",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказал",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ему:",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Встань!",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Возьми",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свою",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "циновку",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "иди.",
+        "chapter": 5,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "И",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "этот",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "человек",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тот",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "же",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "миг",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "стал",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "здоров.",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "взял",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свою",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "циновку",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пошел.",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Это",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "произошло",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "субботу.",
+        "chapter": 5,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иудеи",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "поэтому",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказали",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исцеленному:",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сегодня",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "суббота,",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тебе",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нельзя",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нести",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "циновку.",
+        "chapter": 5,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Но",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "он",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ответил:",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тот,",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Кто",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исцелил",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "меня,",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тот",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказал",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "мне:",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "«Возьми",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свою",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "циновку",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "иди».",
+        "chapter": 5,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Они",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "спросили:",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Кто",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "такой,",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тот,",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Кто",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказал",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тебе",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "взять",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "циновку",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "идти?",
+        "chapter": 5,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Исцеленный",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сам",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "знал,",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Это",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "был,",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "скрылся",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "толпе,",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "которая",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "была",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "там.",
+        "chapter": 5,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Позже",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нашел",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "его",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "храме",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказал:",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ну",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вот",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ты",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "здоров.",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Не",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "греши",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "больше,",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "случилось",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "с",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тобой",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "еще",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "худшего.",
+        "chapter": 5,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Человек",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "этот",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тогда",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пошел",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказал",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "иудеям,",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "его",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исцелил",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус.",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Вечная",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "через",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сына",
+        "chapter": 5,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иудеи",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "стали",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "преследовать",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисуса,",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сделал",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "это",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "субботу.",
+        "chapter": 5,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "же",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказал",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "им:",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мой",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "совершает",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "работу",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "всегда,",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тоже",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "это",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делаю.",
+        "chapter": 5,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тогда",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "иудеи",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "еще",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "более",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "усердно",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "стали",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "искать",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "возможности",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "убить",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисуса,",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ведь",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "только",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нарушал",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "субботу,",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "но",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "к",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тому",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "же",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "называл",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Бога",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Своим",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отцом,",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "приравнивая",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Себя",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "к",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Богу.",
+        "chapter": 5,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "На",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "это",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ответил",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "им",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "так:",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Говорю",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вам",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "истину:",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сын",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ничего",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "может",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делать",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сам",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Себя,",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пока",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "увидит",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отца",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делающим.",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "То,",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делает",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец,",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делает",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сын.",
+        "chapter": 5,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ведь",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "любит",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сына",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "показывает",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ему",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "все,",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делает",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сам,",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "удивитесь,",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "покажет",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ему",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "более",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "великие",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "дела.",
+        "chapter": 5,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Точно",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "так,",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "как",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "воскрешает",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "мертвых",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "дает",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "им",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь,",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "так",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сын",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "дает",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тем,",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кому",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "хочет.",
+        "chapter": 5,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Более",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "того,",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "никого",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "судит,",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "доверил",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "весь",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "суд",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сыну,",
+        "chapter": 5,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "все",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "почитали",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сына,",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "как",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтят",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отца.",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тот,",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтит",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сына,",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтит",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отца,",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пославшего",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сына.",
+        "chapter": 5,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Говорю",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вам",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "истину:",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "всякий,",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слышит",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мое",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слово",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "верит",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Пославшему",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Меня,",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "имеет",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вечную,",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ему",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "придется",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "приходить",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "на",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "суд,",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "он",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "уже",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "перешел",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "из",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "смерти",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь.",
+        "chapter": 5,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Говорю",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вам",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "истину:",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "наступает",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "время,",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "уже",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "наступило,",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "когда",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "мертвые",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "услышат",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "голос",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сына",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Божьего,",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "те,",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "услышит,",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "оживут.",
+        "chapter": 5,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Потому",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что,",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "как",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "имеет",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Самом",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Себе,",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "так",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "дал",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "иметь",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Самом",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Себе",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сыну.",
+        "chapter": 5,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "дал",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ему",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "власть",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "судить,",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сын",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Человеческий.",
+        "chapter": 5,
+        "verse": 27,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Не",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "удивляйтесь",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "этому,",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "настанет",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "время,",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "когда",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "все,",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "находится",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сейчас",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "могилах,",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "услышат",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Его",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "голос",
+        "chapter": 5,
+        "verse": 28,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "выйдут",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "из",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "могил.",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Те,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делал",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "добро,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "воскреснут,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жить,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "те,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делал",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "зло,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "поднимутся,",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "получить",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "осуждение.",
+        "chapter": 5,
+        "verse": 29,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "могу",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ничего",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "делать",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сам",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Себя.",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сужу",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "так,",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "как",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сказано,",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мой",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "суд",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "справедлив,",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "стремлюсь",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исполнить",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Свою",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "волю,",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "а",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "волю",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Пославшего",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Меня.",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иисус",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "подтверждает",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "истинность",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Своих",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слов",
+        "chapter": 5,
+        "verse": 30,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Если",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бы",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельствовал",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сам",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "о",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Себе,",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "то",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельство",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мое",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "было",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бы",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "недействительно,",
+        "chapter": 5,
+        "verse": 31,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "но",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "обо",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельствует",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "еще",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "один",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетель,",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "знаю,",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Его",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельство",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "обо",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "истинно.",
+        "chapter": 5,
+        "verse": 32,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Вы",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "посылали",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "к",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иоанну,",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "он",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельствовал",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "об",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "истине.",
+        "chapter": 5,
+        "verse": 33,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нуждаюсь",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельстве",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "людей,",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "но",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "говорю",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "об",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "этом,",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "были",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "спасены.",
+        "chapter": 5,
+        "verse": 34,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иоанн",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "был",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "горящим",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сияющим",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "светильником,",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "хотели",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "хоть",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "некоторое",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "время",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "порадоваться",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "при",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "его",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свете.",
+        "chapter": 5,
+        "verse": 35,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Но",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "у",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Меня",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "есть",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельство",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сильнее",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Иоаннова.",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Дела,",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "которые",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "поручил",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "совершить",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "которые",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "совершаю,",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельствуют",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "о",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "том,",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "послал",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Меня.",
+        "chapter": 5,
+        "verse": 36,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Обо",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельствует",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Сам",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отец,",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пославший",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Меня.",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Вы",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "никогда",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слышали",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Его",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "голоса",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "видели",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Его",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "облика.",
+        "chapter": 5,
+        "verse": 37,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Его",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слово",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "живет",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вас,",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "верите",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Тому,",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Кого",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Он",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "послал.",
+        "chapter": 5,
+        "verse": 38,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Вы",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "старательно",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "исследуете",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Писания,",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "надеясь",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "через",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "них",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "получить",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вечную.",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "А",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ведь",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "эти",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Писания",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "свидетельствуют",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "обо",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне.",
+        "chapter": 5,
+        "verse": 39,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Однако",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "отказываетесь",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "прийти",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ко",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне,",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "получить",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "жизнь.",
+        "chapter": 5,
+        "verse": 40,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне",
+        "chapter": 5,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нужна",
+        "chapter": 5,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "слава",
+        "chapter": 5,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "людей,",
+        "chapter": 5,
+        "verse": 41,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "но",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "знаю",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вас:",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "в",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ваших",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "сердцах",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "нет",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "любви",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "к",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Богу.",
+        "chapter": 5,
+        "verse": 42,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "пришел",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "во",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "имя",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Моего",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отца,",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Меня",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "принимаете,",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "но",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "когда",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "кто-либо",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "другой",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "придет",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "во",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "имя",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "самого",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "себя",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "его",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "примете.",
+        "chapter": 5,
+        "verse": 43,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Как",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "можете",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "поверить,",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "когда",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ищете",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "похвалы",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "друг",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "друга,",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "но",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "прилагаете",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "никаких",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "усилий,",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "чтобы",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "получить",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "похвалу",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "от",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "единого",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Бога?",
+        "chapter": 5,
+        "verse": 44,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Не",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "думайте,",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "однако,",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Я",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "буду",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "обвинять",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вас",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "перед",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Отцом.",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Ваш",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "обвинитель",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "–",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Моисей,",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "на",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "которого",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "возлагаете",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "ваши",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "надежды.",
+        "chapter": 5,
+        "verse": 45,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Если",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бы",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "верили",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Моисею,",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "то",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "верили",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "бы",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "и",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне,",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "потому",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Моисей",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "писал",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "обо",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Мне.",
+        "chapter": 5,
+        "verse": 46,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Но",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "если",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "не",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "верите",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "тому,",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "что",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "он",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "написал,",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "то",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "как",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "вы",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "можете",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "поверить",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "Моим",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    },
+    {
+        "text": "словам?",
+        "chapter": 5,
+        "verse": 47,
+        "translation_id": "NRT",
+        "book_id": "John",
+        "book_name": "John"
+    }
+]

@@ -1,0 +1,1538 @@
+[
+    {
+        "rus": "и",
+        "count": 28720,
+        "forms": [
+            {
+                "text": "и",
+                "form": "",
+                "part": "interjection",
+                "dict": "и"
+            },
+            {
+                "text": "и",
+                "form": "",
+                "part": "conjunction",
+                "dict": "и"
+            }
+        ]
+    },
+    {
+        "rus": "в",
+        "count": 12847,
+        "forms": [
+            {
+                "text": "в",
+                "form": "",
+                "part": "preposition",
+                "dict": "в"
+            }
+        ]
+    },
+    {
+        "rus": "не",
+        "count": 8773,
+        "forms": [
+            {
+                "text": "не",
+                "form": "",
+                "part": "particle",
+                "dict": "не"
+            }
+        ]
+    },
+    {
+        "rus": "на",
+        "count": 6697,
+        "forms": [
+            {
+                "text": "на",
+                "form": "",
+                "part": "preposition",
+                "dict": "на"
+            }
+        ]
+    },
+    {
+        "rus": "что",
+        "count": 6520,
+        "forms": [
+            {
+                "text": "что",
+                "form": "",
+                "part": "conjunction",
+                "dict": "что"
+            },
+            {
+                "text": "что",
+                "form": "interrogative",
+                "part": "adverb",
+                "dict": "что"
+            },
+            {
+                "text": "что",
+                "form": "neuter gender accusative case nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "что"
+            }
+        ]
+    },
+    {
+        "rus": "с",
+        "count": 4970,
+        "forms": [
+            {
+                "text": "с",
+                "form": "",
+                "part": "noun preposition",
+                "dict": "с"
+            }
+        ]
+    },
+    {
+        "rus": "его",
+        "count": 4746,
+        "forms": [
+            {
+                "text": "его",
+                "form": "third person neuter gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "оно"
+            },
+            {
+                "text": "его",
+                "form": "third person masculine gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            },
+            {
+                "text": "его",
+                "form": "invariable inanimate animate neuter gender feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+                "part": "pronoun-adjective",
+                "dict": "его"
+            }
+        ]
+    },
+    {
+        "rus": "Я",
+        "count": 4480,
+        "forms": [
+            {
+                "text": "Я",
+                "form": "first person nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "я"
+            }
+        ]
+    },
+    {
+        "rus": "их",
+        "count": 3968,
+        "forms": [
+            {
+                "text": "их",
+                "form": "invariable inanimate animate neuter gender feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+                "part": "pronoun-adjective",
+                "dict": "их"
+            },
+            {
+                "text": "их",
+                "form": "third person accusative case genitive case plural",
+                "part": "nominal pronoun",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "из",
+        "count": 3937,
+        "forms": [
+            {
+                "text": "из",
+                "form": "",
+                "part": "preposition",
+                "dict": "из"
+            },
+            {
+                "text": "из",
+                "form": "singularia tantum animate first name feminine gender accusative case genitive case plural",
+                "part": "noun",
+                "dict": "иза"
+            }
+        ]
+    },
+    {
+        "rus": "Он",
+        "count": 3766,
+        "forms": [
+            {
+                "text": "Он",
+                "form": "third person masculine gender nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "Господь",
+        "count": 3540,
+        "forms": [
+            {
+                "text": "Господь",
+                "form": "singularia tantum animate masculine gender nominative case singular",
+                "part": "noun",
+                "dict": "господь"
+            }
+        ]
+    },
+    {
+        "rus": "к",
+        "count": 3491,
+        "forms": [
+            {
+                "text": "к",
+                "form": "",
+                "part": "preposition",
+                "dict": "к"
+            }
+        ]
+    },
+    {
+        "rus": "он",
+        "count": 3439,
+        "forms": [
+            {
+                "text": "он",
+                "form": "third person masculine gender nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "как",
+        "count": 3428,
+        "forms": [
+            {
+                "text": "как",
+                "form": "",
+                "part": "conjunction",
+                "dict": "как"
+            },
+            {
+                "text": "как",
+                "form": "interrogative",
+                "part": "adverb",
+                "dict": "как"
+            },
+            {
+                "text": "как",
+                "form": "",
+                "part": "particle",
+                "dict": "как"
+            }
+        ]
+    },
+    {
+        "rus": "они",
+        "count": 3204,
+        "forms": [
+            {
+                "text": "они",
+                "form": "third person nominative case plural",
+                "part": "nominal pronoun",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "от",
+        "count": 3066,
+        "forms": [
+            {
+                "text": "от",
+                "form": "",
+                "part": "preposition",
+                "dict": "от"
+            }
+        ]
+    },
+    {
+        "rus": "чтобы",
+        "count": 2782,
+        "forms": [
+            {
+                "text": "чтобы",
+                "form": "",
+                "part": "conjunction",
+                "dict": "чтобы"
+            },
+            {
+                "text": "чтобы",
+                "form": "",
+                "part": "particle",
+                "dict": "чтобы"
+            }
+        ]
+    },
+    {
+        "rus": "я",
+        "count": 2595,
+        "forms": [
+            {
+                "text": "я",
+                "form": "first person nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "я"
+            }
+        ]
+    },
+    {
+        "rus": "сказал",
+        "count": 2540,
+        "forms": [
+            {
+                "text": "сказал",
+                "form": "transitive perfective aspect active voice past tense masculine gender singular",
+                "part": "verb",
+                "dict": "сказать"
+            }
+        ]
+    },
+    {
+        "rus": "все",
+        "count": 2432,
+        "forms": [
+            {
+                "text": "все",
+                "form": "",
+                "part": "adverb",
+                "dict": "все"
+            },
+            {
+                "text": "все",
+                "form": "inanimate animate neuter gender accusative case nominative case singular plural",
+                "part": "pronoun-adjective",
+                "dict": "весь"
+            },
+            {
+                "text": "все",
+                "form": "neuter gender accusative case nominative case singular plural",
+                "part": "nominal pronoun",
+                "dict": "все"
+            }
+        ]
+    },
+    {
+        "rus": "а",
+        "count": 2415,
+        "forms": [
+            {
+                "text": "а",
+                "form": "",
+                "part": "interjection",
+                "dict": "а"
+            },
+            {
+                "text": "а",
+                "form": "",
+                "part": "conjunction",
+                "dict": "а"
+            },
+            {
+                "text": "а",
+                "form": "",
+                "part": "particle",
+                "dict": "а"
+            }
+        ]
+    },
+    {
+        "rus": "за",
+        "count": 2384,
+        "forms": [
+            {
+                "text": "за",
+                "form": "",
+                "part": "preposition",
+                "dict": "за"
+            }
+        ]
+    },
+    {
+        "rus": "то",
+        "count": 2380,
+        "forms": [
+            {
+                "text": "то",
+                "form": "",
+                "part": "conjunction",
+                "dict": "то"
+            },
+            {
+                "text": "то",
+                "form": "inanimate animate neuter gender accusative case nominative case singular",
+                "part": "pronoun-adjective",
+                "dict": "тот"
+            },
+            {
+                "text": "то",
+                "form": "",
+                "part": "particle",
+                "dict": "то"
+            }
+        ]
+    },
+    {
+        "rus": "у",
+        "count": 2287,
+        "forms": [
+            {
+                "text": "у",
+                "form": "",
+                "part": "interjection",
+                "dict": "у"
+            },
+            {
+                "text": "у",
+                "form": "",
+                "part": "preposition",
+                "dict": "у"
+            }
+        ]
+    },
+    {
+        "rus": "для",
+        "count": 2085,
+        "forms": [
+            {
+                "text": "для",
+                "form": "",
+                "part": "preposition",
+                "dict": "для"
+            },
+            {
+                "text": "для",
+                "form": "transitive imperfective aspect active voice present tense",
+                "part": "gerund",
+                "dict": "длить"
+            }
+        ]
+    },
+    {
+        "rus": "будет",
+        "count": 2074,
+        "forms": [
+            {
+                "text": "будет",
+                "form": "intransitive imperfective aspect active voice third person future tense singular",
+                "part": "verb",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "вы",
+        "count": 2004,
+        "forms": [
+            {
+                "text": "вы",
+                "form": "second person nominative case plural",
+                "part": "nominal pronoun",
+                "dict": "вы"
+            }
+        ]
+    },
+    {
+        "rus": "по",
+        "count": 1971,
+        "forms": [
+            {
+                "text": "по",
+                "form": "",
+                "part": "preposition",
+                "dict": "по"
+            }
+        ]
+    },
+    {
+        "rus": "кто",
+        "count": 1962,
+        "forms": [
+            {
+                "text": "кто",
+                "form": "masculine gender nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "кто"
+            }
+        ]
+    },
+    {
+        "rus": "ты",
+        "count": 1937,
+        "forms": [
+            {
+                "text": "ты",
+                "form": "second person nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "о",
+        "count": 1837,
+        "forms": [
+            {
+                "text": "о",
+                "form": "",
+                "part": "interjection",
+                "dict": "о"
+            },
+            {
+                "text": "о",
+                "form": "",
+                "part": "preposition",
+                "dict": "о"
+            }
+        ]
+    },
+    {
+        "rus": "Господа",
+        "count": 1833,
+        "forms": [
+            {
+                "text": "Господа",
+                "form": "animate masculine gender nominative case plural",
+                "part": "noun",
+                "dict": "од"
+            },
+            {
+                "text": "Господа",
+                "form": "singularia tantum animate masculine gender accusative case genitive case singular",
+                "part": "noun",
+                "dict": "господь"
+            }
+        ]
+    },
+    {
+        "rus": "это",
+        "count": 1790,
+        "forms": [
+            {
+                "text": "это",
+                "form": "inanimate animate neuter gender accusative case nominative case singular",
+                "part": "pronoun-adjective",
+                "dict": "этот"
+            },
+            {
+                "text": "это",
+                "form": "neuter gender accusative case nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "это"
+            },
+            {
+                "text": "это",
+                "form": "",
+                "part": "particle",
+                "dict": "это"
+            }
+        ]
+    },
+    {
+        "rus": "Его",
+        "count": 1759,
+        "forms": [
+            {
+                "text": "Его",
+                "form": "third person neuter gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "оно"
+            },
+            {
+                "text": "Его",
+                "form": "third person masculine gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            },
+            {
+                "text": "Его",
+                "form": "invariable inanimate animate neuter gender feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+                "part": "pronoun-adjective",
+                "dict": "его"
+            }
+        ]
+    },
+    {
+        "rus": "но",
+        "count": 1635,
+        "forms": [
+            {
+                "text": "но",
+                "form": "",
+                "part": "interjection",
+                "dict": "но"
+            },
+            {
+                "text": "но",
+                "form": "",
+                "part": "conjunction",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "потому",
+        "count": 1630,
+        "forms": [
+            {
+                "text": "потому",
+                "form": "",
+                "part": "adverb",
+                "dict": "потому"
+            }
+        ]
+    },
+    {
+        "rus": "Бог",
+        "count": 1629,
+        "forms": [
+            {
+                "text": "Бог",
+                "form": "animate masculine gender nominative case singular",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "Ты",
+        "count": 1581,
+        "forms": [
+            {
+                "text": "Ты",
+                "form": "second person nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "был",
+        "count": 1576,
+        "forms": [
+            {
+                "text": "был",
+                "form": "intransitive imperfective aspect active voice past tense masculine gender singular",
+                "part": "verb",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "Но",
+        "count": 1562,
+        "forms": [
+            {
+                "text": "Но",
+                "form": "",
+                "part": "interjection",
+                "dict": "но"
+            },
+            {
+                "text": "Но",
+                "form": "",
+                "part": "conjunction",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "когда",
+        "count": 1547,
+        "forms": [
+            {
+                "text": "когда",
+                "form": "",
+                "part": "conjunction",
+                "dict": "когда"
+            },
+            {
+                "text": "когда",
+                "form": "interrogative",
+                "part": "adverb",
+                "dict": "когда"
+            }
+        ]
+    },
+    {
+        "rus": "меня",
+        "count": 1546,
+        "forms": [
+            {
+                "text": "меня",
+                "form": "first person accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "я"
+            },
+            {
+                "text": "меня",
+                "form": "last name animate masculine gender accusative case genitive case singular",
+                "part": "noun",
+                "dict": "мень"
+            }
+        ]
+    },
+    {
+        "rus": "же",
+        "count": 1534,
+        "forms": [
+            {
+                "text": "же",
+                "form": "",
+                "part": "conjunction",
+                "dict": "же"
+            },
+            {
+                "text": "же",
+                "form": "",
+                "part": "particle",
+                "dict": "же"
+            }
+        ]
+    },
+    {
+        "rus": "тебя",
+        "count": 1488,
+        "forms": [
+            {
+                "text": "тебя",
+                "form": "second person accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "вас",
+        "count": 1463,
+        "forms": [
+            {
+                "text": "вас",
+                "form": "second person prepositional case accusative case genitive case plural",
+                "part": "nominal pronoun",
+                "dict": "вы"
+            }
+        ]
+    },
+    {
+        "rus": "Они",
+        "count": 1454,
+        "forms": [
+            {
+                "text": "Они",
+                "form": "third person nominative case plural",
+                "part": "nominal pronoun",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "мне",
+        "count": 1439,
+        "forms": [
+            {
+                "text": "мне",
+                "form": "first person prepositional case dative case singular",
+                "part": "nominal pronoun",
+                "dict": "я"
+            }
+        ]
+    },
+    {
+        "rus": "И",
+        "count": 1336,
+        "forms": [
+            {
+                "text": "И",
+                "form": "",
+                "part": "interjection",
+                "dict": "и"
+            },
+            {
+                "text": "И",
+                "form": "",
+                "part": "conjunction",
+                "dict": "и"
+            }
+        ]
+    },
+    {
+        "rus": "Иисус",
+        "count": 1291,
+        "forms": [
+            {
+                "text": "Иисус",
+                "form": "animate first name masculine gender nominative case singular",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "им",
+        "count": 1283,
+        "forms": [
+            {
+                "text": "им",
+                "form": "third person neuter gender instrumental case singular",
+                "part": "nominal pronoun",
+                "dict": "оно"
+            },
+            {
+                "text": "им",
+                "form": "third person masculine gender instrumental case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            },
+            {
+                "text": "им",
+                "form": "third person dative case plural",
+                "part": "nominal pronoun",
+                "dict": "они"
+            },
+            {
+                "text": "им",
+                "form": "inanimate abbreviation neuter gender genitive case singular",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "было",
+        "count": 1282,
+        "forms": [
+            {
+                "text": "было",
+                "form": "intransitive imperfective aspect active voice past tense neuter gender singular",
+                "part": "verb",
+                "dict": "быть"
+            },
+            {
+                "text": "было",
+                "form": "",
+                "part": "particle",
+                "dict": "было"
+            }
+        ]
+    },
+    {
+        "rus": "ему",
+        "count": 1240,
+        "forms": [
+            {
+                "text": "ему",
+                "form": "third person neuter gender dative case singular",
+                "part": "nominal pronoun",
+                "dict": "оно"
+            },
+            {
+                "text": "ему",
+                "form": "third person masculine gender dative case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "так",
+        "count": 1231,
+        "forms": [
+            {
+                "text": "так",
+                "form": "",
+                "part": "conjunction",
+                "dict": "так"
+            },
+            {
+                "text": "так",
+                "form": "",
+                "part": "adverb",
+                "dict": "так"
+            },
+            {
+                "text": "так",
+                "form": "",
+                "part": "particle",
+                "dict": "так"
+            }
+        ]
+    },
+    {
+        "rus": "были",
+        "count": 1215,
+        "forms": [
+            {
+                "text": "были",
+                "form": "intransitive imperfective aspect active voice past tense plural",
+                "part": "verb",
+                "dict": "быть"
+            },
+            {
+                "text": "были",
+                "form": "inanimate feminine gender prepositional case accusative case dative case genitive case nominative case singular plural",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "Когда",
+        "count": 1209,
+        "forms": [
+            {
+                "text": "Когда",
+                "form": "",
+                "part": "conjunction",
+                "dict": "когда"
+            },
+            {
+                "text": "Когда",
+                "form": "interrogative",
+                "part": "adverb",
+                "dict": "когда"
+            }
+        ]
+    },
+    {
+        "rus": "которые",
+        "count": 1202,
+        "forms": [
+            {
+                "text": "которые",
+                "form": "inanimate animate accusative case nominative case plural",
+                "part": "pronoun-adjective",
+                "dict": "который"
+            }
+        ]
+    },
+    {
+        "rus": "ее",
+        "count": 1113,
+        "forms": [
+            {
+                "text": "ее",
+                "form": "third person feminine gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "она"
+            },
+            {
+                "text": "ее",
+                "form": "invariable inanimate animate neuter gender feminine gender masculine gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular plural",
+                "part": "pronoun-adjective",
+                "dict": "ее"
+            }
+        ]
+    },
+    {
+        "rus": "перед",
+        "count": 1106,
+        "forms": [
+            {
+                "text": "перед",
+                "form": "",
+                "part": "preposition",
+                "dict": "перед"
+            },
+            {
+                "text": "перед",
+                "form": "inanimate masculine gender accusative case nominative case singular",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "мы",
+        "count": 1098,
+        "forms": [
+            {
+                "text": "мы",
+                "form": "first person nominative case plural",
+                "part": "nominal pronoun",
+                "dict": "мы"
+            }
+        ]
+    },
+    {
+        "rus": "них",
+        "count": 1092,
+        "forms": [
+            {
+                "text": "них",
+                "form": "third person prepositional case accusative case genitive case plural",
+                "part": "nominal pronoun",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "до",
+        "count": 1087,
+        "forms": [
+            {
+                "text": "до",
+                "form": "",
+                "part": "preposition",
+                "dict": "до"
+            }
+        ]
+    },
+    {
+        "rus": "ни",
+        "count": 1072,
+        "forms": [
+            {
+                "text": "ни",
+                "form": "",
+                "part": "conjunction",
+                "dict": "ни"
+            },
+            {
+                "text": "ни",
+                "form": "",
+                "part": "particle",
+                "dict": "ни"
+            }
+        ]
+    },
+    {
+        "rus": "Израиля",
+        "count": 1068,
+        "forms": [
+            {
+                "text": "Израиля",
+                "form": "animate first name masculine gender accusative case genitive case singular",
+                "part": "noun",
+                "dict": "од"
+            },
+            {
+                "text": "Израиля",
+                "form": "singularia tantum locativity inanimate masculine gender genitive case singular",
+                "part": "noun",
+                "dict": "израиль"
+            }
+        ]
+    },
+    {
+        "rus": "вам",
+        "count": 1058,
+        "forms": [
+            {
+                "text": "вам",
+                "form": "second person dative case plural",
+                "part": "nominal pronoun",
+                "dict": "вы"
+            }
+        ]
+    },
+    {
+        "rus": "тебе",
+        "count": 1045,
+        "forms": [
+            {
+                "text": "тебе",
+                "form": "second person prepositional case dative case singular",
+                "part": "nominal pronoun",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "будут",
+        "count": 1036,
+        "forms": [
+            {
+                "text": "будут",
+                "form": "intransitive imperfective aspect active voice third person future tense plural",
+                "part": "verb",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "Бога",
+        "count": 1014,
+        "forms": [
+            {
+                "text": "Бога",
+                "form": "animate masculine gender accusative case genitive case singular",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "во",
+        "count": 997,
+        "forms": [
+            {
+                "text": "во",
+                "form": "",
+                "part": "preposition",
+                "dict": "во"
+            }
+        ]
+    },
+    {
+        "rus": "день",
+        "count": 991,
+        "forms": [
+            {
+                "text": "день",
+                "form": "inanimate masculine gender accusative case nominative case singular",
+                "part": "noun",
+                "dict": "но"
+            },
+            {
+                "text": "день",
+                "form": "transitive perfective aspect active voice imperative mood second person singular",
+                "part": "verb",
+                "dict": "деть"
+            }
+        ]
+    },
+    {
+        "rus": "всех",
+        "count": 972,
+        "forms": [
+            {
+                "text": "всех",
+                "form": "prepositional case accusative case genitive case plural",
+                "part": "nominal pronoun",
+                "dict": "все"
+            },
+            {
+                "text": "всех",
+                "form": "inanimate animate prepositional case accusative case genitive case plural",
+                "part": "pronoun-adjective",
+                "dict": "весь"
+            }
+        ]
+    },
+    {
+        "rus": "если",
+        "count": 959,
+        "forms": [
+            {
+                "text": "если",
+                "form": "",
+                "part": "conjunction",
+                "dict": "если"
+            }
+        ]
+    },
+    {
+        "rus": "со",
+        "count": 953,
+        "forms": [
+            {
+                "text": "со",
+                "form": "",
+                "part": "preposition",
+                "dict": "со"
+            }
+        ]
+    },
+    {
+        "rus": "народ",
+        "count": 948,
+        "forms": [
+            {
+                "text": "народ",
+                "form": "inanimate masculine gender accusative case nominative case singular",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "В",
+        "count": 943,
+        "forms": [
+            {
+                "text": "В",
+                "form": "",
+                "part": "preposition",
+                "dict": "в"
+            }
+        ]
+    },
+    {
+        "rus": "него",
+        "count": 938,
+        "forms": [
+            {
+                "text": "него",
+                "form": "third person neuter gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "оно"
+            },
+            {
+                "text": "него",
+                "form": "third person masculine gender accusative case genitive case singular",
+                "part": "nominal pronoun",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "Не",
+        "count": 934,
+        "forms": [
+            {
+                "text": "Не",
+                "form": "",
+                "part": "particle",
+                "dict": "не"
+            }
+        ]
+    },
+    {
+        "rus": "который",
+        "count": 921,
+        "forms": [
+            {
+                "text": "который",
+                "form": "inanimate animate masculine gender accusative case nominative case singular",
+                "part": "pronoun-adjective",
+                "dict": "который"
+            }
+        ]
+    },
+    {
+        "rus": "сын",
+        "count": 917,
+        "forms": [
+            {
+                "text": "сын",
+                "form": "animate masculine gender nominative case singular",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "тот",
+        "count": 877,
+        "forms": [
+            {
+                "text": "тот",
+                "form": "inanimate animate masculine gender accusative case nominative case singular",
+                "part": "pronoun-adjective",
+                "dict": "тот"
+            }
+        ]
+    },
+    {
+        "rus": "или",
+        "count": 870,
+        "forms": [
+            {
+                "text": "или",
+                "form": "",
+                "part": "conjunction",
+                "dict": "или"
+            },
+            {
+                "text": "или",
+                "form": "",
+                "part": "particle",
+                "dict": "или"
+            }
+        ]
+    },
+    {
+        "rus": "Если",
+        "count": 848,
+        "forms": [
+            {
+                "text": "Если",
+                "form": "",
+                "part": "conjunction",
+                "dict": "если"
+            }
+        ]
+    },
+    {
+        "rus": "бы",
+        "count": 847,
+        "forms": [
+            {
+                "text": "бы",
+                "form": "",
+                "part": "particle",
+                "dict": "бы"
+            }
+        ]
+    },
+    {
+        "rus": "Пусть",
+        "count": 835,
+        "forms": [
+            {
+                "text": "Пусть",
+                "form": "",
+                "part": "conjunction",
+                "dict": "пусть"
+            },
+            {
+                "text": "Пусть",
+                "form": "",
+                "part": "particle",
+                "dict": "пусть"
+            }
+        ]
+    },
+    {
+        "rus": "Тогда",
+        "count": 804,
+        "forms": [
+            {
+                "text": "Тогда",
+                "form": "",
+                "part": "adverb",
+                "dict": "тогда"
+            }
+        ]
+    },
+    {
+        "rus": "говорит",
+        "count": 803,
+        "forms": [
+            {
+                "text": "говорит",
+                "form": "transitive imperfective aspect active voice third person present tense singular",
+                "part": "verb",
+                "dict": "говорить"
+            }
+        ]
+    },
+    {
+        "rus": "нас",
+        "count": 796,
+        "forms": [
+            {
+                "text": "нас",
+                "form": "first person prepositional case accusative case genitive case plural",
+                "part": "nominal pronoun",
+                "dict": "мы"
+            }
+        ]
+    },
+    {
+        "rus": "пусть",
+        "count": 774,
+        "forms": [
+            {
+                "text": "пусть",
+                "form": "",
+                "part": "conjunction",
+                "dict": "пусть"
+            },
+            {
+                "text": "пусть",
+                "form": "",
+                "part": "particle",
+                "dict": "пусть"
+            }
+        ]
+    },
+    {
+        "rus": "царь",
+        "count": 771,
+        "forms": [
+            {
+                "text": "царь",
+                "form": "animate masculine gender nominative case singular",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "еще",
+        "count": 769,
+        "forms": [
+            {
+                "text": "еще",
+                "form": "",
+                "part": "adverb",
+                "dict": "еще"
+            },
+            {
+                "text": "еще",
+                "form": "",
+                "part": "particle",
+                "dict": "еще"
+            }
+        ]
+    },
+    {
+        "rus": "Господу",
+        "count": 761,
+        "forms": [
+            {
+                "text": "Господу",
+                "form": "singularia tantum animate masculine gender dative case singular",
+                "part": "noun",
+                "dict": "господь"
+            }
+        ]
+    },
+    {
+        "rus": "она",
+        "count": 758,
+        "forms": [
+            {
+                "text": "она",
+                "form": "third person feminine gender nominative case singular",
+                "part": "nominal pronoun",
+                "dict": "она"
+            }
+        ]
+    },
+    {
+        "rus": "Так",
+        "count": 756,
+        "forms": [
+            {
+                "text": "Так",
+                "form": "",
+                "part": "conjunction",
+                "dict": "так"
+            },
+            {
+                "text": "Так",
+                "form": "",
+                "part": "adverb",
+                "dict": "так"
+            },
+            {
+                "text": "Так",
+                "form": "",
+                "part": "particle",
+                "dict": "так"
+            }
+        ]
+    },
+    {
+        "rus": "человек",
+        "count": 751,
+        "forms": [
+            {
+                "text": "человек",
+                "form": "animate masculine gender genitive case nominative case singular plural",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "есть",
+        "count": 726,
+        "forms": [
+            {
+                "text": "есть",
+                "form": "",
+                "part": "interjection",
+                "dict": "есть"
+            },
+            {
+                "text": "есть",
+                "form": "transitive imperfective aspect active voice",
+                "part": "infinitive",
+                "dict": "есть"
+            },
+            {
+                "text": "есть",
+                "form": "intransitive imperfective aspect active voice third person present tense singular plural",
+                "part": "verb",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "того",
+        "count": 723,
+        "forms": [
+            {
+                "text": "того",
+                "form": "locativity inanimate invariable neuter gender vocative case prepositional case instrumental case accusative case dative case genitive case nominative case singular",
+                "part": "noun",
+                "dict": "того"
+            },
+            {
+                "text": "того",
+                "form": "inanimate animate neuter gender masculine gender accusative case genitive case singular",
+                "part": "pronoun-adjective",
+                "dict": "тот"
+            }
+        ]
+    },
+    {
+        "rus": "землю",
+        "count": 702,
+        "forms": [
+            {
+                "text": "землю",
+                "form": "inanimate feminine gender accusative case singular",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "над",
+        "count": 698,
+        "forms": [
+            {
+                "text": "над",
+                "form": "",
+                "part": "preposition",
+                "dict": "над"
+            }
+        ]
+    },
+    {
+        "rus": "сына",
+        "count": 689,
+        "forms": [
+            {
+                "text": "сына",
+                "form": "animate masculine gender accusative case genitive case singular",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "против",
+        "count": 688,
+        "forms": [
+            {
+                "text": "против",
+                "form": "present tense",
+                "part": "predicative",
+                "dict": "против"
+            },
+            {
+                "text": "против",
+                "form": "",
+                "part": "preposition",
+                "dict": "против"
+            }
+        ]
+    }
+]

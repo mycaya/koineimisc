@@ -1,0 +1,58 @@
+[
+    {
+        "chapter": 1,
+        "verse": 0,
+        "text": "Книга",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 1,
+        "verse": 1,
+        "text": "Блажен человек, который не следует совету нечестивых, не стоит на пути грешников и не сидит в собрании насмехающихся,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 1,
+        "verse": 2,
+        "text": "но в Господнем Законе находит радость и о Законе Его размышляет день и ночь.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 1,
+        "verse": 3,
+        "text": "Он как дерево, посаженное у потоков вод, которое приносит плод в свое время, и чей лист не вянет. Что бы он ни сделал, во всем преуспеет.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 1,
+        "verse": 4,
+        "text": "Не таковы нечестивые! Они как мякина, которую гонит ветер.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 1,
+        "verse": 5,
+        "text": "Поэтому не устоят на суде нечестивые, и грешники – в собрании праведных.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 1,
+        "verse": 6,
+        "text": "Ведь Господь охраняет путь праведных, а путь нечестивых погибнет.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    }
+]

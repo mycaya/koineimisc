@@ -1,0 +1,26 @@
+[
+    {
+        "chapter": 133,
+        "verse": 1,
+        "text": "Песнь восхождения. Благословите Господа, все слуги Господни, стоящие ночью в доме Господнем!",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 133,
+        "verse": 2,
+        "text": "Вознесите руки свои в святилище и благословите Господа.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 133,
+        "verse": 3,
+        "text": "Господь, сотворивший небо и землю, да благословит тебя с Сиона.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    }
+]

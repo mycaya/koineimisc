@@ -1,0 +1,1538 @@
+[
+    {
+        "rus": "и",
+        "count": 28720,
+        "forms": [
+            {
+                "text": "и",
+                "form": "",
+                "part": "",
+                "dict": "и"
+            },
+            {
+                "text": "и",
+                "form": "",
+                "part": "",
+                "dict": "и"
+            }
+        ]
+    },
+    {
+        "rus": "в",
+        "count": 12847,
+        "forms": [
+            {
+                "text": "в",
+                "form": "",
+                "part": "",
+                "dict": "в"
+            }
+        ]
+    },
+    {
+        "rus": "не",
+        "count": 8773,
+        "forms": [
+            {
+                "text": "не",
+                "form": "",
+                "part": "",
+                "dict": "не"
+            }
+        ]
+    },
+    {
+        "rus": "на",
+        "count": 6697,
+        "forms": [
+            {
+                "text": "на",
+                "form": "",
+                "part": "",
+                "dict": "на"
+            }
+        ]
+    },
+    {
+        "rus": "что",
+        "count": 6520,
+        "forms": [
+            {
+                "text": "что",
+                "form": "",
+                "part": "",
+                "dict": "что"
+            },
+            {
+                "text": "что",
+                "form": "",
+                "part": "",
+                "dict": "что"
+            },
+            {
+                "text": "что",
+                "form": "",
+                "part": "",
+                "dict": "что"
+            }
+        ]
+    },
+    {
+        "rus": "с",
+        "count": 4970,
+        "forms": [
+            {
+                "text": "с",
+                "form": "",
+                "part": "noun",
+                "dict": "с"
+            }
+        ]
+    },
+    {
+        "rus": "его",
+        "count": 4746,
+        "forms": [
+            {
+                "text": "его",
+                "form": "",
+                "part": "",
+                "dict": "оно"
+            },
+            {
+                "text": "его",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            },
+            {
+                "text": "его",
+                "form": "feminine gender masculine gender",
+                "part": "",
+                "dict": "его"
+            }
+        ]
+    },
+    {
+        "rus": "Я",
+        "count": 4480,
+        "forms": [
+            {
+                "text": "Я",
+                "form": "",
+                "part": "",
+                "dict": "я"
+            }
+        ]
+    },
+    {
+        "rus": "их",
+        "count": 3968,
+        "forms": [
+            {
+                "text": "их",
+                "form": "feminine gender masculine gender",
+                "part": "",
+                "dict": "их"
+            },
+            {
+                "text": "их",
+                "form": "",
+                "part": "",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "из",
+        "count": 3937,
+        "forms": [
+            {
+                "text": "из",
+                "form": "",
+                "part": "",
+                "dict": "из"
+            },
+            {
+                "text": "из",
+                "form": "feminine gender",
+                "part": "noun",
+                "dict": "иза"
+            }
+        ]
+    },
+    {
+        "rus": "Он",
+        "count": 3766,
+        "forms": [
+            {
+                "text": "Он",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "Господь",
+        "count": 3540,
+        "forms": [
+            {
+                "text": "Господь",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "господь"
+            }
+        ]
+    },
+    {
+        "rus": "к",
+        "count": 3491,
+        "forms": [
+            {
+                "text": "к",
+                "form": "",
+                "part": "",
+                "dict": "к"
+            }
+        ]
+    },
+    {
+        "rus": "он",
+        "count": 3439,
+        "forms": [
+            {
+                "text": "он",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "как",
+        "count": 3428,
+        "forms": [
+            {
+                "text": "как",
+                "form": "",
+                "part": "",
+                "dict": "как"
+            },
+            {
+                "text": "как",
+                "form": "",
+                "part": "",
+                "dict": "как"
+            },
+            {
+                "text": "как",
+                "form": "",
+                "part": "",
+                "dict": "как"
+            }
+        ]
+    },
+    {
+        "rus": "они",
+        "count": 3204,
+        "forms": [
+            {
+                "text": "они",
+                "form": "",
+                "part": "",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "от",
+        "count": 3066,
+        "forms": [
+            {
+                "text": "от",
+                "form": "",
+                "part": "",
+                "dict": "от"
+            }
+        ]
+    },
+    {
+        "rus": "чтобы",
+        "count": 2782,
+        "forms": [
+            {
+                "text": "чтобы",
+                "form": "",
+                "part": "",
+                "dict": "чтобы"
+            },
+            {
+                "text": "чтобы",
+                "form": "",
+                "part": "",
+                "dict": "чтобы"
+            }
+        ]
+    },
+    {
+        "rus": "я",
+        "count": 2595,
+        "forms": [
+            {
+                "text": "я",
+                "form": "",
+                "part": "",
+                "dict": "я"
+            }
+        ]
+    },
+    {
+        "rus": "сказал",
+        "count": 2540,
+        "forms": [
+            {
+                "text": "сказал",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "сказать"
+            }
+        ]
+    },
+    {
+        "rus": "все",
+        "count": 2432,
+        "forms": [
+            {
+                "text": "все",
+                "form": "",
+                "part": "",
+                "dict": "все"
+            },
+            {
+                "text": "все",
+                "form": "",
+                "part": "",
+                "dict": "весь"
+            },
+            {
+                "text": "все",
+                "form": "",
+                "part": "",
+                "dict": "все"
+            }
+        ]
+    },
+    {
+        "rus": "а",
+        "count": 2415,
+        "forms": [
+            {
+                "text": "а",
+                "form": "",
+                "part": "",
+                "dict": "а"
+            },
+            {
+                "text": "а",
+                "form": "",
+                "part": "",
+                "dict": "а"
+            },
+            {
+                "text": "а",
+                "form": "",
+                "part": "",
+                "dict": "а"
+            }
+        ]
+    },
+    {
+        "rus": "за",
+        "count": 2384,
+        "forms": [
+            {
+                "text": "за",
+                "form": "",
+                "part": "",
+                "dict": "за"
+            }
+        ]
+    },
+    {
+        "rus": "то",
+        "count": 2380,
+        "forms": [
+            {
+                "text": "то",
+                "form": "",
+                "part": "",
+                "dict": "то"
+            },
+            {
+                "text": "то",
+                "form": "",
+                "part": "",
+                "dict": "тот"
+            },
+            {
+                "text": "то",
+                "form": "",
+                "part": "",
+                "dict": "то"
+            }
+        ]
+    },
+    {
+        "rus": "у",
+        "count": 2287,
+        "forms": [
+            {
+                "text": "у",
+                "form": "",
+                "part": "",
+                "dict": "у"
+            },
+            {
+                "text": "у",
+                "form": "",
+                "part": "",
+                "dict": "у"
+            }
+        ]
+    },
+    {
+        "rus": "для",
+        "count": 2085,
+        "forms": [
+            {
+                "text": "для",
+                "form": "",
+                "part": "",
+                "dict": "для"
+            },
+            {
+                "text": "для",
+                "form": "",
+                "part": "",
+                "dict": "длить"
+            }
+        ]
+    },
+    {
+        "rus": "будет",
+        "count": 2074,
+        "forms": [
+            {
+                "text": "будет",
+                "form": "",
+                "part": "",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "вы",
+        "count": 2004,
+        "forms": [
+            {
+                "text": "вы",
+                "form": "",
+                "part": "",
+                "dict": "вы"
+            }
+        ]
+    },
+    {
+        "rus": "по",
+        "count": 1971,
+        "forms": [
+            {
+                "text": "по",
+                "form": "",
+                "part": "",
+                "dict": "по"
+            }
+        ]
+    },
+    {
+        "rus": "кто",
+        "count": 1962,
+        "forms": [
+            {
+                "text": "кто",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "кто"
+            }
+        ]
+    },
+    {
+        "rus": "ты",
+        "count": 1937,
+        "forms": [
+            {
+                "text": "ты",
+                "form": "",
+                "part": "",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "о",
+        "count": 1837,
+        "forms": [
+            {
+                "text": "о",
+                "form": "",
+                "part": "",
+                "dict": "о"
+            },
+            {
+                "text": "о",
+                "form": "",
+                "part": "",
+                "dict": "о"
+            }
+        ]
+    },
+    {
+        "rus": "Господа",
+        "count": 1833,
+        "forms": [
+            {
+                "text": "Господа",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            },
+            {
+                "text": "Господа",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "господь"
+            }
+        ]
+    },
+    {
+        "rus": "это",
+        "count": 1790,
+        "forms": [
+            {
+                "text": "это",
+                "form": "",
+                "part": "",
+                "dict": "этот"
+            },
+            {
+                "text": "это",
+                "form": "",
+                "part": "",
+                "dict": "это"
+            },
+            {
+                "text": "это",
+                "form": "",
+                "part": "",
+                "dict": "это"
+            }
+        ]
+    },
+    {
+        "rus": "Его",
+        "count": 1759,
+        "forms": [
+            {
+                "text": "Его",
+                "form": "",
+                "part": "",
+                "dict": "оно"
+            },
+            {
+                "text": "Его",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            },
+            {
+                "text": "Его",
+                "form": "feminine gender masculine gender",
+                "part": "",
+                "dict": "его"
+            }
+        ]
+    },
+    {
+        "rus": "но",
+        "count": 1635,
+        "forms": [
+            {
+                "text": "но",
+                "form": "",
+                "part": "",
+                "dict": "но"
+            },
+            {
+                "text": "но",
+                "form": "",
+                "part": "",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "потому",
+        "count": 1630,
+        "forms": [
+            {
+                "text": "потому",
+                "form": "",
+                "part": "",
+                "dict": "потому"
+            }
+        ]
+    },
+    {
+        "rus": "Бог",
+        "count": 1629,
+        "forms": [
+            {
+                "text": "Бог",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "Ты",
+        "count": 1581,
+        "forms": [
+            {
+                "text": "Ты",
+                "form": "",
+                "part": "",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "был",
+        "count": 1576,
+        "forms": [
+            {
+                "text": "был",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "Но",
+        "count": 1562,
+        "forms": [
+            {
+                "text": "Но",
+                "form": "",
+                "part": "",
+                "dict": "но"
+            },
+            {
+                "text": "Но",
+                "form": "",
+                "part": "",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "когда",
+        "count": 1547,
+        "forms": [
+            {
+                "text": "когда",
+                "form": "",
+                "part": "",
+                "dict": "когда"
+            },
+            {
+                "text": "когда",
+                "form": "",
+                "part": "",
+                "dict": "когда"
+            }
+        ]
+    },
+    {
+        "rus": "меня",
+        "count": 1546,
+        "forms": [
+            {
+                "text": "меня",
+                "form": "",
+                "part": "",
+                "dict": "я"
+            },
+            {
+                "text": "меня",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "мень"
+            }
+        ]
+    },
+    {
+        "rus": "же",
+        "count": 1534,
+        "forms": [
+            {
+                "text": "же",
+                "form": "",
+                "part": "",
+                "dict": "же"
+            },
+            {
+                "text": "же",
+                "form": "",
+                "part": "",
+                "dict": "же"
+            }
+        ]
+    },
+    {
+        "rus": "тебя",
+        "count": 1488,
+        "forms": [
+            {
+                "text": "тебя",
+                "form": "",
+                "part": "",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "вас",
+        "count": 1463,
+        "forms": [
+            {
+                "text": "вас",
+                "form": "",
+                "part": "",
+                "dict": "вы"
+            }
+        ]
+    },
+    {
+        "rus": "Они",
+        "count": 1454,
+        "forms": [
+            {
+                "text": "Они",
+                "form": "",
+                "part": "",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "мне",
+        "count": 1439,
+        "forms": [
+            {
+                "text": "мне",
+                "form": "",
+                "part": "",
+                "dict": "я"
+            }
+        ]
+    },
+    {
+        "rus": "И",
+        "count": 1336,
+        "forms": [
+            {
+                "text": "И",
+                "form": "",
+                "part": "",
+                "dict": "и"
+            },
+            {
+                "text": "И",
+                "form": "",
+                "part": "",
+                "dict": "и"
+            }
+        ]
+    },
+    {
+        "rus": "Иисус",
+        "count": 1291,
+        "forms": [
+            {
+                "text": "Иисус",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "им",
+        "count": 1283,
+        "forms": [
+            {
+                "text": "им",
+                "form": "",
+                "part": "",
+                "dict": "оно"
+            },
+            {
+                "text": "им",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            },
+            {
+                "text": "им",
+                "form": "",
+                "part": "",
+                "dict": "они"
+            },
+            {
+                "text": "им",
+                "form": "",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "было",
+        "count": 1282,
+        "forms": [
+            {
+                "text": "было",
+                "form": "",
+                "part": "",
+                "dict": "быть"
+            },
+            {
+                "text": "было",
+                "form": "",
+                "part": "",
+                "dict": "было"
+            }
+        ]
+    },
+    {
+        "rus": "ему",
+        "count": 1240,
+        "forms": [
+            {
+                "text": "ему",
+                "form": "",
+                "part": "",
+                "dict": "оно"
+            },
+            {
+                "text": "ему",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "так",
+        "count": 1231,
+        "forms": [
+            {
+                "text": "так",
+                "form": "",
+                "part": "",
+                "dict": "так"
+            },
+            {
+                "text": "так",
+                "form": "",
+                "part": "",
+                "dict": "так"
+            },
+            {
+                "text": "так",
+                "form": "",
+                "part": "",
+                "dict": "так"
+            }
+        ]
+    },
+    {
+        "rus": "были",
+        "count": 1215,
+        "forms": [
+            {
+                "text": "были",
+                "form": "",
+                "part": "",
+                "dict": "быть"
+            },
+            {
+                "text": "были",
+                "form": "feminine gender",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "Когда",
+        "count": 1209,
+        "forms": [
+            {
+                "text": "Когда",
+                "form": "",
+                "part": "",
+                "dict": "когда"
+            },
+            {
+                "text": "Когда",
+                "form": "",
+                "part": "",
+                "dict": "когда"
+            }
+        ]
+    },
+    {
+        "rus": "которые",
+        "count": 1202,
+        "forms": [
+            {
+                "text": "которые",
+                "form": "",
+                "part": "",
+                "dict": "который"
+            }
+        ]
+    },
+    {
+        "rus": "ее",
+        "count": 1113,
+        "forms": [
+            {
+                "text": "ее",
+                "form": "feminine gender",
+                "part": "",
+                "dict": "она"
+            },
+            {
+                "text": "ее",
+                "form": "feminine gender masculine gender",
+                "part": "",
+                "dict": "ее"
+            }
+        ]
+    },
+    {
+        "rus": "перед",
+        "count": 1106,
+        "forms": [
+            {
+                "text": "перед",
+                "form": "",
+                "part": "",
+                "dict": "перед"
+            },
+            {
+                "text": "перед",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "мы",
+        "count": 1098,
+        "forms": [
+            {
+                "text": "мы",
+                "form": "",
+                "part": "",
+                "dict": "мы"
+            }
+        ]
+    },
+    {
+        "rus": "них",
+        "count": 1092,
+        "forms": [
+            {
+                "text": "них",
+                "form": "",
+                "part": "",
+                "dict": "они"
+            }
+        ]
+    },
+    {
+        "rus": "до",
+        "count": 1087,
+        "forms": [
+            {
+                "text": "до",
+                "form": "",
+                "part": "",
+                "dict": "до"
+            }
+        ]
+    },
+    {
+        "rus": "ни",
+        "count": 1072,
+        "forms": [
+            {
+                "text": "ни",
+                "form": "",
+                "part": "",
+                "dict": "ни"
+            },
+            {
+                "text": "ни",
+                "form": "",
+                "part": "",
+                "dict": "ни"
+            }
+        ]
+    },
+    {
+        "rus": "Израиля",
+        "count": 1068,
+        "forms": [
+            {
+                "text": "Израиля",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            },
+            {
+                "text": "Израиля",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "израиль"
+            }
+        ]
+    },
+    {
+        "rus": "вам",
+        "count": 1058,
+        "forms": [
+            {
+                "text": "вам",
+                "form": "",
+                "part": "",
+                "dict": "вы"
+            }
+        ]
+    },
+    {
+        "rus": "тебе",
+        "count": 1045,
+        "forms": [
+            {
+                "text": "тебе",
+                "form": "",
+                "part": "",
+                "dict": "ты"
+            }
+        ]
+    },
+    {
+        "rus": "будут",
+        "count": 1036,
+        "forms": [
+            {
+                "text": "будут",
+                "form": "",
+                "part": "",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "Бога",
+        "count": 1014,
+        "forms": [
+            {
+                "text": "Бога",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "во",
+        "count": 997,
+        "forms": [
+            {
+                "text": "во",
+                "form": "",
+                "part": "",
+                "dict": "во"
+            }
+        ]
+    },
+    {
+        "rus": "день",
+        "count": 991,
+        "forms": [
+            {
+                "text": "день",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "но"
+            },
+            {
+                "text": "день",
+                "form": "",
+                "part": "",
+                "dict": "деть"
+            }
+        ]
+    },
+    {
+        "rus": "всех",
+        "count": 972,
+        "forms": [
+            {
+                "text": "всех",
+                "form": "",
+                "part": "",
+                "dict": "все"
+            },
+            {
+                "text": "всех",
+                "form": "",
+                "part": "",
+                "dict": "весь"
+            }
+        ]
+    },
+    {
+        "rus": "если",
+        "count": 959,
+        "forms": [
+            {
+                "text": "если",
+                "form": "",
+                "part": "",
+                "dict": "если"
+            }
+        ]
+    },
+    {
+        "rus": "со",
+        "count": 953,
+        "forms": [
+            {
+                "text": "со",
+                "form": "",
+                "part": "",
+                "dict": "со"
+            }
+        ]
+    },
+    {
+        "rus": "народ",
+        "count": 948,
+        "forms": [
+            {
+                "text": "народ",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "В",
+        "count": 943,
+        "forms": [
+            {
+                "text": "В",
+                "form": "",
+                "part": "",
+                "dict": "в"
+            }
+        ]
+    },
+    {
+        "rus": "него",
+        "count": 938,
+        "forms": [
+            {
+                "text": "него",
+                "form": "",
+                "part": "",
+                "dict": "оно"
+            },
+            {
+                "text": "него",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "он"
+            }
+        ]
+    },
+    {
+        "rus": "Не",
+        "count": 934,
+        "forms": [
+            {
+                "text": "Не",
+                "form": "",
+                "part": "",
+                "dict": "не"
+            }
+        ]
+    },
+    {
+        "rus": "который",
+        "count": 921,
+        "forms": [
+            {
+                "text": "который",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "который"
+            }
+        ]
+    },
+    {
+        "rus": "сын",
+        "count": 917,
+        "forms": [
+            {
+                "text": "сын",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "тот",
+        "count": 877,
+        "forms": [
+            {
+                "text": "тот",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "тот"
+            }
+        ]
+    },
+    {
+        "rus": "или",
+        "count": 870,
+        "forms": [
+            {
+                "text": "или",
+                "form": "",
+                "part": "",
+                "dict": "или"
+            },
+            {
+                "text": "или",
+                "form": "",
+                "part": "",
+                "dict": "или"
+            }
+        ]
+    },
+    {
+        "rus": "Если",
+        "count": 848,
+        "forms": [
+            {
+                "text": "Если",
+                "form": "",
+                "part": "",
+                "dict": "если"
+            }
+        ]
+    },
+    {
+        "rus": "бы",
+        "count": 847,
+        "forms": [
+            {
+                "text": "бы",
+                "form": "",
+                "part": "",
+                "dict": "бы"
+            }
+        ]
+    },
+    {
+        "rus": "Пусть",
+        "count": 835,
+        "forms": [
+            {
+                "text": "Пусть",
+                "form": "",
+                "part": "",
+                "dict": "пусть"
+            },
+            {
+                "text": "Пусть",
+                "form": "",
+                "part": "",
+                "dict": "пусть"
+            }
+        ]
+    },
+    {
+        "rus": "Тогда",
+        "count": 804,
+        "forms": [
+            {
+                "text": "Тогда",
+                "form": "",
+                "part": "",
+                "dict": "тогда"
+            }
+        ]
+    },
+    {
+        "rus": "говорит",
+        "count": 803,
+        "forms": [
+            {
+                "text": "говорит",
+                "form": "",
+                "part": "",
+                "dict": "говорить"
+            }
+        ]
+    },
+    {
+        "rus": "нас",
+        "count": 796,
+        "forms": [
+            {
+                "text": "нас",
+                "form": "",
+                "part": "",
+                "dict": "мы"
+            }
+        ]
+    },
+    {
+        "rus": "пусть",
+        "count": 774,
+        "forms": [
+            {
+                "text": "пусть",
+                "form": "",
+                "part": "",
+                "dict": "пусть"
+            },
+            {
+                "text": "пусть",
+                "form": "",
+                "part": "",
+                "dict": "пусть"
+            }
+        ]
+    },
+    {
+        "rus": "царь",
+        "count": 771,
+        "forms": [
+            {
+                "text": "царь",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "еще",
+        "count": 769,
+        "forms": [
+            {
+                "text": "еще",
+                "form": "",
+                "part": "",
+                "dict": "еще"
+            },
+            {
+                "text": "еще",
+                "form": "",
+                "part": "",
+                "dict": "еще"
+            }
+        ]
+    },
+    {
+        "rus": "Господу",
+        "count": 761,
+        "forms": [
+            {
+                "text": "Господу",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "господь"
+            }
+        ]
+    },
+    {
+        "rus": "она",
+        "count": 758,
+        "forms": [
+            {
+                "text": "она",
+                "form": "feminine gender",
+                "part": "",
+                "dict": "она"
+            }
+        ]
+    },
+    {
+        "rus": "Так",
+        "count": 756,
+        "forms": [
+            {
+                "text": "Так",
+                "form": "",
+                "part": "",
+                "dict": "так"
+            },
+            {
+                "text": "Так",
+                "form": "",
+                "part": "",
+                "dict": "так"
+            },
+            {
+                "text": "Так",
+                "form": "",
+                "part": "",
+                "dict": "так"
+            }
+        ]
+    },
+    {
+        "rus": "человек",
+        "count": 751,
+        "forms": [
+            {
+                "text": "человек",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "есть",
+        "count": 726,
+        "forms": [
+            {
+                "text": "есть",
+                "form": "",
+                "part": "",
+                "dict": "есть"
+            },
+            {
+                "text": "есть",
+                "form": "",
+                "part": "",
+                "dict": "есть"
+            },
+            {
+                "text": "есть",
+                "form": "",
+                "part": "",
+                "dict": "быть"
+            }
+        ]
+    },
+    {
+        "rus": "того",
+        "count": 723,
+        "forms": [
+            {
+                "text": "того",
+                "form": "",
+                "part": "noun",
+                "dict": "того"
+            },
+            {
+                "text": "того",
+                "form": "masculine gender",
+                "part": "",
+                "dict": "тот"
+            }
+        ]
+    },
+    {
+        "rus": "землю",
+        "count": 702,
+        "forms": [
+            {
+                "text": "землю",
+                "form": "feminine gender",
+                "part": "noun",
+                "dict": "но"
+            }
+        ]
+    },
+    {
+        "rus": "над",
+        "count": 698,
+        "forms": [
+            {
+                "text": "над",
+                "form": "",
+                "part": "",
+                "dict": "над"
+            }
+        ]
+    },
+    {
+        "rus": "сына",
+        "count": 689,
+        "forms": [
+            {
+                "text": "сына",
+                "form": "masculine gender",
+                "part": "noun",
+                "dict": "од"
+            }
+        ]
+    },
+    {
+        "rus": "против",
+        "count": 688,
+        "forms": [
+            {
+                "text": "против",
+                "form": "",
+                "part": "",
+                "dict": "против"
+            },
+            {
+                "text": "против",
+                "form": "",
+                "part": "",
+                "dict": "против"
+            }
+        ]
+    }
+]
