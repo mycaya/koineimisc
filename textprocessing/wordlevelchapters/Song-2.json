@@ -1,0 +1,666 @@
+[
+  {
+    "chapter": 2,
+    "verse": 1,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "- Я нарцисс Шаронский,"
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "лилия долин."
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "- Как лилия между тернами,"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "так милая моя"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "среди девушек."
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "- Как яблоня"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "среди лесных деревьев,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "так возлюбленный"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "мой среди юношей."
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "Сидеть в его тени"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "мне наслаждение,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 7,
+    "text": "и плод его сладок для меня."
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Он привел меня в дом пира,"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "и его знамя"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "надо мной любовь."
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Подкрепи меня изюмом,"
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "освежи меня яблоками,"
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "ведь я изнемогаю от любви."
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Его левая рука"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "под моей головой,"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "а правая обнимает меня."
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Дочери Иерусалима,"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "заклинаю вас"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "газелями и полевыми ланями:"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "не будите и не"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "возбуждайте любви,"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "пока она сама не пожелает."
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Голос"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "возлюбленного моего! Вот,"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "идет он,"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "перескакивая через горы,"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "перепрыгивая через холмы."
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Возлюбленный мой как"
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "газель или молодой олень."
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "Вот,"
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "стоит он за нашей стеной,"
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "смотрит в окно,"
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "заглядывает через решетку."
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Возлюбленный"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "мой сказал мне:"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "Вставай,"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "любимая моя,"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "прекрасная моя,"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "пойдем со мной!"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Смотри,"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "зима уже прошла;"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "перестали лить дожди;"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "появились цветы на земле;"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "настало время пения,"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "и раздается голос"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "горлицы в земле нашей;"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "на инжире созревают плоды,"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "и цветущие виноградные"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "лозы источают свой аромат."
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "Вставай,"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "любимая моя,"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "прекрасная моя,"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 7,
+    "text": "пойдем со мной!"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "- Голубка моя"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "далеко в ущелье скалы,"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "недосягаема,"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "в пещере на склоне горы."
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "Позволь мне увидеть"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "тебя и услышать голос твой,"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 7,
+    "text": "потому что"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 8,
+    "text": "сладок голос твой,"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 9,
+    "text": "и прекрасно лицо твое."
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Поймайте нам лисиц,"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "лисят,"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "которые портят"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "виноградники,"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "а виноградники наши цветут."
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "- Возлюбленный"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "мой принадлежит мне,"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "а я ему."
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "Среди лилий пасется он."
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 1,
+    "text": "Пока не наступил"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 2,
+    "text": "день и не скрылись тени,"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 3,
+    "text": "возвратись,"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 4,
+    "text": "возлюбленный мой,"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 5,
+    "text": "скачи,"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 6,
+    "text": "словно газель или как"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Song of Solomon",
+    "book_id": "Song",
+    "part": 7,
+    "text": "молодой олень на расселинах гор."
+  }
+]

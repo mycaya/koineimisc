@@ -1,0 +1,674 @@
+[
+  {
+    "chapter": 18,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Живущий обособленно"
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "потакает себе во всем,"
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "отвергая всякое"
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "здравое слово."
+  },
+  {
+    "chapter": 18,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Нет глупцу радости в"
+  },
+  {
+    "chapter": 18,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "понимании рад он лишь"
+  },
+  {
+    "chapter": 18,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "высказать свое мнение."
+  },
+  {
+    "chapter": 18,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Вслед за"
+  },
+  {
+    "chapter": 18,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "нечестьем идет презрение,"
+  },
+  {
+    "chapter": 18,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а со срамом"
+  },
+  {
+    "chapter": 18,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "приходит бесславие."
+  },
+  {
+    "chapter": 18,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Слова человеческих"
+  },
+  {
+    "chapter": 18,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "уст глубокие воды;"
+  },
+  {
+    "chapter": 18,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "источник"
+  },
+  {
+    "chapter": 18,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "мудрости текущий поток."
+  },
+  {
+    "chapter": 18,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Нехорошо быть пристрастным"
+  },
+  {
+    "chapter": 18,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "к злодею"
+  },
+  {
+    "chapter": 18,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и лишать правосудия"
+  },
+  {
+    "chapter": 18,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "невиновного."
+  },
+  {
+    "chapter": 18,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Язык глупца"
+  },
+  {
+    "chapter": 18,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ведет его к ссоре,"
+  },
+  {
+    "chapter": 18,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "его уста навлекают побои."
+  },
+  {
+    "chapter": 18,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Уста глупца его гибель,"
+  },
+  {
+    "chapter": 18,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "а язык на его"
+  },
+  {
+    "chapter": 18,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "же жизнь западня."
+  },
+  {
+    "chapter": 18,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Слова сплетен"
+  },
+  {
+    "chapter": 18,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как лакомые куски,"
+  },
+  {
+    "chapter": 18,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "что проходят"
+  },
+  {
+    "chapter": 18,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "вовнутрь чрева."
+  },
+  {
+    "chapter": 18,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ленивый в своей"
+  },
+  {
+    "chapter": 18,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "работе брат разрушителя."
+  },
+  {
+    "chapter": 18,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Имя Господне крепкая башня;"
+  },
+  {
+    "chapter": 18,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "убежит в нее"
+  },
+  {
+    "chapter": 18,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "праведник и будет спасен."
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Состояние богатого"
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "укрепленный город;"
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "высокой стеной"
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "представляется им оно."
+  },
+  {
+    "chapter": 18,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пред падением"
+  },
+  {
+    "chapter": 18,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "человеческое сердце заносится,"
+  },
+  {
+    "chapter": 18,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а смиренье"
+  },
+  {
+    "chapter": 18,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "предшествует славе."
+  },
+  {
+    "chapter": 18,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Если кто отвечает,"
+  },
+  {
+    "chapter": 18,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "прежде чем выслушает,"
+  },
+  {
+    "chapter": 18,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "это глупость и стыд."
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Дух человека"
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "подкрепляет его в болезни,"
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "но если дух сокрушен"
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "кто в силах снести его?"
+  },
+  {
+    "chapter": 18,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Разум"
+  },
+  {
+    "chapter": 18,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "рассудительного приобретает знание,"
+  },
+  {
+    "chapter": 18,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и уши мудрых ищут его."
+  },
+  {
+    "chapter": 18,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Подарок открывает человеку"
+  },
+  {
+    "chapter": 18,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "путь"
+  },
+  {
+    "chapter": 18,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и приводит его к великим."
+  },
+  {
+    "chapter": 18,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Кто первым изложит дело,"
+  },
+  {
+    "chapter": 18,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "тот выглядит правым,"
+  },
+  {
+    "chapter": 18,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "пока другой не придет"
+  },
+  {
+    "chapter": 18,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и его не расспросит."
+  },
+  {
+    "chapter": 18,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Жребий решает споры,"
+  },
+  {
+    "chapter": 18,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и разводит в стороны"
+  },
+  {
+    "chapter": 18,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "сильных соперников."
+  },
+  {
+    "chapter": 18,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Оскорбленный брат"
+  },
+  {
+    "chapter": 18,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "неприступнее крепкого города,"
+  },
+  {
+    "chapter": 18,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "такие ссоры"
+  },
+  {
+    "chapter": 18,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "подобны засовам крепости."
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Плодами уст человек"
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "наполняет чрево свое;"
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "он насыщается"
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "жатвой своего языка."
+  },
+  {
+    "chapter": 18,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "У языка сила"
+  },
+  {
+    "chapter": 18,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "жизни и смерти,"
+  },
+  {
+    "chapter": 18,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "те,"
+  },
+  {
+    "chapter": 18,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "кто любит его,"
+  },
+  {
+    "chapter": 18,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "будут есть его плод."
+  },
+  {
+    "chapter": 18,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Нашедший жену нашел благо"
+  },
+  {
+    "chapter": 18,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и получил от Господа"
+  },
+  {
+    "chapter": 18,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "расположение."
+  },
+  {
+    "chapter": 18,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Бедняк о милости молит,"
+  },
+  {
+    "chapter": 18,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "а богач отвечает грубо."
+  },
+  {
+    "chapter": 18,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Человек с друзьями"
+  },
+  {
+    "chapter": 18,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "может разрушиться,"
+  },
+  {
+    "chapter": 18,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "но истинный друг"
+  },
+  {
+    "chapter": 18,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "ближе иного брата."
+  }
+]

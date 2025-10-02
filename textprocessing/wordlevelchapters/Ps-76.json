@@ -1,0 +1,666 @@
+[
+  {
+    "chapter": 76,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Дирижеру хора."
+  },
+  {
+    "chapter": 76,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "На мелодию"
+  },
+  {
+    "chapter": 76,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Лилия свидетельства."
+  },
+  {
+    "chapter": 76,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Псалом Асафа."
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Услышь нас,"
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Пастырь Израиля,"
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Ты,"
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Который водит Иосифа,"
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "как овец,"
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "восседающий на херувимах,"
+  },
+  {
+    "chapter": 76,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "воссияй!"
+  },
+  {
+    "chapter": 76,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Пред Ефремом,"
+  },
+  {
+    "chapter": 76,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Вениамином и"
+  },
+  {
+    "chapter": 76,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Манассией пробуди силу Свою,"
+  },
+  {
+    "chapter": 76,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "приди и спаси нас!"
+  },
+  {
+    "chapter": 76,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Боже,"
+  },
+  {
+    "chapter": 76,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "восстанови нас! Да"
+  },
+  {
+    "chapter": 76,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "воссияет лицо Твое,"
+  },
+  {
+    "chapter": 76,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и будем спасены."
+  },
+  {
+    "chapter": 76,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "О Господи,"
+  },
+  {
+    "chapter": 76,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Бог сил,"
+  },
+  {
+    "chapter": 76,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "как долго еще будешь"
+  },
+  {
+    "chapter": 76,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "гневаться на молитвы Своего"
+  },
+  {
+    "chapter": 76,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "народа?"
+  },
+  {
+    "chapter": 76,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Напитал Ты нас слезами,"
+  },
+  {
+    "chapter": 76,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "как хлебом,"
+  },
+  {
+    "chapter": 76,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "напоил их ими сполна,"
+  },
+  {
+    "chapter": 76,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "сделал нас"
+  },
+  {
+    "chapter": 76,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "причиной раздора соседей,"
+  },
+  {
+    "chapter": 76,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и враги наши"
+  },
+  {
+    "chapter": 76,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "насмехаются над нами."
+  },
+  {
+    "chapter": 76,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Бог сил,"
+  },
+  {
+    "chapter": 76,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "восстанови нас! Да"
+  },
+  {
+    "chapter": 76,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "воссияет лицо Твое,"
+  },
+  {
+    "chapter": 76,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и будем спасены."
+  },
+  {
+    "chapter": 76,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Из Египта Ты"
+  },
+  {
+    "chapter": 76,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "перенес виноградную лозу,"
+  },
+  {
+    "chapter": 76,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "изгнал народы и посадил ее,"
+  },
+  {
+    "chapter": 76,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "очистил для нее место."
+  },
+  {
+    "chapter": 76,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Принялись ее корни,"
+  },
+  {
+    "chapter": 76,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и она наполнила землю."
+  },
+  {
+    "chapter": 76,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Горы покрылись ее тенью и"
+  },
+  {
+    "chapter": 76,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "могучие кедры ее ветвями."
+  },
+  {
+    "chapter": 76,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Она пустила свои ветви до"
+  },
+  {
+    "chapter": 76,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "моря"
+  },
+  {
+    "chapter": 76,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и побеги свои до реки"
+  },
+  {
+    "chapter": 76,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Евфрат."
+  },
+  {
+    "chapter": 76,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Для чего"
+  },
+  {
+    "chapter": 76,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "разрушил Ты ее ограды,"
+  },
+  {
+    "chapter": 76,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "так что все проходящие"
+  },
+  {
+    "chapter": 76,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "мимо обрывают ее плоды?"
+  },
+  {
+    "chapter": 76,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Лесной кабан подрывает ее,"
+  },
+  {
+    "chapter": 76,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и дикие звери объедают ее."
+  },
+  {
+    "chapter": 76,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Бог сил,"
+  },
+  {
+    "chapter": 76,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "возвратись к нам! Взгляни с"
+  },
+  {
+    "chapter": 76,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "неба"
+  },
+  {
+    "chapter": 76,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и посмотри на нас! И"
+  },
+  {
+    "chapter": 76,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "сохрани этот виноград,"
+  },
+  {
+    "chapter": 76,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "что посадила"
+  },
+  {
+    "chapter": 76,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "правая рука Твоя,"
+  },
+  {
+    "chapter": 76,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и сына,"
+  },
+  {
+    "chapter": 76,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "которого Ты сделал"
+  },
+  {
+    "chapter": 76,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "сильным для Себя."
+  },
+  {
+    "chapter": 76,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Твой виноград пожжен огнем,"
+  },
+  {
+    "chapter": 76,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "обсечен,"
+  },
+  {
+    "chapter": 76,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "от Твоего гнева"
+  },
+  {
+    "chapter": 76,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "погибает народ Твой."
+  },
+  {
+    "chapter": 76,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Пусть будет"
+  },
+  {
+    "chapter": 76,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "рука Твоя над тем,"
+  },
+  {
+    "chapter": 76,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "кто от Тебя по правую руку,"
+  },
+  {
+    "chapter": 76,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "над сыном человека,"
+  },
+  {
+    "chapter": 76,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "которого Ты сделал"
+  },
+  {
+    "chapter": 76,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "сильным для Себя,"
+  },
+  {
+    "chapter": 76,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Тогда мы не"
+  },
+  {
+    "chapter": 76,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "отступим от Тебя;"
+  },
+  {
+    "chapter": 76,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "возврати нас к жизни,"
+  },
+  {
+    "chapter": 76,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и мы будем"
+  },
+  {
+    "chapter": 76,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "призывать Имя Твое."
+  },
+  {
+    "chapter": 76,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 76,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Бог сил,"
+  },
+  {
+    "chapter": 76,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "восстанови нас!"
+  },
+  {
+    "chapter": 76,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Пусть воссияет Твое лицо,"
+  },
+  {
+    "chapter": 76,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "и будем спасены."
+  }
+]

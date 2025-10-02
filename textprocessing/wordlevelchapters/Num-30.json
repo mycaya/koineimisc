@@ -1,0 +1,786 @@
+[
+  {
+    "chapter": 30,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Моисей сказал"
+  },
+  {
+    "chapter": 30,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "главам родов Израиля:"
+  },
+  {
+    "chapter": 30,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Так повелел Господь:"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Если человек даст обет"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Господу"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "или свяжет себя зароком,"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "пусть не"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "нарушает своего слова,"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "но выполняет все,"
+  },
+  {
+    "chapter": 30,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "что сказал."
+  },
+  {
+    "chapter": 30,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Если молодая девушка,"
+  },
+  {
+    "chapter": 30,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "которая еще"
+  },
+  {
+    "chapter": 30,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "живет в доме отца,"
+  },
+  {
+    "chapter": 30,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "даст обет Господу или"
+  },
+  {
+    "chapter": 30,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "свяжет себя зароком,"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "а ее отец услышит"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "про обет или зарок,"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "но ничего ей не скажет,"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "то все ее обеты"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "и всякий зарок,"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которым она связала себя,"
+  },
+  {
+    "chapter": 30,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "останутся в силе."
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но если,"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "услышав об этом,"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "отец запретит ей,"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "ни один из ее"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "обетов или зароков,"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которыми она связала себя,"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "не останется в силе;"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "Господь простит ей,"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 9,
+    "text": "потому что ей"
+  },
+  {
+    "chapter": 30,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 10,
+    "text": "запретил отец."
+  },
+  {
+    "chapter": 30,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Если она выйдет замуж,"
+  },
+  {
+    "chapter": 30,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "будучи связана обетом"
+  },
+  {
+    "chapter": 30,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "или опрометчивым словом"
+  },
+  {
+    "chapter": 30,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "своих уст,"
+  },
+  {
+    "chapter": 30,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "а ее муж услышит об этом,"
+  },
+  {
+    "chapter": 30,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "но услышав,"
+  },
+  {
+    "chapter": 30,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "ничего ей не скажет,"
+  },
+  {
+    "chapter": 30,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "ее обеты и зароки,"
+  },
+  {
+    "chapter": 30,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "которыми она связала себя,"
+  },
+  {
+    "chapter": 30,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "останутся в силе."
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но если,"
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "услышав об этом,"
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "муж запретит ей,"
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "он отменит обет или"
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "опрометчивое слово ее уст,"
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которыми она связала себя,"
+  },
+  {
+    "chapter": 30,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "и Господь простит ей."
+  },
+  {
+    "chapter": 30,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но всякий обет,"
+  },
+  {
+    "chapter": 30,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "которым свяжет себя вдова"
+  },
+  {
+    "chapter": 30,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "или разведенная женщина,"
+  },
+  {
+    "chapter": 30,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "остается в силе."
+  },
+  {
+    "chapter": 30,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Если женщина,"
+  },
+  {
+    "chapter": 30,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "живущая с мужем,"
+  },
+  {
+    "chapter": 30,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "даст обет или,"
+  },
+  {
+    "chapter": 30,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "поклявшись,"
+  },
+  {
+    "chapter": 30,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "свяжет себя зароком,"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "а муж услышит об этом,"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "но услышав,"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "ничего ей не"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "скажет и не запретит,"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "все ее обеты и зароки,"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которыми она связала себя,"
+  },
+  {
+    "chapter": 30,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "останутся в силе."
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но если,"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "услышав о них,"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "муж отменит их,"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "ни один из"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "обетов или зароков,"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которые сошли с ее уст,"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "не останется в силе:"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "муж отменил их,"
+  },
+  {
+    "chapter": 30,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 9,
+    "text": "и Господь простит ей."
+  },
+  {
+    "chapter": 30,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Муж может подтвердить"
+  },
+  {
+    "chapter": 30,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "или отменить любой ее обет"
+  },
+  {
+    "chapter": 30,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "или зарок смирять себя."
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но если муж день за днем"
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "не будет ей ничего говорить,"
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "он подтвердит"
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "все обеты и зароки,"
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "которыми она себя связала."
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "Он подтверждает их"
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "когда ничего не говорит ей,"
+  },
+  {
+    "chapter": 30,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "слыша о них."
+  },
+  {
+    "chapter": 30,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Если он отменит их через"
+  },
+  {
+    "chapter": 30,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "некоторое время после того,"
+  },
+  {
+    "chapter": 30,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "как услышит о них,"
+  },
+  {
+    "chapter": 30,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "он будет в"
+  },
+  {
+    "chapter": 30,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "ответе за ее вину."
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Таковы постановления,"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "которые Господь дал Моисею"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "об отношениях между мужем"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "и женой,"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "между отцом и"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "молодой дочерью,"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "которая еще"
+  },
+  {
+    "chapter": 30,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "живет в его доме."
+  }
+]

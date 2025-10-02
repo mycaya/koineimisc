@@ -1,0 +1,666 @@
+[
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Песнь."
+  },
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Псалом потомков Корея."
+  },
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Дирижеру хора."
+  },
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "На мотив"
+  },
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Страдание в несчастье."
+  },
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "Наставление"
+  },
+  {
+    "chapter": 84,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "Емана езрахитянина."
+  },
+  {
+    "chapter": 84,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 84,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Бог спасения моего,"
+  },
+  {
+    "chapter": 84,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "днем и ночью взываю к Тебе."
+  },
+  {
+    "chapter": 84,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Пусть достигнет"
+  },
+  {
+    "chapter": 84,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Тебя молитва моя,"
+  },
+  {
+    "chapter": 84,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "услышь мою мольбу."
+  },
+  {
+    "chapter": 84,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Моя душа полна страданий,"
+  },
+  {
+    "chapter": 84,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и жизнь моя"
+  },
+  {
+    "chapter": 84,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "приблизилась к миру мертвых."
+  },
+  {
+    "chapter": 84,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Я сравнялся с"
+  },
+  {
+    "chapter": 84,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "нисходящими в яму,"
+  },
+  {
+    "chapter": 84,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "превратился в"
+  },
+  {
+    "chapter": 84,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "бессильного человека."
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Я брошен между мертвыми;"
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "как убитые,"
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "лежащие в могиле,"
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "о которых Ты уже не"
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "вспоминаешь"
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "и которые от Твоей руки"
+  },
+  {
+    "chapter": 84,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "отторгнуты."
+  },
+  {
+    "chapter": 84,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Ты положил меня в"
+  },
+  {
+    "chapter": 84,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "глубокую пропасть,"
+  },
+  {
+    "chapter": 84,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "во тьму,"
+  },
+  {
+    "chapter": 84,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "в бездну."
+  },
+  {
+    "chapter": 84,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Тяжестью лежит"
+  },
+  {
+    "chapter": 84,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "на мне Твой гнев;"
+  },
+  {
+    "chapter": 84,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Ты всеми волнами"
+  },
+  {
+    "chapter": 84,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Твоими захлестнул меня."
+  },
+  {
+    "chapter": 84,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Пауза"
+  },
+  {
+    "chapter": 84,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Ты отвратил от"
+  },
+  {
+    "chapter": 84,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "меня друзей моих,"
+  },
+  {
+    "chapter": 84,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "сделав меня для"
+  },
+  {
+    "chapter": 84,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "них страшилищем."
+  },
+  {
+    "chapter": 84,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Я заключен и не могу выйти;"
+  },
+  {
+    "chapter": 84,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "глаза истомились от горя."
+  },
+  {
+    "chapter": 84,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Господь,"
+  },
+  {
+    "chapter": 84,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "я взывал к"
+  },
+  {
+    "chapter": 84,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Тебе каждый день,"
+  },
+  {
+    "chapter": 84,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "простирал к Тебе руки свои."
+  },
+  {
+    "chapter": 84,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Разве для мертвых Ты"
+  },
+  {
+    "chapter": 84,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "творишь чудеса? Разве"
+  },
+  {
+    "chapter": 84,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "встанут духи умерших,"
+  },
+  {
+    "chapter": 84,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "чтобы"
+  },
+  {
+    "chapter": 84,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "прославлять Тебя? Пауза"
+  },
+  {
+    "chapter": 84,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Ужели в могиле будет"
+  },
+  {
+    "chapter": 84,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "возвещена милость Твоя"
+  },
+  {
+    "chapter": 84,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и верность Твоя в Погибели?"
+  },
+  {
+    "chapter": 84,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Разве в мире тьмы познают"
+  },
+  {
+    "chapter": 84,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "чудеса Твои"
+  },
+  {
+    "chapter": 84,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и праведность Твою в земле"
+  },
+  {
+    "chapter": 84,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "забвения?"
+  },
+  {
+    "chapter": 84,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но,"
+  },
+  {
+    "chapter": 84,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Господь,"
+  },
+  {
+    "chapter": 84,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "я к Тебе взываю,"
+  },
+  {
+    "chapter": 84,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "ранним утром молитва"
+  },
+  {
+    "chapter": 84,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "моя будет пред Тобой."
+  },
+  {
+    "chapter": 84,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Зачем Ты,"
+  },
+  {
+    "chapter": 84,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 84,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "отвергаешь мою душу? Зачем"
+  },
+  {
+    "chapter": 84,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "скрываешь от меня лицо"
+  },
+  {
+    "chapter": 84,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Свое?"
+  },
+  {
+    "chapter": 84,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "С юности я страдаю"
+  },
+  {
+    "chapter": 84,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и близок к смерти;"
+  },
+  {
+    "chapter": 84,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "до отчаяния"
+  },
+  {
+    "chapter": 84,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "доведен я ужасами Твоими."
+  },
+  {
+    "chapter": 84,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Твоя ярость"
+  },
+  {
+    "chapter": 84,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "прошла надо мною,"
+  },
+  {
+    "chapter": 84,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Твои устрашения"
+  },
+  {
+    "chapter": 84,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "сокрушили меня."
+  },
+  {
+    "chapter": 84,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Как вода,"
+  },
+  {
+    "chapter": 84,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "окружают они"
+  },
+  {
+    "chapter": 84,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "меня целый день,"
+  },
+  {
+    "chapter": 84,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "поглощают меня целиком."
+  },
+  {
+    "chapter": 84,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Любимых и друзей"
+  },
+  {
+    "chapter": 84,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "отдалил Ты от меня,"
+  },
+  {
+    "chapter": 84,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и тьма мой близкий друг."
+  }
+]

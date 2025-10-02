@@ -1,0 +1,682 @@
+[
+  {
+    "chapter": 82,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Молитва Давида."
+  },
+  {
+    "chapter": 82,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Услышь меня,"
+  },
+  {
+    "chapter": 82,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 82,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и ответь,"
+  },
+  {
+    "chapter": 82,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "ведь я беден и нищ."
+  },
+  {
+    "chapter": 82,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Сохрани мою жизнь,"
+  },
+  {
+    "chapter": 82,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "ведь Тебе я предан."
+  },
+  {
+    "chapter": 82,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Ты мой Бог;"
+  },
+  {
+    "chapter": 82,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "спаси Своего слугу,"
+  },
+  {
+    "chapter": 82,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "надеющегося на Тебя."
+  },
+  {
+    "chapter": 82,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "помилуй меня,"
+  },
+  {
+    "chapter": 82,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "ведь я к Тебе"
+  },
+  {
+    "chapter": 82,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "взываю целый день."
+  },
+  {
+    "chapter": 82,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Даруй радость слуге Твоему,"
+  },
+  {
+    "chapter": 82,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "ведь я к Тебе,"
+  },
+  {
+    "chapter": 82,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "возношу душу мою."
+  },
+  {
+    "chapter": 82,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Ты благ и готов прощать,"
+  },
+  {
+    "chapter": 82,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "богат милостью для всех,"
+  },
+  {
+    "chapter": 82,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "кто призывает Тебя."
+  },
+  {
+    "chapter": 82,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Господь,"
+  },
+  {
+    "chapter": 82,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "молитву мою услышь;"
+  },
+  {
+    "chapter": 82,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "внемли мольбе"
+  },
+  {
+    "chapter": 82,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "моей о милости."
+  },
+  {
+    "chapter": 82,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "В день беды моей"
+  },
+  {
+    "chapter": 82,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "я к Тебе взываю,"
+  },
+  {
+    "chapter": 82,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что Ты ответишь мне."
+  },
+  {
+    "chapter": 82,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "нет Тебе"
+  },
+  {
+    "chapter": 82,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "подобного среди богов,"
+  },
+  {
+    "chapter": 82,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "нет дел,"
+  },
+  {
+    "chapter": 82,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Твоим подобных."
+  },
+  {
+    "chapter": 82,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Все народы,"
+  },
+  {
+    "chapter": 82,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "которые Ты создал,"
+  },
+  {
+    "chapter": 82,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "придут и"
+  },
+  {
+    "chapter": 82,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "поклонятся пред Тобою,"
+  },
+  {
+    "chapter": 82,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "и восславят Имя Твое,"
+  },
+  {
+    "chapter": 82,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "потому что Ты"
+  },
+  {
+    "chapter": 82,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "велик и творишь чудеса;"
+  },
+  {
+    "chapter": 82,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Ты единственный Бог."
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Научи меня,"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "пути Своему,"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и буду ходить"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "в истине Твоей."
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "Дай мне сердце,"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "целиком отданное Тебе,"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 8,
+    "text": "чтобы мне жить в"
+  },
+  {
+    "chapter": 82,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 9,
+    "text": "страхе перед Тобой."
+  },
+  {
+    "chapter": 82,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Восхвалю Тебя,"
+  },
+  {
+    "chapter": 82,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "мой Бог,"
+  },
+  {
+    "chapter": 82,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "всем сердцем своим;"
+  },
+  {
+    "chapter": 82,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Имя Твое буду"
+  },
+  {
+    "chapter": 82,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "славить вечно,"
+  },
+  {
+    "chapter": 82,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "потому что велика"
+  },
+  {
+    "chapter": 82,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "милость Твоя ко мне,"
+  },
+  {
+    "chapter": 82,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Ты избавил душу мою"
+  },
+  {
+    "chapter": 82,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "от глубин мира мертвых."
+  },
+  {
+    "chapter": 82,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Боже,"
+  },
+  {
+    "chapter": 82,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "поднялись гордецы на меня,"
+  },
+  {
+    "chapter": 82,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "сборище негодяев"
+  },
+  {
+    "chapter": 82,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "ищет жизни моей люди,"
+  },
+  {
+    "chapter": 82,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "забывшие о Тебе!"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но Ты,"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Бог милостивый"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и милосердный,"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "долготерпеливый,"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "богатый"
+  },
+  {
+    "chapter": 82,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "милостью и верностью."
+  },
+  {
+    "chapter": 82,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Обратись ко мне и помилуй;"
+  },
+  {
+    "chapter": 82,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "силы Твоей дай"
+  },
+  {
+    "chapter": 82,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "слуге Твоему;"
+  },
+  {
+    "chapter": 82,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "спаси сына служанки Твоей."
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Дай мне знак,"
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "что Ты ко мне благ;"
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "пусть его увидят"
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "ненавидящие меня и устыдятся,"
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "потому что Ты,"
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 82,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "помог мне и утешил меня."
+  }
+]

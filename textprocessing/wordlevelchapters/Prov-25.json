@@ -1,0 +1,914 @@
+[
+  {
+    "chapter": 25,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Вот еще изречения Соломона,"
+  },
+  {
+    "chapter": 25,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "собранные людьми Езекии,"
+  },
+  {
+    "chapter": 25,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "царя Иудеи:"
+  },
+  {
+    "chapter": 25,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Божья слава"
+  },
+  {
+    "chapter": 25,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "окутывать дело тайной,"
+  },
+  {
+    "chapter": 25,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "слава царя"
+  },
+  {
+    "chapter": 25,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "исследовать дело."
+  },
+  {
+    "chapter": 25,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как небеса высотой,"
+  },
+  {
+    "chapter": 25,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и глубиной земля,"
+  },
+  {
+    "chapter": 25,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "царское сердце непостижимо."
+  },
+  {
+    "chapter": 25,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Удали примесь из серебра,"
+  },
+  {
+    "chapter": 25,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и у ювелира будет"
+  },
+  {
+    "chapter": 25,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "сырье для сосуда;"
+  },
+  {
+    "chapter": 25,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "удали нечестивого от царя,"
+  },
+  {
+    "chapter": 25,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и его престол"
+  },
+  {
+    "chapter": 25,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "утвердиться праведностью."
+  },
+  {
+    "chapter": 25,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не заносись перед царем"
+  },
+  {
+    "chapter": 25,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и не занимай места между"
+  },
+  {
+    "chapter": 25,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "великими;"
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "лучше пусть он тебе скажет:"
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Сюда поднимись,"
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "чем унизит тебя"
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "перед знатным."
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "То,"
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "что ты видел"
+  },
+  {
+    "chapter": 25,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 7,
+    "text": "своими глазами,"
+  },
+  {
+    "chapter": 25,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "не спеши принести на суд."
+  },
+  {
+    "chapter": 25,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Что ты станешь"
+  },
+  {
+    "chapter": 25,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "делать в конце,"
+  },
+  {
+    "chapter": 25,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "если ближний"
+  },
+  {
+    "chapter": 25,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "твой тебя пристыдит?"
+  },
+  {
+    "chapter": 25,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Если ведешь с"
+  },
+  {
+    "chapter": 25,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ближним тяжбу,"
+  },
+  {
+    "chapter": 25,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "не предавай чужого доверия,"
+  },
+  {
+    "chapter": 25,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "иначе услышавший"
+  },
+  {
+    "chapter": 25,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "пристыдит тебя,"
+  },
+  {
+    "chapter": 25,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и слава дурная от"
+  },
+  {
+    "chapter": 25,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "тебя не отстанет."
+  },
+  {
+    "chapter": 25,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Слово,"
+  },
+  {
+    "chapter": 25,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сказанное уместно,"
+  },
+  {
+    "chapter": 25,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "подобно золотым"
+  },
+  {
+    "chapter": 25,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "яблокам в оправе из серебра."
+  },
+  {
+    "chapter": 25,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что золотая серьга или из"
+  },
+  {
+    "chapter": 25,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "чистого золота украшение,"
+  },
+  {
+    "chapter": 25,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "то упрек мудреца"
+  },
+  {
+    "chapter": 25,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "для уха внимательного."
+  },
+  {
+    "chapter": 25,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что холод снега"
+  },
+  {
+    "chapter": 25,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "в жатвенный зной,"
+  },
+  {
+    "chapter": 25,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "то верный"
+  },
+  {
+    "chapter": 25,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "посланник для того,"
+  },
+  {
+    "chapter": 25,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "кто его посылает;"
+  },
+  {
+    "chapter": 25,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "душу хозяина он бодрит."
+  },
+  {
+    "chapter": 25,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что облака и"
+  },
+  {
+    "chapter": 25,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ветер без дождя,"
+  },
+  {
+    "chapter": 25,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "тот,"
+  },
+  {
+    "chapter": 25,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "кто хвастается подарками,"
+  },
+  {
+    "chapter": 25,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "которых он не дарил."
+  },
+  {
+    "chapter": 25,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Терпением можно"
+  },
+  {
+    "chapter": 25,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "убедить повелителя;"
+  },
+  {
+    "chapter": 25,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и кроткий язык"
+  },
+  {
+    "chapter": 25,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "кость переламывает."
+  },
+  {
+    "chapter": 25,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Нашел мед ешь,"
+  },
+  {
+    "chapter": 25,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сколько потребно,"
+  },
+  {
+    "chapter": 25,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "иначе объешься,"
+  },
+  {
+    "chapter": 25,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и тебя стошнит."
+  },
+  {
+    "chapter": 25,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пореже ходи в"
+  },
+  {
+    "chapter": 25,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "дом друга иначе,"
+  },
+  {
+    "chapter": 25,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "устав от тебя,"
+  },
+  {
+    "chapter": 25,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "он тебя возненавидит."
+  },
+  {
+    "chapter": 25,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что булава,"
+  },
+  {
+    "chapter": 25,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "меч,"
+  },
+  {
+    "chapter": 25,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "или острая стрела человек,"
+  },
+  {
+    "chapter": 25,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "дающий ложное"
+  },
+  {
+    "chapter": 25,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "свидетельство против ближнего."
+  },
+  {
+    "chapter": 25,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что зуб гнилой"
+  },
+  {
+    "chapter": 25,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "или хромая нога надежда на"
+  },
+  {
+    "chapter": 25,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "вероломного в день беды."
+  },
+  {
+    "chapter": 25,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как тот,"
+  },
+  {
+    "chapter": 25,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кто снимает"
+  },
+  {
+    "chapter": 25,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "одежду в холодный день,"
+  },
+  {
+    "chapter": 25,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "как уксус на соду,"
+  },
+  {
+    "chapter": 25,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "так и поющий"
+  },
+  {
+    "chapter": 25,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "печальному сердцу песни."
+  },
+  {
+    "chapter": 25,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Если враг твой"
+  },
+  {
+    "chapter": 25,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "голоден накорми его;"
+  },
+  {
+    "chapter": 25,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "если он хочет"
+  },
+  {
+    "chapter": 25,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "пить напои водой."
+  },
+  {
+    "chapter": 25,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Поступая так,"
+  },
+  {
+    "chapter": 25,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ты соберешь горящие"
+  },
+  {
+    "chapter": 25,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "угли ему на голову,"
+  },
+  {
+    "chapter": 25,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "а тебя наградит Господь."
+  },
+  {
+    "chapter": 25,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Северный ветер"
+  },
+  {
+    "chapter": 25,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "приносит дождь,"
+  },
+  {
+    "chapter": 25,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а язык"
+  },
+  {
+    "chapter": 25,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "клеветника гневные лица."
+  },
+  {
+    "chapter": 25,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Лучше жить на крыше в углу,"
+  },
+  {
+    "chapter": 25,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "чем делить дом со"
+  },
+  {
+    "chapter": 25,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "сварливой женой."
+  },
+  {
+    "chapter": 25,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что холодная вода для"
+  },
+  {
+    "chapter": 25,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "измученной жаждой души"
+  },
+  {
+    "chapter": 25,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "добрые вести"
+  },
+  {
+    "chapter": 25,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "из дальнего края."
+  },
+  {
+    "chapter": 25,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как замутившийся ключ"
+  },
+  {
+    "chapter": 25,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "или родник оскверненный"
+  },
+  {
+    "chapter": 25,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "праведник,"
+  },
+  {
+    "chapter": 25,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "уступающий нечестивым."
+  },
+  {
+    "chapter": 25,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Нехорошо есть слишком"
+  },
+  {
+    "chapter": 25,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "много меда и искать славы,"
+  },
+  {
+    "chapter": 25,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "уже находясь на"
+  },
+  {
+    "chapter": 25,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "вершине славы."
+  },
+  {
+    "chapter": 25,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как город,"
+  },
+  {
+    "chapter": 25,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "чьи стены рухнули,"
+  },
+  {
+    "chapter": 25,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и человек,"
+  },
+  {
+    "chapter": 25,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "не владеющий собой."
+  }
+]

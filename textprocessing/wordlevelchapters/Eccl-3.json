@@ -1,0 +1,906 @@
+[
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Всему есть свое время,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "и для каждого дела"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "под небом есть свой час:"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время рождаться"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "и время умирать;"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время сажать и"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "время искоренять;"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время убивать и"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "время исцелять;"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время разрушать"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и время строить;"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время плакать и"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "время смеяться;"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время скорбеть и"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "время танцевать;"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время раскидывать"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "камни и время их собирать;"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время обнимать и время"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "воздерживаться от объятий;"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время искать и"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "время терять;"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время хранить и"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "время выбрасывать;"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время рвать и"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "время сшивать;"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время молчать и"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "время говорить;"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "время любить и"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "время ненавидеть;"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "время для войны"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и время для мира."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "В чем польза"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "работнику от труда его?"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Я видел бремя,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "которое Бог"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "возложил на людей."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Он создал все"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "прекрасным в свое время."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "Он также вложил осознание"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "вечности в сердца людей,"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "но они не могут"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "постичь всего,"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "что делает Бог,"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "от начала до конца."
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Я понял,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что нет ничего"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "лучше для людей,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "чем быть"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "счастливыми и делать добро,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "пока они живы."
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И если кто-то может есть,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "пить и находить"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "удовольствие во всем своем труде,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "то это дар Божий."
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Я понял,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что все,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "что делает Бог,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "пребудет вовек:"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "к этому нечего прибавить"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "и нечего от этого отнять."
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "Бог делает так,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "чтобы люди"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 9,
+    "text": "благоговели перед Ним."
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Все,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что есть и что будет,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "уже было прежде,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "ведь Бог повторяет то,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "что прошло."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И вот,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что я еще"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "видел под солнцем:"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "место суда,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "а там царит беззаконие,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "место праведности,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "а там несправедливость."
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И подумал я:"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "Бог будет судить"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "обоих праведника и злодея,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "потому что назначено время"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "всякому событию"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "и всякому делу."
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И еще я подумал о людях:"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "Бог испытывает их,"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "чтобы показать им,"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "что они подобны животным."
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Одна участь у"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "людей и животных:"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "умирают и те,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и другие."
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "Одно у тех и"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "других дыхание,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "и нет у человека никаких"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "преимуществ перед животными."
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 9,
+    "text": "Все суета."
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Все"
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "возвращается на круги свои:"
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "все пришло из праха,"
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и в прах все возвратится."
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Кто знает:"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "поднимается ли"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "дух человека вверх,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и опускается ли"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "дух животного вниз,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "в землю?"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И увидел я,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что нет ничего"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "лучше для человека,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "чем"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "наслаждаться своим трудом,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "потому что такова его доля."
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "Ведь кто может"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "показать ему то,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 9,
+    "text": "что будет после него?"
+  }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "chapter": 85,
+        "verse": 1,
+        "text": "Наставление Ефана езрахитянина.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 2,
+        "text": "Я всегда буду петь о милости Господа; устами своими возвещу верность Твою всем поколениям.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 3,
+        "text": "Я говорю: навсегда основана Твоя милость, верность Твоя утверждена на небесах.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 4,
+        "text": "Ты сказал: «С избранным Моим заключил Я завет, с Давидом, Моим слугой. Я дал клятву:",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 5,
+        "text": "“Семя твое навек утвержу, из поколения в поколение пребудет престол Твой”». Пауза",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 6,
+        "text": "Небеса прославляют Твои чудеса, Господи, и Твою верность - в собрании святых.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 7,
+        "text": "Ведь кто на небесах сравнится с Господом? Кто из сынов властителей уподобится Господу?",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 8,
+        "text": "Бог внушает страх святым, и грозен для всех окружающих Его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 9,
+        "text": "Господи, Бог сил, кто сравнится с Тобой в силе Твоей? Ты силен и верность Твоя окружает Тебя.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 10,
+        "text": "Ты владычествуешь над яростью моря; когда волны вздымаются, Ты укрощаешь их.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 11,
+        "text": "Ты поразил Раава и убил его; крепкой рукою Ты рассеял врагов Своих.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 12,
+        "text": "Небеса Твои и земля Твоя; Ты основал вселенную и все, что ее наполняет.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 13,
+        "text": "Север и юг Ты сотворил; горы Фавор и Ермон радуются Имени Твоему.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 14,
+        "text": "Твоя мышца крепка, длань Твоя могуча, вознесена рука Твоя правая.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 15,
+        "text": "Справедливость и правосудие - основание престола Твоего, милость и верность идут пред Твоим лицом.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 16,
+        "text": "Благословен народ, знающий радостный крик, во свете Твоего лица они будут ходить.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 17,
+        "text": "Во Имя Твое они радуются целый день и праведностью Твоей возвышаются,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 18,
+        "text": "ведь Ты - их слава и мощь, и по Своему благоволению наш рог вознесется.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 19,
+        "text": "От Господа - щит наш, от Святого Израиля - царь наш.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 20,
+        "text": "Некогда говорил Ты в видении Своим верным служителям: «Я оказал помощь воину, вознес избранного из народа.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 21,
+        "text": "Я нашел Давида, Моего слугу, и Моим святым маслом помазал его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 22,
+        "text": "Рука Моя пребудет с ним и мышца Моя укрепит его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 23,
+        "text": "Враг не одолеет его, и нечестивый не притеснит его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 24,
+        "text": "Сокрушу перед ним всех его врагов и поражу ненавидящих его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 25,
+        "text": "Верность и милость Моя будут с ним, и во Имя Мое возвысится его рог.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 26,
+        "text": "Левую руку его Я положу на море, а правую - на реки.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 27,
+        "text": "Он будет звать Меня: “Ты - Отец мой, Бог мой и скала моего спасения!”",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 28,
+        "text": "Сделаю его первенцем, превыше всех царей земных.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 29,
+        "text": "Милость Мою сохраню для него вовек и завет Мой с ним твердым будет.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 30,
+        "text": "Семя его будет вечно, и престол его - как дни неба.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 31,
+        "text": "Если потомки его забудут Мой Закон и не будут следовать Моим постановлениям,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 32,
+        "text": "если преступят уставы Мои и не будут хранить Моих повелений,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 33,
+        "text": "то накажу их жезлом за их беззакония и ударами за их грехи.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 34,
+        "text": "Милости же Моей его не лишу совсем и не изменю верности Моей.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 35,
+        "text": "Завета Моего Я не нарушу и не отменю сказанного устами Моими.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 36,
+        "text": "Однажды Я поклялся Своею святостью, и не солгу Давиду:",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 37,
+        "text": "семя его пребудет навеки, и престол его, как солнце предо Мною,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 38,
+        "text": "будет утвержден навеки, как луна; он - верный свидетель на небесах». Пауза",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 39,
+        "text": "Но теперь Ты отринул и презрел, прогневался на помазанника Твоего.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 40,
+        "text": "Ты отменил завет, что заключил со слугой Твоим и поверг на землю венец его.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 41,
+        "text": "Ты разрушил все его ограды, крепости его превратил в развалины.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 42,
+        "text": "Крадут у него все проходящие мимо; он стал посмешищем для соседей своих.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 43,
+        "text": "Ты вознес правую руку его противников, всех его врагов обрадовал.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 44,
+        "text": "Ты повернул вспять острие его меча и не укрепил его в сражении.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 45,
+        "text": "Затмил его славу и поверг его престол на землю.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 46,
+        "text": "Ты сократил дни его юности и покрыл его стыдом. Пауза",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 47,
+        "text": "Долго ли, Господи, будешь постоянно скрываться? Долго ли будет пылать Твой гнев, как огонь?",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 48,
+        "text": "Вспомни, как коротка моя жизнь! Ужели напрасно Ты сотворил человека?",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 49,
+        "text": "Какой человек жил и не видел смерти, избавил ли он душу свою от руки мира мертвых? Пауза",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 50,
+        "text": "Где Твоя прежняя милость, Владыка, о которой Ты клялся Давиду верностью Своею?",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 51,
+        "text": "Вспомни, Владыка, поношение слуг Твоих от многих народов, которое ношу я в себе,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 52,
+        "text": "как злословят Твои враги, Господи, как бесславят они следы Твоего помазанника.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 53,
+        "text": "Благословен будь, Господи, навек! Аминь и аминь.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 1,
+        "text": "Молитва Моисея, человека Божьего.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 2,
+        "text": "Владыка, Ты - наше прибежище из поколения в поколение.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 3,
+        "text": "Прежде чем родились горы и Ты образовал землю и вселенную, от века и до века Ты - Бог.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 4,
+        "text": "Ты возвращаешь человека в тление и говоришь: «Вернитесь, сыны человеческие».",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 5,
+        "text": "Тысяча лет в глазах Твоих, как день вчерашний, что минул, как стража в ночи.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 6,
+        "text": "Как наводнением уносишь людей; они проходят, как сон. Они - как пробившаяся утром трава: утром она цветет и зеленеет, а вечером вянет и засыхает.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 7,
+        "text": "Мы исчезаем от Твоего гнева и в смятении от Твоей ярости.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 8,
+        "text": "Ты поставил наши беззакония перед Собой и наши тайные грехи перед светом Своего лица.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 9,
+        "text": "Наши дни проходят в Твоем гневе; мы завершаем свои годы со стоном.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 10,
+        "text": "Наших дней - лет семьдесят, а для более сильных - восемьдесят, и то большая часть их - труд и скорбь; они проходят быстро, и мы улетим.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 11,
+        "text": "Кто познал силу Твоего гнева? Ярость Твоя столь же велика, сколь велик страх перед Тобой.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 12,
+        "text": "Научи нас вести счет нашим дням, чтобы мы обрели сердце мудрое.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 13,
+        "text": "Возвратись, Господи! Как долго это будет длиться? Сжалься над Твоими рабами!",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 14,
+        "text": "Насыщай нас по утрам милостью Своей, чтобы мы радовались и веселились все наши дни.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 15,
+        "text": "Возвесели нас за дни, когда Ты наказывал нас, и за годы, в которые мы испытывали бедствие.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 16,
+        "text": "Да откроется взору рабов Твоих дело Твое, и слава Твоя - их детям.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 85,
+        "verse": 17,
+        "text": "И да пребудет на нас благоволение Владыки, нашего Бога. Укрепи дело наших рук для нас, укрепи дело наших рук.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    }
+]

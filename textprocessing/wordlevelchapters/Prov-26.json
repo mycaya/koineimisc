@@ -1,0 +1,850 @@
+[
+  {
+    "chapter": 26,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как летом снег,"
+  },
+  {
+    "chapter": 26,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как в жатву дождь,"
+  },
+  {
+    "chapter": 26,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и слава не"
+  },
+  {
+    "chapter": 26,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "подобает глупцу."
+  },
+  {
+    "chapter": 26,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как упорхнувший воробей,"
+  },
+  {
+    "chapter": 26,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как улетевшая ласточка,"
+  },
+  {
+    "chapter": 26,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и незаслуженное"
+  },
+  {
+    "chapter": 26,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "проклятие уйдет в пустоту."
+  },
+  {
+    "chapter": 26,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Плеть для коня,"
+  },
+  {
+    "chapter": 26,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "узда для осла,"
+  },
+  {
+    "chapter": 26,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а розга для спин глупцов!"
+  },
+  {
+    "chapter": 26,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не отвечай глупцу"
+  },
+  {
+    "chapter": 26,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "по его глупости,"
+  },
+  {
+    "chapter": 26,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "иначе сам ему"
+  },
+  {
+    "chapter": 26,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "уподобляешься."
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Отвечай глупцу"
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "по его глупости,"
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "иначе он будет"
+  },
+  {
+    "chapter": 26,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "мудрецом в своих глазах."
+  },
+  {
+    "chapter": 26,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что ноги себе отрезать"
+  },
+  {
+    "chapter": 26,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "или терпеть насилие"
+  },
+  {
+    "chapter": 26,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "посылать"
+  },
+  {
+    "chapter": 26,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "известие через глупца."
+  },
+  {
+    "chapter": 26,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Неровно"
+  },
+  {
+    "chapter": 26,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ступают ноги хромого,"
+  },
+  {
+    "chapter": 26,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и пословица"
+  },
+  {
+    "chapter": 26,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "в устах глупца."
+  },
+  {
+    "chapter": 26,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "То же,"
+  },
+  {
+    "chapter": 26,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "что камень к"
+  },
+  {
+    "chapter": 26,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "праще привязывать,"
+  },
+  {
+    "chapter": 26,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "глупому почести воздавать."
+  },
+  {
+    "chapter": 26,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как колючая ветка"
+  },
+  {
+    "chapter": 26,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "в руке у пьяного,"
+  },
+  {
+    "chapter": 26,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и пословица"
+  },
+  {
+    "chapter": 26,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "в устах у глупца."
+  },
+  {
+    "chapter": 26,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что лучник,"
+  },
+  {
+    "chapter": 26,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ранящий всех без разбора,"
+  },
+  {
+    "chapter": 26,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и тот,"
+  },
+  {
+    "chapter": 26,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "кто нанимает глупца"
+  },
+  {
+    "chapter": 26,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "или первого встречного."
+  },
+  {
+    "chapter": 26,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как собака"
+  },
+  {
+    "chapter": 26,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "возвращается на свою блевотину,"
+  },
+  {
+    "chapter": 26,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "так и глупец"
+  },
+  {
+    "chapter": 26,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "повторяет свою глупость."
+  },
+  {
+    "chapter": 26,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Видишь человека,"
+  },
+  {
+    "chapter": 26,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "который мудр в своих"
+  },
+  {
+    "chapter": 26,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "глазах? На глупца больше надежды,"
+  },
+  {
+    "chapter": 26,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "чем на него."
+  },
+  {
+    "chapter": 26,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Лентяй говорит:"
+  },
+  {
+    "chapter": 26,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "На дороге лев! Лев"
+  },
+  {
+    "chapter": 26,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "бродит на улицах!"
+  },
+  {
+    "chapter": 26,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Дверь"
+  },
+  {
+    "chapter": 26,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "поворачивается на петлях,"
+  },
+  {
+    "chapter": 26,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а лентяй на постели."
+  },
+  {
+    "chapter": 26,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Запустит"
+  },
+  {
+    "chapter": 26,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "лентяй руку в блюдо,"
+  },
+  {
+    "chapter": 26,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и уже чересчур утомлен,"
+  },
+  {
+    "chapter": 26,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "чтобы до рта донести."
+  },
+  {
+    "chapter": 26,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Лентяй умнее в"
+  },
+  {
+    "chapter": 26,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "своих глазах,"
+  },
+  {
+    "chapter": 26,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "чем семь человек,"
+  },
+  {
+    "chapter": 26,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "отвечающих осмотрительно."
+  },
+  {
+    "chapter": 26,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что хватающий за"
+  },
+  {
+    "chapter": 26,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "уши пса прохожий,"
+  },
+  {
+    "chapter": 26,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "что ввязывается"
+  },
+  {
+    "chapter": 26,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "в чужую ссору."
+  },
+  {
+    "chapter": 26,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как безумец,"
+  },
+  {
+    "chapter": 26,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "что рассыпает горящие"
+  },
+  {
+    "chapter": 26,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "стрелы и сеет смерть,"
+  },
+  {
+    "chapter": 26,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "так и тот,"
+  },
+  {
+    "chapter": 26,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кто обманывает"
+  },
+  {
+    "chapter": 26,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "ближнего и говорит:"
+  },
+  {
+    "chapter": 26,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "Я только пошутил."
+  },
+  {
+    "chapter": 26,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Без дров угасает огонь;"
+  },
+  {
+    "chapter": 26,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "без сплетен гаснет вражда."
+  },
+  {
+    "chapter": 26,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что уголь для жара"
+  },
+  {
+    "chapter": 26,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и дрова для огня,"
+  },
+  {
+    "chapter": 26,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "то вздорный человек"
+  },
+  {
+    "chapter": 26,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "для разжигания ссоры."
+  },
+  {
+    "chapter": 26,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Сплетен слова"
+  },
+  {
+    "chapter": 26,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как лакомые куски,"
+  },
+  {
+    "chapter": 26,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "что проходят"
+  },
+  {
+    "chapter": 26,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "вовнутрь чрева."
+  },
+  {
+    "chapter": 26,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что глазурь,"
+  },
+  {
+    "chapter": 26,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "покрывающая"
+  },
+  {
+    "chapter": 26,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "глиняный горшок,"
+  },
+  {
+    "chapter": 26,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "пламенные уста"
+  },
+  {
+    "chapter": 26,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "при низком сердце."
+  },
+  {
+    "chapter": 26,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Враг лицемерит в словах,"
+  },
+  {
+    "chapter": 26,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "а в сердце таит коварство."
+  },
+  {
+    "chapter": 26,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть его речь"
+  },
+  {
+    "chapter": 26,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "приятна не доверяй ему,"
+  },
+  {
+    "chapter": 26,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "семь мерзостей"
+  },
+  {
+    "chapter": 26,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "у него в сердце;"
+  },
+  {
+    "chapter": 26,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "пусть ненависть"
+  },
+  {
+    "chapter": 26,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "скрыта притворством,"
+  },
+  {
+    "chapter": 26,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "на людях злоба"
+  },
+  {
+    "chapter": 26,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "врага откроется."
+  },
+  {
+    "chapter": 26,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Роющий яму,"
+  },
+  {
+    "chapter": 26,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сам в нее упадет;"
+  },
+  {
+    "chapter": 26,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "на катящего"
+  },
+  {
+    "chapter": 26,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "камень скатится камень."
+  },
+  {
+    "chapter": 26,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Лживый язык ненавидит тех,"
+  },
+  {
+    "chapter": 26,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кого губит,"
+  },
+  {
+    "chapter": 26,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а льстивые уста"
+  },
+  {
+    "chapter": 26,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "готовят крушение."
+  }
+]

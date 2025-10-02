@@ -1,0 +1,818 @@
+[
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "После этого Иов"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "заговорил и проклял день,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "когда он появился на свет."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Он сказал:"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "- Да сгинет день,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "когда я родился,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и ночь,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "когда было сказано:"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "Ребенок зачат!"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Пусть тот день"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "станет тьмой,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "пусть Бог с высоты"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "не вспомнит о нем,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "пусть свет в"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "тот день не сияет."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Пусть он"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "достанется мраку и мгле,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "пусть будет затянут тучей,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "пусть тьма его свет затмит."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Пусть той"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "ночью владеет тьма,"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "пусть не сочтется она в"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "днях года"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "и не войдет ни в один"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "из месяцев."
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Пусть та ночь"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "будет неплодной,"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и не раздастся в"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "ней крик радости."
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Пусть"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "проклянут эту ночь те,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "кто проклинают дни,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "те,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "кто способен"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "разбудить Левиафана."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Пусть померкнут"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "звезды ее зари;"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "пусть ждет она"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "утра и не дождется,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "не увидит первых"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "лучей рассвета,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "за то,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "что не затворила дверей"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "материнского чрева"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "и не скрыла от моих глаз"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "горе."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Почему не погиб я при родах"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "и не умер сразу же после"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "рождения?"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Зачем меня держали на"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "коленях и вскармливали грудью?"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Я лежал бы сейчас в мире,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "спал бы и был спокоен"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "среди царей и"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "мудрецов земли,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "которые строили себе то,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "что ныне в руинах."
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "С правителями,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "у которых было золото,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и которые свои дома"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "наполнили серебром."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Почему не зарыли меня,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "как мертворожденного,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "как младенца,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "который не увидел света?"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Там прекращается"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "суета неправедных,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и утомленные находят покой."
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Там отдыхают вместе"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "пленники"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и не слышат криков"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "смотрителя."
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Там и малый,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "и великий равны и слуга"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "свободен пред господином."
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "На что дан страдальцу свет,"
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "и жизнь тому,"
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "чья душа скорбит?"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Кто ждет смерти,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "к тому она не идет,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "даже если он"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "ищет ее усердней,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "чем клад,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "кто был бы полон"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "радости и ликования,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "обретя могилу?"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Зачем дана жизнь тому,"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "чей путь сокрыт,"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "тому,"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "перед кем"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "поставил преграду Бог?"
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Вздохи мои вместо еды;"
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "льются стоны мои,"
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "как вода."
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Чего я боялся,"
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "то и произошло;"
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "чего страшился,"
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "то со мной и случилось."
+  },
+  {
+    "chapter": 3,
+    "verse": 26,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Нет ни отдыха мне,"
+  },
+  {
+    "chapter": 3,
+    "verse": 26,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "ни покоя;"
+  },
+  {
+    "chapter": 3,
+    "verse": 26,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "нет мне мира,"
+  },
+  {
+    "chapter": 3,
+    "verse": 26,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "настала смута."
+  }
+]

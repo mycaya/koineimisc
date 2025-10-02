@@ -1,0 +1,906 @@
+[
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Но Бог помнил о Ное и о"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "всех диких животных и скоте,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "которые были с"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "ним в ковчеге,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "и послал ветер на землю,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "и воды стали убывать."
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Источники бездны и"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "окна неба закрылись,"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и дождь"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "перестал литься с неба."
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Вода медленно"
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "уходила с земли,"
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и к сто пятидесятому"
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "дню она сильно убыла."
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "На семнадцатый день"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "седьмого месяца ковчег"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "остановился на Араратских"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "горах."
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Воды продолжали"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "убывать до десятого месяца,"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и в первый день десятого"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "месяца стали видны вершины"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "гор."
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Через сорок дней"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Ной открыл окно,"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "которое он"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "сделал в ковчеге,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "и выпустил ворона,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и тот улетал и"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "прилетал обратно до тех пор,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "пока вода на"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "земле не высохла."
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Потом Ной выпустил голубя,"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "чтобы увидеть,"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "сошла ли вода с"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "поверхности земли,"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "но голубь не"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "нашел сухого места,"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "чтобы опуститься,"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и вернулся к Ною в ковчег,"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "потому что вода"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "покрывала всю землю."
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "Ной протянул руку"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "и взял голубя обратно к"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "себе в ковчег."
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Спустя семь дней он опять"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "выпустил голубя из ковчега."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Когда вечером"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "голубь вернулся,"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "в клюве у него был"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "свежесорванный масличный лист."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "Тогда Ной понял,"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "что вода сошла с земли."
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Он подождал еще семь дней"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и снова выпустил голубя,"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и на этот раз"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "голубь не вернулся."
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "К первому дню первого"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "месяца шестьсот первого"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "года жизни Ноя земля"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "высохла от воды."
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "Ной поднял крышу ковчега,"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "выглянул и увидел,"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "что земля сухая."
+  },
+  {
+    "chapter": 8,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "К двадцать седьмому дню"
+  },
+  {
+    "chapter": 8,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "второго месяца земля стала"
+  },
+  {
+    "chapter": 8,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "совершенно сухой."
+  },
+  {
+    "chapter": 8,
+    "verse": 15,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Тогда Бог сказал Ною:"
+  },
+  {
+    "chapter": 8,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "- Выйди из ковчега,"
+  },
+  {
+    "chapter": 8,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и ты,"
+  },
+  {
+    "chapter": 8,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и твоя жена,"
+  },
+  {
+    "chapter": 8,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и твои сыновья,"
+  },
+  {
+    "chapter": 8,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "и их жены."
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Выведи наружу"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "все живые существа,"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "которые с тобой птиц,"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "зверей и всех"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "пресмыкающихся,"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "чтобы они"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "могли расти числом,"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "и плодиться,"
+  },
+  {
+    "chapter": 8,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "и размножаться на земле."
+  },
+  {
+    "chapter": 8,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "И Ной вышел из"
+  },
+  {
+    "chapter": 8,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "ковчега вместе с сыновьями,"
+  },
+  {
+    "chapter": 8,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "женой и женами сыновей."
+  },
+  {
+    "chapter": 8,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Все звери и все"
+  },
+  {
+    "chapter": 8,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "пресмыкающиеся,"
+  },
+  {
+    "chapter": 8,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и все птицы все,"
+  },
+  {
+    "chapter": 8,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "что движется по"
+  },
+  {
+    "chapter": 8,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "земле вышли из ковчега,"
+  },
+  {
+    "chapter": 8,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "один вид за другим."
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Ной построил Господу"
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "жертвенник"
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и принес на нем жертву"
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "всесожжения"
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "из всех видов чистых"
+  },
+  {
+    "chapter": 8,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "животных и птиц."
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Господь почувствовал"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "приятный запах"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и сказал в сердце Своем:"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "Никогда впредь не стану Я"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "проклинать землю"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "из-за человека,"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "хотя всякое помышление его"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "сердца порочно с детства."
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "И никогда впредь не"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 10,
+    "text": "уничтожу всех живых существ,"
+  },
+  {
+    "chapter": 8,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 11,
+    "text": "как в этот раз."
+  },
+  {
+    "chapter": 8,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Пока существует земля,"
+  },
+  {
+    "chapter": 8,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "не прекратятся сев и жатва,"
+  },
+  {
+    "chapter": 8,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "холод и зной,"
+  },
+  {
+    "chapter": 8,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "лето и зима,"
+  },
+  {
+    "chapter": 8,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "день и ночь."
+  }
+]

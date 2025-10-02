@@ -1,0 +1,946 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Слово Господа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "которое было к Софонии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "сыну Кушия,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "сыну Гедалии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "сыну Амории,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "сыну Езекии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "во время правления"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 8,
+    "text": "иудейского царя Иосии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 9,
+    "text": "сына Амона."
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "- Я все смету с лица земли,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "возвещает Господь."
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "-"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Погублю и людей,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "и скот;"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "погублю и птиц в небесах,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "и рыбу в морях."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "Я повергну нечестивцев и"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "сотру человека с лица земли,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "говорит Господь."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 8,
+    "text": "-"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "- Я воздену руку над Иудеей"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "и над жителями Иерусалима"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "и сотру здесь последний"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "след Ваала,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "имена его жрецов,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "священников,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "отвернувшихся от Меня,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "и тех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "кто поклоняется на"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "крышах небесному воинству,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "и тех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "кто поклоняется и"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "клянется в верности как Господу,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "так и Молоху,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "и тех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "кто отвернулся от Господа"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "и не ищет Господа"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "и не вопрошает Его."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Умолкни перед Владыкой,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "Господом,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "так как близок"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "день Господа."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "Он приготовил"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "жертву и освятил гостей."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "- В день жертвы Господней Я"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "накажу вождей"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "и сыновей царя,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "и всех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "кто наряжается в"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "чужеземное платье."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Я накажу в тот день всех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "кто прыгает через порог,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "кто наполнил дом своих"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "владык насилием и обманом."
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "- В тот день,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "говорит Господь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "поднимется крик"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "от Рыбных ворот,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "плач из новой части города"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "и страшный грохот с холмов."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Плачьте,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "жители торгового района,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "потому что погибнут купцы"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "и будут"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "истреблены торгующие за"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "серебро."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Тогда Я обойду Иерусалим со"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "светильниками в поисках"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "самодовольных и накажу"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "их подобных вину на"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "дрожжах,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "тех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "кто думает:"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 8,
+    "text": "Господь не"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 9,
+    "text": "сделает нам ничего:"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 10,
+    "text": "ни плохого,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 11,
+    "text": "ни хорошего."
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Их богатства"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "будут расхищены,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "и дома придут в запустение."
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "Они построят дома,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "а жить в них не будут;"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "посадят они виноградники,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "но вина пить не будут."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "- Близок великий день"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "Господень близок и очень спешит."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "Страшный шум"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "поднимется в день Господа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "даже храбрые"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "воины будут кричать."
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Тот день будет днем гнева,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "днем скорби и муки,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "днем гибели и разрушения,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "днем мглы и мрака,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "днем туч и тьмы,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "днем трубного зова"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "и клича к битве против"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "укрепленных городов"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "и высоких башен."
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "- Я пошлю на"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "людей такую беду,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "что они станут бродить,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "как слепые,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "за то,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "что согрешили"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "перед Господом."
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 8,
+    "text": "В земную пыль"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 9,
+    "text": "прольется их кровь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 10,
+    "text": "и плоть их будет выброшена,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 11,
+    "text": "как навоз."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 1,
+    "text": "Ни серебро,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 2,
+    "text": "ни золото не смогут спасти"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 3,
+    "text": "их в день гнева Господня."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 4,
+    "text": "В пламени Его"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 5,
+    "text": "ревности сгорит вся земля;"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 6,
+    "text": "внезапный конец"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 7,
+    "text": "положит Он всем,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Zephaniah",
+    "book_id": "Zeph",
+    "part": 8,
+    "text": "кто живет на земле."
+  }
+]

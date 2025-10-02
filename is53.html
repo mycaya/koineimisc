@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Text Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 2; /* Double spaced lines */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            width: 94%;
+            max-width: 600px;
+            /*border: 1px solid red; /* Thin red line around the container */
+        }
+        p {
+            font-size: 5vw; /* Responsive font size */
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            width: 80%;
+            position: absolute;
+            bottom: 20px;
+            padding: 0 20px;
+        }
+        .navigation button {
+            font-size: 4vw;
+            padding: 10px;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="text-container">
+        <p><b>Исаия 53</b></p>
+        <p><b>eesaya 53</b></p>
+        <p><b>Isaiah 53</b></p>
+    </div>
+    <div class="navigation">
+        <button onclick="previousText()">&#x2190; Back</button>
+        <button id="play-pause-button" onclick="toggleAudio()">&#9658; Play</button>
+        <button onclick="nextText()">Next &#x2192;</button>
+    </div>
+
+    <audio id="audio" src="audio.mp3"></audio>
+
+    <script>
+        const texts = [
+        {
+                time: 0,
+                lines: [
+                    "Исаия 53",
+                    "eesaya 53",
+                    "Isaiah 53"
+                ]
+            },
+            {
+                time: 3.1,
+                lines: [
+                    "Кто поверил слышанному от нас",
+                    "Kto poveril slyshannomu ot nas",
+                    "Who believed (what they) heard from us"
+                ]
+            },
+            {
+                time: 6.3,
+                lines: [
+                    "И кому открылась мышца Господня",
+                    "ee komu otkrylas mweshtza Gospodnya",
+                    "And to whom has the arm of the Lord been revealed"
+                ]
+            },
+            {
+                time: 9.3,
+                lines: [
+                    "Он пророс перед Ним, как нежный побег",
+                    "On proros pered Neem, kak nezhnee pob'yeg",
+                    "He grew up before him like a tender shoot"
+                ]
+            },
+            {
+                time: 13.15,
+                lines: [
+                    "И как корень из сухой земли",
+                    "I kak koren eez sukhoy zemli",
+                    "And like a root out of dry ground"
+                ]
+            },
+            {
+                time: 16.1,
+                lines: [
+                    "Не было в Нем ни красы, ни величия",
+                    "Nye bweelo v Nyom nee krasee, nee velichiya",
+                    "He had no beauty or majesty"
+                ]
+            },
+            {
+                time: 19.1,
+                lines: [
+                    "чтобы нам смотреть на Него",
+                    "chtobwee nam smotret na Nyevo",
+                    "that we should look at him"
+                ]
+            },
+            {
+                time: 21.2,
+                lines: [
+                    "не было в Его облике ничего,",
+                    "nee bweelo v Yevo oblikye neecheevo",
+                    "there was nothing in his appearance"
+                ]
+            },
+            {
+                time: 24.1,
+                lines: [
+                    "что привлекло бы нас.",
+                    "chto privleklo bwee nas",
+                    "that would attract us."
+                ]
+            },
+            {
+                time: 26,
+                lines: [
+                    "Он был презрен и отвергнут людьми,",
+                    "On bwel prezren ee otvergnoot lood'mee",
+                    "He was despised and rejected by people,"
+                ]
+            },
+            {
+                time: 29.1,
+                lines: [
+                    "человек скорбей,",
+                    "chelovek skorbeey",
+                    "Man of sorrows,"
+                ]
+            },
+            {
+                time: 31,
+                lines: [
+                    "знакомый с недугом.",
+                    "znakomy s nyedugom",
+                    "acquainted with grief."
+                ]
+            },
+            {
+                time: 32.25,
+                lines: [
+                    "Как тот, от кого прячут лица,",
+                    "kak tot, ot kovo pryachoot leetsa",
+                    "as one from whom they hide their faces,"
+                ]
+            },
+            {
+                time: 36,
+                lines: [
+                    "Он был презираем,",
+                    "On bwel preziraem",
+                    "He was despised,"
+                ]
+            },
+            {
+                time: 37.2,
+                lines: [
+                    "и мы ни во что не ставили Его.",
+                    "ee mwee nee vo shto nee stavili Yevo",
+                    "and we held Him in low esteem."
+                ]
+            },
+            {
+                time: 40.1,
+                lines: [
+                    "Но Он взял на Себя наши немощи",
+                    "No On vzyal na Sebya nashee nyemoshchee",
+                    "but He took up our infirmities"
+                ]
+            },
+            {
+                time: 43.25,
+                lines: [
+                    "и понес наши скорби.",
+                    "ee ponyos nashee skorbee",
+                    "and carried our sorrows."
+                ]
+            },
+            {
+                time: 45.2,
+                lines: [
+                    "Мы же думали: ",
+                    "Mwee zhe doomalee: ",
+                    "We thought: "
+                ]
+            },
+            {
+                time: 47.2,
+                lines: [
+                    "разит Его Бог за грехи Его,",
+                    "razeet Yevo Bog za gryekhi Yevo",
+                    "God strikes Him for His sins,"
+                ]
+            },
+            {
+                time: 51,
+                lines: [
+                    "бьет Его –",
+                    "Byot Yevo –",
+                    "Beats Him –"
+                ]
+            },
+            {
+                time: 52.25,
+                lines: [
+                    "вот Он и мучается.",
+                    "vot On ee moochayetsa",
+                    "so there He is suffering."
+                ]
+            },
+            {
+                time: 54.2,
+                lines: [
+                    "А Он был изранен за наши грехи,",
+                    "A On bwel eezranyen za nashee gryekhi",
+                    "But He was wounded for our sins,"
+                ]
+            },
+            {
+                time: 58.1,
+                lines: [
+                    "сокрушаем за наши беззакония;",
+                    "sokrooshaem za nashee byezzakoneeya",
+                    "crushed for our iniquities;"
+                ]
+            },
+            {
+                time: 61.25,
+                lines: [
+                    "Он понес наказание,",
+                    "On ponyos nakazaneeye",
+                    "He took the punishment,"
+                ]
+            },
+            {
+                time: 64.2,
+                lines: [
+                    "чтобы мы получили мир,",
+                    "shtoby mwee poloocheelee meer",
+                    "so that we recieved peace,"
+                ]
+            },
+            {
+                time: 67,
+                lines: [
+                    "и ранами Его мы исцелились.",
+                    "ee ranamee Yevo mwee eesteleelees",
+                    "and by His wounds we were healed."
+                ]
+            },
+            {
+                time: 70.3,
+                lines: [
+                    "Все мы, как овцы, сбились с пути,",
+                    "vsye mwee, kak ovtsi, sbilees s pooti",
+                    "all we, like sheep, have gone astray,"
+                ]
+            },
+            {
+                time: 75.25,
+                lines: [
+                    "каждый из нас пошел своей дорогой,",
+                    "kazhdee eez nas poshol svoyey dorogoy",
+                    "each of us has gone his own way,"
+                ]
+            },
+            {
+                time: 79,
+                lines: [
+                    "но на Него Господь возложил",
+                    "no na Nyevo Gospod' vozlozhil",
+                    "but the Lord laid on Him"
+                ]
+            },
+            {
+                time: 82.1,
+                lines: [
+                    "все грехи наши.",
+                    "vsye gryekhi nashee",
+                    "all our sins."
+                ]
+            },
+            {
+                time: 83.25,
+                lines: [
+                    "Он был угнетаем и мучим,",
+                    "On bwel oogneetayem ee moocheem",
+                    "He was oppressed and afflicted,"
+                ]
+            },
+            {
+                time: 86.25,
+                lines: [
+                    "но уст Своих не открывал.",
+                    "no oost Svoikh nee otkryval",
+                    "but He did not open His mouth."
+                ]
+            },
+            {
+                time: 89.3,
+                lines: [
+                    "Как ягненок,",
+                    "kak yagneenok",
+                    "as a lamb,"
+                ]
+            },
+            {
+                time: 91.25,
+                lines: [
+                    "Он был веден на заклание,",
+                    "On bwel vedon na zaklaneye",
+                    "He was led to the slaughter,"
+                ]
+            },
+            {
+                time: 94,
+                lines: [
+                    "и как овца перед стригущими..",
+                    "ee kak ovtsa pered streegooscheemee..",
+                    "and as a sheep before its shearers.."
+                ]
+            },
+            {
+                time: 97,
+                lines: [
+                    "- безмолвна,",
+                    "- beezmolna",
+                    "- (is) silent,"
+                ]
+            },
+            {
+                time: 98.04,
+                lines: [
+                    "так и Он не открывал уст Своих.",
+                    "tak ee On nee otkryval oost Svoyeekh",
+                    "so He did not open His mouth."
+                ]
+            },
+            {
+                time: 101.3,
+                lines: [
+                    "Он был схвачен",
+                    "On bwel skhvachyon",
+                    "He was seized"
+                ]
+            },
+            {
+                time: 104.25,
+                lines: [
+                    "и несправедливо судим.",
+                    "ee nyespravedleeva soodeem",
+                    "and unjustly judged."
+                ]
+            },
+            {
+                time: 107,
+                lines: [
+                    "Кто может рассказать",
+                    "kto mozhit rasskazat",
+                    "who can tell"
+                ]
+            },
+            {
+                time: 109.03,
+                lines: [
+                    "о Его потомках?",
+                    "o Yevo potomkakh?",
+                    "of His descendants?"
+                ]
+            },
+            {
+                time: 110.15,
+                lines: [
+                    "Ведь Он был отторгнут",
+                    "Ved' On bwel otorgnoot",
+                    "For He was cut off"
+                ]
+            },
+            {
+                time: 112.25,
+                lines: [
+                    "от земли живых;",
+                    "ot zemlee zheeveekh;",
+                    "from the land of the living;"
+                ]
+            },
+            {
+                time: 114.1,
+                lines: [
+                    "за преступления Моего народа",
+                    "za preestoopleniya Moyevo naroda",
+                    "for the transgression of My people"
+                ]
+            },
+            {
+                time: 117.1,
+                lines: [
+                    "был поражен.",
+                    "bweel porazhon",
+                    "was (He) struck."
+                ]
+            },
+            {
+                time: 118.25,
+                lines: [
+                    "Могилу Ему отвели с нечестивыми,",
+                    "mogeeloo Yeemu otvelee s neechesteeveemee",
+                    "They made His grave with the wicked,"
+                ]
+            },
+            {
+                time: 122.12,
+                lines: [
+                    "но Он был похоронен у богатого,",
+                    "no On bwel pokhoronyen oo bogatovo",
+                    "but He was buried with the rich,"
+                ]
+            },
+            {
+                time: 125,
+                lines: [
+                    "потому что не совершал преступлений,",
+                    "patomoo shto nye sovershal preestooplyenee",
+                    "because He had done no violence,"
+                ]
+            },
+            {
+                time: 128,
+                lines: [
+                    "и в устах Его не было никакой лжи.",
+                    "ee v oostakh Yevo nee bweelo neekakoy lzhee",
+                    "and in His mouth there was no deceit."
+                ]
+            },
+            {
+                time: 131.2,
+                lines: [
+                    "Но Господу было угодно..",
+                    "no Gospodu bwelo oogodno..",
+                    "but the Lord was pleased.."
+                ]
+            },
+            {
+                time: 134.25,
+                lines: [
+                    "сокрушить Его",
+                    "sokroosheet Yevo",
+                    "to crush Him"
+                ]
+            },
+            {
+                time: 136,
+                lines: [
+                    "и предать мучению.",
+                    "ee preedat moocheniyoo",
+                    "and to subject to suffering."
+                ]
+            },
+            {
+                time: 138,
+                lines: [
+                    "Когда же Его жизнь..",
+                    "kogda zhe Yevo zheezn..",
+                    "when His life.."
+                ]
+            },
+            {
+                time: 140.25,
+                lines: [
+                    "станет приношением за грех,",
+                    "stanet preenosheneeyem za gryekh",
+                    "becomes an offering for sin,"
+                ]
+            },
+            {
+                time: 143.2,
+                lines: [
+                    "Он увидит Свое потомство",
+                    "On ooveedeet Svoyo potomstvo",
+                    "He sees His offspring"
+                ]
+            },
+            {
+                time: 146.1,
+                lines: [
+                    "и продлит Свои дни;",
+                    "ee prodleet Svoy dnee;",
+                    "and prolongs His days;"
+                ]
+            },
+            {
+                time: 148.05,
+                lines: [
+                    "и свершится через Него",
+                    "ee sversheetza cherez Nyevo",
+                    "and is accomplished through Him"
+                ]
+            },
+            {
+                time: 150,
+                lines: [
+                    "воля Господня.",
+                    "volya Gospodnya",
+                    "(the) will of the Lord."
+                ]
+            },
+            {
+                time: 153.1,
+                lines: [
+                    "После страданий Своих",
+                    "posle stradanee Svoikh",
+                    "after His suffering"
+                ]
+            },
+            {
+                time: 155.25,
+                lines: [
+                    "Он увидит свет и порадуется.",
+                    "On ooveedeet svyet ee poradooyetsa",
+                    "He sees the light and rejoices."
+                ]
+            },
+            {
+                time: 159.05,
+                lines: [
+                    "Через познание Его",
+                    "cherez poznanee Yevo",
+                    "through knowledge of Him"
+                ]
+            },
+            {
+                time: 162.03,
+                lines: [
+                    "Мой праведный Слуга",
+                    "Moy pravednee Sluga",
+                    "My righteous Servant"
+                ]
+            },
+            {
+                time: 164.08,
+                lines: [
+                    "многих оправдает",
+                    "mnogeekh opravda'yet",
+                    "many (people) justifies"
+                ]
+            },
+            {
+                time: 165.25,
+                lines: [
+                    "и понесет их грехи.",
+                    "ee ponyesyet eeikh gryekhi",
+                    "and carries their sins."
+                ]
+            },
+            {
+                time: 168.1,
+                lines: [
+                    "Поэтому Я",
+                    "patomoo Ya",
+                    "therefore I"
+                ]
+            },
+            {
+                time: 170.1,
+                lines: [
+                    "дам Ему удел с великими,",
+                    "dam Yeemu oodel s velikeemee",
+                    "give Him a portion with the great,"
+                ]
+            },
+            {
+                time: 173,
+                lines: [
+                    "и добычу разделит Он",
+                    "ee dobychoo razdelit On",
+                    "and He will divide the spoils"
+                ]
+            },
+            {
+                time: 174.3,
+                lines: [
+                    "с сильными,",
+                    "s seel'nimi",
+                    "with the strong,"
+                ]
+            },
+            {
+                time: 176.1,
+                lines: [
+                    "потому что жизнь Свою",
+                    "patomoo shto zheezn' Svoyoo",
+                    "because His life"
+                ]
+            },
+            {
+                time: 178.16,
+                lines: [
+                    "предал на смерть",
+                    "preedal na smyert",
+                    "(He) gave up to death"
+                ]
+            },
+            {
+                time: 180.1,
+                lines: [
+                    "и был причислен",
+                    "ee bwel pricheeslen",
+                    "and was numbered"
+                ]
+            },
+            {
+                time: 182.04,
+                lines: [
+                    "к преступникам,",
+                    "k preestoopneekam",
+                    "to (with) the transgressors,"
+                ]
+            },
+            {
+                time: 183.16,
+                lines: [
+                    "тогда как Он понес грех многих",
+                    "togda kak On ponyos gryekh mnogeekh",
+                    "then as He bore the sin of many"
+                ]
+            },
+            {
+                time: 187.25,
+                lines: [
+                    "и за преступников..",
+                    "ee za preestoopneekov..",
+                    "and for transgressors.."
+                ]
+            },
+            {
+                time: 189.3,
+                lines: [
+                    "..ходатайствовал.",
+                    "..khodataystvoval",
+                    "..interceded."
+                ]
+            }
+        ];
+        let currentIndex = 0;
+
+        function updateText() {
+            const container = document.getElementById('text-container');
+            container.innerHTML = texts[currentIndex].lines.map(line => `<p>${line}</p>`).join('');
+        }
+
+        function previousText() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                updateText();
+                setAudioTime();
+            }
+        }
+
+        function nextText() {
+            if (currentIndex < texts.length - 1) {
+                currentIndex++;
+                updateText();
+                setAudioTime();
+            }
+        }
+
+        function setAudioTime() {
+            const audio = document.getElementById('audio');
+            audio.currentTime = texts[currentIndex].time;
+        }
+
+        function playFromCurrentTime() {
+            const audio = document.getElementById('audio');
+            audio.currentTime = texts[currentIndex].time;
+            audio.play();
+            document.getElementById('play-pause-button').innerHTML = '&#10074;&#10074; Pause'; // Change to pause icon
+        }
+
+        function toggleAudio() {
+            const audio = document.getElementById('audio');
+            const button = document.getElementById('play-pause-button');
+            if (audio.paused) {
+                audio.play();
+                button.innerHTML = '&#10074;&#10074; Pause'; // Change to pause icon
+            } else {
+                audio.pause();
+                button.innerHTML = '&#9658; Play'; // Change to play icon
+            }
+        }
+
+        document.getElementById('audio').addEventListener('timeupdate', () => {
+            const audio = document.getElementById('audio');
+            const currentTime = audio.currentTime;
+            if (currentIndex < texts.length - 1 && currentTime >= texts[currentIndex + 1].time) {
+                currentIndex++;
+                updateText();
+            }
+        });
+    </script>
+</body>
+</html>

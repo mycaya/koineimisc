@@ -1,0 +1,842 @@
+[
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Подумай,"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "прежде чем что-то сказать,"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "не торопись"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "произнести слово перед Богом."
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "Бог на небе,"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "а ты на земле,"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "так будь же немногословен."
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И как снятся беспокойные"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "сны при множестве забот,"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "так и речь глупца"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "рождается при множестве слов."
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Когда даешь обет Богу,"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "не замедли исполнить его."
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "Ему не угодны глупцы;"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "исполни то,"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "что обещал."
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Лучше не давать обещание,"
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "чем дать и не исполнить."
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Не позволяй устам"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "своим ввести тебя в грех."
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "И не говори посланнику:"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "Мое обещание было ошибкой."
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "Зачем тебе,"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "чтобы Бог прогневался на"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "слова твои"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "и уничтожил дело твоих рук?"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Суета во"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "множестве сноведений,"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "как и в многословии,"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "поэтому бойся Бога!"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Если ты увидишь,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что в какой-то местности"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "притесняют бедного"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и не соблюдается правосудие"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "и справедливость,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "то не удивляйся этому,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "потому что над одним"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "правителем стоит другой,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 9,
+    "text": "который наблюдает за ним,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 10,
+    "text": "а над ними есть еще"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 11,
+    "text": "более высокое начальство."
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Но все же лучше для страны,"
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "чтобы у нее был царь,"
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "заботящийся о земле."
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Кто любит деньги,"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "тому их никогда не хватает,"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "и кто любит богатство,"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "никогда не будет"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "доволен своим доходом."
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "И это тоже суета."
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Когда"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "увеличивается имущество,"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "увеличивается и"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "число нахлебников."
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "В чем польза его владельцу,"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "кроме как смотреть на него?"
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Сон работника сладок,"
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "много ли он съел или мало."
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "Но объевшийся богач все"
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "ворочается в своей кровати."
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И видел я ужасное"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "зло под солнцем:"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "человек зря"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "копил богатство -"
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "оно было потеряно"
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "из-за неудачной сделки,"
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "а теперь ему нечего"
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "оставить своему сыну."
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Нагим человек"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "приходит из утробы матери,"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "и каким он пришел,"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "таким и уходит."
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "Он ничего не"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "возьмет от труда своего,"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "не унесет с собой и горсти."
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "И это тоже ужасное зло:"
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "каким человек пришел,"
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "таким и уходит,"
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и какая польза ему,"
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "что он трудится на ветер?"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Все дни его жизни"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "проходят во тьме,"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "в большом разочаровании,"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "огорчении и гневе."
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Затем я понял,"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "что хорошо и правильно"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "для человека есть и пить,"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "и находить наслаждение в"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "труде своем под солнцем в"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "течение немногих дней"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "жизни,"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "что дал ему Бог,"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 9,
+    "text": "ведь такова его доля."
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Более того,"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "если Бог дает"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "кому-либо богатство,"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "имущество и"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 5,
+    "text": "возможность пользоваться ими,"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 6,
+    "text": "получить свою долю и"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 7,
+    "text": "наслаждаться своим трудом,"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 8,
+    "text": "то это дар Божий."
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 1,
+    "text": "Редко такой человек"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 2,
+    "text": "размышляет о своей жизни,"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 3,
+    "text": "потому что Бог"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Ecclesiastes",
+    "book_id": "Eccl",
+    "part": 4,
+    "text": "наполняет радостью сердце его."
+  }
+]

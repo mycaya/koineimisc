@@ -1,0 +1,842 @@
+[
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Послушайте,"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сыновья,"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "наставление отца;"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "будьте внимательны,"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "чтобы обрести понимание."
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Я даю вам учение доброе,"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не оставляйте"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "моего поучения."
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Когда был я мальчиком"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "в доме у моего отца,"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "нежным еще,"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и единственным"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "у моей матери,"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "отец учил меня и говорил:"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Пусть твое сердце"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "удержит мои слова;"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "храни мои повеления и живи."
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Приобретай мудрость,"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "приобретай разум;"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "не забывай моих слов и"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "не отклоняйся от них."
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не оставляй мудрости,"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и она защитит тебя;"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "люби ее,"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и она тебя сохранит."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Начало мудрости таково:"
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "приобретай мудрость."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "Всем,"
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "что приобретаешь,"
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "приобретай разум."
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Высоко цени ее,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и она возвысит тебя;"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "она прославит тебя,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "если примешь ее в объятья."
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она возложит тебе на"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "голову прекрасный венок,"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "славным венцом"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "тебя увенчает."
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Слушай,"
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сын,"
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и прими мое слово,"
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и долгими будут"
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "годы твоей жизни."
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Я наставлю тебя"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "на путь мудрости,"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и по тропам"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "прямым тебя поведу."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Когда ты пойдешь,"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не будет стеснен твой шаг,"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и когда побежишь,"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "не споткнешься."
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Крепко держись наставления,"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не отпускай его;"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "храни его,"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "потому что оно твоя жизнь."
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не вступай на"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "стезю нечестивых,"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "не ходи по пути злодеев."
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Избегай его,"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не иди по нему,"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "отвернись от"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "него и пройди мимо."
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ведь они не уснут,"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "если не сделают зла;"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "нет им сна,"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "если не навредят."
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Они едят хлеб нечестия и,"
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как вино,"
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "они пьют насилие."
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Стезя праведных"
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "подобна первому свету зари,"
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "светит она все ярче и"
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "ярче до полного света дня."
+  },
+  {
+    "chapter": 4,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Но путь нечестивых"
+  },
+  {
+    "chapter": 4,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "подобен кромешной тьме;"
+  },
+  {
+    "chapter": 4,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "они и не знают"
+  },
+  {
+    "chapter": 4,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "обо что спотыкаются."
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Сын,"
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "будь"
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "внимателен к речи моей;"
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "слова мои слушай прилежно."
+  },
+  {
+    "chapter": 4,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не упускай их из вида,"
+  },
+  {
+    "chapter": 4,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "храни их в сердце;"
+  },
+  {
+    "chapter": 4,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "ведь они жизнь для тех,"
+  },
+  {
+    "chapter": 4,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кто нашел их,"
+  },
+  {
+    "chapter": 4,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и для тела всего здоровье."
+  },
+  {
+    "chapter": 4,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Больше всего"
+  },
+  {
+    "chapter": 4,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "храни свое сердце,"
+  },
+  {
+    "chapter": 4,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "потому что оно"
+  },
+  {
+    "chapter": 4,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "жизни источник."
+  },
+  {
+    "chapter": 4,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Удали от уст"
+  },
+  {
+    "chapter": 4,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "своих лживую речь,"
+  },
+  {
+    "chapter": 4,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "удержи свои губы"
+  },
+  {
+    "chapter": 4,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "от слов обмана."
+  },
+  {
+    "chapter": 4,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть глаза"
+  },
+  {
+    "chapter": 4,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "твои глядят прямо,"
+  },
+  {
+    "chapter": 4,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "взгляд твой пусть"
+  },
+  {
+    "chapter": 4,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "будет устремлен вперед."
+  },
+  {
+    "chapter": 4,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Тропу для ног"
+  },
+  {
+    "chapter": 4,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "своих делай ровной,"
+  },
+  {
+    "chapter": 4,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и все пути"
+  },
+  {
+    "chapter": 4,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "твои будут тверды."
+  },
+  {
+    "chapter": 4,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не отклоняйся ни вправо,"
+  },
+  {
+    "chapter": 4,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ни влево,"
+  },
+  {
+    "chapter": 4,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "удаляй свою ногу от зла."
+  }
+]

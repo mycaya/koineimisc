@@ -1,0 +1,826 @@
+[
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Когда кто-то приносит в"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "жертву примирения животное"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "из крупного скота,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "все равно,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "самца или самку,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "он должен поставить перед"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "Господом животное без"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "изъяна."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть он положит руку на"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "голову жертвы"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "и заколет ее у входа в"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "шатер собрания."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "Затем священники,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "сыновья Аарона,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "окропят кровью"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "жертвенник со всех сторон."
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть он принесет"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "из жертвы примирения в"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "огненную жертву Господу"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "весь жир,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "покрывающий"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "внутренности или прилегающий к ним,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "обе почки с жиром,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "который на них и"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "который возле бедер,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "и сальник с печени;"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "все это он вынет"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "вместе с почками."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть сыновья Аарона сожгут"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "это на жертвеннике на"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "горящих дровах вместе с"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "жертвой всесожжения."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "Это будет огненная жертва,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "благоухание,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "приятное Господу."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Если он приносит Господу в"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "жертву примирения животное"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "из мелкого скота,"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "пусть принесет самца"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "или самку без изъяна."
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Если он приносит ягненка,"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "пусть поставит"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "его перед Господом."
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть положит руку"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "на голову жертвы,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "заколет ее перед"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "шатром собрания,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "и сыновья Аарона окропят"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "кровью жертвенник со всех"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "сторон."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть он принесет"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "из жертвы примирения в"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "огненную жертву Господу ее"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "жир:"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "весь курдюк,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "срезанный у"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "нижнего позвонка,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "весь жир,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 9,
+    "text": "покрывающий"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 10,
+    "text": "внутренности или прилегающий к ним,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "обе почки с жиром,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "который на них и"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "который возле бедер,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "и сальник с печени;"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "все это он вынет"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "вместе с почками."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Священник сожжет это на"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "жертвеннике как пищу"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "огненную жертву Господу."
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Если жертвующий"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "приносит в жертву козу,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "пусть поставит"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "ее перед Господом."
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть он положит"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "руку ей на голову,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "заколет ее перед"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "шатром собрания,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "и сыновья Аарона окропят"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "кровью жертвенник со всех"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "сторон."
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Пусть"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "из своего приношения он"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "принесет в огненную жертву"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "Господу весь жир,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "покрывающий"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "внутренности или прилегающий к ним,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "обе почки с жиром,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "который на них и"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "который возле бедер,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "и сальник с печени;"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "все это он вынет"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "вместе с почками."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Священник сожжет это на"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "жертвеннике как пищу"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "приношение огнем,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "приятное благоухание."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "Весь жир"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "принадлежит Господу."
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Это вечное установление"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "для грядущих поколений;"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "где бы вы ни жили,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "не ешьте ни жира,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "ни крови."
+  }
+]

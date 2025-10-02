@@ -1,0 +1,746 @@
+[
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Теперь к вопросу о пище,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "принесенной в"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "жертву идолам."
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "Мы знаем,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "что все из нас"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "обладают знанием,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "но знание"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 8,
+    "text": "делает людей гордыми,"
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 9,
+    "text": "а любовь назидает."
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Тот,"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "кто думает,"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "что он что-то знает,"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "на самом деле"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "еще не знает так,"
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "как ему следовало бы знать."
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Но кто любит Бога,"
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "тот познан Им."
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Итак,"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "о пище,"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "принесенной в"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "жертву идолам."
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "Всем нам известно,"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "что идолы,"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "которым мир поклоняется,"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 8,
+    "text": "ничего не значат и"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 9,
+    "text": "что нет другого Бога,"
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 10,
+    "text": "кроме Единого."
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "И хотя есть так"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "называемые боги,"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "будь то на небе или"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "на земле (а в мире,"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "действительно,"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "много разных"
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "богов и господ),"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "но для нас есть"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "только один Бог Отец,"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "Которым все было сотворено"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "и для Которого мы и живем,"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "и только один"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "Господь Иисус Христос,"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "через Которого все было"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 8,
+    "text": "сотворено"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 9,
+    "text": "и через Которого мы"
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 10,
+    "text": "получили жизнь."
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Но не всем еще"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "это известно."
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "Некоторые настолько"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "привыкли к идолам,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "что,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "когда они едят такую пищу,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "они до сих пор"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 8,
+    "text": "думают о ней как о жертве,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 9,
+    "text": "принесенной идолам,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 10,
+    "text": "и при этом их слабая"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 11,
+    "text": "совесть внушает им,"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 12,
+    "text": "что они нечисты."
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Но пища не помогает"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "приблизиться к Богу."
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "Нам не становится хуже,"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "если мы не едим чего-то,"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "и не становится лучше,"
+  },
+  {
+    "chapter": 8,
+    "verse": 8,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "если мы едим."
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Смотрите,"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "однако,"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "чтобы ваша свобода в выборе"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "пищи не стала камнем"
+  },
+  {
+    "chapter": 8,
+    "verse": 9,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "преткновения для слабых."
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Потому что если"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "кто-то увидит,"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "что ты при всем твоем"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "знании ешь в языческом храме,"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "то"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "и он со своей слабой"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "совестью вслед за тобой"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 8,
+    "text": "станет есть пищу,"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 9,
+    "text": "принесенную в"
+  },
+  {
+    "chapter": 8,
+    "verse": 10,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 10,
+    "text": "жертву идолам."
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "А значит,"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "твое знание"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "погубит слабого брата,"
+  },
+  {
+    "chapter": 8,
+    "verse": 11,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "за которого умер Христос."
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Согрешая таким образом"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "против братьев и раня"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "их слабую совесть,"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "вы согрешаете"
+  },
+  {
+    "chapter": 8,
+    "verse": 12,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "против Христа."
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 1,
+    "text": "Поэтому,"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 2,
+    "text": "если из-за моей пищи"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 3,
+    "text": "может согрешить мой брат,"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 4,
+    "text": "я лучше не буду"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 5,
+    "text": "есть мяса вообще,"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 6,
+    "text": "чтобы этим не"
+  },
+  {
+    "chapter": 8,
+    "verse": 13,
+    "book_name": "1 Corinthians",
+    "book_id": "1Cor",
+    "part": 7,
+    "text": "ввести брата в грех."
+  }
+]

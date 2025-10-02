@@ -1,0 +1,1314 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "В начале сотворил"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Бог небо и землю."
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Земля была пуста и безлика,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "тьма была над бездной,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и Дух Божий"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "парил над водами."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Да будет свет,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и появился свет."
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог увидел,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "что это хорошо,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и отделил свет от тьмы."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог назвал свет днем,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "а тьму ночью."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "Был вечер,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и было утро день первый."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Затем Бог сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Да будет свод между водами,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "чтобы отделить"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "воду от воды."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог создал свод"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и отделил воду под сводом"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "от воды над ним,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и стало так."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог назвал свод небом."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Был вечер,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и было утро день второй."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Да соберутся вместе воды"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "под небом"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и появится суша произнес"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "Бог,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "и стало так."
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог назвал сушу землей,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "а собранные воды"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "назвал морями и Бог увидел,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "что это хорошо."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Да произведет"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "земля растительность:"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "растения с их семенами"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и различные виды деревьев"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "на земле,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "которые приносят"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "плод с семенем внутри,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "сказал Бог,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "и стало так."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Земля произвела"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "растительность:"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "разные виды растений,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "приносящих семя,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "и все виды деревьев,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "приносящих плод"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "с семенем внутри."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "И Бог увидел,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "что это хорошо."
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Был вечер,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и было утро день третий."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "И Бог сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Да будут светила"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "на небесном своде,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "чтобы отделять"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "день от ночи,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "и пусть они служат знаками,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "чтобы различать времена,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "и дни,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "и годы,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "и пусть они будут"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "светильниками на небесном своде,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "чтобы светить на землю."
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "И стало так."
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог создал два великих"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "светила большое светило,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "чтобы управлять днем,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и малое светило,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "чтобы управлять ночью,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "и создал звезды."
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог поместил их"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "на небесном своде,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "чтобы они светили на землю,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "управляли днем и ночью"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и отделяли свет от тьмы."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "Бог увидел,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "что это хорошо."
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Был вечер,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и было утро день четвертый."
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Да наполнится"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "вода живностью,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и полетят над землей"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "по небосводу птицы."
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог создал"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "огромных морских чудищ,"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "разные виды"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "движущейся живности,"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "кишащей в воде,"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "и разные виды"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "крылатых птиц и увидел,"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "что это хорошо."
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "благословил их и сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "Будьте плодовиты,"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "размножайтесь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "наполняйте воду в морях,"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "и пусть птицы"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "множатся на земле."
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Был вечер,"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и было утро день пятый."
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Да произведет земля"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "разные виды живности:"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "скот,"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "пресмыкающихся"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "и диких зверей,"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "сказал Бог,"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "и стало так."
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог создал разные"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "виды диких зверей,"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и скота,"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и все виды"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "пресмыкающихся и увидел,"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "что это хорошо."
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Потом Бог сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Создадим человека по"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "Нашему образу и подобию,"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и пусть он царствует над"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "рыбами морскими"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "и птицами небесными,"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "над скотом,"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "над всей землей и над"
+  },
+  {
+    "chapter": 1,
+    "verse": 26,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "всеми пресмыкающимися."
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Так Бог сотворил"
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "человека по образу Своему,"
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "по образу Божьему"
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "Он сотворил его;"
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "мужского пола и"
+  },
+  {
+    "chapter": 1,
+    "verse": 27,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "женского Он сотворил их."
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "благословил их и сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "Будьте плодовиты"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и размножайтесь;"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "наполняйте"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "землю и владейте ею."
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "Царствуйте над"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 8,
+    "text": "рыбами морскими,"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 9,
+    "text": "и птицами небесными,"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 10,
+    "text": "и над всеми"
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 11,
+    "text": "пресмыкающимися."
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Затем Бог сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "Я даю вам все растения с"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "семенами по всей земле"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "и все деревья,"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "дающие плод с"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "семенем внутри;"
+  },
+  {
+    "chapter": 1,
+    "verse": 29,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "они будут вам в пропитание."
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "И всем зверям земным,"
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "и всем птицам небесным,"
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и всем"
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "пресмыкающимися всем,"
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "в ком дышит жизнь Я"
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 6,
+    "text": "даю в пищу всякую зелень."
+  },
+  {
+    "chapter": 1,
+    "verse": 30,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 7,
+    "text": "И стало так."
+  },
+  {
+    "chapter": 1,
+    "verse": 31,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 1,
+    "text": "Бог посмотрел на все,"
+  },
+  {
+    "chapter": 1,
+    "verse": 31,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 2,
+    "text": "что Он создал,"
+  },
+  {
+    "chapter": 1,
+    "verse": 31,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 3,
+    "text": "и все было очень хорошо."
+  },
+  {
+    "chapter": 1,
+    "verse": 31,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 4,
+    "text": "Был вечер,"
+  },
+  {
+    "chapter": 1,
+    "verse": 31,
+    "book_name": "Genesis",
+    "book_id": "Gen",
+    "part": 5,
+    "text": "и было утро день шестой."
+  }
+]

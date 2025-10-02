@@ -1,0 +1,714 @@
+[
+  {
+    "chapter": 7,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Сын мой,"
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "храни мои слова и"
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "повеления мои сбереги."
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Храни мои повеления и живи;"
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "храни мое наставление,"
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "как зеницу ока твоего."
+  },
+  {
+    "chapter": 7,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "На пальцы его навяжи,"
+  },
+  {
+    "chapter": 7,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "напиши на дощечке сердца."
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Скажи мудрости:"
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Ты сестра мне"
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и назови разум своим"
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "близким родственником."
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Они сохранят"
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "тебя от чужой жены,"
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "от жены другого с ее"
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "обольщающими словами."
+  },
+  {
+    "chapter": 7,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "У окна моего дома я"
+  },
+  {
+    "chapter": 7,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "смотрел сквозь решетку оконную."
+  },
+  {
+    "chapter": 7,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Я увидел среди простаков,"
+  },
+  {
+    "chapter": 7,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "заметил среди молодых"
+  },
+  {
+    "chapter": 7,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "людей неразумного юношу."
+  },
+  {
+    "chapter": 7,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Проходил он по"
+  },
+  {
+    "chapter": 7,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "улице рядом с ее углом,"
+  },
+  {
+    "chapter": 7,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "путь держа к ее дому,"
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "в сумерки,"
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "когда вечерело,"
+  },
+  {
+    "chapter": 7,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и ложилась ночная тьма."
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "И навстречу ему"
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "вышла женщина,"
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "как блудница одетая,"
+  },
+  {
+    "chapter": 7,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "с сердцем коварным."
+  },
+  {
+    "chapter": 7,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "(Шумна она и упряма,"
+  },
+  {
+    "chapter": 7,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ноги ее не"
+  },
+  {
+    "chapter": 7,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "задерживаются дома -"
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "то на улице,"
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "то на площадях,"
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и на каждом"
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "углу ждет в засаде."
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": ")"
+  },
+  {
+    "chapter": 7,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она схватила его,"
+  },
+  {
+    "chapter": 7,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "целовала,"
+  },
+  {
+    "chapter": 7,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и сказала с"
+  },
+  {
+    "chapter": 7,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "бесстыдным лицом:"
+  },
+  {
+    "chapter": 7,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Жертвы примирения у меня:"
+  },
+  {
+    "chapter": 7,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "я обеты свои"
+  },
+  {
+    "chapter": 7,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "сегодня исполнила."
+  },
+  {
+    "chapter": 7,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Вот я и вышла"
+  },
+  {
+    "chapter": 7,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "тебе навстречу;"
+  },
+  {
+    "chapter": 7,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "я искала тебя"
+  },
+  {
+    "chapter": 7,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и теперь нашла!"
+  },
+  {
+    "chapter": 7,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Я покрыла мою постель"
+  },
+  {
+    "chapter": 7,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "разноцветными тканями из Египта."
+  },
+  {
+    "chapter": 7,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Надушила я ложе мое миррой,"
+  },
+  {
+    "chapter": 7,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "алоэ и корицей."
+  },
+  {
+    "chapter": 7,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пойдем,"
+  },
+  {
+    "chapter": 7,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "до утра упьемся любовью,"
+  },
+  {
+    "chapter": 7,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "натешимся ласками!"
+  },
+  {
+    "chapter": 7,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Мужа нет дома он"
+  },
+  {
+    "chapter": 7,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "отправился в долгий путь."
+  },
+  {
+    "chapter": 7,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Он взял с собой кошелек с"
+  },
+  {
+    "chapter": 7,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "серебром не вернется до дня"
+  },
+  {
+    "chapter": 7,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "полнолуния."
+  },
+  {
+    "chapter": 7,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Множеством"
+  },
+  {
+    "chapter": 7,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "убедительных слов она его увлекла,"
+  },
+  {
+    "chapter": 7,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "соблазнила его"
+  },
+  {
+    "chapter": 7,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "льстивой своей речью."
+  },
+  {
+    "chapter": 7,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "И он тотчас за ней пошел,"
+  },
+  {
+    "chapter": 7,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как вол,"
+  },
+  {
+    "chapter": 7,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "что идет на убой,"
+  },
+  {
+    "chapter": 7,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "как олень,"
+  },
+  {
+    "chapter": 7,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "что к силкам несется,"
+  },
+  {
+    "chapter": 7,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "пока печень ему"
+  },
+  {
+    "chapter": 7,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не пронзит стрела."
+  },
+  {
+    "chapter": 7,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "Он как птица,"
+  },
+  {
+    "chapter": 7,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "что в сеть"
+  },
+  {
+    "chapter": 7,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "стремится и не знает,"
+  },
+  {
+    "chapter": 7,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "что ей там смерть."
+  },
+  {
+    "chapter": 7,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Итак,"
+  },
+  {
+    "chapter": 7,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сыновья,"
+  },
+  {
+    "chapter": 7,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "послушайте меня,"
+  },
+  {
+    "chapter": 7,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "внимайте моим словам."
+  },
+  {
+    "chapter": 7,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не давай твоему"
+  },
+  {
+    "chapter": 7,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сердцу свернуть на пути ее,"
+  },
+  {
+    "chapter": 7,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "не блуждай по ее тропам."
+  },
+  {
+    "chapter": 7,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Потому что многих"
+  },
+  {
+    "chapter": 7,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "повергла она сраженными;"
+  },
+  {
+    "chapter": 7,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "многочисленны ее жертвы."
+  },
+  {
+    "chapter": 7,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Дом ее путь в мир мертвых,"
+  },
+  {
+    "chapter": 7,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "уводящий в покои смерти."
+  }
+]

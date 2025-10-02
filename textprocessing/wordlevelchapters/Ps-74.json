@@ -1,0 +1,2282 @@
+[
+  {
+    "chapter": 74,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Наставление Асафа."
+  },
+  {
+    "chapter": 74,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Слушай,"
+  },
+  {
+    "chapter": 74,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "народ мой,"
+  },
+  {
+    "chapter": 74,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "мое поучение!"
+  },
+  {
+    "chapter": 74,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Услышь мои слова!"
+  },
+  {
+    "chapter": 74,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Открою уста свои в притче,"
+  },
+  {
+    "chapter": 74,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "произнесу"
+  },
+  {
+    "chapter": 74,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "загадки из древности,"
+  },
+  {
+    "chapter": 74,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "которые мы"
+  },
+  {
+    "chapter": 74,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "слышали и узнали,"
+  },
+  {
+    "chapter": 74,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "которые"
+  },
+  {
+    "chapter": 74,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "говорили нам наши отцы."
+  },
+  {
+    "chapter": 74,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Мы не будем"
+  },
+  {
+    "chapter": 74,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "скрывать их от детей;"
+  },
+  {
+    "chapter": 74,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "расскажем грядущему"
+  },
+  {
+    "chapter": 74,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "поколению о славе Господа,"
+  },
+  {
+    "chapter": 74,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "о Его силе и о чудесах,"
+  },
+  {
+    "chapter": 74,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "Им сотворенных."
+  },
+  {
+    "chapter": 74,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он оставил"
+  },
+  {
+    "chapter": 74,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "свидетельство Иакову,"
+  },
+  {
+    "chapter": 74,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "дал Закон в Израиле,"
+  },
+  {
+    "chapter": 74,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "который повелел нашим отцам"
+  },
+  {
+    "chapter": 74,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "передавать его своим детям,"
+  },
+  {
+    "chapter": 74,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "чтобы знало"
+  },
+  {
+    "chapter": 74,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "грядущее поколение,"
+  },
+  {
+    "chapter": 74,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "дети,"
+  },
+  {
+    "chapter": 74,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "которые еще не родились,"
+  },
+  {
+    "chapter": 74,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "и чтобы они в свое время"
+  },
+  {
+    "chapter": 74,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "передали его своим детям."
+  },
+  {
+    "chapter": 74,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "И тогда они будут"
+  },
+  {
+    "chapter": 74,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "возлагать свою надежду на Бога;"
+  },
+  {
+    "chapter": 74,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "они не станут"
+  },
+  {
+    "chapter": 74,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "забывать Его дел,"
+  },
+  {
+    "chapter": 74,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "но будут"
+  },
+  {
+    "chapter": 74,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "хранить Его повеления."
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Они не"
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "уподобятся своим отцам,"
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "поколению"
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "упрямому и мятежному,"
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "чьи сердца не"
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "были верны Богу,"
+  },
+  {
+    "chapter": 74,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "чей дух не был предан Ему."
+  },
+  {
+    "chapter": 74,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Сыны Ефрема,"
+  },
+  {
+    "chapter": 74,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "хотя и вооруженные луками,"
+  },
+  {
+    "chapter": 74,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "обратились"
+  },
+  {
+    "chapter": 74,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "назад в день битвы."
+  },
+  {
+    "chapter": 74,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Не хранили они завета"
+  },
+  {
+    "chapter": 74,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Божьего"
+  },
+  {
+    "chapter": 74,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и отказались ходить в Его"
+  },
+  {
+    "chapter": 74,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Законе."
+  },
+  {
+    "chapter": 74,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Забыли дела Его и чудеса,"
+  },
+  {
+    "chapter": 74,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "которые Он им показал."
+  },
+  {
+    "chapter": 74,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Чудеса совершал Он на"
+  },
+  {
+    "chapter": 74,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "глазах их отцов в Египте,"
+  },
+  {
+    "chapter": 74,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "в окрестностях Цоана."
+  },
+  {
+    "chapter": 74,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он разделил море,"
+  },
+  {
+    "chapter": 74,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "провел их через него,"
+  },
+  {
+    "chapter": 74,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "поставив воды стеной."
+  },
+  {
+    "chapter": 74,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Днем вел их облаком,"
+  },
+  {
+    "chapter": 74,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "ночью светом огня."
+  },
+  {
+    "chapter": 74,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он рассек скалу в"
+  },
+  {
+    "chapter": 74,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "пустыне и дал им пить,"
+  },
+  {
+    "chapter": 74,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "как будто из вод глубоких."
+  },
+  {
+    "chapter": 74,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Из камня извлек Он потоки,"
+  },
+  {
+    "chapter": 74,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и воды потекли,"
+  },
+  {
+    "chapter": 74,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "как реки."
+  },
+  {
+    "chapter": 74,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но они продолжали грешить"
+  },
+  {
+    "chapter": 74,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "против Него"
+  },
+  {
+    "chapter": 74,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и бунтовать против"
+  },
+  {
+    "chapter": 74,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Всевышнего в пустыне."
+  },
+  {
+    "chapter": 74,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Испытывали Бога"
+  },
+  {
+    "chapter": 74,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "в своих сердцах,"
+  },
+  {
+    "chapter": 74,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "требуя пищи,"
+  },
+  {
+    "chapter": 74,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "которая им по душе;"
+  },
+  {
+    "chapter": 74,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "оскорбляли Бога говоря:"
+  },
+  {
+    "chapter": 74,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Может ли Бог"
+  },
+  {
+    "chapter": 74,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "накрыть стол в пустыне?"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Да,"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Он ударил скалу,"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и из него потекли воды,"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "хлынули потоки,"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "но может ли Он"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "и хлеба дать?"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "и может ли дать мяса Своему"
+  },
+  {
+    "chapter": 74,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 8,
+    "text": "народу?"
+  },
+  {
+    "chapter": 74,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Услышал Господь"
+  },
+  {
+    "chapter": 74,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и разгневался:"
+  },
+  {
+    "chapter": 74,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Его огонь"
+  },
+  {
+    "chapter": 74,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "возгорелся на Иакова;"
+  },
+  {
+    "chapter": 74,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "вспыхнул гнев"
+  },
+  {
+    "chapter": 74,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "Его на Израиль,"
+  },
+  {
+    "chapter": 74,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "потому что не верили в Бога"
+  },
+  {
+    "chapter": 74,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и не уповали на Его"
+  },
+  {
+    "chapter": 74,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "спасение."
+  },
+  {
+    "chapter": 74,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но Он повелел облакам свыше"
+  },
+  {
+    "chapter": 74,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и отворил ворота небесные,"
+  },
+  {
+    "chapter": 74,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "и,"
+  },
+  {
+    "chapter": 74,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "как дождь,"
+  },
+  {
+    "chapter": 74,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "излил на них манну и"
+  },
+  {
+    "chapter": 74,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "зерно небесное дал им."
+  },
+  {
+    "chapter": 74,
+    "verse": 25,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Хлеб сильных ел человек;"
+  },
+  {
+    "chapter": 74,
+    "verse": 25,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "послал Он им пищи вдоволь."
+  },
+  {
+    "chapter": 74,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он пробудил на небе ветер"
+  },
+  {
+    "chapter": 74,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "восточный"
+  },
+  {
+    "chapter": 74,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и силой Своей навел ветер"
+  },
+  {
+    "chapter": 74,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "южный."
+  },
+  {
+    "chapter": 74,
+    "verse": 27,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Как пылью,"
+  },
+  {
+    "chapter": 74,
+    "verse": 27,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Он осыпал их мясом и,"
+  },
+  {
+    "chapter": 74,
+    "verse": 27,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "как песком морским,"
+  },
+  {
+    "chapter": 74,
+    "verse": 27,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "пернатыми птицами;"
+  },
+  {
+    "chapter": 74,
+    "verse": 28,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "которых"
+  },
+  {
+    "chapter": 74,
+    "verse": 28,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "разбросал посреди лагеря,"
+  },
+  {
+    "chapter": 74,
+    "verse": 28,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "около жилищ их."
+  },
+  {
+    "chapter": 74,
+    "verse": 29,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Они ели и пресытились,"
+  },
+  {
+    "chapter": 74,
+    "verse": 29,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что Он"
+  },
+  {
+    "chapter": 74,
+    "verse": 29,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "дал им желаемое."
+  },
+  {
+    "chapter": 74,
+    "verse": 30,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но еще не успели они"
+  },
+  {
+    "chapter": 74,
+    "verse": 30,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "утолить свою жадность,"
+  },
+  {
+    "chapter": 74,
+    "verse": 30,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "еще пища была"
+  },
+  {
+    "chapter": 74,
+    "verse": 30,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "у них на устах,"
+  },
+  {
+    "chapter": 74,
+    "verse": 31,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "когда Божий"
+  },
+  {
+    "chapter": 74,
+    "verse": 31,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "гнев сошел на них,"
+  },
+  {
+    "chapter": 74,
+    "verse": 31,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "поразив самых"
+  },
+  {
+    "chapter": 74,
+    "verse": 31,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "крепких из них,"
+  },
+  {
+    "chapter": 74,
+    "verse": 31,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "молодых сыновей Израиля."
+  },
+  {
+    "chapter": 74,
+    "verse": 32,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Несмотря на это,"
+  },
+  {
+    "chapter": 74,
+    "verse": 32,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "они продолжали грешить"
+  },
+  {
+    "chapter": 74,
+    "verse": 32,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и не верили Его чудесам."
+  },
+  {
+    "chapter": 74,
+    "verse": 33,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "И завершил Он дни их в"
+  },
+  {
+    "chapter": 74,
+    "verse": 33,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "суете и годы их в ужасе."
+  },
+  {
+    "chapter": 74,
+    "verse": 34,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Когда убивал их,"
+  },
+  {
+    "chapter": 74,
+    "verse": 34,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "тогда обращались к"
+  },
+  {
+    "chapter": 74,
+    "verse": 34,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Нему и искали Его усердно."
+  },
+  {
+    "chapter": 74,
+    "verse": 35,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "И вспоминали,"
+  },
+  {
+    "chapter": 74,
+    "verse": 35,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "что Бог их скала,"
+  },
+  {
+    "chapter": 74,
+    "verse": 35,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и что Всевышний"
+  },
+  {
+    "chapter": 74,
+    "verse": 35,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Бог их искупитель."
+  },
+  {
+    "chapter": 74,
+    "verse": 36,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Все равно льстили"
+  },
+  {
+    "chapter": 74,
+    "verse": 36,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Ему устами своими,"
+  },
+  {
+    "chapter": 74,
+    "verse": 36,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "они лгали Ему"
+  },
+  {
+    "chapter": 74,
+    "verse": 36,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "своими языками,"
+  },
+  {
+    "chapter": 74,
+    "verse": 37,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "потому что сердца их"
+  },
+  {
+    "chapter": 74,
+    "verse": 37,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "не были преданны Ему,"
+  },
+  {
+    "chapter": 74,
+    "verse": 37,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и не были они"
+  },
+  {
+    "chapter": 74,
+    "verse": 37,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "верны Его завету."
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но Он,"
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "будучи милостивым,"
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "прощал их нечестие"
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и не уничтожал их."
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Много раз отвращал Он Свой"
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "гнев"
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "и не возбуждал всей Своей"
+  },
+  {
+    "chapter": 74,
+    "verse": 38,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 8,
+    "text": "ярости."
+  },
+  {
+    "chapter": 74,
+    "verse": 39,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Помнил Он,"
+  },
+  {
+    "chapter": 74,
+    "verse": 39,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "что они только плоть,"
+  },
+  {
+    "chapter": 74,
+    "verse": 39,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "ветер,"
+  },
+  {
+    "chapter": 74,
+    "verse": 39,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "что уходит и"
+  },
+  {
+    "chapter": 74,
+    "verse": 39,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "не возвращается."
+  },
+  {
+    "chapter": 74,
+    "verse": 40,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Сколько раз они противились"
+  },
+  {
+    "chapter": 74,
+    "verse": 40,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Ему в пустыне"
+  },
+  {
+    "chapter": 74,
+    "verse": 40,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и сердили Его в земле"
+  },
+  {
+    "chapter": 74,
+    "verse": 40,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "необитаемой!"
+  },
+  {
+    "chapter": 74,
+    "verse": 41,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Поворачивали назад"
+  },
+  {
+    "chapter": 74,
+    "verse": 41,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и испытывали Бога,"
+  },
+  {
+    "chapter": 74,
+    "verse": 41,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "досаждая Святому Израиля."
+  },
+  {
+    "chapter": 74,
+    "verse": 42,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Не помнили ни руки Его,"
+  },
+  {
+    "chapter": 74,
+    "verse": 42,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "ни дня,"
+  },
+  {
+    "chapter": 74,
+    "verse": 42,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "когда Он избавил"
+  },
+  {
+    "chapter": 74,
+    "verse": 42,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "их от угнетения,"
+  },
+  {
+    "chapter": 74,
+    "verse": 43,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "как сотворил в Египте"
+  },
+  {
+    "chapter": 74,
+    "verse": 43,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "знамения"
+  },
+  {
+    "chapter": 74,
+    "verse": 43,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и чудеса в окрестностях"
+  },
+  {
+    "chapter": 74,
+    "verse": 43,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Цоана."
+  },
+  {
+    "chapter": 74,
+    "verse": 44,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он превратил"
+  },
+  {
+    "chapter": 74,
+    "verse": 44,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "их реки в кровь"
+  },
+  {
+    "chapter": 74,
+    "verse": 44,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и нельзя было пить из их"
+  },
+  {
+    "chapter": 74,
+    "verse": 44,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "источников."
+  },
+  {
+    "chapter": 74,
+    "verse": 45,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "И послал на них"
+  },
+  {
+    "chapter": 74,
+    "verse": 45,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "густые рои мух,"
+  },
+  {
+    "chapter": 74,
+    "verse": 45,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "чтобы жалили их,"
+  },
+  {
+    "chapter": 74,
+    "verse": 45,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и лягушек,"
+  },
+  {
+    "chapter": 74,
+    "verse": 45,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "чтобы сгубили их."
+  },
+  {
+    "chapter": 74,
+    "verse": 46,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он гусеницам отдал урожай,"
+  },
+  {
+    "chapter": 74,
+    "verse": 46,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и их труд саранче."
+  },
+  {
+    "chapter": 74,
+    "verse": 47,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Виноград их побил Он градом"
+  },
+  {
+    "chapter": 74,
+    "verse": 47,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и тутовые деревья"
+  },
+  {
+    "chapter": 74,
+    "verse": 47,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "их наводненьем."
+  },
+  {
+    "chapter": 74,
+    "verse": 48,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Скот их предал граду"
+  },
+  {
+    "chapter": 74,
+    "verse": 48,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и стада их молниям."
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Излил на них"
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Свой пылающий гнев,"
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и негодование,"
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и ярость,"
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "и бедствие,"
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "послал на них"
+  },
+  {
+    "chapter": 74,
+    "verse": 49,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "карающих ангелов."
+  },
+  {
+    "chapter": 74,
+    "verse": 50,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Проложил путь Своему гневу;"
+  },
+  {
+    "chapter": 74,
+    "verse": 50,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Он не оградил"
+  },
+  {
+    "chapter": 74,
+    "verse": 50,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "души их от смерти,"
+  },
+  {
+    "chapter": 74,
+    "verse": 50,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "но предал их"
+  },
+  {
+    "chapter": 74,
+    "verse": 50,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "жизни моровой язве."
+  },
+  {
+    "chapter": 74,
+    "verse": 51,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Поразил всех"
+  },
+  {
+    "chapter": 74,
+    "verse": 51,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "первенцев в Египте,"
+  },
+  {
+    "chapter": 74,
+    "verse": 51,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "первые плоды"
+  },
+  {
+    "chapter": 74,
+    "verse": 51,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "сил в шатрах Хама."
+  },
+  {
+    "chapter": 74,
+    "verse": 52,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Как овец,"
+  },
+  {
+    "chapter": 74,
+    "verse": 52,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Он вывел народ Свой,"
+  },
+  {
+    "chapter": 74,
+    "verse": 52,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "вел их,"
+  },
+  {
+    "chapter": 74,
+    "verse": 52,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "как стадо,"
+  },
+  {
+    "chapter": 74,
+    "verse": 52,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "через пустыню."
+  },
+  {
+    "chapter": 74,
+    "verse": 53,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Вел их в безопасности,"
+  },
+  {
+    "chapter": 74,
+    "verse": 53,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и не боялись они,"
+  },
+  {
+    "chapter": 74,
+    "verse": 53,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "а врагов их покрыло море."
+  },
+  {
+    "chapter": 74,
+    "verse": 54,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Так Он привел их к"
+  },
+  {
+    "chapter": 74,
+    "verse": 54,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "границам Своей святой земли,"
+  },
+  {
+    "chapter": 74,
+    "verse": 54,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "к нагорьям,"
+  },
+  {
+    "chapter": 74,
+    "verse": 54,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "которые приобрел Он"
+  },
+  {
+    "chapter": 74,
+    "verse": 54,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "правой Своей рукой."
+  },
+  {
+    "chapter": 74,
+    "verse": 55,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Изгнал народы пред ними,"
+  },
+  {
+    "chapter": 74,
+    "verse": 55,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "а землю"
+  },
+  {
+    "chapter": 74,
+    "verse": 55,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "их разделил в наследие им"
+  },
+  {
+    "chapter": 74,
+    "verse": 55,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и поселил в шатрах"
+  },
+  {
+    "chapter": 74,
+    "verse": 55,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "их роды Израиля."
+  },
+  {
+    "chapter": 74,
+    "verse": 56,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Но,"
+  },
+  {
+    "chapter": 74,
+    "verse": 56,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "как прежде,"
+  },
+  {
+    "chapter": 74,
+    "verse": 56,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "они испытывали и"
+  },
+  {
+    "chapter": 74,
+    "verse": 56,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "противились Богу Всевышнему,"
+  },
+  {
+    "chapter": 74,
+    "verse": 56,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "и не хранили Его заповедей."
+  },
+  {
+    "chapter": 74,
+    "verse": 57,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Они отступали и"
+  },
+  {
+    "chapter": 74,
+    "verse": 57,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "изменяли так же,"
+  },
+  {
+    "chapter": 74,
+    "verse": 57,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "как их отцы;"
+  },
+  {
+    "chapter": 74,
+    "verse": 57,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "они обращались назад,"
+  },
+  {
+    "chapter": 74,
+    "verse": 57,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "как неисправный лук."
+  },
+  {
+    "chapter": 74,
+    "verse": 58,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Огорчали Его своими"
+  },
+  {
+    "chapter": 74,
+    "verse": 58,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "святилищами на"
+  },
+  {
+    "chapter": 74,
+    "verse": 58,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "возвышенностях"
+  },
+  {
+    "chapter": 74,
+    "verse": 58,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "и ревность Его возбуждали"
+  },
+  {
+    "chapter": 74,
+    "verse": 58,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "идолами."
+  },
+  {
+    "chapter": 74,
+    "verse": 59,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Услышал Бог и разгневался,"
+  },
+  {
+    "chapter": 74,
+    "verse": 59,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "сильно"
+  },
+  {
+    "chapter": 74,
+    "verse": 59,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "вознегодовал на Израиль."
+  },
+  {
+    "chapter": 74,
+    "verse": 60,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Оставил Свое"
+  },
+  {
+    "chapter": 74,
+    "verse": 60,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "жилище в Силоме,"
+  },
+  {
+    "chapter": 74,
+    "verse": 60,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "скинию,"
+  },
+  {
+    "chapter": 74,
+    "verse": 60,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "которую поставил средь них."
+  },
+  {
+    "chapter": 74,
+    "verse": 61,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "И отдал в плен Свою силу"
+  },
+  {
+    "chapter": 74,
+    "verse": 61,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и славу Свою в руки врага."
+  },
+  {
+    "chapter": 74,
+    "verse": 62,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Предал мечу народ Свой,"
+  },
+  {
+    "chapter": 74,
+    "verse": 62,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "прогневался на"
+  },
+  {
+    "chapter": 74,
+    "verse": 62,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "наследие Свое."
+  },
+  {
+    "chapter": 74,
+    "verse": 63,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Юношей их пожрал огонь,"
+  },
+  {
+    "chapter": 74,
+    "verse": 63,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и девушкам их не"
+  },
+  {
+    "chapter": 74,
+    "verse": 63,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "пели брачных песен."
+  },
+  {
+    "chapter": 74,
+    "verse": 64,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Их священники"
+  },
+  {
+    "chapter": 74,
+    "verse": 64,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "падали от меча,"
+  },
+  {
+    "chapter": 74,
+    "verse": 64,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "а вдовы их не плакали."
+  },
+  {
+    "chapter": 74,
+    "verse": 65,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Тогда проснулся Владыка,"
+  },
+  {
+    "chapter": 74,
+    "verse": 65,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "как бы от сна,"
+  },
+  {
+    "chapter": 74,
+    "verse": 65,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "как могучий воин,"
+  },
+  {
+    "chapter": 74,
+    "verse": 65,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "отрезвившийся от вина,"
+  },
+  {
+    "chapter": 74,
+    "verse": 66,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "и поразил"
+  },
+  {
+    "chapter": 74,
+    "verse": 66,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "врагов Своих в сзади,"
+  },
+  {
+    "chapter": 74,
+    "verse": 66,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и обесчестил навечно."
+  },
+  {
+    "chapter": 74,
+    "verse": 67,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Отверг Он шатер Иосифа"
+  },
+  {
+    "chapter": 74,
+    "verse": 67,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и не выбрал род Ефрема,"
+  },
+  {
+    "chapter": 74,
+    "verse": 68,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "но избрал род Иуды и"
+  },
+  {
+    "chapter": 74,
+    "verse": 68,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "возлюбленную Им гору Сион."
+  },
+  {
+    "chapter": 74,
+    "verse": 69,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Высокий,"
+  },
+  {
+    "chapter": 74,
+    "verse": 69,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "как небо,"
+  },
+  {
+    "chapter": 74,
+    "verse": 69,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "построил"
+  },
+  {
+    "chapter": 74,
+    "verse": 69,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "святой храм Свой и,"
+  },
+  {
+    "chapter": 74,
+    "verse": 69,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "как землю,"
+  },
+  {
+    "chapter": 74,
+    "verse": 69,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "навек утвердил."
+  },
+  {
+    "chapter": 74,
+    "verse": 70,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Он избрал Давида,"
+  },
+  {
+    "chapter": 74,
+    "verse": 70,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "слугу Своего,"
+  },
+  {
+    "chapter": 74,
+    "verse": 70,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "взяв его от"
+  },
+  {
+    "chapter": 74,
+    "verse": 70,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "загонов овечьих,"
+  },
+  {
+    "chapter": 74,
+    "verse": 71,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "забрав его от дойных овец,"
+  },
+  {
+    "chapter": 74,
+    "verse": 71,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "и привел его"
+  },
+  {
+    "chapter": 74,
+    "verse": 71,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "пасти Свой народ,"
+  },
+  {
+    "chapter": 74,
+    "verse": 71,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Иакова Израиль,"
+  },
+  {
+    "chapter": 74,
+    "verse": 71,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "Свое наследие."
+  },
+  {
+    "chapter": 74,
+    "verse": 72,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "И пас он их в"
+  },
+  {
+    "chapter": 74,
+    "verse": 72,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "чистоте сердца своего,"
+  },
+  {
+    "chapter": 74,
+    "verse": 72,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "вел их рукой мудрой."
+  }
+]

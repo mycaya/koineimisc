@@ -1,0 +1,66 @@
+[
+  {
+    "chapter": 111,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Славьте Господа,"
+  },
+  {
+    "chapter": 111,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "все народы!"
+  },
+  {
+    "chapter": 111,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Пойте хвалу Ему,"
+  },
+  {
+    "chapter": 111,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "все люди!"
+  },
+  {
+    "chapter": 111,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Потому что велика"
+  },
+  {
+    "chapter": 111,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Его милость к нам,"
+  },
+  {
+    "chapter": 111,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и истина Его навеки."
+  },
+  {
+    "chapter": 111,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Аллилуйя!"
+  }
+]

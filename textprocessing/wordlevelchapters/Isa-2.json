@@ -1,0 +1,858 @@
+[
+  {
+    "chapter": 2,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Вот что видел Исаия,"
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "сын Амоса,"
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "об Иудее и Иерусалиме:"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "В последние дни гора храма"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "Господня будет поставлена"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "высочайшею среди гор;"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "вознесется она над холмами,"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "и устремятся к"
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "ней все народы."
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Многие народы"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "пойдут и скажут:"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Идем,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "поднимемся на"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "Господню гору,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "к дому Бога Иакова."
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "Он научит нас Своим путям,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 8,
+    "text": "и будем ходить"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 9,
+    "text": "по Его тропам."
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 10,
+    "text": "Ведь из Сиона выйдет Закон,"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 11,
+    "text": "и слово"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 12,
+    "text": "Господне из Иерусалима."
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Он рассудит меж племенами,"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "разрешит тяжбы"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "многих народов."
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "Перекуют они мечи на"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "плуги и копья на серпы."
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "Не поднимет"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "народ на народ меча,"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 8,
+    "text": "и не будут"
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 9,
+    "text": "больше учиться войне."
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Приди,"
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "о дом Иакова,"
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "будем ходить в"
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "свете Господнем!"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Ты отверг Свой народ,"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "дом Иакова,"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "ведь у них полно"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "суеверий с Востока;"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "они гадают,"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "как филистимляне,"
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "и общаются с чужаками."
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Их земля полна"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "серебра и золота,"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "нет числа их сокровищам."
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "Их земля полна коней;"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "нет числа колесницам их."
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Их земля полна идолов;"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "они кланяются"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "делам своих рук,"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "тому,"
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "что сделали их пальцы."
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Унижены будут люди,"
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "смирится всякий"
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Ты не прощай их."
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Иди в скалы,"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "спрячься во прахе от страха"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Господа"
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "и от славы Его величия!"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Глаза надменного потупятся,"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "и гордыня"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "людская будет унижена;"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "один лишь Господь будет"
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "возвеличен в тот день."
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Грядет день у Господа сил"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "на все гордое"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "и высокомерное,"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "на все превознесенное"
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "быть ему униженным! -"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "На все ливанские кедры,"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "высокие и превозносящиеся,"
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "и все васанские дубы,"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "на все высокие горы и"
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "все превозносящиеся холмы,"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "на всякую высокую башню и"
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "всякую укрепленную стену,"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "на все корабли Фарсиса и на"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "все их желанные украшения."
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Гордыня людская"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "будет унижена,"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "гордость всякого смирена;"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "один лишь Господь будет"
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "возвеличен в тот день,"
+  },
+  {
+    "chapter": 2,
+    "verse": 18,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "и идолы исчезнут совсем."
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Люди уйдут в трещины скал"
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "и в ямы земли от страха"
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Господа"
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "и от славы Его величия,"
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "когда Он поднимется,"
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "чтобы сотрясти землю."
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "В тот день люди бросят"
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "кротам"
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "и летучим мышам своих"
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "серебряных идолов,"
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "своих золотых идолов,"
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "которых сделали,"
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "чтобы поклоняться им,"
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "и уйдут в расселины скал"
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "и в ущелья утесов от страха"
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Господа"
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "и от славы Его величия,"
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "когда Он поднимется,"
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "чтобы сотрясти землю."
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Перестаньте"
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "надеяться на человека,"
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "чья жизнь хрупка,"
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "как его дыхание."
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "Разве он что-то значит?"
+  }
+]

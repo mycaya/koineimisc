@@ -1,0 +1,906 @@
+[
+  {
+    "chapter": 34,
+    "verse": 1,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Господь сказал Моисею:"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "- Дай"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "израильтянам повеление,"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "скажи им:"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Когда вы войдете в Ханаан,"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "у земли,"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которая будет"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "дана вам в удел,"
+  },
+  {
+    "chapter": 34,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "будут такие границы:"
+  },
+  {
+    "chapter": 34,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "южная сторона у вас будет"
+  },
+  {
+    "chapter": 34,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "простираться от пустыни Цин"
+  },
+  {
+    "chapter": 34,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вдоль границы Едома."
+  },
+  {
+    "chapter": 34,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "На востоке ваша южная"
+  },
+  {
+    "chapter": 34,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "граница будет начинаться от"
+  },
+  {
+    "chapter": 34,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "края Соленого моря,"
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "проходить на юг к"
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "возвышенности Акравима,"
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "тянуться через Цин и"
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "идти на юг в направлении"
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "Кадес-Варни."
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "Оттуда она пойдет к"
+  },
+  {
+    "chapter": 34,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "Гацар-Аддару и пройдет к Ацмоне,"
+  },
+  {
+    "chapter": 34,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "где повернет к речке на"
+  },
+  {
+    "chapter": 34,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "границе Египта"
+  },
+  {
+    "chapter": 34,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "и закончится у моря."
+  },
+  {
+    "chapter": 34,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Вашей западной границей"
+  },
+  {
+    "chapter": 34,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "будет побережье Великого моря."
+  },
+  {
+    "chapter": 34,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Это ваша граница на западе."
+  },
+  {
+    "chapter": 34,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Для северной границы"
+  },
+  {
+    "chapter": 34,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "проведите рубеж от Великого"
+  },
+  {
+    "chapter": 34,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "моря до горы Ор,"
+  },
+  {
+    "chapter": 34,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "а от горы Ор до Лево-Емафа."
+  },
+  {
+    "chapter": 34,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Оттуда граница"
+  },
+  {
+    "chapter": 34,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "пойдет к Цедаду,"
+  },
+  {
+    "chapter": 34,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "продолжится к Зифрону и"
+  },
+  {
+    "chapter": 34,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "закончится в Гацар-Енане."
+  },
+  {
+    "chapter": 34,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Это ваша граница на севере."
+  },
+  {
+    "chapter": 34,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Для восточной границы"
+  },
+  {
+    "chapter": 34,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "проведите рубеж от"
+  },
+  {
+    "chapter": 34,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Гацар-Енана до Шефама."
+  },
+  {
+    "chapter": 34,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Граница пойдет от Шефама к"
+  },
+  {
+    "chapter": 34,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Ривле на восточной стороне"
+  },
+  {
+    "chapter": 34,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Аина"
+  },
+  {
+    "chapter": 34,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "и продолжится по склонам к"
+  },
+  {
+    "chapter": 34,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "востоку от моря Киннереф."
+  },
+  {
+    "chapter": 34,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Затем граница спустится по"
+  },
+  {
+    "chapter": 34,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Иордану"
+  },
+  {
+    "chapter": 34,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "и дойдет до Соленого моря."
+  },
+  {
+    "chapter": 34,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Это ваша земля,"
+  },
+  {
+    "chapter": 34,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "с ее границами"
+  },
+  {
+    "chapter": 34,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "на каждой стороне."
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Моисей повелел"
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "израильтянам:"
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Это та земля,"
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "которую вы"
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "получите в удел по жребию."
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "Господь повелел отдать ее"
+  },
+  {
+    "chapter": 34,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "девяти с половиной родам,"
+  },
+  {
+    "chapter": 34,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "потому что"
+  },
+  {
+    "chapter": 34,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "семьи родов Рувима,"
+  },
+  {
+    "chapter": 34,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Гада и половина рода"
+  },
+  {
+    "chapter": 34,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Манассии уже получили надел."
+  },
+  {
+    "chapter": 34,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Эти два с половиной рода"
+  },
+  {
+    "chapter": 34,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "получили надел на восточной"
+  },
+  {
+    "chapter": 34,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "стороне Иордана,"
+  },
+  {
+    "chapter": 34,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "напротив Иерихона."
+  },
+  {
+    "chapter": 34,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Господь сказал Моисею:"
+  },
+  {
+    "chapter": 34,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "- Вот имена тех,"
+  },
+  {
+    "chapter": 34,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "кто разделит"
+  },
+  {
+    "chapter": 34,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "землю вам в удел:"
+  },
+  {
+    "chapter": 34,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "священник Елеазар и Иисус,"
+  },
+  {
+    "chapter": 34,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "сын Навина."
+  },
+  {
+    "chapter": 34,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Назначьте по одному"
+  },
+  {
+    "chapter": 34,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "вождю от каждого рода,"
+  },
+  {
+    "chapter": 34,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "чтобы помочь делить землю."
+  },
+  {
+    "chapter": 34,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Вот их имена:"
+  },
+  {
+    "chapter": 34,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Халев,"
+  },
+  {
+    "chapter": 34,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "сын Иефонниин,"
+  },
+  {
+    "chapter": 34,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "от рода Иуды;"
+  },
+  {
+    "chapter": 34,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Самуил,"
+  },
+  {
+    "chapter": 34,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Аммиуда,"
+  },
+  {
+    "chapter": 34,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "от рода Симеона;"
+  },
+  {
+    "chapter": 34,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Елидад,"
+  },
+  {
+    "chapter": 34,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Кислона,"
+  },
+  {
+    "chapter": 34,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "от рода Вениамина;"
+  },
+  {
+    "chapter": 34,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Буккий,"
+  },
+  {
+    "chapter": 34,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Иоглии,"
+  },
+  {
+    "chapter": 34,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Дана;"
+  },
+  {
+    "chapter": 34,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Ханниил,"
+  },
+  {
+    "chapter": 34,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Ефода,"
+  },
+  {
+    "chapter": 34,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Манассии,"
+  },
+  {
+    "chapter": 34,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "сына Иосифа;"
+  },
+  {
+    "chapter": 34,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Кемуил,"
+  },
+  {
+    "chapter": 34,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Шифтана,"
+  },
+  {
+    "chapter": 34,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Ефрема,"
+  },
+  {
+    "chapter": 34,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "сына Иосифа;"
+  },
+  {
+    "chapter": 34,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Елицафан,"
+  },
+  {
+    "chapter": 34,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Фарнака,"
+  },
+  {
+    "chapter": 34,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Завулона;"
+  },
+  {
+    "chapter": 34,
+    "verse": 26,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Фалтиил,"
+  },
+  {
+    "chapter": 34,
+    "verse": 26,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Аззана,"
+  },
+  {
+    "chapter": 34,
+    "verse": 26,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Иссахара;"
+  },
+  {
+    "chapter": 34,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Ахиуд,"
+  },
+  {
+    "chapter": 34,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Шеломия,"
+  },
+  {
+    "chapter": 34,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Асира;"
+  },
+  {
+    "chapter": 34,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Педаил,"
+  },
+  {
+    "chapter": 34,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Аммиуда,"
+  },
+  {
+    "chapter": 34,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "вождь от рода Неффалима."
+  },
+  {
+    "chapter": 34,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Это те,"
+  },
+  {
+    "chapter": 34,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "кому Господь велел"
+  },
+  {
+    "chapter": 34,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "назначить"
+  },
+  {
+    "chapter": 34,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "израильтянам наделы в земле"
+  },
+  {
+    "chapter": 34,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "Ханаана."
+  }
+]

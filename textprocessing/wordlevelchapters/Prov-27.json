@@ -1,0 +1,898 @@
+[
+  {
+    "chapter": 27,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не хвастайся"
+  },
+  {
+    "chapter": 27,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "завтрашним днем,"
+  },
+  {
+    "chapter": 27,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "ты ведь не знаешь,"
+  },
+  {
+    "chapter": 27,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "что день принесет."
+  },
+  {
+    "chapter": 27,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть другой тебя хвалит,"
+  },
+  {
+    "chapter": 27,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "а не твои уста,"
+  },
+  {
+    "chapter": 27,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "посторонний,"
+  },
+  {
+    "chapter": 27,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "а не твой язык."
+  },
+  {
+    "chapter": 27,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Камень увесист,"
+  },
+  {
+    "chapter": 27,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "тяжел и песок,"
+  },
+  {
+    "chapter": 27,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "но раздражение"
+  },
+  {
+    "chapter": 27,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "глупца тяжелее обоих."
+  },
+  {
+    "chapter": 27,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ярость жестока и"
+  },
+  {
+    "chapter": 27,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "гнев неукротим,"
+  },
+  {
+    "chapter": 27,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "но кто может"
+  },
+  {
+    "chapter": 27,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "устоять против ревности?"
+  },
+  {
+    "chapter": 27,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Лучше открытый упрек,"
+  },
+  {
+    "chapter": 27,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "чем скрытая любовь."
+  },
+  {
+    "chapter": 27,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Друг искренен,"
+  },
+  {
+    "chapter": 27,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "даже если он ранит,"
+  },
+  {
+    "chapter": 27,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а враг рассыпает поцелуи."
+  },
+  {
+    "chapter": 27,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Сытым и"
+  },
+  {
+    "chapter": 27,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сотовый мед не впрок,"
+  },
+  {
+    "chapter": 27,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а голодным и"
+  },
+  {
+    "chapter": 27,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "горькое кажется сладким."
+  },
+  {
+    "chapter": 27,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Что птица,"
+  },
+  {
+    "chapter": 27,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "отбившаяся от гнезда,"
+  },
+  {
+    "chapter": 27,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "человек,"
+  },
+  {
+    "chapter": 27,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "который отбился от дома."
+  },
+  {
+    "chapter": 27,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ароматное масло и"
+  },
+  {
+    "chapter": 27,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "благовония радуют сердце,"
+  },
+  {
+    "chapter": 27,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и приятно слышать"
+  },
+  {
+    "chapter": 27,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "душевный совет от друга."
+  },
+  {
+    "chapter": 27,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не бросай своего"
+  },
+  {
+    "chapter": 27,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "друга и друга своего отца,"
+  },
+  {
+    "chapter": 27,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и не ходи в дом брата,"
+  },
+  {
+    "chapter": 27,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "когда у тебя беда."
+  },
+  {
+    "chapter": 27,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "Лучше сосед поблизости,"
+  },
+  {
+    "chapter": 27,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "чем брат далеко."
+  },
+  {
+    "chapter": 27,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Будь мудрым,"
+  },
+  {
+    "chapter": 27,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "мой сын,"
+  },
+  {
+    "chapter": 27,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и сердце мое порадуй;"
+  },
+  {
+    "chapter": 27,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и я буду знать,"
+  },
+  {
+    "chapter": 27,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "что ответить"
+  },
+  {
+    "chapter": 27,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "попрекающему меня."
+  },
+  {
+    "chapter": 27,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Разумный видит"
+  },
+  {
+    "chapter": 27,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "опасность и прячется,"
+  },
+  {
+    "chapter": 27,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а простаки идут"
+  },
+  {
+    "chapter": 27,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "дальше и бывают наказаны."
+  },
+  {
+    "chapter": 27,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Забери одежду у"
+  },
+  {
+    "chapter": 27,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "поручившегося за незнакомца;"
+  },
+  {
+    "chapter": 27,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "удержи залог у"
+  },
+  {
+    "chapter": 27,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "ручавшегося за чужеземцев."
+  },
+  {
+    "chapter": 27,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Того,"
+  },
+  {
+    "chapter": 27,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кто громогласно"
+  },
+  {
+    "chapter": 27,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "благословляет ближнего ранним утром,"
+  },
+  {
+    "chapter": 27,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "сочтут проклинающим."
+  },
+  {
+    "chapter": 27,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Несмолкающая капель в"
+  },
+  {
+    "chapter": 27,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "дождливый день"
+  },
+  {
+    "chapter": 27,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и сварливая жена схожи друг"
+  },
+  {
+    "chapter": 27,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "с другом;"
+  },
+  {
+    "chapter": 27,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "пытаться сдержать ее что"
+  },
+  {
+    "chapter": 27,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сдерживать ветер"
+  },
+  {
+    "chapter": 27,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "или масло в правой руке"
+  },
+  {
+    "chapter": 27,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "зажать."
+  },
+  {
+    "chapter": 27,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как железо острит железо,"
+  },
+  {
+    "chapter": 27,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "так острит"
+  },
+  {
+    "chapter": 27,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "человек человека."
+  },
+  {
+    "chapter": 27,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Кто возделывает инжир,"
+  },
+  {
+    "chapter": 27,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "будет есть его ягоды,"
+  },
+  {
+    "chapter": 27,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а кто заботится о"
+  },
+  {
+    "chapter": 27,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "своем господине,"
+  },
+  {
+    "chapter": 27,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "будет в чести."
+  },
+  {
+    "chapter": 27,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Как вода отражает лицо,"
+  },
+  {
+    "chapter": 27,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "так сердце"
+  },
+  {
+    "chapter": 27,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "человека человека."
+  },
+  {
+    "chapter": 27,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Мир мертвых и"
+  },
+  {
+    "chapter": 27,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Погибель не знают сытости;"
+  },
+  {
+    "chapter": 27,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "ненасытны и"
+  },
+  {
+    "chapter": 27,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "человеческие глаза."
+  },
+  {
+    "chapter": 27,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Тигель для серебра,"
+  },
+  {
+    "chapter": 27,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и для золота"
+  },
+  {
+    "chapter": 27,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "горн плавильный,"
+  },
+  {
+    "chapter": 27,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "а человек"
+  },
+  {
+    "chapter": 27,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "испытывается похвалами."
+  },
+  {
+    "chapter": 27,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Глупца истолки"
+  },
+  {
+    "chapter": 27,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "хоть в ступе,"
+  },
+  {
+    "chapter": 27,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "истолки,"
+  },
+  {
+    "chapter": 27,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "как пестом пшеницу,"
+  },
+  {
+    "chapter": 27,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "не отделится от"
+  },
+  {
+    "chapter": 27,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "него его глупость."
+  },
+  {
+    "chapter": 27,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Точно знай,"
+  },
+  {
+    "chapter": 27,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "в каком виде твои отары,"
+  },
+  {
+    "chapter": 27,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "хорошо наблюдай"
+  },
+  {
+    "chapter": 27,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "за твоими стадами;"
+  },
+  {
+    "chapter": 27,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "ведь богатство не вечно,"
+  },
+  {
+    "chapter": 27,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и власть не на"
+  },
+  {
+    "chapter": 27,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "все поколения."
+  },
+  {
+    "chapter": 27,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Когда сено вывозят и"
+  },
+  {
+    "chapter": 27,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "появляется новая поросль,"
+  },
+  {
+    "chapter": 27,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и собирают траву"
+  },
+  {
+    "chapter": 27,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "со склонов горных,"
+  },
+  {
+    "chapter": 27,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "тогда ягнята"
+  },
+  {
+    "chapter": 27,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "одеждой тебя снабдят,"
+  },
+  {
+    "chapter": 27,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "а козлы пойдут"
+  },
+  {
+    "chapter": 27,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "на покупку поля."
+  },
+  {
+    "chapter": 27,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "У тебя будет"
+  },
+  {
+    "chapter": 27,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "вдоволь козьего молока,"
+  },
+  {
+    "chapter": 27,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "чтобы кормить себя"
+  },
+  {
+    "chapter": 27,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и кормить семью"
+  },
+  {
+    "chapter": 27,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "и давать пропитание"
+  },
+  {
+    "chapter": 27,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "служанкам."
+  }
+]

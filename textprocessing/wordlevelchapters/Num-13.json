@@ -1,0 +1,1170 @@
+[
+  {
+    "chapter": 13,
+    "verse": 2,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Господь сказал Моисею:"
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "- Пошли людей"
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "разведать землю Ханаана,"
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "которую Я"
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "отдаю израильтянам."
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "Из каждого их рода"
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "пошли по одному вождю."
+  },
+  {
+    "chapter": 13,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Моисей послал их"
+  },
+  {
+    "chapter": 13,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "из пустыни Фаран,"
+  },
+  {
+    "chapter": 13,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "как повелел Господь."
+  },
+  {
+    "chapter": 13,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Все они были"
+  },
+  {
+    "chapter": 13,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "вождями израильтян."
+  },
+  {
+    "chapter": 13,
+    "verse": 4,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "Вот их имена:"
+  },
+  {
+    "chapter": 13,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Рувима Шаммуа,"
+  },
+  {
+    "chapter": 13,
+    "verse": 5,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Заккура;"
+  },
+  {
+    "chapter": 13,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Симеона Шафат,"
+  },
+  {
+    "chapter": 13,
+    "verse": 6,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Хори;"
+  },
+  {
+    "chapter": 13,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Иуды Халев,"
+  },
+  {
+    "chapter": 13,
+    "verse": 7,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Иефонниин;"
+  },
+  {
+    "chapter": 13,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Иссахара Игал,"
+  },
+  {
+    "chapter": 13,
+    "verse": 8,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Иосифа;"
+  },
+  {
+    "chapter": 13,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Ефрема Осия,"
+  },
+  {
+    "chapter": 13,
+    "verse": 9,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Навин;"
+  },
+  {
+    "chapter": 13,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Вениамина Фалтий,"
+  },
+  {
+    "chapter": 13,
+    "verse": 10,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Рафу;"
+  },
+  {
+    "chapter": 13,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Завулона Гаддиил,"
+  },
+  {
+    "chapter": 13,
+    "verse": 11,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Соди;"
+  },
+  {
+    "chapter": 13,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Иосифа"
+  },
+  {
+    "chapter": 13,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "(через Манассию) Гаддий,"
+  },
+  {
+    "chapter": 13,
+    "verse": 12,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "сын Суси;"
+  },
+  {
+    "chapter": 13,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Дана Аммиил,"
+  },
+  {
+    "chapter": 13,
+    "verse": 13,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Гемалли;"
+  },
+  {
+    "chapter": 13,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Асира Сефур,"
+  },
+  {
+    "chapter": 13,
+    "verse": 14,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Михаила;"
+  },
+  {
+    "chapter": 13,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Неффалима Нахбий,"
+  },
+  {
+    "chapter": 13,
+    "verse": 15,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Вофси;"
+  },
+  {
+    "chapter": 13,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "из рода Гада Геуил,"
+  },
+  {
+    "chapter": 13,
+    "verse": 16,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "сын Махи."
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Таковы имена тех,"
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "кого Моисей"
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "послал разведать землю."
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "(Раньше Моисей дал Осии,"
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "сыну Навина,"
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "имя Иисус."
+  },
+  {
+    "chapter": 13,
+    "verse": 17,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": ")"
+  },
+  {
+    "chapter": 13,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Посылая их"
+  },
+  {
+    "chapter": 13,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "разведать Ханаан,"
+  },
+  {
+    "chapter": 13,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Моисей сказал:"
+  },
+  {
+    "chapter": 13,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Идите через"
+  },
+  {
+    "chapter": 13,
+    "verse": 18,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "Негев в нагорья."
+  },
+  {
+    "chapter": 13,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Посмотрите,"
+  },
+  {
+    "chapter": 13,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "что это за земля и"
+  },
+  {
+    "chapter": 13,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "что за народ живет там,"
+  },
+  {
+    "chapter": 13,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "силен он или слаб,"
+  },
+  {
+    "chapter": 13,
+    "verse": 19,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "мал или велик?"
+  },
+  {
+    "chapter": 13,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Какова земля,"
+  },
+  {
+    "chapter": 13,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "на которой он живет,"
+  },
+  {
+    "chapter": 13,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "хорошая или плохая? В"
+  },
+  {
+    "chapter": 13,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "каких городах он живет:"
+  },
+  {
+    "chapter": 13,
+    "verse": 20,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "без стен они или укреплены?"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Какова там почва,"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "плодородная"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "или бесплодная? Есть там"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "деревья"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "или нет? Будьте смелы,"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "возьмите с собой"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "плодов этой земли."
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "(Как раз настала пора"
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 9,
+    "text": "созревания винограда."
+  },
+  {
+    "chapter": 13,
+    "verse": 21,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 10,
+    "text": ")"
+  },
+  {
+    "chapter": 13,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Они пошли"
+  },
+  {
+    "chapter": 13,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "и разведали землю от"
+  },
+  {
+    "chapter": 13,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "пустыни Цин до самого"
+  },
+  {
+    "chapter": 13,
+    "verse": 22,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Рехова у Лево-Емафа."
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Они пошли в Негев"
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "и пришли в Хеврон,"
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "где жили Ахиман,"
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Шешай и Фалмай,"
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "потомки Енака."
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "(Хеврон был построен за"
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "семь лет до Цоана в Египте."
+  },
+  {
+    "chapter": 13,
+    "verse": 23,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": ")"
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Придя в долину Есхол,"
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "они срезали виноградную"
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "ветку с одной гроздью ягод,"
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "и двое из них"
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "понесли ее на шесте."
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "Еще они взяли"
+  },
+  {
+    "chapter": 13,
+    "verse": 24,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "гранатов и инжира."
+  },
+  {
+    "chapter": 13,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Это место было названо"
+  },
+  {
+    "chapter": 13,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "долиной Есхол из-за грозди,"
+  },
+  {
+    "chapter": 13,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "которую срезали"
+  },
+  {
+    "chapter": 13,
+    "verse": 25,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "там израильтяне."
+  },
+  {
+    "chapter": 13,
+    "verse": 26,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Через сорок дней они"
+  },
+  {
+    "chapter": 13,
+    "verse": 26,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "вернулись из разведки."
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Они вернулись к Моисею,"
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Аарону и обществу"
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "израильскому в Кадес в"
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "пустыне Фаран."
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "Там они отчитывались перед"
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "ними и народом и показали"
+  },
+  {
+    "chapter": 13,
+    "verse": 27,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "им плоды этой земли."
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Они сказали Моисею:"
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "Мы были в краю,"
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "куда ты нас посылал:"
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "там на самом деле течет"
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "молоко и мед! Вот его плоды."
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но народ,"
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "который живет там,"
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "силен,"
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "а его города"
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "укреплены и очень велики."
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "Мы даже видели"
+  },
+  {
+    "chapter": 13,
+    "verse": 29,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "там потомков Енака."
+  },
+  {
+    "chapter": 13,
+    "verse": 30,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Амаликитяне живут в Негеве,"
+  },
+  {
+    "chapter": 13,
+    "verse": 30,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "хетты,"
+  },
+  {
+    "chapter": 13,
+    "verse": 30,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "иевусеи и"
+  },
+  {
+    "chapter": 13,
+    "verse": 30,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "аморреи в нагорьях,"
+  },
+  {
+    "chapter": 13,
+    "verse": 30,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "а ханаанеи у"
+  },
+  {
+    "chapter": 13,
+    "verse": 30,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "моря и по Иордану."
+  },
+  {
+    "chapter": 13,
+    "verse": 31,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Халев успокоил народ"
+  },
+  {
+    "chapter": 13,
+    "verse": 31,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "перед Моисеем и сказал:"
+  },
+  {
+    "chapter": 13,
+    "verse": 31,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "Идем и овладеем землей,"
+  },
+  {
+    "chapter": 13,
+    "verse": 31,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "ведь нам это по силам."
+  },
+  {
+    "chapter": 13,
+    "verse": 32,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Но те,"
+  },
+  {
+    "chapter": 13,
+    "verse": 32,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "кто ходил с ним,"
+  },
+  {
+    "chapter": 13,
+    "verse": 32,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "сказали:"
+  },
+  {
+    "chapter": 13,
+    "verse": 32,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Мы не можем напасть на"
+  },
+  {
+    "chapter": 13,
+    "verse": 32,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "этот народ он сильнее нас."
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Они порочили перед"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "израильтянами землю,"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "которую разведали,"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "говоря:"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "Земля,"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "которую мы разведали,"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "пожирает своих обитателей."
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 8,
+    "text": "Все люди,"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 9,
+    "text": "которых мы там видели,"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 10,
+    "text": "огромного роста."
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 1,
+    "text": "Мы видели там"
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 2,
+    "text": "исполинов (енакиты"
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 3,
+    "text": "происходят от исполинов)."
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 4,
+    "text": "Рядом с ними мы"
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 5,
+    "text": "казались себе кузнечиками,"
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 6,
+    "text": "да и в их глазах"
+  },
+  {
+    "chapter": 13,
+    "verse": 34,
+    "book_name": "Numbers",
+    "book_id": "Num",
+    "part": 7,
+    "text": "были такими же."
+  }
+]

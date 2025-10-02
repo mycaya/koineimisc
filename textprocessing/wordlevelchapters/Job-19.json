@@ -1,0 +1,858 @@
+[
+  {
+    "chapter": 19,
+    "verse": 1,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Тогда Иов ответил:"
+  },
+  {
+    "chapter": 19,
+    "verse": 2,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "- Долго еще вам мучить меня"
+  },
+  {
+    "chapter": 19,
+    "verse": 2,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "и своими словами меня"
+  },
+  {
+    "chapter": 19,
+    "verse": 2,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "терзать?"
+  },
+  {
+    "chapter": 19,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Вот уже десять"
+  },
+  {
+    "chapter": 19,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "раз вы меня стыдили."
+  },
+  {
+    "chapter": 19,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "Вам не стыдно"
+  },
+  {
+    "chapter": 19,
+    "verse": 3,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "меня оскорблять?"
+  },
+  {
+    "chapter": 19,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Если я и впрямь согрешил,"
+  },
+  {
+    "chapter": 19,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "при мне мой"
+  },
+  {
+    "chapter": 19,
+    "verse": 4,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "грех и останется."
+  },
+  {
+    "chapter": 19,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "А если хотите"
+  },
+  {
+    "chapter": 19,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "передо мною кичиться,"
+  },
+  {
+    "chapter": 19,
+    "verse": 5,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "позором моим меня упрекать,"
+  },
+  {
+    "chapter": 19,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "то знайте:"
+  },
+  {
+    "chapter": 19,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "Бог причинил мне зло и"
+  },
+  {
+    "chapter": 19,
+    "verse": 6,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "сеть Свою на меня набросил."
+  },
+  {
+    "chapter": 19,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Я кричу:"
+  },
+  {
+    "chapter": 19,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "Обида!,"
+  },
+  {
+    "chapter": 19,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "но нет ответа;"
+  },
+  {
+    "chapter": 19,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "я зову на помощь,"
+  },
+  {
+    "chapter": 19,
+    "verse": 7,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "но нет суда."
+  },
+  {
+    "chapter": 19,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Он мой путь"
+  },
+  {
+    "chapter": 19,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "заградил не пройти;"
+  },
+  {
+    "chapter": 19,
+    "verse": 8,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "Он одел мои тропы мглой."
+  },
+  {
+    "chapter": 19,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Он совлек с меня мою славу,"
+  },
+  {
+    "chapter": 19,
+    "verse": 9,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "и с головы моей снял венец."
+  },
+  {
+    "chapter": 19,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Он сокрушил меня"
+  },
+  {
+    "chapter": 19,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "отовсюду я ухожу."
+  },
+  {
+    "chapter": 19,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "Он исторг надежду мою,"
+  },
+  {
+    "chapter": 19,
+    "verse": 10,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "как дерево."
+  },
+  {
+    "chapter": 19,
+    "verse": 11,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Воспылал на меня гнев Его."
+  },
+  {
+    "chapter": 19,
+    "verse": 11,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "Он считает меня врагом."
+  },
+  {
+    "chapter": 19,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Подступают"
+  },
+  {
+    "chapter": 19,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "вместе Его полки,"
+  },
+  {
+    "chapter": 19,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "вал осадный"
+  },
+  {
+    "chapter": 19,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "против меня возводят,"
+  },
+  {
+    "chapter": 19,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "стан разбивают"
+  },
+  {
+    "chapter": 19,
+    "verse": 12,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "вокруг моего шатра."
+  },
+  {
+    "chapter": 19,
+    "verse": 13,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Он удалил моих"
+  },
+  {
+    "chapter": 19,
+    "verse": 13,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "братьев от меня;"
+  },
+  {
+    "chapter": 19,
+    "verse": 13,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и близкие люди"
+  },
+  {
+    "chapter": 19,
+    "verse": 13,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "стали чужими."
+  },
+  {
+    "chapter": 19,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Отвернулись"
+  },
+  {
+    "chapter": 19,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "сородичи от меня,"
+  },
+  {
+    "chapter": 19,
+    "verse": 14,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и друзья обо мне забыли."
+  },
+  {
+    "chapter": 19,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Гости мои и мои"
+  },
+  {
+    "chapter": 19,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "служанки считают меня чужаком,"
+  },
+  {
+    "chapter": 19,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "глядят на меня,"
+  },
+  {
+    "chapter": 19,
+    "verse": 15,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "как на постороннего."
+  },
+  {
+    "chapter": 19,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Я зову слугу,"
+  },
+  {
+    "chapter": 19,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "а ответа нет;"
+  },
+  {
+    "chapter": 19,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "устами своими я"
+  },
+  {
+    "chapter": 19,
+    "verse": 16,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "умолять его должен."
+  },
+  {
+    "chapter": 19,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Опротивело моей"
+  },
+  {
+    "chapter": 19,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "жене мое дыхание,"
+  },
+  {
+    "chapter": 19,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "я стал"
+  },
+  {
+    "chapter": 19,
+    "verse": 17,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "отвратителен моим братьям."
+  },
+  {
+    "chapter": 19,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Даже малые дети"
+  },
+  {
+    "chapter": 19,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "меня презирают;"
+  },
+  {
+    "chapter": 19,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "поднимаюсь они"
+  },
+  {
+    "chapter": 19,
+    "verse": 18,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "надо мной смеются."
+  },
+  {
+    "chapter": 19,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Близкие друзья"
+  },
+  {
+    "chapter": 19,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "гнушаются мной;"
+  },
+  {
+    "chapter": 19,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "те,"
+  },
+  {
+    "chapter": 19,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "кого я любил,"
+  },
+  {
+    "chapter": 19,
+    "verse": 19,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "обратились против меня."
+  },
+  {
+    "chapter": 19,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "От меня остались"
+  },
+  {
+    "chapter": 19,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "лишь кожа да кости,"
+  },
+  {
+    "chapter": 19,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "я остался лишь с"
+  },
+  {
+    "chapter": 19,
+    "verse": 20,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "кожей возле зубов."
+  },
+  {
+    "chapter": 19,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Сжальтесь,"
+  },
+  {
+    "chapter": 19,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "сжальтесь,"
+  },
+  {
+    "chapter": 19,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "друзья мои,"
+  },
+  {
+    "chapter": 19,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "надо мной,"
+  },
+  {
+    "chapter": 19,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "ведь меня"
+  },
+  {
+    "chapter": 19,
+    "verse": 21,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "поразила рука Божья."
+  },
+  {
+    "chapter": 19,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Зачем вы преследуете меня,"
+  },
+  {
+    "chapter": 19,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "как Бог,"
+  },
+  {
+    "chapter": 19,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и не можете"
+  },
+  {
+    "chapter": 19,
+    "verse": 22,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "плотью моей насытиться?"
+  },
+  {
+    "chapter": 19,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "О если бы"
+  },
+  {
+    "chapter": 19,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "записаны были мои слова,"
+  },
+  {
+    "chapter": 19,
+    "verse": 23,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "были бы в свитке начертаны,"
+  },
+  {
+    "chapter": 19,
+    "verse": 24,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "железным грифелем со"
+  },
+  {
+    "chapter": 19,
+    "verse": 24,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "свинцом врезаны в камень навеки!"
+  },
+  {
+    "chapter": 19,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Я знаю:"
+  },
+  {
+    "chapter": 19,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "Искупитель мой жив,"
+  },
+  {
+    "chapter": 19,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "и в конце Он"
+  },
+  {
+    "chapter": 19,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "встанет над землей;"
+  },
+  {
+    "chapter": 19,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "и когда моя"
+  },
+  {
+    "chapter": 19,
+    "verse": 25,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 6,
+    "text": "кожа с меня спадет,"
+  },
+  {
+    "chapter": 19,
+    "verse": 26,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "тогда во плоти"
+  },
+  {
+    "chapter": 19,
+    "verse": 26,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "я увижу Бога;"
+  },
+  {
+    "chapter": 19,
+    "verse": 27,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "я сам увижу Его,"
+  },
+  {
+    "chapter": 19,
+    "verse": 27,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "и не буду Ему чужым,"
+  },
+  {
+    "chapter": 19,
+    "verse": 27,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "своими глазами увижу Его."
+  },
+  {
+    "chapter": 19,
+    "verse": 27,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "Как томится в"
+  },
+  {
+    "chapter": 19,
+    "verse": 27,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 5,
+    "text": "груди моей сердце!"
+  },
+  {
+    "chapter": 19,
+    "verse": 28,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "Если скажете:"
+  },
+  {
+    "chapter": 19,
+    "verse": 28,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "Как нам его преследовать,"
+  },
+  {
+    "chapter": 19,
+    "verse": 28,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "раз корень зла"
+  },
+  {
+    "chapter": 19,
+    "verse": 28,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "находится в нем? -"
+  },
+  {
+    "chapter": 19,
+    "verse": 29,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 1,
+    "text": "то бойтесь меча,"
+  },
+  {
+    "chapter": 19,
+    "verse": 29,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 2,
+    "text": "ведь гнев карает мечом,"
+  },
+  {
+    "chapter": 19,
+    "verse": 29,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 3,
+    "text": "чтобы вы познали,"
+  },
+  {
+    "chapter": 19,
+    "verse": 29,
+    "book_name": "Job",
+    "book_id": "Job",
+    "part": 4,
+    "text": "что есть суд."
+  }
+]

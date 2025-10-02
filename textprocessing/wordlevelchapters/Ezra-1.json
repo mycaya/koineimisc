@@ -1,0 +1,642 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "В первый год"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "правления Кира,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "царя Персии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "чтобы"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "исполнилось слово Господа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "сказанное через Иеремию,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "Господь побудил дух Кира,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 8,
+    "text": "царя Персии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 9,
+    "text": "и он велел объявить по"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 10,
+    "text": "всему своему царству"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 11,
+    "text": "и записать такой указ:"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Так говорит Кир,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "царь Персии:"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "Господь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "Бог небес,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "отдал мне все царства земли"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "и поручил мне построить Ему"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "храм в Иерусалиме,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 8,
+    "text": "в Иудее."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Всякий из вас,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "кто принадлежит Его народу,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "да будет с ним его Бог!"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "может отправляться в"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "Иерусалим,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "в Иудею,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "и строить храм Господа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 8,
+    "text": "Бога Израиля,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 9,
+    "text": "Бога,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 10,
+    "text": "Который в Иерусалиме."
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "И пусть жители тех мест,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "где сейчас живут"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "уцелевшие иудеи,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "снабдят их"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "серебром и золотом,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "имуществом и скотом"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "и добровольными"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 8,
+    "text": "пожертвованиями для Божьего"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 9,
+    "text": "храма в Иерусалиме."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "И главы семейств"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "из родов Иуды"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "и Вениамина со священниками"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "и левитами всякий,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "чей дух побудил Бог,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "стали собираться,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "чтобы пойти и отстроить"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 8,
+    "text": "дом Господа в Иерусалиме."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Все их соседи помогли"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "им серебряными"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "и золотыми вещами,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "имуществом и скотом,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "и дорогими дарами,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "не считая всех"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "добровольных пожертвований."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Сам царь Кир вынес"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "утварь храма Господа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "которую Навуходоносор"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "забрал из Иерусалима"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "и положил в храме своего"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "бога."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Кир,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "царь Персии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "вверил ее хранителю"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "сокровищницы Мифредату,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "который по счету"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "выдал их Шешбацару,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "вождю Иудеи."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Вот их опись:"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "золотых блюд30"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "серебряных блюд1000 ножей29"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "золотых чаш30 одинаковых"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "серебряных чаш410 других"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "предметов1000"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 1,
+    "text": "Всего золотых"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 2,
+    "text": "и серебряных предметов было"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 3,
+    "text": "пять тысяч четыреста."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 4,
+    "text": "Когда переселенцы"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 5,
+    "text": "отправлялись"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 6,
+    "text": "из Вавилона в Иерусалим,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 7,
+    "text": "Шешбацар взял"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Ezra",
+    "book_id": "Ezra",
+    "part": 8,
+    "text": "все это с собой."
+  }
+]

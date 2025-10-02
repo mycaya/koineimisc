@@ -1,0 +1,930 @@
+[
+  {
+    "chapter": 10,
+    "verse": 1,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Братья,"
+  },
+  {
+    "chapter": 10,
+    "verse": 1,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "желание моего сердца и"
+  },
+  {
+    "chapter": 10,
+    "verse": 1,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "моя молитва к Богу о том,"
+  },
+  {
+    "chapter": 10,
+    "verse": 1,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "чтобы Израиль был спасен."
+  },
+  {
+    "chapter": 10,
+    "verse": 2,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Я сам свидетель того,"
+  },
+  {
+    "chapter": 10,
+    "verse": 2,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "что они ревностно"
+  },
+  {
+    "chapter": 10,
+    "verse": 2,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "стремятся к Богу,"
+  },
+  {
+    "chapter": 10,
+    "verse": 2,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "но ревность их не"
+  },
+  {
+    "chapter": 10,
+    "verse": 2,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "основана на знании."
+  },
+  {
+    "chapter": 10,
+    "verse": 3,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Не понимая праведности,"
+  },
+  {
+    "chapter": 10,
+    "verse": 3,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "что дает Бог,"
+  },
+  {
+    "chapter": 10,
+    "verse": 3,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "и пытаясь"
+  },
+  {
+    "chapter": 10,
+    "verse": 3,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "установить свою собственную,"
+  },
+  {
+    "chapter": 10,
+    "verse": 3,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "они не приняли"
+  },
+  {
+    "chapter": 10,
+    "verse": 3,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "праведности Божьей."
+  },
+  {
+    "chapter": 10,
+    "verse": 4,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Христос конец Закона,"
+  },
+  {
+    "chapter": 10,
+    "verse": 4,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "и отныне каждый"
+  },
+  {
+    "chapter": 10,
+    "verse": 4,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "верующий получает праведность."
+  },
+  {
+    "chapter": 10,
+    "verse": 5,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Моисей так описывает"
+  },
+  {
+    "chapter": 10,
+    "verse": 5,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "праведность по Закону:"
+  },
+  {
+    "chapter": 10,
+    "verse": 5,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "Исполняющий их"
+  },
+  {
+    "chapter": 10,
+    "verse": 5,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "будет жив благодаря им."
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Праведность,"
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "которая дается по вере,"
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "говорит:"
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "Не спрашивай себя:"
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "кто же поднимется на небо?,"
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "чтобы привести"
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "оттуда Христа."
+  },
+  {
+    "chapter": 10,
+    "verse": 7,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Или:"
+  },
+  {
+    "chapter": 10,
+    "verse": 7,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "Кто же спустится в бездну?,"
+  },
+  {
+    "chapter": 10,
+    "verse": 7,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "чтобы воскресить"
+  },
+  {
+    "chapter": 10,
+    "verse": 7,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "Христа из мертвых."
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Но что она говорит?:"
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "Слово близко к тебе,"
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "оно в твоих"
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "устах и твоем сердце."
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "Это и есть то слово веры,"
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "которое мы возвещаем!"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Если ты"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "исповедуешь своим языком,"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "что Иисус есть Господь,"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "и если ты веришь сердцем,"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "что Бог"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "воскресил Его из мертвых,"
+  },
+  {
+    "chapter": 10,
+    "verse": 9,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "то будешь спасен."
+  },
+  {
+    "chapter": 10,
+    "verse": 10,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Потому что вера сердца"
+  },
+  {
+    "chapter": 10,
+    "verse": 10,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "дает человеку праведность,"
+  },
+  {
+    "chapter": 10,
+    "verse": 10,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "а исповедание уст"
+  },
+  {
+    "chapter": 10,
+    "verse": 10,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "приносит спасение."
+  },
+  {
+    "chapter": 10,
+    "verse": 11,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Писание говорит:"
+  },
+  {
+    "chapter": 10,
+    "verse": 11,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "Верующий в Него"
+  },
+  {
+    "chapter": 10,
+    "verse": 11,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "не будет постыжен."
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "В этом между иудеем"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "и язычником нет никакого"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "различия один"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "и тот же Господь является"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "Господом всех"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "и обильно благословляет"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "всех,"
+  },
+  {
+    "chapter": 10,
+    "verse": 12,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 8,
+    "text": "кто взывает к Нему."
+  },
+  {
+    "chapter": 10,
+    "verse": 13,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Ведь каждый,"
+  },
+  {
+    "chapter": 10,
+    "verse": 13,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "кто призовет Имя Господа,"
+  },
+  {
+    "chapter": 10,
+    "verse": 13,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "будет спасен."
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Но как им призывать Того,"
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "в Кого они не"
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "поверили? Как поверить в Того,"
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "о Ком не"
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "слышали? И как услышать,"
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "если никто им не"
+  },
+  {
+    "chapter": 10,
+    "verse": 14,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "будет возвещать?"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "И как кто-либо"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "может возвещать,"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "не будучи"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "посланным? Написано:"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "Как прекрасны ноги тех,"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "кто возвещает"
+  },
+  {
+    "chapter": 10,
+    "verse": 15,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "Радостную Весть!"
+  },
+  {
+    "chapter": 10,
+    "verse": 16,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Но не все израильтяне"
+  },
+  {
+    "chapter": 10,
+    "verse": 16,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "приняли Радостную Весть."
+  },
+  {
+    "chapter": 10,
+    "verse": 16,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "Исаия говорит:"
+  },
+  {
+    "chapter": 10,
+    "verse": 16,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 10,
+    "verse": 16,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "кто поверил"
+  },
+  {
+    "chapter": 10,
+    "verse": 16,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "слышанному от нас?"
+  },
+  {
+    "chapter": 10,
+    "verse": 17,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Итак,"
+  },
+  {
+    "chapter": 10,
+    "verse": 17,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "вера приходит от"
+  },
+  {
+    "chapter": 10,
+    "verse": 17,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "услышанного слова,"
+  },
+  {
+    "chapter": 10,
+    "verse": 17,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "слова о Христе."
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Но я хочу спросить,"
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "разве они не"
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "слышали? Конечно же слышали,"
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "ведь написано:"
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "Их голос"
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "проходит по всей земле,"
+  },
+  {
+    "chapter": 10,
+    "verse": 18,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "их слова до краев света."
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Тогда я спрашиваю:"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "может быть,"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "Израиль этого не понимал?"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "Но ведь еще Моисей говорил"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "словами Божьими:"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "Я пробужу в вас"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 7,
+    "text": "ревность через тех,"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 8,
+    "text": "кого и"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 9,
+    "text": "народом-то не назвать;"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 10,
+    "text": "Я разгневаю вас"
+  },
+  {
+    "chapter": 10,
+    "verse": 19,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 11,
+    "text": "глупым народом."
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "А Исаия смело"
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "говорит слова Божьи:"
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "Я найден теми,"
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "кто не искал Меня;"
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 5,
+    "text": "Я открылся тем,"
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 6,
+    "text": "кто не спрашивал Меня."
+  },
+  {
+    "chapter": 10,
+    "verse": 21,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 1,
+    "text": "Но об Израиле Бог говорит:"
+  },
+  {
+    "chapter": 10,
+    "verse": 21,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 2,
+    "text": "Весь день Я простирал руки"
+  },
+  {
+    "chapter": 10,
+    "verse": 21,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 3,
+    "text": "Мои к непокорному"
+  },
+  {
+    "chapter": 10,
+    "verse": 21,
+    "book_name": "Romans",
+    "book_id": "Rom",
+    "part": 4,
+    "text": "и своевольному народу."
+  }
+]

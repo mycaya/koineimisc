@@ -1,0 +1,2900 @@
+[
+    {
+        "text": "Пётр",
+        "start": 0.38,
+        "end": 0.86,
+        "confidence": 0.644
+    },
+    {
+        "text": "исцеляет",
+        "start": 0.86,
+        "end": 1.62,
+        "confidence": 0.902
+    },
+    {
+        "text": "нищего",
+        "start": 1.62,
+        "end": 2.14,
+        "confidence": 0.697
+    },
+    {
+        "text": "коллеку.",
+        "start": 2.14,
+        "end": 2.72,
+        "confidence": 0.722
+    },
+    {
+        "text": "Однажды",
+        "start": 4.12,
+        "end": 4.76,
+        "confidence": 0.924
+    },
+    {
+        "text": "в",
+        "start": 4.76,
+        "end": 4.84,
+        "confidence": 0.978
+    },
+    {
+        "text": "девятый",
+        "start": 4.84,
+        "end": 5.34,
+        "confidence": 0.641
+    },
+    {
+        "text": "час",
+        "start": 5.34,
+        "end": 5.64,
+        "confidence": 0.965
+    },
+    {
+        "text": "во",
+        "start": 5.64,
+        "end": 5.86,
+        "confidence": 0.722
+    },
+    {
+        "text": "время",
+        "start": 5.86,
+        "end": 6.1,
+        "confidence": 0.994
+    },
+    {
+        "text": "молитвы",
+        "start": 6.1,
+        "end": 6.96,
+        "confidence": 0.862
+    },
+    {
+        "text": "Пётр",
+        "start": 6.96,
+        "end": 7.58,
+        "confidence": 0.845
+    },
+    {
+        "text": "и",
+        "start": 7.58,
+        "end": 7.78,
+        "confidence": 0.586
+    },
+    {
+        "text": "Аншлифграмм.",
+        "start": 7.78,
+        "end": 9.22,
+        "confidence": 0.581
+    },
+    {
+        "text": "В",
+        "start": 9.4,
+        "end": 9.6,
+        "confidence": 0.877
+    },
+    {
+        "text": "это",
+        "start": 9.6,
+        "end": 9.76,
+        "confidence": 0.798
+    },
+    {
+        "text": "время",
+        "start": 9.76,
+        "end": 10.0,
+        "confidence": 1.0
+    },
+    {
+        "text": "туда",
+        "start": 10.0,
+        "end": 10.24,
+        "confidence": 0.988
+    },
+    {
+        "text": "принесли",
+        "start": 10.24,
+        "end": 10.74,
+        "confidence": 0.978
+    },
+    {
+        "text": "человеках",
+        "start": 10.74,
+        "end": 11.32,
+        "confidence": 0.322
+    },
+    {
+        "text": "храмово",
+        "start": 11.32,
+        "end": 11.82,
+        "confidence": 0.507
+    },
+    {
+        "text": "от",
+        "start": 11.82,
+        "end": 11.94,
+        "confidence": 0.434
+    },
+    {
+        "text": "рождения.",
+        "start": 11.94,
+        "end": 12.44,
+        "confidence": 0.533
+    },
+    {
+        "text": "Его",
+        "start": 13.22,
+        "end": 13.5,
+        "confidence": 0.98
+    },
+    {
+        "text": "каждый",
+        "start": 13.5,
+        "end": 13.82,
+        "confidence": 0.839
+    },
+    {
+        "text": "день",
+        "start": 13.82,
+        "end": 14.08,
+        "confidence": 1.0
+    },
+    {
+        "text": "оставляли",
+        "start": 14.08,
+        "end": 14.74,
+        "confidence": 0.898
+    },
+    {
+        "text": "у",
+        "start": 14.74,
+        "end": 14.88,
+        "confidence": 0.777
+    },
+    {
+        "text": "ворот,",
+        "start": 14.88,
+        "end": 15.18,
+        "confidence": 0.607
+    },
+    {
+        "text": "которые",
+        "start": 15.34,
+        "end": 15.6,
+        "confidence": 0.413
+    },
+    {
+        "text": "назывались",
+        "start": 15.6,
+        "end": 16.2,
+        "confidence": 0.941
+    },
+    {
+        "text": "прекрасными,",
+        "start": 16.2,
+        "end": 17.06,
+        "confidence": 0.829
+    },
+    {
+        "text": "и",
+        "start": 17.5,
+        "end": 17.72,
+        "confidence": 0.899
+    },
+    {
+        "text": "он",
+        "start": 17.72,
+        "end": 17.82,
+        "confidence": 0.93
+    },
+    {
+        "text": "просил",
+        "start": 17.82,
+        "end": 18.26,
+        "confidence": 0.986
+    },
+    {
+        "text": "милостаню",
+        "start": 18.26,
+        "end": 18.9,
+        "confidence": 0.529
+    },
+    {
+        "text": "у",
+        "start": 18.9,
+        "end": 19.04,
+        "confidence": 0.82
+    },
+    {
+        "text": "входящих",
+        "start": 19.04,
+        "end": 19.58,
+        "confidence": 0.983
+    },
+    {
+        "text": "храм.",
+        "start": 19.58,
+        "end": 20.04,
+        "confidence": 0.96
+    },
+    {
+        "text": "Увидев",
+        "start": 20.66,
+        "end": 21.12,
+        "confidence": 0.877
+    },
+    {
+        "text": "Петра",
+        "start": 21.12,
+        "end": 21.6,
+        "confidence": 0.752
+    },
+    {
+        "text": "и",
+        "start": 21.6,
+        "end": 21.88,
+        "confidence": 0.954
+    },
+    {
+        "text": "ИАна,",
+        "start": 21.88,
+        "end": 22.36,
+        "confidence": 0.538
+    },
+    {
+        "text": "который",
+        "start": 22.42,
+        "end": 22.72,
+        "confidence": 0.418
+    },
+    {
+        "text": "хотели",
+        "start": 22.72,
+        "end": 23.16,
+        "confidence": 0.925
+    },
+    {
+        "text": "войти",
+        "start": 23.16,
+        "end": 23.48,
+        "confidence": 0.751
+    },
+    {
+        "text": "в",
+        "start": 23.48,
+        "end": 23.62,
+        "confidence": 0.785
+    },
+    {
+        "text": "храм,",
+        "start": 23.62,
+        "end": 23.96,
+        "confidence": 0.984
+    },
+    {
+        "text": "он",
+        "start": 24.2,
+        "end": 24.4,
+        "confidence": 0.962
+    },
+    {
+        "text": "попросил",
+        "start": 24.4,
+        "end": 24.96,
+        "confidence": 0.974
+    },
+    {
+        "text": "и",
+        "start": 24.96,
+        "end": 25.06,
+        "confidence": 0.94
+    },
+    {
+        "text": "у",
+        "start": 25.06,
+        "end": 25.14,
+        "confidence": 0.993
+    },
+    {
+        "text": "них.",
+        "start": 25.14,
+        "end": 25.34,
+        "confidence": 0.993
+    },
+    {
+        "text": "Пётр",
+        "start": 26.12,
+        "end": 26.58,
+        "confidence": 0.85
+    },
+    {
+        "text": "и",
+        "start": 26.58,
+        "end": 26.84,
+        "confidence": 0.993
+    },
+    {
+        "text": "ИАн",
+        "start": 26.84,
+        "end": 27.2,
+        "confidence": 0.838
+    },
+    {
+        "text": "пристанем",
+        "start": 27.2,
+        "end": 27.74,
+        "confidence": 0.487
+    },
+    {
+        "text": "посмотреть",
+        "start": 27.74,
+        "end": 28.22,
+        "confidence": 0.53
+    },
+    {
+        "text": "на",
+        "start": 28.22,
+        "end": 28.48,
+        "confidence": 0.832
+    },
+    {
+        "text": "него,",
+        "start": 28.48,
+        "end": 28.76,
+        "confidence": 0.997
+    },
+    {
+        "text": "и",
+        "start": 29.12,
+        "end": 29.3,
+        "confidence": 0.844
+    },
+    {
+        "text": "Пётр",
+        "start": 29.3,
+        "end": 29.62,
+        "confidence": 0.971
+    },
+    {
+        "text": "сказал,",
+        "start": 29.62,
+        "end": 30.06,
+        "confidence": 0.888
+    },
+    {
+        "text": "взгляни",
+        "start": 30.76,
+        "end": 31.48,
+        "confidence": 0.619
+    },
+    {
+        "text": "на",
+        "start": 31.48,
+        "end": 31.64,
+        "confidence": 0.936
+    },
+    {
+        "text": "нас.",
+        "start": 31.64,
+        "end": 32.0,
+        "confidence": 0.985
+    },
+    {
+        "text": "Человек",
+        "start": 32.7,
+        "end": 33.22,
+        "confidence": 0.964
+    },
+    {
+        "text": "поднял",
+        "start": 33.22,
+        "end": 33.64,
+        "confidence": 0.806
+    },
+    {
+        "text": "глаза,",
+        "start": 33.64,
+        "end": 34.14,
+        "confidence": 0.932
+    },
+    {
+        "text": "ожидая",
+        "start": 34.44,
+        "end": 35.0,
+        "confidence": 0.565
+    },
+    {
+        "text": "получить",
+        "start": 35.0,
+        "end": 35.48,
+        "confidence": 0.885
+    },
+    {
+        "text": "от",
+        "start": 35.48,
+        "end": 35.74,
+        "confidence": 0.651
+    },
+    {
+        "text": "них,",
+        "start": 35.74,
+        "end": 35.9,
+        "confidence": 0.993
+    },
+    {
+        "text": "что-нибудь.",
+        "start": 36.04,
+        "end": 36.42,
+        "confidence": 0.716
+    },
+    {
+        "text": "Но",
+        "start": 37.1,
+        "end": 37.32,
+        "confidence": 0.925
+    },
+    {
+        "text": "Пётр",
+        "start": 37.32,
+        "end": 37.66,
+        "confidence": 0.996
+    },
+    {
+        "text": "сказал,",
+        "start": 37.66,
+        "end": 38.12,
+        "confidence": 0.988
+    },
+    {
+        "text": "серебра",
+        "start": 38.72,
+        "end": 39.24,
+        "confidence": 0.694
+    },
+    {
+        "text": "и",
+        "start": 39.24,
+        "end": 39.4,
+        "confidence": 0.457
+    },
+    {
+        "text": "золото",
+        "start": 39.4,
+        "end": 39.86,
+        "confidence": 0.917
+    },
+    {
+        "text": "у",
+        "start": 39.86,
+        "end": 40.0,
+        "confidence": 0.896
+    },
+    {
+        "text": "меня",
+        "start": 40.0,
+        "end": 40.2,
+        "confidence": 0.991
+    },
+    {
+        "text": "нет,",
+        "start": 40.2,
+        "end": 40.58,
+        "confidence": 0.992
+    },
+    {
+        "text": "но",
+        "start": 41.2,
+        "end": 41.48,
+        "confidence": 0.968
+    },
+    {
+        "text": "то,",
+        "start": 41.48,
+        "end": 41.7,
+        "confidence": 0.967
+    },
+    {
+        "text": "что",
+        "start": 41.92,
+        "end": 41.98,
+        "confidence": 0.997
+    },
+    {
+        "text": "есть",
+        "start": 41.98,
+        "end": 42.42,
+        "confidence": 0.982
+    },
+    {
+        "text": "я",
+        "start": 42.42,
+        "end": 42.8,
+        "confidence": 0.697
+    },
+    {
+        "text": "даю",
+        "start": 42.8,
+        "end": 43.18,
+        "confidence": 0.65
+    },
+    {
+        "text": "тебя.",
+        "start": 43.18,
+        "end": 43.54,
+        "confidence": 0.597
+    },
+    {
+        "text": "В",
+        "start": 44.14,
+        "end": 44.44,
+        "confidence": 0.809
+    },
+    {
+        "text": "айми",
+        "start": 44.44,
+        "end": 44.78,
+        "confidence": 0.374
+    },
+    {
+        "text": "и",
+        "start": 44.78,
+        "end": 45.08,
+        "confidence": 0.635
+    },
+    {
+        "text": "сусох",
+        "start": 45.08,
+        "end": 45.56,
+        "confidence": 0.532
+    },
+    {
+        "text": "реста",
+        "start": 45.56,
+        "end": 46.08,
+        "confidence": 0.512
+    },
+    {
+        "text": "изназорета",
+        "start": 46.08,
+        "end": 47.08,
+        "confidence": 0.569
+    },
+    {
+        "text": "встань",
+        "start": 47.08,
+        "end": 48.18,
+        "confidence": 0.741
+    },
+    {
+        "text": "и",
+        "start": 48.18,
+        "end": 48.38,
+        "confidence": 0.654
+    },
+    {
+        "text": "ходи.",
+        "start": 48.38,
+        "end": 49.04,
+        "confidence": 0.886
+    },
+    {
+        "text": "Он",
+        "start": 49.2,
+        "end": 49.54,
+        "confidence": 0.996
+    },
+    {
+        "text": "взял",
+        "start": 49.54,
+        "end": 49.84,
+        "confidence": 0.887
+    },
+    {
+        "text": "его",
+        "start": 49.84,
+        "end": 50.08,
+        "confidence": 0.986
+    },
+    {
+        "text": "заправую",
+        "start": 50.08,
+        "end": 50.64,
+        "confidence": 0.765
+    },
+    {
+        "text": "руку,",
+        "start": 50.64,
+        "end": 51.36,
+        "confidence": 0.983
+    },
+    {
+        "text": "помог",
+        "start": 51.4,
+        "end": 51.88,
+        "confidence": 0.536
+    },
+    {
+        "text": "подняться,",
+        "start": 51.88,
+        "end": 52.8,
+        "confidence": 0.979
+    },
+    {
+        "text": "и",
+        "start": 53.18,
+        "end": 53.46,
+        "confidence": 0.988
+    },
+    {
+        "text": "в",
+        "start": 53.46,
+        "end": 53.56,
+        "confidence": 0.878
+    },
+    {
+        "text": "тот",
+        "start": 53.56,
+        "end": 53.78,
+        "confidence": 0.988
+    },
+    {
+        "text": "же",
+        "start": 53.78,
+        "end": 54.0,
+        "confidence": 0.793
+    },
+    {
+        "text": "микс",
+        "start": 54.0,
+        "end": 54.32,
+        "confidence": 0.53
+    },
+    {
+        "text": "тупней",
+        "start": 54.32,
+        "end": 54.84,
+        "confidence": 0.481
+    },
+    {
+        "text": "ладышки",
+        "start": 54.84,
+        "end": 55.42,
+        "confidence": 0.816
+    },
+    {
+        "text": "коллеки",
+        "start": 55.42,
+        "end": 56.02,
+        "confidence": 0.776
+    },
+    {
+        "text": "окрепли.",
+        "start": 56.02,
+        "end": 56.64,
+        "confidence": 0.85
+    },
+    {
+        "text": "Он",
+        "start": 57.26,
+        "end": 57.52,
+        "confidence": 0.993
+    },
+    {
+        "text": "скачил",
+        "start": 57.52,
+        "end": 58.04,
+        "confidence": 0.715
+    },
+    {
+        "text": "на",
+        "start": 58.04,
+        "end": 58.22,
+        "confidence": 0.922
+    },
+    {
+        "text": "ноги",
+        "start": 58.22,
+        "end": 58.54,
+        "confidence": 0.945
+    },
+    {
+        "text": "и",
+        "start": 58.54,
+        "end": 58.62,
+        "confidence": 0.983
+    },
+    {
+        "text": "начал",
+        "start": 58.62,
+        "end": 58.92,
+        "confidence": 0.927
+    },
+    {
+        "text": "ходить.",
+        "start": 58.92,
+        "end": 59.42,
+        "confidence": 0.988
+    },
+    {
+        "text": "Он",
+        "start": 60.08,
+        "end": 60.3,
+        "confidence": 0.997
+    },
+    {
+        "text": "вошел",
+        "start": 60.3,
+        "end": 60.66,
+        "confidence": 0.735
+    },
+    {
+        "text": "с",
+        "start": 60.66,
+        "end": 60.78,
+        "confidence": 0.967
+    },
+    {
+        "text": "ними",
+        "start": 60.78,
+        "end": 60.94,
+        "confidence": 0.863
+    },
+    {
+        "text": "в",
+        "start": 60.94,
+        "end": 61.16,
+        "confidence": 0.976
+    },
+    {
+        "text": "храм,",
+        "start": 61.16,
+        "end": 61.48,
+        "confidence": 0.985
+    },
+    {
+        "text": "ходил,",
+        "start": 61.9,
+        "end": 62.46,
+        "confidence": 0.98
+    },
+    {
+        "text": "прыгал",
+        "start": 62.74,
+        "end": 63.2,
+        "confidence": 0.959
+    },
+    {
+        "text": "и",
+        "start": 63.2,
+        "end": 63.48,
+        "confidence": 0.867
+    },
+    {
+        "text": "прославлял",
+        "start": 63.48,
+        "end": 64.18,
+        "confidence": 0.966
+    },
+    {
+        "text": "бога.",
+        "start": 64.18,
+        "end": 64.64,
+        "confidence": 0.749
+    },
+    {
+        "text": "И",
+        "start": 65.2,
+        "end": 65.46,
+        "confidence": 0.988
+    },
+    {
+        "text": "все",
+        "start": 65.46,
+        "end": 65.64,
+        "confidence": 0.653
+    },
+    {
+        "text": "люди",
+        "start": 65.64,
+        "end": 65.96,
+        "confidence": 0.973
+    },
+    {
+        "text": "видели",
+        "start": 65.96,
+        "end": 66.32,
+        "confidence": 0.892
+    },
+    {
+        "text": "его",
+        "start": 66.32,
+        "end": 66.58,
+        "confidence": 0.919
+    },
+    {
+        "text": "ходящим",
+        "start": 66.58,
+        "end": 67.34,
+        "confidence": 0.726
+    },
+    {
+        "text": "и",
+        "start": 67.34,
+        "end": 67.68,
+        "confidence": 0.525
+    },
+    {
+        "text": "восхваляющим",
+        "start": 67.68,
+        "end": 68.66,
+        "confidence": 0.815
+    },
+    {
+        "text": "бога,",
+        "start": 68.66,
+        "end": 69.16,
+        "confidence": 0.901
+    },
+    {
+        "text": "они",
+        "start": 69.36,
+        "end": 69.66,
+        "confidence": 0.755
+    },
+    {
+        "text": "узнавали",
+        "start": 69.66,
+        "end": 70.34,
+        "confidence": 0.954
+    },
+    {
+        "text": "в",
+        "start": 70.34,
+        "end": 70.44,
+        "confidence": 0.927
+    },
+    {
+        "text": "нем",
+        "start": 70.44,
+        "end": 70.66,
+        "confidence": 0.789
+    },
+    {
+        "text": "того",
+        "start": 70.66,
+        "end": 70.98,
+        "confidence": 0.987
+    },
+    {
+        "text": "человека,",
+        "start": 70.98,
+        "end": 71.48,
+        "confidence": 0.988
+    },
+    {
+        "text": "который",
+        "start": 71.5,
+        "end": 71.96,
+        "confidence": 0.684
+    },
+    {
+        "text": "сидел",
+        "start": 71.96,
+        "end": 72.46,
+        "confidence": 0.939
+    },
+    {
+        "text": "и",
+        "start": 72.46,
+        "end": 72.68,
+        "confidence": 0.634
+    },
+    {
+        "text": "просил",
+        "start": 72.68,
+        "end": 73.16,
+        "confidence": 0.807
+    },
+    {
+        "text": "милостаню",
+        "start": 73.16,
+        "end": 73.86,
+        "confidence": 0.795
+    },
+    {
+        "text": "у",
+        "start": 73.86,
+        "end": 74.08,
+        "confidence": 0.838
+    },
+    {
+        "text": "прекрасных",
+        "start": 74.08,
+        "end": 74.58,
+        "confidence": 0.986
+    },
+    {
+        "text": "ворот",
+        "start": 74.58,
+        "end": 74.92,
+        "confidence": 0.945
+    },
+    {
+        "text": "храма,",
+        "start": 74.92,
+        "end": 75.78,
+        "confidence": 0.968
+    },
+    {
+        "text": "и",
+        "start": 75.88,
+        "end": 76.16,
+        "confidence": 0.958
+    },
+    {
+        "text": "удивлялись",
+        "start": 76.16,
+        "end": 77.04,
+        "confidence": 0.776
+    },
+    {
+        "text": "тому,",
+        "start": 77.04,
+        "end": 77.48,
+        "confidence": 0.389
+    },
+    {
+        "text": "что",
+        "start": 77.64,
+        "end": 77.84,
+        "confidence": 0.896
+    },
+    {
+        "text": "с",
+        "start": 77.84,
+        "end": 78.04,
+        "confidence": 0.951
+    },
+    {
+        "text": "ним",
+        "start": 78.04,
+        "end": 78.18,
+        "confidence": 0.993
+    },
+    {
+        "text": "произошло.",
+        "start": 78.18,
+        "end": 78.94,
+        "confidence": 0.902
+    },
+    {
+        "text": "Речь",
+        "start": 81.2,
+        "end": 81.58,
+        "confidence": 0.905
+    },
+    {
+        "text": "Петра",
+        "start": 81.58,
+        "end": 82.02,
+        "confidence": 0.877
+    },
+    {
+        "text": "в",
+        "start": 82.02,
+        "end": 82.14,
+        "confidence": 0.959
+    },
+    {
+        "text": "колонаде",
+        "start": 82.14,
+        "end": 82.66,
+        "confidence": 0.857
+    },
+    {
+        "text": "Саламоны.",
+        "start": 82.66,
+        "end": 83.42,
+        "confidence": 0.511
+    },
+    {
+        "text": "Нищи",
+        "start": 84.46,
+        "end": 84.98,
+        "confidence": 0.711
+    },
+    {
+        "text": "держался",
+        "start": 84.98,
+        "end": 85.48,
+        "confidence": 0.816
+    },
+    {
+        "text": "за",
+        "start": 85.48,
+        "end": 85.7,
+        "confidence": 0.51
+    },
+    {
+        "text": "Петра",
+        "start": 85.7,
+        "end": 86.1,
+        "confidence": 0.968
+    },
+    {
+        "text": "и",
+        "start": 86.1,
+        "end": 86.4,
+        "confidence": 0.724
+    },
+    {
+        "text": "Ианна,",
+        "start": 86.4,
+        "end": 87.1,
+        "confidence": 0.521
+    },
+    {
+        "text": "вес",
+        "start": 87.26,
+        "end": 87.52,
+        "confidence": 0.326
+    },
+    {
+        "text": "народ",
+        "start": 87.52,
+        "end": 87.82,
+        "confidence": 0.782
+    },
+    {
+        "text": "вызумлений",
+        "start": 87.82,
+        "end": 88.58,
+        "confidence": 0.68
+    },
+    {
+        "text": "окружил",
+        "start": 88.68,
+        "end": 89.4,
+        "confidence": 0.974
+    },
+    {
+        "text": "их",
+        "start": 89.4,
+        "end": 89.68,
+        "confidence": 0.983
+    },
+    {
+        "text": "в",
+        "start": 89.68,
+        "end": 89.8,
+        "confidence": 0.955
+    },
+    {
+        "text": "той",
+        "start": 89.8,
+        "end": 89.92,
+        "confidence": 0.985
+    },
+    {
+        "text": "части",
+        "start": 89.92,
+        "end": 90.32,
+        "confidence": 0.871
+    },
+    {
+        "text": "храма,",
+        "start": 90.32,
+        "end": 91.22,
+        "confidence": 0.982
+    },
+    {
+        "text": "которая",
+        "start": 91.52,
+        "end": 91.82,
+        "confidence": 0.382
+    },
+    {
+        "text": "называлась",
+        "start": 91.82,
+        "end": 92.42,
+        "confidence": 0.861
+    },
+    {
+        "text": "колонадой",
+        "start": 92.42,
+        "end": 93.1,
+        "confidence": 0.834
+    },
+    {
+        "text": "Саламона.",
+        "start": 93.1,
+        "end": 93.68,
+        "confidence": 0.794
+    },
+    {
+        "text": "Увидев",
+        "start": 94.4,
+        "end": 94.92,
+        "confidence": 0.906
+    },
+    {
+        "text": "это",
+        "start": 94.92,
+        "end": 95.22,
+        "confidence": 0.388
+    },
+    {
+        "text": "Пётр",
+        "start": 95.22,
+        "end": 95.64,
+        "confidence": 0.934
+    },
+    {
+        "text": "обратился",
+        "start": 95.64,
+        "end": 96.12,
+        "confidence": 0.769
+    },
+    {
+        "text": "к",
+        "start": 96.12,
+        "end": 96.3,
+        "confidence": 0.986
+    },
+    {
+        "text": "народу.",
+        "start": 96.3,
+        "end": 97.02,
+        "confidence": 0.976
+    },
+    {
+        "text": "Израя",
+        "start": 97.24,
+        "end": 97.7,
+        "confidence": 0.584
+    },
+    {
+        "text": "Литяне,",
+        "start": 97.7,
+        "end": 98.54,
+        "confidence": 0.644
+    },
+    {
+        "text": "почему",
+        "start": 98.78,
+        "end": 99.06,
+        "confidence": 0.905
+    },
+    {
+        "text": "вас",
+        "start": 99.06,
+        "end": 99.38,
+        "confidence": 0.764
+    },
+    {
+        "text": "это",
+        "start": 99.38,
+        "end": 99.56,
+        "confidence": 0.523
+    },
+    {
+        "text": "так",
+        "start": 99.56,
+        "end": 99.76,
+        "confidence": 0.855
+    },
+    {
+        "text": "удивляет?",
+        "start": 99.76,
+        "end": 100.56,
+        "confidence": 0.937
+    },
+    {
+        "text": "Почему",
+        "start": 100.84,
+        "end": 101.18,
+        "confidence": 0.987
+    },
+    {
+        "text": "вы",
+        "start": 101.18,
+        "end": 101.4,
+        "confidence": 0.946
+    },
+    {
+        "text": "смотрите",
+        "start": 101.4,
+        "end": 101.8,
+        "confidence": 0.928
+    },
+    {
+        "text": "на",
+        "start": 101.8,
+        "end": 102.02,
+        "confidence": 0.939
+    },
+    {
+        "text": "нас",
+        "start": 102.02,
+        "end": 102.5,
+        "confidence": 0.995
+    },
+    {
+        "text": "так",
+        "start": 102.5,
+        "end": 102.96,
+        "confidence": 0.518
+    },
+    {
+        "text": "будто",
+        "start": 102.96,
+        "end": 103.4,
+        "confidence": 0.745
+    },
+    {
+        "text": "это",
+        "start": 103.4,
+        "end": 103.78,
+        "confidence": 0.96
+    },
+    {
+        "text": "мы",
+        "start": 103.78,
+        "end": 104.0,
+        "confidence": 0.954
+    },
+    {
+        "text": "с",
+        "start": 104.0,
+        "end": 104.12,
+        "confidence": 0.277
+    },
+    {
+        "text": "своими",
+        "start": 104.12,
+        "end": 104.4,
+        "confidence": 0.49
+    },
+    {
+        "text": "силами,",
+        "start": 104.4,
+        "end": 105.0,
+        "confidence": 0.904
+    },
+    {
+        "text": "либо",
+        "start": 105.1,
+        "end": 105.4,
+        "confidence": 0.267
+    },
+    {
+        "text": "гочистим",
+        "start": 105.4,
+        "end": 106.2,
+        "confidence": 0.327
+    },
+    {
+        "text": "сделали,",
+        "start": 106.2,
+        "end": 106.68,
+        "confidence": 0.586
+    },
+    {
+        "text": "что",
+        "start": 106.98,
+        "end": 107.14,
+        "confidence": 0.997
+    },
+    {
+        "text": "это",
+        "start": 107.14,
+        "end": 107.4,
+        "confidence": 0.615
+    },
+    {
+        "text": "человек",
+        "start": 107.4,
+        "end": 107.8,
+        "confidence": 0.8
+    },
+    {
+        "text": "ходит?",
+        "start": 107.8,
+        "end": 108.8,
+        "confidence": 0.906
+    },
+    {
+        "text": "Бога",
+        "start": 109.02,
+        "end": 109.44,
+        "confidence": 0.431
+    },
+    {
+        "text": "в",
+        "start": 109.44,
+        "end": 109.6,
+        "confidence": 0.729
+    },
+    {
+        "text": "раме",
+        "start": 109.6,
+        "end": 110.2,
+        "confidence": 0.449
+    },
+    {
+        "text": "и",
+        "start": 110.2,
+        "end": 110.36,
+        "confidence": 0.674
+    },
+    {
+        "text": "сяка",
+        "start": 110.36,
+        "end": 110.84,
+        "confidence": 0.549
+    },
+    {
+        "text": "и",
+        "start": 110.84,
+        "end": 111.04,
+        "confidence": 0.992
+    },
+    {
+        "text": "иакова.",
+        "start": 111.04,
+        "end": 111.58,
+        "confidence": 0.581
+    },
+    {
+        "text": "Бог",
+        "start": 112.14,
+        "end": 112.54,
+        "confidence": 0.421
+    },
+    {
+        "text": "наших",
+        "start": 112.54,
+        "end": 112.94,
+        "confidence": 0.88
+    },
+    {
+        "text": "отцов",
+        "start": 112.94,
+        "end": 113.84,
+        "confidence": 0.882
+    },
+    {
+        "text": "прославил",
+        "start": 113.84,
+        "end": 114.7,
+        "confidence": 0.951
+    },
+    {
+        "text": "своего",
+        "start": 114.7,
+        "end": 115.08,
+        "confidence": 0.949
+    },
+    {
+        "text": "слугу",
+        "start": 115.08,
+        "end": 115.78,
+        "confidence": 0.584
+    },
+    {
+        "text": "иисуса,",
+        "start": 115.78,
+        "end": 116.52,
+        "confidence": 0.527
+    },
+    {
+        "text": "которого",
+        "start": 117.24,
+        "end": 117.68,
+        "confidence": 0.83
+    },
+    {
+        "text": "вы",
+        "start": 117.68,
+        "end": 117.87,
+        "confidence": 0.637
+    },
+    {
+        "text": "предали",
+        "start": 117.87,
+        "end": 118.66,
+        "confidence": 0.589
+    },
+    {
+        "text": "и",
+        "start": 118.66,
+        "end": 119.0,
+        "confidence": 0.743
+    },
+    {
+        "text": "от",
+        "start": 119.0,
+        "end": 119.16,
+        "confidence": 0.859
+    },
+    {
+        "text": "которого",
+        "start": 119.16,
+        "end": 119.5,
+        "confidence": 0.996
+    },
+    {
+        "text": "отреклись",
+        "start": 119.5,
+        "end": 120.24,
+        "confidence": 0.454
+    },
+    {
+        "text": "перед",
+        "start": 120.24,
+        "end": 120.48,
+        "confidence": 0.973
+    },
+    {
+        "text": "пилатом,",
+        "start": 120.48,
+        "end": 121.4,
+        "confidence": 0.905
+    },
+    {
+        "text": "хотя",
+        "start": 121.62,
+        "end": 121.82,
+        "confidence": 0.921
+    },
+    {
+        "text": "тот",
+        "start": 121.82,
+        "end": 122.16,
+        "confidence": 0.919
+    },
+    {
+        "text": "хотел",
+        "start": 122.16,
+        "end": 122.58,
+        "confidence": 0.831
+    },
+    {
+        "text": "освободить",
+        "start": 122.66,
+        "end": 123.44,
+        "confidence": 0.976
+    },
+    {
+        "text": "его.",
+        "start": 123.44,
+        "end": 123.7,
+        "confidence": 0.986
+    },
+    {
+        "text": "Новая",
+        "start": 124.36,
+        "end": 124.8,
+        "confidence": 0.696
+    },
+    {
+        "text": "отреклись",
+        "start": 124.8,
+        "end": 125.48,
+        "confidence": 0.88
+    },
+    {
+        "text": "от",
+        "start": 125.48,
+        "end": 125.62,
+        "confidence": 0.914
+    },
+    {
+        "text": "святого",
+        "start": 125.62,
+        "end": 126.14,
+        "confidence": 0.724
+    },
+    {
+        "text": "и",
+        "start": 126.14,
+        "end": 126.34,
+        "confidence": 0.975
+    },
+    {
+        "text": "праведного,",
+        "start": 126.34,
+        "end": 127.02,
+        "confidence": 0.754
+    },
+    {
+        "text": "и",
+        "start": 127.42,
+        "end": 127.6,
+        "confidence": 0.991
+    },
+    {
+        "text": "вы",
+        "start": 127.6,
+        "end": 127.74,
+        "confidence": 0.877
+    },
+    {
+        "text": "просили,",
+        "start": 127.74,
+        "end": 128.08,
+        "confidence": 0.908
+    },
+    {
+        "text": "что",
+        "start": 128.08,
+        "end": 128.36,
+        "confidence": 0.653
+    },
+    {
+        "text": "бы",
+        "start": 128.36,
+        "end": 128.5,
+        "confidence": 0.665
+    },
+    {
+        "text": "вам",
+        "start": 128.5,
+        "end": 128.68,
+        "confidence": 0.984
+    },
+    {
+        "text": "освободили",
+        "start": 128.68,
+        "end": 129.64,
+        "confidence": 0.997
+    },
+    {
+        "text": "убийцу.",
+        "start": 129.64,
+        "end": 130.4,
+        "confidence": 0.904
+    },
+    {
+        "text": "Вы",
+        "start": 131.02,
+        "end": 131.32,
+        "confidence": 0.953
+    },
+    {
+        "text": "убили",
+        "start": 131.32,
+        "end": 131.8,
+        "confidence": 0.949
+    },
+    {
+        "text": "начальника",
+        "start": 131.8,
+        "end": 132.6,
+        "confidence": 0.974
+    },
+    {
+        "text": "жизни,",
+        "start": 132.6,
+        "end": 133.12,
+        "confidence": 0.854
+    },
+    {
+        "text": "но",
+        "start": 133.72,
+        "end": 133.92,
+        "confidence": 0.986
+    },
+    {
+        "text": "Бог",
+        "start": 133.92,
+        "end": 134.18,
+        "confidence": 0.928
+    },
+    {
+        "text": "воскресил",
+        "start": 134.18,
+        "end": 134.88,
+        "confidence": 0.909
+    },
+    {
+        "text": "его",
+        "start": 134.88,
+        "end": 135.16,
+        "confidence": 0.979
+    },
+    {
+        "text": "из",
+        "start": 135.16,
+        "end": 135.46,
+        "confidence": 0.971
+    },
+    {
+        "text": "мёртвых,",
+        "start": 135.46,
+        "end": 136.22,
+        "confidence": 0.733
+    },
+    {
+        "text": "и",
+        "start": 136.36,
+        "end": 136.64,
+        "confidence": 0.85
+    },
+    {
+        "text": "мы",
+        "start": 136.64,
+        "end": 136.92,
+        "confidence": 0.994
+    },
+    {
+        "text": "этому",
+        "start": 136.92,
+        "end": 137.32,
+        "confidence": 0.911
+    },
+    {
+        "text": "свидетели.",
+        "start": 137.32,
+        "end": 138.12,
+        "confidence": 0.64
+    },
+    {
+        "text": "И",
+        "start": 138.86,
+        "end": 139.16,
+        "confidence": 0.925
+    },
+    {
+        "text": "имя",
+        "start": 139.16,
+        "end": 139.4,
+        "confidence": 0.543
+    },
+    {
+        "text": "его",
+        "start": 139.4,
+        "end": 139.6,
+        "confidence": 0.989
+    },
+    {
+        "text": "укрепила",
+        "start": 139.6,
+        "end": 140.42,
+        "confidence": 0.881
+    },
+    {
+        "text": "этого",
+        "start": 140.42,
+        "end": 140.8,
+        "confidence": 0.997
+    },
+    {
+        "text": "человека,",
+        "start": 140.8,
+        "end": 141.46,
+        "confidence": 0.971
+    },
+    {
+        "text": "которого",
+        "start": 141.94,
+        "end": 142.56,
+        "confidence": 0.938
+    },
+    {
+        "text": "вы",
+        "start": 142.56,
+        "end": 142.96,
+        "confidence": 0.936
+    },
+    {
+        "text": "видите",
+        "start": 142.96,
+        "end": 143.36,
+        "confidence": 0.815
+    },
+    {
+        "text": "изнаете,",
+        "start": 143.48,
+        "end": 144.36,
+        "confidence": 0.568
+    },
+    {
+        "text": "и",
+        "start": 145.0,
+        "end": 145.16,
+        "confidence": 0.914
+    },
+    {
+        "text": "вера,",
+        "start": 145.16,
+        "end": 145.44,
+        "confidence": 0.564
+    },
+    {
+        "text": "которая",
+        "start": 145.66,
+        "end": 145.92,
+        "confidence": 0.505
+    },
+    {
+        "text": "от",
+        "start": 145.92,
+        "end": 146.22,
+        "confidence": 0.996
+    },
+    {
+        "text": "него",
+        "start": 146.22,
+        "end": 146.56,
+        "confidence": 0.979
+    },
+    {
+        "text": "и",
+        "start": 146.56,
+        "end": 147.04,
+        "confidence": 0.391
+    },
+    {
+        "text": "сцелила",
+        "start": 147.04,
+        "end": 147.64,
+        "confidence": 0.681
+    },
+    {
+        "text": "его",
+        "start": 147.64,
+        "end": 148.0,
+        "confidence": 0.971
+    },
+    {
+        "text": "у",
+        "start": 148.0,
+        "end": 148.22,
+        "confidence": 0.911
+    },
+    {
+        "text": "вас",
+        "start": 148.22,
+        "end": 148.48,
+        "confidence": 0.925
+    },
+    {
+        "text": "на",
+        "start": 148.48,
+        "end": 148.62,
+        "confidence": 0.604
+    },
+    {
+        "text": "глазах.",
+        "start": 148.62,
+        "end": 149.16,
+        "confidence": 0.738
+    },
+    {
+        "text": "Братия,",
+        "start": 149.7,
+        "end": 150.52,
+        "confidence": 0.675
+    },
+    {
+        "text": "я",
+        "start": 150.54,
+        "end": 150.76,
+        "confidence": 0.993
+    },
+    {
+        "text": "понимаю,",
+        "start": 150.76,
+        "end": 151.22,
+        "confidence": 0.928
+    },
+    {
+        "text": "что",
+        "start": 151.52,
+        "end": 151.6,
+        "confidence": 0.996
+    },
+    {
+        "text": "вы",
+        "start": 151.6,
+        "end": 151.82,
+        "confidence": 0.945
+    },
+    {
+        "text": "и",
+        "start": 151.82,
+        "end": 151.9,
+        "confidence": 0.968
+    },
+    {
+        "text": "ваши",
+        "start": 151.9,
+        "end": 152.2,
+        "confidence": 0.547
+    },
+    {
+        "text": "начальники",
+        "start": 152.2,
+        "end": 153.14,
+        "confidence": 0.989
+    },
+    {
+        "text": "поступили",
+        "start": 153.14,
+        "end": 153.92,
+        "confidence": 0.937
+    },
+    {
+        "text": "по",
+        "start": 153.92,
+        "end": 154.08,
+        "confidence": 0.73
+    },
+    {
+        "text": "не",
+        "start": 154.08,
+        "end": 154.22,
+        "confidence": 0.517
+    },
+    {
+        "text": "знанию.",
+        "start": 154.22,
+        "end": 154.78,
+        "confidence": 0.767
+    },
+    {
+        "text": "Но",
+        "start": 155.66,
+        "end": 155.88,
+        "confidence": 0.956
+    },
+    {
+        "text": "именно",
+        "start": 155.88,
+        "end": 156.24,
+        "confidence": 0.986
+    },
+    {
+        "text": "так",
+        "start": 156.24,
+        "end": 156.6,
+        "confidence": 0.994
+    },
+    {
+        "text": "Бог",
+        "start": 156.6,
+        "end": 156.82,
+        "confidence": 0.767
+    },
+    {
+        "text": "исполнил",
+        "start": 156.82,
+        "end": 157.46,
+        "confidence": 0.848
+    },
+    {
+        "text": "то,",
+        "start": 157.46,
+        "end": 157.82,
+        "confidence": 0.949
+    },
+    {
+        "text": "что",
+        "start": 158.12,
+        "end": 158.28,
+        "confidence": 0.993
+    },
+    {
+        "text": "он",
+        "start": 158.28,
+        "end": 158.48,
+        "confidence": 0.916
+    },
+    {
+        "text": "предсказывал",
+        "start": 158.48,
+        "end": 159.18,
+        "confidence": 0.958
+    },
+    {
+        "text": "через",
+        "start": 159.18,
+        "end": 159.4,
+        "confidence": 0.868
+    },
+    {
+        "text": "всех",
+        "start": 159.4,
+        "end": 159.8,
+        "confidence": 0.975
+    },
+    {
+        "text": "пророков,",
+        "start": 159.8,
+        "end": 160.7,
+        "confidence": 0.89
+    },
+    {
+        "text": "когда",
+        "start": 160.78,
+        "end": 161.1,
+        "confidence": 0.993
+    },
+    {
+        "text": "говорил,",
+        "start": 161.1,
+        "end": 161.46,
+        "confidence": 0.688
+    },
+    {
+        "text": "что",
+        "start": 161.52,
+        "end": 161.74,
+        "confidence": 0.995
+    },
+    {
+        "text": "Христоу",
+        "start": 161.74,
+        "end": 162.3,
+        "confidence": 0.517
+    },
+    {
+        "text": "предстоят",
+        "start": 162.3,
+        "end": 162.82,
+        "confidence": 0.809
+    },
+    {
+        "text": "страдание.",
+        "start": 162.82,
+        "end": 163.4,
+        "confidence": 0.706
+    },
+    {
+        "text": "Итак,",
+        "start": 164.34,
+        "end": 164.72,
+        "confidence": 0.91
+    },
+    {
+        "text": "пока",
+        "start": 164.84,
+        "end": 165.2,
+        "confidence": 0.794
+    },
+    {
+        "text": "итесь",
+        "start": 165.2,
+        "end": 165.62,
+        "confidence": 0.514
+    },
+    {
+        "text": "и",
+        "start": 165.62,
+        "end": 165.76,
+        "confidence": 0.879
+    },
+    {
+        "text": "обратитесь",
+        "start": 165.76,
+        "end": 166.28,
+        "confidence": 0.899
+    },
+    {
+        "text": "к",
+        "start": 166.28,
+        "end": 166.48,
+        "confidence": 0.818
+    },
+    {
+        "text": "Богу,",
+        "start": 166.48,
+        "end": 167.06,
+        "confidence": 0.961
+    },
+    {
+        "text": "чтобы",
+        "start": 167.36,
+        "end": 167.58,
+        "confidence": 0.893
+    },
+    {
+        "text": "ваша",
+        "start": 167.58,
+        "end": 167.9,
+        "confidence": 0.468
+    },
+    {
+        "text": "грехи",
+        "start": 167.9,
+        "end": 168.42,
+        "confidence": 0.882
+    },
+    {
+        "text": "были",
+        "start": 168.42,
+        "end": 168.74,
+        "confidence": 0.986
+    },
+    {
+        "text": "стёртые,",
+        "start": 168.74,
+        "end": 169.78,
+        "confidence": 0.757
+    },
+    {
+        "text": "чтобы",
+        "start": 170.02,
+        "end": 170.26,
+        "confidence": 0.983
+    },
+    {
+        "text": "от",
+        "start": 170.26,
+        "end": 170.58,
+        "confidence": 0.958
+    },
+    {
+        "text": "Господа",
+        "start": 170.58,
+        "end": 171.06,
+        "confidence": 0.684
+    },
+    {
+        "text": "пришли",
+        "start": 171.06,
+        "end": 171.48,
+        "confidence": 0.987
+    },
+    {
+        "text": "времена",
+        "start": 171.48,
+        "end": 171.94,
+        "confidence": 0.787
+    },
+    {
+        "text": "обновления,",
+        "start": 171.94,
+        "end": 172.96,
+        "confidence": 0.718
+    },
+    {
+        "text": "и",
+        "start": 173.38,
+        "end": 173.58,
+        "confidence": 0.981
+    },
+    {
+        "text": "чтобы",
+        "start": 173.58,
+        "end": 173.86,
+        "confidence": 0.931
+    },
+    {
+        "text": "он",
+        "start": 173.86,
+        "end": 174.12,
+        "confidence": 0.955
+    },
+    {
+        "text": "послал,",
+        "start": 174.12,
+        "end": 174.9,
+        "confidence": 0.842
+    },
+    {
+        "text": "предназначен",
+        "start": 174.98,
+        "end": 176.0,
+        "confidence": 0.747
+    },
+    {
+        "text": "его",
+        "start": 176.0,
+        "end": 176.14,
+        "confidence": 0.205
+    },
+    {
+        "text": "вам",
+        "start": 176.14,
+        "end": 176.4,
+        "confidence": 0.851
+    },
+    {
+        "text": "Христоу",
+        "start": 176.4,
+        "end": 177.28,
+        "confidence": 0.876
+    },
+    {
+        "text": "и",
+        "start": 177.28,
+        "end": 177.4,
+        "confidence": 0.674
+    },
+    {
+        "text": "Иисуса.",
+        "start": 177.4,
+        "end": 177.94,
+        "confidence": 0.539
+    },
+    {
+        "text": "Но",
+        "start": 178.52,
+        "end": 178.9,
+        "confidence": 0.973
+    },
+    {
+        "text": "Иисус",
+        "start": 178.9,
+        "end": 179.8,
+        "confidence": 0.947
+    },
+    {
+        "text": "должен",
+        "start": 179.8,
+        "end": 180.38,
+        "confidence": 0.98
+    },
+    {
+        "text": "оставаться",
+        "start": 180.38,
+        "end": 181.08,
+        "confidence": 0.962
+    },
+    {
+        "text": "на",
+        "start": 181.08,
+        "end": 181.18,
+        "confidence": 0.997
+    },
+    {
+        "text": "небесах,",
+        "start": 181.18,
+        "end": 181.92,
+        "confidence": 0.966
+    },
+    {
+        "text": "пока",
+        "start": 182.06,
+        "end": 182.32,
+        "confidence": 0.983
+    },
+    {
+        "text": "не",
+        "start": 182.32,
+        "end": 182.48,
+        "confidence": 0.942
+    },
+    {
+        "text": "наступит",
+        "start": 182.48,
+        "end": 182.94,
+        "confidence": 0.932
+    },
+    {
+        "text": "время,",
+        "start": 182.94,
+        "end": 183.4,
+        "confidence": 0.816
+    },
+    {
+        "text": "когда",
+        "start": 183.74,
+        "end": 184.0,
+        "confidence": 0.992
+    },
+    {
+        "text": "Бог",
+        "start": 184.0,
+        "end": 184.38,
+        "confidence": 0.981
+    },
+    {
+        "text": "восстановит",
+        "start": 184.38,
+        "end": 185.1,
+        "confidence": 0.968
+    },
+    {
+        "text": "все.",
+        "start": 185.1,
+        "end": 185.48,
+        "confidence": 0.5
+    },
+    {
+        "text": "Время,",
+        "start": 186.08,
+        "end": 186.72,
+        "confidence": 0.953
+    },
+    {
+        "text": "о",
+        "start": 186.78,
+        "end": 186.88,
+        "confidence": 0.692
+    },
+    {
+        "text": "котором",
+        "start": 186.88,
+        "end": 187.18,
+        "confidence": 0.959
+    },
+    {
+        "text": "он",
+        "start": 187.18,
+        "end": 187.5,
+        "confidence": 0.907
+    },
+    {
+        "text": "давно",
+        "start": 187.5,
+        "end": 187.92,
+        "confidence": 0.909
+    },
+    {
+        "text": "возвращал",
+        "start": 187.92,
+        "end": 188.66,
+        "confidence": 0.761
+    },
+    {
+        "text": "через",
+        "start": 188.66,
+        "end": 188.98,
+        "confidence": 0.947
+    },
+    {
+        "text": "своих",
+        "start": 188.98,
+        "end": 189.36,
+        "confidence": 0.98
+    },
+    {
+        "text": "святых",
+        "start": 189.36,
+        "end": 189.79,
+        "confidence": 0.847
+    },
+    {
+        "text": "пророков.",
+        "start": 189.79,
+        "end": 190.64,
+        "confidence": 0.983
+    },
+    {
+        "text": "Ведь",
+        "start": 190.96,
+        "end": 191.26,
+        "confidence": 0.974
+    },
+    {
+        "text": "мы",
+        "start": 191.26,
+        "end": 191.5,
+        "confidence": 0.553
+    },
+    {
+        "text": "и",
+        "start": 191.5,
+        "end": 191.64,
+        "confidence": 0.416
+    },
+    {
+        "text": "сеесказал,",
+        "start": 191.64,
+        "end": 192.74,
+        "confidence": 0.511
+    },
+    {
+        "text": "из",
+        "start": 193.06,
+        "end": 193.32,
+        "confidence": 0.784
+    },
+    {
+        "text": "ваших",
+        "start": 193.32,
+        "end": 193.84,
+        "confidence": 0.892
+    },
+    {
+        "text": "братьев,",
+        "start": 193.84,
+        "end": 194.62,
+        "confidence": 0.813
+    },
+    {
+        "text": "Господь",
+        "start": 194.96,
+        "end": 195.62,
+        "confidence": 0.853
+    },
+    {
+        "text": "ваш",
+        "start": 195.62,
+        "end": 195.88,
+        "confidence": 0.42
+    },
+    {
+        "text": "Бог",
+        "start": 195.88,
+        "end": 196.48,
+        "confidence": 0.822
+    },
+    {
+        "text": "поставит",
+        "start": 196.48,
+        "end": 197.32,
+        "confidence": 0.565
+    },
+    {
+        "text": "вам",
+        "start": 197.32,
+        "end": 197.58,
+        "confidence": 0.949
+    },
+    {
+        "text": "пророка",
+        "start": 197.58,
+        "end": 198.22,
+        "confidence": 0.87
+    },
+    {
+        "text": "подобного",
+        "start": 198.22,
+        "end": 198.92,
+        "confidence": 0.97
+    },
+    {
+        "text": "мне.",
+        "start": 198.92,
+        "end": 199.32,
+        "confidence": 0.961
+    },
+    {
+        "text": "Вы",
+        "start": 199.88,
+        "end": 200.2,
+        "confidence": 0.968
+    },
+    {
+        "text": "должны",
+        "start": 200.2,
+        "end": 200.64,
+        "confidence": 0.989
+    },
+    {
+        "text": "слушать",
+        "start": 200.64,
+        "end": 201.34,
+        "confidence": 0.951
+    },
+    {
+        "text": "его",
+        "start": 201.34,
+        "end": 201.7,
+        "confidence": 0.959
+    },
+    {
+        "text": "во",
+        "start": 201.7,
+        "end": 201.98,
+        "confidence": 0.927
+    },
+    {
+        "text": "всем,",
+        "start": 201.98,
+        "end": 202.3,
+        "confidence": 0.819
+    },
+    {
+        "text": "чтобы",
+        "start": 202.44,
+        "end": 202.74,
+        "confidence": 0.931
+    },
+    {
+        "text": "он",
+        "start": 202.74,
+        "end": 203.04,
+        "confidence": 0.968
+    },
+    {
+        "text": "не",
+        "start": 203.04,
+        "end": 203.24,
+        "confidence": 0.99
+    },
+    {
+        "text": "сказал",
+        "start": 203.24,
+        "end": 203.72,
+        "confidence": 0.789
+    },
+    {
+        "text": "вам.",
+        "start": 203.72,
+        "end": 204.44,
+        "confidence": 0.927
+    },
+    {
+        "text": "И",
+        "start": 204.66,
+        "end": 204.98,
+        "confidence": 0.991
+    },
+    {
+        "text": "всякие,",
+        "start": 204.98,
+        "end": 205.5,
+        "confidence": 0.697
+    },
+    {
+        "text": "кто",
+        "start": 205.6,
+        "end": 205.74,
+        "confidence": 0.978
+    },
+    {
+        "text": "не",
+        "start": 205.74,
+        "end": 205.92,
+        "confidence": 0.953
+    },
+    {
+        "text": "послушает",
+        "start": 205.92,
+        "end": 206.72,
+        "confidence": 0.85
+    },
+    {
+        "text": "того",
+        "start": 206.72,
+        "end": 206.98,
+        "confidence": 0.774
+    },
+    {
+        "text": "пророка,",
+        "start": 206.98,
+        "end": 207.64,
+        "confidence": 0.993
+    },
+    {
+        "text": "будет",
+        "start": 208.16,
+        "end": 208.46,
+        "confidence": 0.924
+    },
+    {
+        "text": "искоренен",
+        "start": 208.46,
+        "end": 209.32,
+        "confidence": 0.554
+    },
+    {
+        "text": "из",
+        "start": 209.34,
+        "end": 209.58,
+        "confidence": 0.938
+    },
+    {
+        "text": "народа.",
+        "start": 209.58,
+        "end": 210.54,
+        "confidence": 0.912
+    },
+    {
+        "text": "Дай",
+        "start": 211.0,
+        "end": 211.36,
+        "confidence": 0.495
+    },
+    {
+        "text": "все",
+        "start": 211.36,
+        "end": 211.62,
+        "confidence": 0.955
+    },
+    {
+        "text": "пророки,",
+        "start": 211.62,
+        "end": 212.12,
+        "confidence": 0.963
+    },
+    {
+        "text": "которые",
+        "start": 212.22,
+        "end": 212.54,
+        "confidence": 0.969
+    },
+    {
+        "text": "когда-либо",
+        "start": 212.54,
+        "end": 213.32,
+        "confidence": 0.813
+    },
+    {
+        "text": "говорили,",
+        "start": 213.32,
+        "end": 213.94,
+        "confidence": 0.953
+    },
+    {
+        "text": "начиная",
+        "start": 214.2,
+        "end": 214.59,
+        "confidence": 0.594
+    },
+    {
+        "text": "с",
+        "start": 214.59,
+        "end": 214.86,
+        "confidence": 0.765
+    },
+    {
+        "text": "самуила,",
+        "start": 214.86,
+        "end": 215.36,
+        "confidence": 0.529
+    },
+    {
+        "text": "также",
+        "start": 215.88,
+        "end": 216.2,
+        "confidence": 0.643
+    },
+    {
+        "text": "предсказывали",
+        "start": 216.2,
+        "end": 217.14,
+        "confidence": 0.989
+    },
+    {
+        "text": "эти",
+        "start": 217.14,
+        "end": 217.46,
+        "confidence": 0.915
+    },
+    {
+        "text": "дни.",
+        "start": 217.46,
+        "end": 218.3,
+        "confidence": 0.899
+    },
+    {
+        "text": "Вы",
+        "start": 218.56,
+        "end": 218.94,
+        "confidence": 0.957
+    },
+    {
+        "text": "же,",
+        "start": 218.94,
+        "end": 219.36,
+        "confidence": 0.865
+    },
+    {
+        "text": "на",
+        "start": 219.86,
+        "end": 220.12,
+        "confidence": 0.773
+    },
+    {
+        "text": "следники",
+        "start": 220.12,
+        "end": 220.76,
+        "confidence": 0.744
+    },
+    {
+        "text": "пророков",
+        "start": 220.76,
+        "end": 221.4,
+        "confidence": 0.988
+    },
+    {
+        "text": "и",
+        "start": 221.4,
+        "end": 221.56,
+        "confidence": 0.993
+    },
+    {
+        "text": "на",
+        "start": 221.56,
+        "end": 221.72,
+        "confidence": 0.982
+    },
+    {
+        "text": "следники",
+        "start": 221.72,
+        "end": 222.26,
+        "confidence": 0.835
+    },
+    {
+        "text": "завета,",
+        "start": 222.26,
+        "end": 222.94,
+        "confidence": 0.814
+    },
+    {
+        "text": "который",
+        "start": 223.48,
+        "end": 223.66,
+        "confidence": 0.45
+    },
+    {
+        "text": "Бог",
+        "start": 223.66,
+        "end": 224.04,
+        "confidence": 0.777
+    },
+    {
+        "text": "заключил",
+        "start": 224.04,
+        "end": 224.68,
+        "confidence": 0.923
+    },
+    {
+        "text": "с",
+        "start": 224.68,
+        "end": 224.82,
+        "confidence": 0.853
+    },
+    {
+        "text": "вашими",
+        "start": 224.82,
+        "end": 225.18,
+        "confidence": 0.928
+    },
+    {
+        "text": "отцами.",
+        "start": 225.18,
+        "end": 225.78,
+        "confidence": 0.884
+    },
+    {
+        "text": "Он",
+        "start": 226.28,
+        "end": 226.48,
+        "confidence": 0.992
+    },
+    {
+        "text": "сказал",
+        "start": 226.48,
+        "end": 226.92,
+        "confidence": 0.997
+    },
+    {
+        "text": "овраму.",
+        "start": 226.92,
+        "end": 227.9,
+        "confidence": 0.607
+    },
+    {
+        "text": "Через",
+        "start": 228.08,
+        "end": 228.54,
+        "confidence": 0.715
+    },
+    {
+        "text": "твоё",
+        "start": 228.54,
+        "end": 228.86,
+        "confidence": 0.744
+    },
+    {
+        "text": "потомство",
+        "start": 228.86,
+        "end": 229.58,
+        "confidence": 0.894
+    },
+    {
+        "text": "получит",
+        "start": 229.58,
+        "end": 230.4,
+        "confidence": 0.874
+    },
+    {
+        "text": "благословение",
+        "start": 230.4,
+        "end": 231.42,
+        "confidence": 0.909
+    },
+    {
+        "text": "все",
+        "start": 231.42,
+        "end": 231.88,
+        "confidence": 0.707
+    },
+    {
+        "text": "народы",
+        "start": 231.88,
+        "end": 232.33,
+        "confidence": 0.871
+    },
+    {
+        "text": "на",
+        "start": 232.33,
+        "end": 232.5,
+        "confidence": 0.725
+    },
+    {
+        "text": "Земле.",
+        "start": 232.5,
+        "end": 232.98,
+        "confidence": 0.753
+    },
+    {
+        "text": "Когда",
+        "start": 233.62,
+        "end": 233.96,
+        "confidence": 0.934
+    },
+    {
+        "text": "Бог",
+        "start": 233.96,
+        "end": 234.42,
+        "confidence": 0.985
+    },
+    {
+        "text": "воскресил",
+        "start": 234.42,
+        "end": 235.08,
+        "confidence": 0.949
+    },
+    {
+        "text": "своего",
+        "start": 235.08,
+        "end": 235.42,
+        "confidence": 0.982
+    },
+    {
+        "text": "слугу,",
+        "start": 235.42,
+        "end": 236.16,
+        "confidence": 0.621
+    },
+    {
+        "text": "он",
+        "start": 236.48,
+        "end": 236.66,
+        "confidence": 0.937
+    },
+    {
+        "text": "прежде",
+        "start": 236.66,
+        "end": 237.0,
+        "confidence": 0.937
+    },
+    {
+        "text": "всего",
+        "start": 237.0,
+        "end": 237.3,
+        "confidence": 0.994
+    },
+    {
+        "text": "послал",
+        "start": 237.3,
+        "end": 237.82,
+        "confidence": 0.861
+    },
+    {
+        "text": "его",
+        "start": 237.82,
+        "end": 238.1,
+        "confidence": 0.947
+    },
+    {
+        "text": "к",
+        "start": 238.1,
+        "end": 238.32,
+        "confidence": 0.981
+    },
+    {
+        "text": "вам,",
+        "start": 238.32,
+        "end": 238.78,
+        "confidence": 0.953
+    },
+    {
+        "text": "чтобы",
+        "start": 239.0,
+        "end": 239.16,
+        "confidence": 0.966
+    },
+    {
+        "text": "благословить",
+        "start": 239.16,
+        "end": 240.1,
+        "confidence": 0.991
+    },
+    {
+        "text": "вас",
+        "start": 240.1,
+        "end": 240.54,
+        "confidence": 0.908
+    },
+    {
+        "text": "и",
+        "start": 240.54,
+        "end": 241.12,
+        "confidence": 0.796
+    },
+    {
+        "text": "призвать",
+        "start": 241.12,
+        "end": 241.6,
+        "confidence": 0.945
+    },
+    {
+        "text": "каждого",
+        "start": 241.6,
+        "end": 242.18,
+        "confidence": 0.979
+    },
+    {
+        "text": "из",
+        "start": 242.18,
+        "end": 242.39,
+        "confidence": 0.458
+    },
+    {
+        "text": "вас",
+        "start": 242.39,
+        "end": 242.88,
+        "confidence": 0.831
+    },
+    {
+        "text": "от",
+        "start": 242.88,
+        "end": 243.2,
+        "confidence": 0.437
+    },
+    {
+        "text": "противца",
+        "start": 243.2,
+        "end": 243.82,
+        "confidence": 0.375
+    },
+    {
+        "text": "от",
+        "start": 243.82,
+        "end": 244.08,
+        "confidence": 0.979
+    },
+    {
+        "text": "ваших",
+        "start": 244.08,
+        "end": 244.44,
+        "confidence": 0.984
+    },
+    {
+        "text": "зелых",
+        "start": 244.44,
+        "end": 244.88,
+        "confidence": 0.606
+    },
+    {
+        "text": "дел.",
+        "start": 244.88,
+        "end": 245.12,
+        "confidence": 0.838
+    }
+]

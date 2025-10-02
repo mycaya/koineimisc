@@ -1,0 +1,5158 @@
+[
+  {
+    "text": "Однажды в девятый час,",
+    "start": 4.12,
+    "end": 5.64,
+    "combined_objects": [
+      {
+        "text": "Однажды",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 4.12,
+        "end": 4.76
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 4.76,
+        "end": 4.84
+      },
+      {
+        "text": "девятый",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 4.84,
+        "end": 5.34
+      },
+      {
+        "text": "час,",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 5.34,
+        "end": 5.64
+      }
+    ]
+  },
+  {
+    "text": "во время молитвы,",
+    "start": 5.64,
+    "end": 6.96,
+    "combined_objects": [
+      {
+        "text": "во",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 5.64,
+        "end": 5.86
+      },
+      {
+        "text": "время",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 5.86,
+        "end": 6.1
+      },
+      {
+        "text": "молитвы,",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 6.1,
+        "end": 6.96
+      }
+    ]
+  },
+  {
+    "text": "Петр и Иоанн шли в храм.",
+    "start": 6.96,
+    "end": 11.82,
+    "combined_objects": [
+      {
+        "text": "Петр",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 6.96,
+        "end": 7.58
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 7.58,
+        "end": 7.78
+      },
+      {
+        "text": "Иоанн",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "шли",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 9.4,
+        "end": 9.6
+      },
+      {
+        "text": "храм.",
+        "chapter": 3,
+        "verse": 1,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 11.32,
+        "end": 11.82
+      }
+    ]
+  },
+  {
+    "text": "В это время туда принесли",
+    "start": 12.82,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "В",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "это",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "время",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "туда",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "человека,",
+    "start": 12.82,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "принесли",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "человека,",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "калеку от рождения.",
+    "start": 12.82,
+    "end": 12.44,
+    "combined_objects": [
+      {
+        "text": "калеку",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 11.82,
+        "end": 11.94
+      },
+      {
+        "text": "рождения.",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 11.94,
+        "end": 12.44
+      }
+    ]
+  },
+  {
+    "text": "Его каждый день оставляли",
+    "start": 13.22,
+    "end": 14.74,
+    "combined_objects": [
+      {
+        "text": "Его",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 13.22,
+        "end": 13.5
+      },
+      {
+        "text": "каждый",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 13.5,
+        "end": 13.82
+      },
+      {
+        "text": "день",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 13.82,
+        "end": 14.08
+      },
+      {
+        "text": "оставляли",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 14.08,
+        "end": 14.74
+      }
+    ]
+  },
+  {
+    "text": "у так называемых",
+    "start": 14.74,
+    "end": 14.88,
+    "combined_objects": [
+      {
+        "text": "у",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 14.74,
+        "end": 14.88
+      },
+      {
+        "text": "так",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "называемых",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Прекрасных ворот,",
+    "start": 16.2,
+    "end": 17.06,
+    "combined_objects": [
+      {
+        "text": "Прекрасных",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 16.2,
+        "end": 17.06
+      },
+      {
+        "text": "ворот,",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "и он просил милостыню у",
+    "start": 17.5,
+    "end": 19.04,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 17.5,
+        "end": 17.72
+      },
+      {
+        "text": "он",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 17.72,
+        "end": 17.82
+      },
+      {
+        "text": "просил",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 17.82,
+        "end": 18.26
+      },
+      {
+        "text": "милостыню",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 18.26,
+        "end": 18.9
+      }
+    ]
+  },
+  {
+    "text": "входящих в храм.",
+    "start": 19.04,
+    "end": 23.96,
+    "combined_objects": [
+      {
+        "text": "у",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 18.9,
+        "end": 19.04
+      },
+      {
+        "text": "входящих",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 19.04,
+        "end": 19.58
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 23.48,
+        "end": 23.62
+      },
+      {
+        "text": "храм.",
+        "chapter": 3,
+        "verse": 2,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 23.62,
+        "end": 23.96
+      }
+    ]
+  },
+  {
+    "text": "Увидев Петра и Иоанна,",
+    "start": 24.96,
+    "end": 25.06,
+    "combined_objects": [
+      {
+        "text": "Увидев",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Петра",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 24.96,
+        "end": 25.06
+      },
+      {
+        "text": "Иоанна,",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "которые хотели войти в",
+    "start": 26.06,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "которые",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "хотели",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "войти",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "храм,",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "он попросил и у них.",
+    "start": 26.06,
+    "end": 26.84,
+    "combined_objects": [
+      {
+        "text": "он",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "попросил",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 26.58,
+        "end": 26.84
+      },
+      {
+        "text": "у",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "них.",
+        "chapter": 3,
+        "verse": 3,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Петр и Иоанн пристально",
+    "start": 29.3,
+    "end": 29.62,
+    "combined_objects": [
+      {
+        "text": "Петр",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 29.3,
+        "end": 29.62
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Иоанн",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "пристально",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "посмотрели на него,",
+    "start": 30.62,
+    "end": 31.64,
+    "combined_objects": [
+      {
+        "text": "посмотрели",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 31.48,
+        "end": 31.64
+      },
+      {
+        "text": "него,",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "и Петр сказал:",
+    "start": 32.64,
+    "end": 38.12,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Петр",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 37.32,
+        "end": 37.66
+      },
+      {
+        "text": "сказал:",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 37.66,
+        "end": 38.12
+      }
+    ]
+  },
+  {
+    "text": "Взгляни на нас!",
+    "start": 39.12,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Взгляни",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "нас!",
+        "chapter": 3,
+        "verse": 4,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Человек поднял глаза,",
+    "start": 39.12,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Человек",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "поднял",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "глаза,",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "ожидая получить от них",
+    "start": 39.12,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "ожидая",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "получить",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "них",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "что-нибудь.",
+    "start": 39.12,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "что-нибудь.",
+        "chapter": 3,
+        "verse": 5,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Но Петр сказал:",
+    "start": 41.2,
+    "end": 41.48,
+    "combined_objects": [
+      {
+        "text": "Но",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 41.2,
+        "end": 41.48
+      },
+      {
+        "text": "Петр",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "сказал:",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Серебра и золота у меня",
+    "start": 42.48,
+    "end": 45.08,
+    "combined_objects": [
+      {
+        "text": "Серебра",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 44.78,
+        "end": 45.08
+      },
+      {
+        "text": "золота",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "у",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "меня",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "нет,",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "что есть,",
+    "start": 46.08,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "но",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "то,",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "есть,",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "я",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "даю",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "тебе.",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Во Имя Иисуса Христа из",
+    "start": 46.08,
+    "end": 46.08,
+    "combined_objects": [
+      {
+        "text": "Во",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Имя",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Иисуса",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Христа",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 45.56,
+        "end": 46.08
+      }
+    ]
+  },
+  {
+    "text": "Назарета встань и ходи!",
+    "start": 46.08,
+    "end": 49.04,
+    "combined_objects": [
+      {
+        "text": "из",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Назарета",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 46.08,
+        "end": 47.08
+      },
+      {
+        "text": "встань",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 47.08,
+        "end": 48.18
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 48.18,
+        "end": 48.38
+      },
+      {
+        "text": "ходи!",
+        "chapter": 3,
+        "verse": 6,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 48.38,
+        "end": 49.04
+      }
+    ]
+  },
+  {
+    "text": "Он взял его за правую",
+    "start": 49.2,
+    "end": 50.64,
+    "combined_objects": [
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 49.2,
+        "end": 49.54
+      },
+      {
+        "text": "взял",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 49.54,
+        "end": 49.84
+      },
+      {
+        "text": "его",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 49.84,
+        "end": 50.08
+      },
+      {
+        "text": "за",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "правую",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 50.08,
+        "end": 50.64
+      },
+      {
+        "text": "руку,",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 50.64,
+        "end": 51.36
+      }
+    ]
+  },
+  {
+    "text": "помог подняться,",
+    "start": 51.4,
+    "end": 52.8,
+    "combined_objects": [
+      {
+        "text": "помог",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 51.4,
+        "end": 51.88
+      },
+      {
+        "text": "подняться,",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 51.88,
+        "end": 52.8
+      }
+    ]
+  },
+  {
+    "text": "и в тот же миг ступни и",
+    "start": 53.18,
+    "end": 58.62,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 53.18,
+        "end": 53.46
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 53.46,
+        "end": 53.56
+      },
+      {
+        "text": "тот",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 53.56,
+        "end": 53.78
+      },
+      {
+        "text": "же",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 53.78,
+        "end": 54
+      },
+      {
+        "text": "миг",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ступни",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "лодыжки калеки окрепли.",
+    "start": 59.62,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 58.54,
+        "end": 58.62
+      },
+      {
+        "text": "лодыжки",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "калеки",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "окрепли.",
+        "chapter": 3,
+        "verse": 7,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Он вскочил на ноги и",
+    "start": 60.08,
+    "end": 63.48,
+    "combined_objects": [
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 60.08,
+        "end": 60.3
+      },
+      {
+        "text": "вскочил",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ноги",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "начал ходить!",
+    "start": 64.47999999999999,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 63.2,
+        "end": 63.48
+      },
+      {
+        "text": "начал",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ходить!",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Он вошел с ними в храм,",
+    "start": 69.36,
+    "end": 75.78,
+    "combined_objects": [
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 69.36,
+        "end": 69.66
+      },
+      {
+        "text": "вошел",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "с",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ними",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 70.34,
+        "end": 70.44
+      },
+      {
+        "text": "храм,",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 74.92,
+        "end": 75.78
+      },
+      {
+        "text": "ходил,",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "прыгал и прославлял Бога.",
+    "start": 76.78,
+    "end": 76.16,
+    "combined_objects": [
+      {
+        "text": "прыгал",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 75.88,
+        "end": 76.16
+      },
+      {
+        "text": "прославлял",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Бога.",
+        "chapter": 3,
+        "verse": 8,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "И все люди это видели.",
+    "start": 77.16,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "И",
+        "chapter": 3,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "все",
+        "chapter": 3,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "люди",
+        "chapter": 3,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "это",
+        "chapter": 3,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "видели.",
+        "chapter": 3,
+        "verse": 9,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Они узнавали в нем того",
+    "start": 77.16,
+    "end": 82.14,
+    "combined_objects": [
+      {
+        "text": "Они",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "узнавали",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 82.02,
+        "end": 82.14
+      },
+      {
+        "text": "нем",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "человека,",
+    "start": 83.14,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "того",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "человека,",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "который",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "сидел",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "милостыню у Прекрасных",
+    "start": 87.4,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 86.1,
+        "end": 86.4
+      },
+      {
+        "text": "просил",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "милостыню",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "ворот храма,",
+    "start": 87.4,
+    "end": 91.22,
+    "combined_objects": [
+      {
+        "text": "у",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Прекрасных",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ворот",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "храма,",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 90.32,
+        "end": 91.22
+      }
+    ]
+  },
+  {
+    "text": "и удивлялись тому,",
+    "start": 92.22,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "удивлялись",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "тому,",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "что с ним произошло.",
+    "start": 92.22,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "с",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ним",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "произошло.",
+        "chapter": 3,
+        "verse": 10,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Нищий держался за Петра и",
+    "start": 92.22,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Нищий",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "держался",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "за",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Петра",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Иоанна,",
+    "start": 92.22,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Иоанна,",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "и весь народ в изумлении",
+    "start": 92.22,
+    "end": 97.02,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "весь",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "народ",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 96.3,
+        "end": 97.02
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "изумлении",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "окружил их в колоннаде",
+    "start": 98.02,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "окружил",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "их",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "колоннаде",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "храма,",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "которая называлась",
+    "start": 98.02,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "которая",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "называлась",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "колоннадой Соломона.",
+    "start": 98.02,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "колоннадой",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Соломона.",
+        "chapter": 3,
+        "verse": 11,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Увидев это,",
+    "start": 98.02,
+    "end": 99.56,
+    "combined_objects": [
+      {
+        "text": "Увидев",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "это,",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 99.38,
+        "end": 99.56
+      }
+    ]
+  },
+  {
+    "text": "Петр обратился к народу:",
+    "start": 100.56,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Петр",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "обратился",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "к",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "народу:",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Израильтяне,",
+    "start": 100.56,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Израильтяне,",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "почему вас это так",
+    "start": 100.84,
+    "end": 103.78,
+    "combined_objects": [
+      {
+        "text": "почему",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 100.84,
+        "end": 101.18
+      },
+      {
+        "text": "вас",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "это",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 103.4,
+        "end": 103.78
+      },
+      {
+        "text": "так",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "удивляет?",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Почему вы смотрите на нас",
+    "start": 104.78,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Почему",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "вы",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "смотрите",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "нас",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "так,",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "будто это мы своими",
+    "start": 104.78,
+    "end": 107.4,
+    "combined_objects": [
+      {
+        "text": "будто",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "это",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 107.14,
+        "end": 107.4
+      },
+      {
+        "text": "мы",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "своими",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "силами",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "силами или своей",
+    "start": 108.4,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "или",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "своей",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "набожностью",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "набожностью сделали,",
+    "start": 108.4,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "сделали,",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "что этот человек ходит?",
+    "start": 108.4,
+    "end": 108.8,
+    "combined_objects": [
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "этот",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "человек",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 107.4,
+        "end": 107.8
+      },
+      {
+        "text": "ходит?",
+        "chapter": 3,
+        "verse": 12,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 107.8,
+        "end": 108.8
+      }
+    ]
+  },
+  {
+    "text": "Бог Авраама,",
+    "start": 109.02,
+    "end": 109.44,
+    "combined_objects": [
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 109.02,
+        "end": 109.44
+      },
+      {
+        "text": "Авраама,",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Исаака",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 110.2,
+        "end": 110.36
+      },
+      {
+        "text": "Иакова,",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 111.04,
+        "end": 111.58
+      }
+    ]
+  },
+  {
+    "text": "Бог наших отцов прославил",
+    "start": 112.14,
+    "end": 114.7,
+    "combined_objects": [
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 112.14,
+        "end": 112.54
+      },
+      {
+        "text": "наших",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 112.54,
+        "end": 112.94
+      },
+      {
+        "text": "отцов",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 112.94,
+        "end": 113.84
+      },
+      {
+        "text": "прославил",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 113.84,
+        "end": 114.7
+      }
+    ]
+  },
+  {
+    "text": "Своего Слугу Иисуса,",
+    "start": 114.7,
+    "end": 116.52,
+    "combined_objects": [
+      {
+        "text": "Своего",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 114.7,
+        "end": 115.08
+      },
+      {
+        "text": "Слугу",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 115.08,
+        "end": 115.78
+      },
+      {
+        "text": "Иисуса,",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 115.78,
+        "end": 116.52
+      }
+    ]
+  },
+  {
+    "text": "Которого вы предали и от",
+    "start": 117.24,
+    "end": 119.16,
+    "combined_objects": [
+      {
+        "text": "Которого",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 117.24,
+        "end": 117.68
+      },
+      {
+        "text": "вы",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 117.68,
+        "end": 117.87
+      },
+      {
+        "text": "предали",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 117.87,
+        "end": 118.66
+      }
+    ]
+  },
+  {
+    "text": "Которого отреклись перед",
+    "start": 119.16,
+    "end": 120.48,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 118.66,
+        "end": 119
+      },
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 119,
+        "end": 119.16
+      },
+      {
+        "text": "Которого",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 119.16,
+        "end": 119.5
+      },
+      {
+        "text": "отреклись",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 119.5,
+        "end": 120.24
+      }
+    ]
+  },
+  {
+    "text": "Пилатом,",
+    "start": 120.48,
+    "end": 121.4,
+    "combined_objects": [
+      {
+        "text": "перед",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 120.24,
+        "end": 120.48
+      },
+      {
+        "text": "Пилатом,",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 120.48,
+        "end": 121.4
+      }
+    ]
+  },
+  {
+    "text": "хотя тот хотел освободить",
+    "start": 121.62,
+    "end": 123.44,
+    "combined_objects": [
+      {
+        "text": "хотя",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 121.62,
+        "end": 121.82
+      },
+      {
+        "text": "тот",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 121.82,
+        "end": 122.16
+      },
+      {
+        "text": "хотел",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 122.16,
+        "end": 122.58
+      }
+    ]
+  },
+  {
+    "text": "Его.",
+    "start": 123.44,
+    "end": 123.7,
+    "combined_objects": [
+      {
+        "text": "освободить",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 122.66,
+        "end": 123.44
+      },
+      {
+        "text": "Его.",
+        "chapter": 3,
+        "verse": 13,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 123.44,
+        "end": 123.7
+      }
+    ]
+  },
+  {
+    "text": "Но вы отреклись от",
+    "start": 124.7,
+    "end": 127.74,
+    "combined_objects": [
+      {
+        "text": "Но",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "вы",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 127.6,
+        "end": 127.74
+      },
+      {
+        "text": "отреклись",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Святого",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Святого и Праведного и",
+    "start": 128.74,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Праведного",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "выпросили,",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 127.74,
+        "end": 128.08
+      }
+    ]
+  },
+  {
+    "text": "чтобы вам освободили",
+    "start": 128.08,
+    "end": 129.64,
+    "combined_objects": [
+      {
+        "text": "чтобы",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 128.08,
+        "end": 128.36
+      },
+      {
+        "text": "вам",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 128.5,
+        "end": 128.68
+      },
+      {
+        "text": "освободили",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 128.68,
+        "end": 129.64
+      },
+      {
+        "text": "убийцу.",
+        "chapter": 3,
+        "verse": 14,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 129.64,
+        "end": 130.4
+      }
+    ]
+  },
+  {
+    "text": "Вы убили Создателя жизни!",
+    "start": 131.02,
+    "end": 133.12,
+    "combined_objects": [
+      {
+        "text": "Вы",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 131.02,
+        "end": 131.32
+      },
+      {
+        "text": "убили",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 131.32,
+        "end": 131.8
+      },
+      {
+        "text": "Создателя",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "жизни!",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 132.6,
+        "end": 133.12
+      }
+    ]
+  },
+  {
+    "text": "Но Бог воскресил Его из",
+    "start": 133.72,
+    "end": 135.46,
+    "combined_objects": [
+      {
+        "text": "Но",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 133.72,
+        "end": 133.92
+      },
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 133.92,
+        "end": 134.18
+      },
+      {
+        "text": "воскресил",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 134.18,
+        "end": 134.88
+      },
+      {
+        "text": "Его",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 134.88,
+        "end": 135.16
+      }
+    ]
+  },
+  {
+    "text": "мертвых,",
+    "start": 135.46,
+    "end": 136.22,
+    "combined_objects": [
+      {
+        "text": "из",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 135.16,
+        "end": 135.46
+      },
+      {
+        "text": "мертвых,",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 135.46,
+        "end": 136.22
+      }
+    ]
+  },
+  {
+    "text": "и мы этому свидетели.",
+    "start": 136.36,
+    "end": 138.12,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 136.36,
+        "end": 136.64
+      },
+      {
+        "text": "мы",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 136.64,
+        "end": 136.92
+      },
+      {
+        "text": "этому",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 136.92,
+        "end": 137.32
+      },
+      {
+        "text": "свидетели.",
+        "chapter": 3,
+        "verse": 15,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 137.32,
+        "end": 138.12
+      }
+    ]
+  },
+  {
+    "text": "Имя Иисуса укрепило этого",
+    "start": 139.16,
+    "end": 140.8,
+    "combined_objects": [
+      {
+        "text": "Имя",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 139.16,
+        "end": 139.4
+      },
+      {
+        "text": "Иисуса",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "укрепило",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 139.6,
+        "end": 140.42
+      }
+    ]
+  },
+  {
+    "text": "человека,",
+    "start": 140.8,
+    "end": 141.46,
+    "combined_objects": [
+      {
+        "text": "этого",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 140.42,
+        "end": 140.8
+      },
+      {
+        "text": "человека,",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 140.8,
+        "end": 141.46
+      }
+    ]
+  },
+  {
+    "text": "которого вы видите и",
+    "start": 141.94,
+    "end": 145.16,
+    "combined_objects": [
+      {
+        "text": "которого",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 141.94,
+        "end": 142.56
+      },
+      {
+        "text": "вы",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 142.56,
+        "end": 142.96
+      },
+      {
+        "text": "видите",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 142.96,
+        "end": 143.36
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 145,
+        "end": 145.16
+      },
+      {
+        "text": "знаете,",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "потому что мы поверили в",
+    "start": 146.16,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "потому",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "мы",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "поверили",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "это Имя,",
+    "start": 146.16,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "в",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "это",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Имя,",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 146.56,
+        "end": 147.04
+      },
+      {
+        "text": "вера,",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "которая дается через",
+    "start": 148.04,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "которая",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "дается",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "через",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Иисуса,",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "совершила исцеление на",
+    "start": 148.04,
+    "end": 148.62,
+    "combined_objects": [
+      {
+        "text": "совершила",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "исцеление",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "ваших глазах.",
+    "start": 151.9,
+    "end": 152.2,
+    "combined_objects": [
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 148.48,
+        "end": 148.62
+      },
+      {
+        "text": "ваших",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 151.9,
+        "end": 152.2
+      },
+      {
+        "text": "глазах.",
+        "chapter": 3,
+        "verse": 16,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "я понимаю,",
+    "start": 153.2,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Братья,",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "я",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "понимаю,",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "что вы и ваши начальники",
+    "start": 157.46,
+    "end": 157.82,
+    "combined_objects": [
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 157.46,
+        "end": 157.82
+      },
+      {
+        "text": "вы",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "ваши",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "начальники",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "поступили по незнанию.",
+    "start": 158.82,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "поступили",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "по",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "незнанию.",
+        "chapter": 3,
+        "verse": 17,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Но именно так Бог",
+    "start": 158.82,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Но",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "именно",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "так",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "исполнил",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "то,",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 158.12,
+        "end": 158.28
+      }
+    ]
+  },
+  {
+    "text": "что Он предсказывал через",
+    "start": 161.52,
+    "end": 161.74,
+    "combined_objects": [
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 161.52,
+        "end": 161.74
+      },
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "предсказывал",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "через",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "всех пророков,",
+    "start": 162.74,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "всех",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "пророков,",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "когда",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "говорил,",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "что Христу предстоят",
+    "start": 167.36,
+    "end": 167.58,
+    "combined_objects": [
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 167.36,
+        "end": 167.58
+      },
+      {
+        "text": "Христу",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "предстоят",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "страдания.",
+    "start": 168.58,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "страдания.",
+        "chapter": 3,
+        "verse": 18,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Итак,",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "покайтесь",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "покайтесь и обратитесь к",
+    "start": 168.58,
+    "end": 173.58,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 173.38,
+        "end": 173.58
+      },
+      {
+        "text": "обратитесь",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "к",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Богу,",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Богу,",
+    "start": 174.58,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "чтобы",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 173.58,
+        "end": 173.86
+      },
+      {
+        "text": "ваши",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "грехи",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "были",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "стерты,",
+        "chapter": 3,
+        "verse": 19,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "стерты,",
+    "start": 174.86,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "чтобы",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Господа",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "пришли",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "времена отрады и чтобы Он",
+    "start": 174.86,
+    "end": 177.4,
+    "combined_objects": [
+      {
+        "text": "времена",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "отрады",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 177.28,
+        "end": 177.4
+      },
+      {
+        "text": "чтобы",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "послал предназначенного",
+    "start": 178.4,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "послал",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "предназначенного",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "вам Христа Иисуса.",
+    "start": 178.4,
+    "end": 177.94,
+    "combined_objects": [
+      {
+        "text": "вам",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Христа",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Иисуса.",
+        "chapter": 3,
+        "verse": 20,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 177.4,
+        "end": 177.94
+      }
+    ]
+  },
+  {
+    "text": "Но Иисус должен",
+    "start": 178.52,
+    "end": 180.38,
+    "combined_objects": [
+      {
+        "text": "Но",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 178.52,
+        "end": 178.9
+      },
+      {
+        "text": "Иисус",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 178.9,
+        "end": 179.8
+      },
+      {
+        "text": "должен",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 179.8,
+        "end": 180.38
+      }
+    ]
+  },
+  {
+    "text": "оставаться на небесах,",
+    "start": 180.38,
+    "end": 181.92,
+    "combined_objects": [
+      {
+        "text": "оставаться",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 180.38,
+        "end": 181.08
+      },
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 181.08,
+        "end": 181.18
+      },
+      {
+        "text": "небесах,",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 181.18,
+        "end": 181.92
+      }
+    ]
+  },
+  {
+    "text": "пока не наступит время,",
+    "start": 182.06,
+    "end": 183.4,
+    "combined_objects": [
+      {
+        "text": "пока",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 182.06,
+        "end": 182.32
+      },
+      {
+        "text": "не",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 182.32,
+        "end": 182.48
+      },
+      {
+        "text": "наступит",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 182.48,
+        "end": 182.94
+      },
+      {
+        "text": "время,",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 182.94,
+        "end": 183.4
+      }
+    ]
+  },
+  {
+    "text": "когда Бог восстановит",
+    "start": 183.74,
+    "end": 185.1,
+    "combined_objects": [
+      {
+        "text": "когда",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 183.74,
+        "end": 184
+      },
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 184,
+        "end": 184.38
+      },
+      {
+        "text": "восстановит",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 184.38,
+        "end": 185.1
+      },
+      {
+        "text": "все,",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 185.1,
+        "end": 185.48
+      }
+    ]
+  },
+  {
+    "text": "время о котором Он давно",
+    "start": 186.08,
+    "end": 187.92,
+    "combined_objects": [
+      {
+        "text": "время",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 186.08,
+        "end": 186.72
+      },
+      {
+        "text": "о",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 186.78,
+        "end": 186.88
+      },
+      {
+        "text": "котором",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 186.88,
+        "end": 187.18
+      },
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 187.18,
+        "end": 187.5
+      },
+      {
+        "text": "давно",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 187.5,
+        "end": 187.92
+      }
+    ]
+  },
+  {
+    "text": "возвещал через Своих",
+    "start": 187.92,
+    "end": 189.36,
+    "combined_objects": [
+      {
+        "text": "возвещал",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 187.92,
+        "end": 188.66
+      },
+      {
+        "text": "через",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 188.66,
+        "end": 188.98
+      },
+      {
+        "text": "Своих",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 188.98,
+        "end": 189.36
+      },
+      {
+        "text": "святых",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 189.36,
+        "end": 189.79
+      }
+    ]
+  },
+  {
+    "text": "святых пророков Ведь",
+    "start": 189.36,
+    "end": 191.26,
+    "combined_objects": [
+      {
+        "text": "пророков",
+        "chapter": 3,
+        "verse": 21,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 189.79,
+        "end": 190.64
+      },
+      {
+        "text": "Ведь",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 190.96,
+        "end": 191.26
+      },
+      {
+        "text": "Моисей",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "сказал:",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 191.64,
+        "end": 192.74
+      }
+    ]
+  },
+  {
+    "text": "«Из ваших братьев",
+    "start": 193.06,
+    "end": 194.62,
+    "combined_objects": [
+      {
+        "text": "«Из",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 193.06,
+        "end": 193.32
+      },
+      {
+        "text": "ваших",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 193.32,
+        "end": 193.84
+      },
+      {
+        "text": "братьев",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 193.84,
+        "end": 194.62
+      }
+    ]
+  },
+  {
+    "text": "ваш Бог,",
+    "start": 195.62,
+    "end": 196.48,
+    "combined_objects": [
+      {
+        "text": "Господь,",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 194.96,
+        "end": 195.62
+      },
+      {
+        "text": "ваш",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 195.62,
+        "end": 195.88
+      },
+      {
+        "text": "Бог,",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 195.88,
+        "end": 196.48
+      },
+      {
+        "text": "поставит",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 196.48,
+        "end": 197.32
+      }
+    ]
+  },
+  {
+    "text": "поставит вам Пророка",
+    "start": 196.48,
+    "end": 198.22,
+    "combined_objects": [
+      {
+        "text": "вам",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 197.32,
+        "end": 197.58
+      },
+      {
+        "text": "Пророка",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 197.58,
+        "end": 198.22
+      },
+      {
+        "text": "подобного",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 198.22,
+        "end": 198.92
+      },
+      {
+        "text": "мне.",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 198.92,
+        "end": 199.32
+      }
+    ]
+  },
+  {
+    "text": "Будьте послушны Ему во",
+    "start": 200.32,
+    "end": 201.98,
+    "combined_objects": [
+      {
+        "text": "Будьте",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "послушны",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Ему",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "во",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 201.7,
+        "end": 201.98
+      },
+      {
+        "text": "всем,",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 201.98,
+        "end": 202.3
+      }
+    ]
+  },
+  {
+    "text": "что бы Он ни сказал вам.",
+    "start": 202.44,
+    "end": 204.44,
+    "combined_objects": [
+      {
+        "text": "что",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 202.44,
+        "end": 202.74
+      },
+      {
+        "text": "бы",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 202.74,
+        "end": 203.04
+      },
+      {
+        "text": "ни",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "сказал",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 203.24,
+        "end": 203.72
+      },
+      {
+        "text": "вам.",
+        "chapter": 3,
+        "verse": 22,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 203.72,
+        "end": 204.44
+      }
+    ]
+  },
+  {
+    "text": "кто не послушает того",
+    "start": 205.6,
+    "end": 206.98,
+    "combined_objects": [
+      {
+        "text": "И",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 204.66,
+        "end": 204.98
+      },
+      {
+        "text": "всякий,",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 204.98,
+        "end": 205.5
+      },
+      {
+        "text": "кто",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 205.6,
+        "end": 205.74
+      },
+      {
+        "text": "не",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 205.74,
+        "end": 205.92
+      },
+      {
+        "text": "послушает",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 205.92,
+        "end": 206.72
+      }
+    ]
+  },
+  {
+    "text": "Пророка,",
+    "start": 206.98,
+    "end": 207.64,
+    "combined_objects": [
+      {
+        "text": "того",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 206.72,
+        "end": 206.98
+      },
+      {
+        "text": "Пророка,",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 206.98,
+        "end": 207.64
+      },
+      {
+        "text": "будет",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 208.16,
+        "end": 208.46
+      }
+    ]
+  },
+  {
+    "text": "будет искоренен из",
+    "start": 208.16,
+    "end": 209.58,
+    "combined_objects": [
+      {
+        "text": "искоренен",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 208.46,
+        "end": 209.32
+      },
+      {
+        "text": "из",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 209.34,
+        "end": 209.58
+      },
+      {
+        "text": "народа».",
+        "chapter": 3,
+        "verse": 23,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 209.58,
+        "end": 210.54
+      }
+    ]
+  },
+  {
+    "text": "О том же говорили все",
+    "start": 211.54,
+    "end": 213.94,
+    "combined_objects": [
+      {
+        "text": "О",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "том",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "же",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "говорили",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 213.32,
+        "end": 213.94
+      },
+      {
+        "text": "все",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "пророки,",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 220.76,
+        "end": 221.4
+      }
+    ]
+  },
+  {
+    "text": "от Самуила и те,",
+    "start": 222.4,
+    "end": 221.56,
+    "combined_objects": [
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Самуила",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 221.4,
+        "end": 221.56
+      },
+      {
+        "text": "те,",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "кто был после него,",
+    "start": 222.56,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "кто",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "был",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "после",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "него,",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "они",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 226.28,
+        "end": 226.48
+      },
+      {
+        "text": "тоже",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "эти дни.",
+    "start": 227.48,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "предсказывали",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "эти",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "дни.",
+        "chapter": 3,
+        "verse": 24,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Вы же наследники пророков",
+    "start": 227.48,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "Вы",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "же",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "наследники",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "пророков",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "и наследники завета,",
+    "start": 227.48,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "наследники",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "завета,",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "который Бог заключил с",
+    "start": 227.48,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "который",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "заключил",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "вашими отцами.",
+    "start": 227.48,
+    "end": null,
+    "combined_objects": [
+      {
+        "text": "с",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "вашими",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "отцами.",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "Он говорил Аврааму:",
+    "start": 227.48,
+    "end": 227.9,
+    "combined_objects": [
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "говорил",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      },
+      {
+        "text": "Аврааму:",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 226.92,
+        "end": 227.9
+      }
+    ]
+  },
+  {
+    "text": "«Через твое потомство",
+    "start": 228.08,
+    "end": 229.58,
+    "combined_objects": [
+      {
+        "text": "«Через",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 228.08,
+        "end": 228.54
+      },
+      {
+        "text": "твое",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 228.54,
+        "end": 228.86
+      },
+      {
+        "text": "потомство",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 228.86,
+        "end": 229.58
+      }
+    ]
+  },
+  {
+    "text": "получат благословение все",
+    "start": 229.58,
+    "end": 231.88,
+    "combined_objects": [
+      {
+        "text": "получат",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 229.58,
+        "end": 230.4
+      },
+      {
+        "text": "благословение",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 230.4,
+        "end": 231.42
+      }
+    ]
+  },
+  {
+    "text": "народы на земле».",
+    "start": 231.88,
+    "end": 232.98,
+    "combined_objects": [
+      {
+        "text": "все",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 231.42,
+        "end": 231.88
+      },
+      {
+        "text": "народы",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 231.88,
+        "end": 232.33
+      },
+      {
+        "text": "на",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 232.33,
+        "end": 232.5
+      },
+      {
+        "text": "земле».",
+        "chapter": 3,
+        "verse": 25,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 232.5,
+        "end": 232.98
+      }
+    ]
+  },
+  {
+    "text": "Когда Бог воскресил",
+    "start": 233.62,
+    "end": 235.08,
+    "combined_objects": [
+      {
+        "text": "Когда",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 233.62,
+        "end": 233.96
+      },
+      {
+        "text": "Бог",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 233.96,
+        "end": 234.42
+      },
+      {
+        "text": "воскресил",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 234.42,
+        "end": 235.08
+      }
+    ]
+  },
+  {
+    "text": "Своего Слугу,",
+    "start": 235.08,
+    "end": 236.16,
+    "combined_objects": [
+      {
+        "text": "Своего",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 235.08,
+        "end": 235.42
+      },
+      {
+        "text": "Слугу,",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 235.42,
+        "end": 236.16
+      }
+    ]
+  },
+  {
+    "text": "Он прежде всего послал",
+    "start": 236.48,
+    "end": 237.82,
+    "combined_objects": [
+      {
+        "text": "Он",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 236.48,
+        "end": 236.66
+      },
+      {
+        "text": "прежде",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 236.66,
+        "end": 237
+      },
+      {
+        "text": "всего",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 237,
+        "end": 237.3
+      }
+    ]
+  },
+  {
+    "text": "Его к вам,",
+    "start": 237.82,
+    "end": 238.78,
+    "combined_objects": [
+      {
+        "text": "послал",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 237.3,
+        "end": 237.82
+      },
+      {
+        "text": "Его",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 237.82,
+        "end": 238.1
+      },
+      {
+        "text": "к",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 238.1,
+        "end": 238.32
+      },
+      {
+        "text": "вам,",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 238.32,
+        "end": 238.78
+      }
+    ]
+  },
+  {
+    "text": "чтобы благословить вас и",
+    "start": 239,
+    "end": 241.12,
+    "combined_objects": [
+      {
+        "text": "чтобы",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 239,
+        "end": 239.16
+      },
+      {
+        "text": "благословить",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 239.16,
+        "end": 240.1
+      },
+      {
+        "text": "вас",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 240.1,
+        "end": 240.54
+      }
+    ]
+  },
+  {
+    "text": "призвать каждого из вас",
+    "start": 241.12,
+    "end": 242.88,
+    "combined_objects": [
+      {
+        "text": "и",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 240.54,
+        "end": 241.12
+      },
+      {
+        "text": "призвать",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 241.12,
+        "end": 241.6
+      },
+      {
+        "text": "каждого",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 241.6,
+        "end": 242.18
+      },
+      {
+        "text": "из",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 242.18,
+        "end": 242.39
+      },
+      {
+        "text": "вас",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 242.39,
+        "end": 242.88
+      }
+    ]
+  },
+  {
+    "text": "отвратиться от ваших злых",
+    "start": 243.88,
+    "end": 244.88,
+    "combined_objects": [
+      {
+        "text": "отвратиться",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles"
+      }
+    ]
+  },
+  {
+    "text": "дел.",
+    "start": 244.88,
+    "end": 245.12,
+    "combined_objects": [
+      {
+        "text": "от",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 242.88,
+        "end": 243.2
+      },
+      {
+        "text": "ваших",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 244.08,
+        "end": 244.44
+      },
+      {
+        "text": "злых",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 244.44,
+        "end": 244.88
+      },
+      {
+        "text": "дел.",
+        "chapter": 3,
+        "verse": 26,
+        "translation_id": "NRT",
+        "book_id": "Acts",
+        "book_name": "Acts of the Apostles",
+        "start": 244.88,
+        "end": 245.12
+      }
+    ]
+  }
+]

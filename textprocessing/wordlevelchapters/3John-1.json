@@ -1,0 +1,666 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "От старейшины дорогому Гаю,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "которого я люблю как"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "пребывающего в истине."
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Дорогой,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "я молюсь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "чтобы все у тебя было"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "благополучно"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "и чтобы ты был здоров,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "как благополучна твоя душа."
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Меня очень обрадовало,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "что приходившие братья"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "свидетельствовали о твоей"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "верности,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "как ты ходишь в истине."
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Для меня нет"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "большей радости,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "чем слышать о том,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "что мои дети"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "ходят в истине."
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Дорогой,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "ты верен во всем,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "что бы ты ни"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "делал для братьев,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "даже если они не"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "знакомы тебе лично."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Они засвидетельствовали о"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "твоей любви перед церковью,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "и будет хорошо,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "если ты поможешь им"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "продолжить путешествие,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "как это будет угодно Богу."
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Они ради Имени"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "Иисуса отправились в путь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "ничего не взяв"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "от язычников."
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Мы должны"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "поддерживать таких людей,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "чтобы содействовать"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "распространению истины."
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Я написал церкви,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "но Диотреф,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "который стремится у"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "них главенствовать,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "не принимает нас."
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Если я приду,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "то расскажу,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "чем он занимается,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "распространяя о"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "нас злые слухи."
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "Мало этого,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 7,
+    "text": "он сам отказывается"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 8,
+    "text": "принимать братьев,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 9,
+    "text": "запрещает это другим и"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 10,
+    "text": "выгоняет из церкви тех,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 11,
+    "text": "кто хочет это делать."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Дорогой,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "подражай не злу,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "а добру."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "Тот,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "кто делает добро,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "тот от Бога,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 7,
+    "text": "а кто делает зло,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 8,
+    "text": "тот Бога не видел."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Все хорошо"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "говорят о Димитрии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "то же говорит"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "и сама истина."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "Мы и сами тому свидетели,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "и ты знаешь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 7,
+    "text": "что наше"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 8,
+    "text": "свидетельство верно."
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Еще о многом я"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "хотел бы тебе сказать,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "но не буду доверять"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "это чернилам и перу."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 1,
+    "text": "Я надеюсь"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 2,
+    "text": "скоро тебя увидеть,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 3,
+    "text": "и тогда мы поговорим лично."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 4,
+    "text": "Мир тебе."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 5,
+    "text": "Твои друзья"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 6,
+    "text": "передают тебе приветы."
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 7,
+    "text": "Привет всем нашим друзьям,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "3 John",
+    "book_id": "3John",
+    "part": 8,
+    "text": "каждому лично."
+  }
+]

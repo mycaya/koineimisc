@@ -1,0 +1,978 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Родословие Иисуса Христа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "сына Давида,"
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "сына Авраама:"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Авраам был отцом Исаака,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Исаак отцом Иакова,"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Иаков отцом"
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "Иуды и его братьев,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Иуда отцом Фареса и Зераха,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "а матерью их была Фамарь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Фарес был отцом Хецрона,"
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "Хецрон отцом Арама,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Арам был отцом Аминадава,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Аминадав отцом Наассона,"
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Наассон отцом Салмона,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Салмон отцом Вооза,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "матерью Вооза была Раав,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Вооз был отцом Овида,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "матерью Овида была Руфь,"
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "Овид был отцом Иессея,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "а Иессей отцом царя Давида."
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Давид был отцом Соломона,"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "матерью Соломона"
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "была бывшая жена Урии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Соломон был отцом Ровоама,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Ровоам отцом Авии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Авия отцом Асы,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Аса отцом Иосафата,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Иосафат отцом Иорама,"
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Иорам отцом Уззии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Уззия отцом Иофама,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Иофам отцом Ахаза,"
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Ахаз отцом Езекии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Езекия отцом Манассии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Манассия отцом Амона,"
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Амон отцом Иосии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Иосия отцом Иоакима,"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Иоаким отцом"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Иехонии и его братьев."
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "В это время народ был"
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "переселен в Вавилон."
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "После переселения в Вавилон"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Иехония стал отцом"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Салафиила,"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "Салафиил был"
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "отцом Зоровавеля,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Зоровавель отцом Авиуда,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Авиуд отцом Елиакима,"
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Елиаким отцом Азора,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Азор отцом Садока,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Садок-отцом Ахима,"
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Ахим отцом Елиуда,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Елиуд отцом Елеазара,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Елеазар отцом Матфана,"
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Матфан отцом Иакова,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Иаков отцом Иосифа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "мужа Марии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "которая и родила Иисуса,"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "названного"
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "впоследствии Христом."
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Всего от Авраама до Давида"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "было четырнадцать"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "поколений,"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "от Давида до переселения в"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "Вавилон тоже четырнадцать"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 6,
+    "text": "и четырнадцать поколений от"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 7,
+    "text": "переселения в Вавилон до"
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 8,
+    "text": "Христа."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "История"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "рождения Иисуса такова."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "Мать Иисуса,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "Мария,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "была обручена с Иосифом,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 6,
+    "text": "но прежде чем"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 7,
+    "text": "они поженились,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 8,
+    "text": "оказалось,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 9,
+    "text": "что она беременна."
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 10,
+    "text": "Младенец,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 11,
+    "text": "которого ей"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 12,
+    "text": "предстояло родить,"
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 13,
+    "text": "был от Святого Духа."
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Жених Марии,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Иосиф,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "был человеком праведным и,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "узнав об этом,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "хотел тайно"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 6,
+    "text": "отпустить Марию,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 7,
+    "text": "не предавая дело огласке,"
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 8,
+    "text": "чтобы не опозорить ее."
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Но когда он"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "принял такое решение,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "ему во сне явился"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "ангел Господень и сказал:"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "Иосиф,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 6,
+    "text": "сын Давидов! Не"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 7,
+    "text": "бойся взять Марию в жены,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 8,
+    "text": "потому что Младенец,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 9,
+    "text": "что в ней,"
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 10,
+    "text": "от Святого Духа."
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Она родит Сына,"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "и ты назовешь Его Иисус,"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "потому что Он спасет"
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "народ Свой от грехов!"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Все,"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "что произошло,"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "было исполнением того,"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "что Господь"
+  },
+  {
+    "chapter": 1,
+    "verse": 22,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "сказал через пророка:"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Вот,"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "дева"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "забеременеет и родит Сына,"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "и назовут Его Еммануил,"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "что значит:"
+  },
+  {
+    "chapter": 1,
+    "verse": 23,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 6,
+    "text": "С нами Бог."
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "Пробудившись от сна,"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "Иосиф сделал так,"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "как велел ему"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "ангел Господень,"
+  },
+  {
+    "chapter": 1,
+    "verse": 24,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 5,
+    "text": "и Мария стала женой Иосифа,"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 1,
+    "text": "но супружеской близости"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 2,
+    "text": "между ними не было до тех пор,"
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 3,
+    "text": "пока она не родила Сына."
+  },
+  {
+    "chapter": 1,
+    "verse": 25,
+    "book_name": "Matthew",
+    "book_id": "Matt",
+    "part": 4,
+    "text": "Он назвал Его Иисусом."
+  }
+]

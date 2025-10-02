@@ -1,0 +1,994 @@
+[
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Вот,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "Владыка,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Господь сил,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "отнимет у Иерусалима и"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "Иудеи подпору и опору:"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "весь запас хлеба"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "и весь запас воды,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "храбреца и воина,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "судью и пророка,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "гадателя и старейшину,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "военачальника над"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "пятьюдесятью воинами"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "и знатного человека,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "советника,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "умелого ремесленника и"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "искусного заклинателя."
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Я поставлю"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "вождями над ними юнцов,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "ими будут править дети."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Люди будут притеснять"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "друг друга человек человека,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "ближний ближнего."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "Молодые будут"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "наглы со старыми,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "простолюдины со знатными."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Человек ухватится за своего"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "брата в доме своего отца"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "и скажет:"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "У тебя есть плащ,"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "будь нашим вождем;"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "правь этой грудой развалин!"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Но он"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "воскликнет в тот день:"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Не могу быть врачом."
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "Ни пищи,"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "ни одежды нет в моем доме;"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "не делайте меня"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "вождем народа."
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Иерусалим шатается,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "Иудея падает;"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "их слова и дела"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "против Господа,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "они восстают против"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "Его славного присутствия."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Выражение их"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "лиц обличает их;"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "они хвалятся своим грехом,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "как жители Содома,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "не таят его."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "Горе им! Они сами"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "навели на себя беду."
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Скажите праведным,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "что они блаженны,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "отведают плод своих дел."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Горе"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "нечестивым! Они несчастны."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Им воздастся"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "за дела их рук."
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Мой народ притесняют дети,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "им правят женщины."
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "О,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "мой народ! Вожди"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "твои сбили тебя с пути,"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "увели по ложной дороге."
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Господь встает судиться,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "поднимается судить народы."
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Господь начинает тяжбу со"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "старейшинами"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "и вождями Своего народа:"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "Это вы погубили"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "Мой виноградник;"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "награбленное у"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "бедных в ваших домах."
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Что вы тесните Мой народ"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "и угнетаете бедных?"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "возвещает Владыка,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "Господь сил."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Господь говорит:"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "Женщины Сиона надменны,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "ходят,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "высоко задрав нос,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "соблазняют глазами,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "семенят ногами,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "и звенят своими"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 8,
+    "text": "украшениями на лодыжках."
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Поэтому Владыка поразит"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "язвами головы женщин Сиона;"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "Господь оголит их темя."
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "В тот день Владыка"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "отнимет их украшения:"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "кольца на ногах,"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "медальоны-солнышки и"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "медальоны-полумесяцы,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "серьги,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "браслеты и покрывала,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "головные повязки,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "цепочки на"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "лодыжках и пояски,"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "флаконы с"
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "благовониями и амулеты,"
+  },
+  {
+    "chapter": 3,
+    "verse": 20,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "перстни и кольца для носа,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "изящные верхние одежды,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "накидки,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "плащи,"
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "кошельки,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "зеркальца,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "льняные сорочки,"
+  },
+  {
+    "chapter": 3,
+    "verse": 22,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "тюрбаны и шали."
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Вместо"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "благовония будет смрад;"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "вместо пояса веревка;"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "вместо изящной"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 5,
+    "text": "прически плешь;"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 6,
+    "text": "вместо богатой"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 7,
+    "text": "одежды рубище;"
+  },
+  {
+    "chapter": 3,
+    "verse": 23,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 8,
+    "text": "вместо красоты клеймо."
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Мужчины твои"
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "погибнут от меча,"
+  },
+  {
+    "chapter": 3,
+    "verse": 24,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "твои воины падут в битве."
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 1,
+    "text": "Ворота столицы будут"
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 2,
+    "text": "плакать и сетовать;"
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 3,
+    "text": "опустошенная,"
+  },
+  {
+    "chapter": 3,
+    "verse": 25,
+    "book_name": "Isaiah",
+    "book_id": "Isa",
+    "part": 4,
+    "text": "сядет она на землю."
+  }
+]

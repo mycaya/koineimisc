@@ -1,0 +1,818 @@
+[
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Братья мои,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "пусть немногие из вас"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "становятся учителямив церкви,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "ведь вы знаете,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "что мы,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "учители,"
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "будем судимы более строго."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Мы все во многом грешим."
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "Кто не грешит в словах,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "тот человек совершенный,"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "способный"
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "обуздать и все тело."
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Вкладывая"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "удила в рот лошади,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "чтобы заставить"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "ее повиноваться,"
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "мы управляем всем ее телом."
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Или возьмем,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "к примеру,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "корабли:"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "как бы велики они ни были"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "и какой бы сильный ветер ни"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "дул,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "они направляются"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 8,
+    "text": "небольшим рулем туда,"
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 9,
+    "text": "куда хочет штурман."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Так же и язык:"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "это маленький орган,"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "но он много хвастается."
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "Взгляни большой лесной"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "пожар начинается с"
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "маленькой искры."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Язык это тоже огонь,"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "это место обитания"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "неправедности среди других"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "наших органов."
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "Он оскверняет все тело и"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "воспламеняет весь ход жизни,"
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "сам загораясь от ада."
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Все звери,"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "птицы,"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "пресмыкающиеся"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "и морские животные могут"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "быть укрощены"
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "и укрощаются человеком,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "но язык не может"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "укротить никто."
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "Он необузданное зло,"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "полное смертоносного яда."
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Языком мы славим Господа"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "и Отца"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "и тем же языком тут же"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "проклинаем людей,"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "которые сотворены"
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "по подобию Бога."
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Из тех же уст выходят"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "хвала и проклятие! Братья мои,"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "этого быть не должно."
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Разве может из одного"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "и того же"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "источника течь пресная"
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "и горькая вода?"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Разве могут на"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "инжире расти оливки"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "или же на виноградной лозе"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "инжир? Так же и из соленого"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "источника не может течь"
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "пресная вода."
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Кто среди вас мудрый"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "и разумный? Пусть он своей"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "достойной жизнью покажет,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "что его дела"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "совершены с кротостью,"
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "которую дает мудрость."
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Но если вы вынашиваете в"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "сердце горькую зависть"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "и самолюбивые желания,"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "то не хвалитесь и не"
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "лгите против истины."
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Такая мудрость"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "приходит вовсе не с небес,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "она земная,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "человеческая,"
+  },
+  {
+    "chapter": 3,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "от дьявола."
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Там,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "где людьми руководят"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "зависть и самолюбивые желания,"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "там беспорядок и"
+  },
+  {
+    "chapter": 3,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "всякого рода зло."
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "А та мудрость,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "которая приходит с небес,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "чиста,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "миролюбива,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "мягка,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "послушна,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "полна милосердия"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 8,
+    "text": "и добрых плодов,"
+  },
+  {
+    "chapter": 3,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 9,
+    "text": "беспристрастна и искренна."
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Семена,"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "дающие плод праведности,"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "мирно сеются теми,"
+  },
+  {
+    "chapter": 3,
+    "verse": 18,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "кто творит мир."
+  }
+]

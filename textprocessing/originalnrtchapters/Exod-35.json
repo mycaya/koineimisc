@@ -1,0 +1,282 @@
+[
+    {
+        "chapter": 35,
+        "verse": 1,
+        "text": "Моисей собрал все общество израильтян и сказал им: - Вот что Господь повелел вам:",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 2,
+        "text": "заниматься делами следует шесть дней, но седьмой день - святой, суббота покоя - Господу. Всякий, кто станет в этот день заниматься делами, будет предан смерти.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 3,
+        "text": "Не зажигайте в субботний день огня в своих жилищах.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 4,
+        "text": "Моисей сказал обществу израильтян: - Господь повелел:",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 5,
+        "text": "«Из того, что у вас есть, сделайте приношение Господу. Пусть всякий, у кого щедрое сердце, сделает Господу приношение золотом, серебром и бронзой;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 6,
+        "text": "голубой, пурпурной, алой пряжей и тонким льном; козьей шерстью;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 7,
+        "text": "бараньей кожей, покрашенной красным, кожей дюгоней и древесиной акации;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 8,
+        "text": "оливковым маслом для светильника; благовониями для масла помазания и для возжигания;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 9,
+        "text": "ониксом и другими самоцветами, чтобы украсить камнями ефод и нагрудник.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 10,
+        "text": "Те из вас, кто искусен в ремеслах, пусть придут и сделают все, что повелел Господь:",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 11,
+        "text": "скинию с покрытием, застежками, брусьями, перекладинами, столбами и основаниями;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 12,
+        "text": "ковчег с шестами и крышкой и завесу, которая его закрывает;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 13,
+        "text": "стол с шестами и всей утварью и хлеб Присутствия;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 14,
+        "text": "светильник для освещения со всей утварью и лампадами и масло для освещения;",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 15,
+        "text": "жертвенник для возжигания благовоний с шестами, масло для помазания, благовония, завесу для входа в скинию,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 16,
+        "text": "жертвенник для всесожжений с бронзовой решеткой, шестами и утварью, умывальник на его основании,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 17,
+        "text": "завесы двора со столбами и основаниями, завесу для входа во двор,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 18,
+        "text": "колья с веревками для скинии и двора,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 19,
+        "text": "тканые одеяния для служения в святилище: священные одеяния для священника Аарона и его сыновей, когда они служат как священники».",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 20,
+        "text": "Народ израильский разошелся от Моисея,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 21,
+        "text": "и каждый, кто хотел и кого побуждало сердце, приходил и делал приношение Господу на изготовление шатра собрания, на службу в ней и на священные одеяния.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 22,
+        "text": "Все щедрые сердцем, и мужчины, и женщины, приходили и приносили разные золотые изделия: броши, серьги, перстни и подвески. Они посвящали свое золото Господу.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 23,
+        "text": "У кого были голубая, пурпурная или алая пряжа, тонкий лен, козья шерсть, баранья кожа, крашенная красным, или кожа дюгоней, приносил их.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 24,
+        "text": "Те, кто мог жертвовать серебро или бронзу, приносили их в дар Господу, и всякий, у кого была древесина акации для какой-либо работы, приносил ее.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 25,
+        "text": "Каждая искусная женщина сама пряла и приносила то, что напряла: голубую, пурпурную или алую пряжу или тонкий лен.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 26,
+        "text": "Женщины, которые умели прясть, по велению сердца пряли козью шерсть.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 27,
+        "text": "Главы родов приносили оникс и другие самоцветы, чтобы украсить ими ефод и нагрудник.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 28,
+        "text": "Еще они приносили благовония и оливковое масло для светильника, для масла помазания и для возжигания.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 29,
+        "text": "Все израильтяне и израильтянки, кого побуждало сердце, делали Господу добровольные приношения для той работы, которую Господь через Моисея повелел им сделать.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 30,
+        "text": "Моисей сказал израильтянам: - Господь избрал Веселеила, сына Урии, внука Хура, из рода Иуды,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 31,
+        "text": "и исполнил его Духом Божьим, мудростью, разумением, знанием и всяким мастерством.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 32,
+        "text": "Он может воплощать творческие замыслы в золоте, серебре и бронзе,",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 33,
+        "text": "может гранить и оправлять камни, резать по дереву и заниматься всяким ремеслом.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 34,
+        "text": "Он даровал ему и Аголиаву, сыну Ахисамаха, из рода Дана, способность учить других.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    },
+    {
+        "chapter": 35,
+        "verse": 35,
+        "text": "Он дал им умение делать любую работу ремесленников, художников, ткачей и вышивальщиков по голубой, пурпурной и алой ткани и тонкому льну. Они были искусными ремесленниками и художниками.",
+        "translation_id": "NRT",
+        "book_id": "Exod",
+        "book_name": "Exodus"
+    }
+]

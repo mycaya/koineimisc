@@ -1,0 +1,434 @@
+[
+  {
+    "chapter": 12,
+    "verse": 1,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Господь сказал Моисею:"
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "- Скажи израильтянам:"
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "Женщина,"
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "которая"
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "забеременела и родила сына,"
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "будет нечиста семь дней,"
+  },
+  {
+    "chapter": 12,
+    "verse": 2,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "как во время месячных."
+  },
+  {
+    "chapter": 12,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "На восьмой день мальчику"
+  },
+  {
+    "chapter": 12,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "должно быть сделано"
+  },
+  {
+    "chapter": 12,
+    "verse": 3,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "обрезание."
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Затем женщина должна"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "ждать тридцать три дня,"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "чтобы очиститься"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "от кровотечения."
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "Пусть она не прикасается к"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "священным предметам"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "и не ходит в святилище,"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "пока не"
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 9,
+    "text": "пройдут дни очищения."
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Если она родит дочь,"
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "то будет"
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "нечиста две недели,"
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "как во время месячных."
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "Затем она должна ждать"
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "шестьдесят шесть дней,"
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "чтобы очиститься"
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "от кровотечения."
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Когда дни очищения за"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "сына или дочь пройдут,"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "пусть она принесет"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "священнику ко входу в шатер"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "собрания годовалого ягненка"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "для всесожжения"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "и молодого голубя"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "или горлицу в жертву за"
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 9,
+    "text": "грех."
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Он принесет их в"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "жертву Господу,"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "чтобы совершить"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "для нее отпущение,"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "и она очистится от"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "кровотечения после родов."
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "Таковы правила для женщины,"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "родившей"
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 9,
+    "text": "мальчика или девочку."
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 1,
+    "text": "Если ей не по"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 2,
+    "text": "средствам принести ягненка,"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 3,
+    "text": "пусть принесет пару горлиц"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 4,
+    "text": "или двух молодых голубей,"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 5,
+    "text": "одного для всесожжения,"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 6,
+    "text": "а другого в жертву за грех."
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 7,
+    "text": "Священник совершит"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 8,
+    "text": "для нее отпущение,"
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "book_name": "Leviticus",
+    "book_id": "Lev",
+    "part": 9,
+    "text": "и она станет чиста."
+  }
+]

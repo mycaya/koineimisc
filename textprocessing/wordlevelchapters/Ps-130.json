@@ -1,0 +1,794 @@
+[
+  {
+    "chapter": 130,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Славьте Господа,"
+  },
+  {
+    "chapter": 130,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что Он благ,"
+  },
+  {
+    "chapter": 130,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки."
+  },
+  {
+    "chapter": 130,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Славьте Бога богов,"
+  },
+  {
+    "chapter": 130,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "милость Его навеки."
+  },
+  {
+    "chapter": 130,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Славьте Владыку владык,"
+  },
+  {
+    "chapter": 130,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "милость Его навеки."
+  },
+  {
+    "chapter": 130,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Того,"
+  },
+  {
+    "chapter": 130,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Кто один творит"
+  },
+  {
+    "chapter": 130,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "великие чудеса,"
+  },
+  {
+    "chapter": 130,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "премудро"
+  },
+  {
+    "chapter": 130,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "сотворившего небеса,"
+  },
+  {
+    "chapter": 130,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "распростершего над водами"
+  },
+  {
+    "chapter": 130,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "землю потому что милость"
+  },
+  {
+    "chapter": 130,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "сотворившего великие"
+  },
+  {
+    "chapter": 130,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "светила потому что милость"
+  },
+  {
+    "chapter": 130,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "солнце,"
+  },
+  {
+    "chapter": 130,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "чтобы управлять днем,"
+  },
+  {
+    "chapter": 130,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "луну и звезды,"
+  },
+  {
+    "chapter": 130,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "чтобы управлять ночью;"
+  },
+  {
+    "chapter": 130,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Того,"
+  },
+  {
+    "chapter": 130,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Кто поразил"
+  },
+  {
+    "chapter": 130,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "первенцев Египта,"
+  },
+  {
+    "chapter": 130,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "выведшего из"
+  },
+  {
+    "chapter": 130,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "его среды Израиль,"
+  },
+  {
+    "chapter": 130,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки,"
+  },
+  {
+    "chapter": 130,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "могучей дланью и"
+  },
+  {
+    "chapter": 130,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "простертой рукой,"
+  },
+  {
+    "chapter": 130,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Того,"
+  },
+  {
+    "chapter": 130,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Кто разделил Красное море,"
+  },
+  {
+    "chapter": 130,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "и проведшего"
+  },
+  {
+    "chapter": 130,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "сквозь него Израиль,"
+  },
+  {
+    "chapter": 130,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "но повергшего в Красное"
+  },
+  {
+    "chapter": 130,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "море фараона"
+  },
+  {
+    "chapter": 130,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и войско его потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Того,"
+  },
+  {
+    "chapter": 130,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Кто провел Свой"
+  },
+  {
+    "chapter": 130,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "народ через пустыню,"
+  },
+  {
+    "chapter": 130,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 16,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "поразившего великих царей"
+  },
+  {
+    "chapter": 130,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что милость Его"
+  },
+  {
+    "chapter": 130,
+    "verse": 17,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "умертвившего могучих царей"
+  },
+  {
+    "chapter": 130,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что милость Его"
+  },
+  {
+    "chapter": 130,
+    "verse": 18,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Сигона,"
+  },
+  {
+    "chapter": 130,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "царя аморреев,"
+  },
+  {
+    "chapter": 130,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 19,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Ога,"
+  },
+  {
+    "chapter": 130,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "царя Васана потому"
+  },
+  {
+    "chapter": 130,
+    "verse": 20,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "что милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "отдавшего их"
+  },
+  {
+    "chapter": 130,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "землю в наследие,"
+  },
+  {
+    "chapter": 130,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 21,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "в наследие слуге"
+  },
+  {
+    "chapter": 130,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Своему Израилю,"
+  },
+  {
+    "chapter": 130,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 22,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Того,"
+  },
+  {
+    "chapter": 130,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Кто вспомнил нас"
+  },
+  {
+    "chapter": 130,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "в нашем унижении,"
+  },
+  {
+    "chapter": 130,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 23,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "милость Его навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "и"
+  },
+  {
+    "chapter": 130,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "избавившего нас от врагов"
+  },
+  {
+    "chapter": 130,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "потому что милость Его"
+  },
+  {
+    "chapter": 130,
+    "verse": 24,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "навеки;"
+  },
+  {
+    "chapter": 130,
+    "verse": 25,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "дающего пищу всему живому,"
+  },
+  {
+    "chapter": 130,
+    "verse": 25,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 25,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "милость Его навеки."
+  },
+  {
+    "chapter": 130,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Славьте Бога небес,"
+  },
+  {
+    "chapter": 130,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "потому что"
+  },
+  {
+    "chapter": 130,
+    "verse": 26,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "милость Его навеки."
+  }
+]

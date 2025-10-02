@@ -1,0 +1,634 @@
+[
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Молитва Давида."
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Услышь,"
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "мольбу мою о"
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "справедливости;"
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "прислушайся к крику моему!"
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "Внемли молитве"
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 8,
+    "text": "из нелживых уст!"
+  },
+  {
+    "chapter": 15,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Да придет от"
+  },
+  {
+    "chapter": 15,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Тебя оправдание мне."
+  },
+  {
+    "chapter": 15,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Пусть увидят"
+  },
+  {
+    "chapter": 15,
+    "verse": 2,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "правду глаза Твои."
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Ты изучил мое сердце,"
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "испытал меня ночью;"
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "Ты испытал меня,"
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "но не нашел вины;"
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "уста мои не грешат."
+  },
+  {
+    "chapter": 15,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Что же до дел других,"
+  },
+  {
+    "chapter": 15,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "то по слову"
+  },
+  {
+    "chapter": 15,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "из Твоих уст я себя"
+  },
+  {
+    "chapter": 15,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "сохранил от путей"
+  },
+  {
+    "chapter": 15,
+    "verse": 4,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "притеснителя."
+  },
+  {
+    "chapter": 15,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Стопы мои шли"
+  },
+  {
+    "chapter": 15,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "по Твоим путям,"
+  },
+  {
+    "chapter": 15,
+    "verse": 5,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "мои ноги не оступались."
+  },
+  {
+    "chapter": 15,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Я взываю к Тебе,"
+  },
+  {
+    "chapter": 15,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Боже,"
+  },
+  {
+    "chapter": 15,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "ведь Ты мне ответишь,"
+  },
+  {
+    "chapter": 15,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "прислушайся ко мне,"
+  },
+  {
+    "chapter": 15,
+    "verse": 6,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "молитву мою услышь."
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Яви мне чудо милости Твоей,"
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "Ты,"
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "правой рукой"
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "Своей спасающий тех,"
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "кто ищет в Тебе"
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "прибежище от своего врага."
+  },
+  {
+    "chapter": 15,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Береги меня как зеницу ока,"
+  },
+  {
+    "chapter": 15,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "в тени Твоих"
+  },
+  {
+    "chapter": 15,
+    "verse": 8,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "крыльев сохрани меня"
+  },
+  {
+    "chapter": 15,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "от нечестивых,"
+  },
+  {
+    "chapter": 15,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "ополчившихся на меня,"
+  },
+  {
+    "chapter": 15,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "от смертельных врагов,"
+  },
+  {
+    "chapter": 15,
+    "verse": 9,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "обступивших меня."
+  },
+  {
+    "chapter": 15,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Закрыты для"
+  },
+  {
+    "chapter": 15,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "жалости их сердца,"
+  },
+  {
+    "chapter": 15,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "и уста их"
+  },
+  {
+    "chapter": 15,
+    "verse": 10,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "надменное говорят."
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Они выслеживали меня,"
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "теперь меня окружают;"
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "сторожат глаза"
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "их удобный миг,"
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "чтобы на землю"
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "меня повергнуть."
+  },
+  {
+    "chapter": 15,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Они словно голодный лев,"
+  },
+  {
+    "chapter": 15,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "словно лев,"
+  },
+  {
+    "chapter": 15,
+    "verse": 12,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "что в засаде ждет."
+  },
+  {
+    "chapter": 15,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Господи,"
+  },
+  {
+    "chapter": 15,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "восстань,"
+  },
+  {
+    "chapter": 15,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "предстань пред ними!"
+  },
+  {
+    "chapter": 15,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "повергни их Своим мечом,"
+  },
+  {
+    "chapter": 15,
+    "verse": 13,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "избавь меня от нечестивых;"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "Своей рукою,"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "о Господи,"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "спаси от людей"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "людей этого мира,"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "чья доля"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 6,
+    "text": "только в этой жизни."
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 7,
+    "text": "Пусть"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 8,
+    "text": "наполнится чрево их тем,"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 9,
+    "text": "что Ты для них припас,"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 10,
+    "text": "пусть у детей их"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 11,
+    "text": "излишек останется,"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 12,
+    "text": "пусть внукам своим"
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 13,
+    "text": "отдадут оставшееся."
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 1,
+    "text": "А я по"
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 2,
+    "text": "праведности увижу Твое лицо;"
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 3,
+    "text": "пробудившись,"
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 4,
+    "text": "буду насыщаться"
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "book_name": "Psalms",
+    "book_id": "Ps",
+    "part": 5,
+    "text": "образом Твоим."
+  }
+]

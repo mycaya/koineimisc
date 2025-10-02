@@ -1,0 +1,266 @@
+[
+    {
+        "book_id": "Gen",
+        "highest_consecutive_chapter": 50
+    },
+    {
+        "book_id": "Exod",
+        "highest_consecutive_chapter": 40
+    },
+    {
+        "book_id": "Lev",
+        "highest_consecutive_chapter": 27
+    },
+    {
+        "book_id": "Num",
+        "highest_consecutive_chapter": 36
+    },
+    {
+        "book_id": "Deut",
+        "highest_consecutive_chapter": 34
+    },
+    {
+        "book_id": "Josh",
+        "highest_consecutive_chapter": 24
+    },
+    {
+        "book_id": "Judg",
+        "highest_consecutive_chapter": 21
+    },
+    {
+        "book_id": "Ruth",
+        "highest_consecutive_chapter": 4
+    },
+    {
+        "book_id": "1Sam",
+        "highest_consecutive_chapter": 31
+    },
+    {
+        "book_id": "2Sam",
+        "highest_consecutive_chapter": 24
+    },
+    {
+        "book_id": "1Kgs",
+        "highest_consecutive_chapter": 22
+    },
+    {
+        "book_id": "2Kgs",
+        "highest_consecutive_chapter": 25
+    },
+    {
+        "book_id": "1Chr",
+        "highest_consecutive_chapter": 29
+    },
+    {
+        "book_id": "2Chr",
+        "highest_consecutive_chapter": 36
+    },
+    {
+        "book_id": "Ezra",
+        "highest_consecutive_chapter": 10
+    },
+    {
+        "book_id": "Neh",
+        "highest_consecutive_chapter": 13
+    },
+    {
+        "book_id": "Esth",
+        "highest_consecutive_chapter": 10
+    },
+    {
+        "book_id": "Job",
+        "highest_consecutive_chapter": 42
+    },
+    {
+        "book_id": "Ps",
+        "highest_consecutive_chapter": 145
+    },
+    {
+        "book_id": "Prov",
+        "highest_consecutive_chapter": 31
+    },
+    {
+        "book_id": "Eccl",
+        "highest_consecutive_chapter": 12
+    },
+    {
+        "book_id": "Song",
+        "highest_consecutive_chapter": 8
+    },
+    {
+        "book_id": "Isa",
+        "highest_consecutive_chapter": 66
+    },
+    {
+        "book_id": "Jer",
+        "highest_consecutive_chapter": 52
+    },
+    {
+        "book_id": "Lam",
+        "highest_consecutive_chapter": 5
+    },
+    {
+        "book_id": "Ezek",
+        "highest_consecutive_chapter": 48
+    },
+    {
+        "book_id": "Dan",
+        "highest_consecutive_chapter": 12
+    },
+    {
+        "book_id": "Hos",
+        "highest_consecutive_chapter": 14
+    },
+    {
+        "book_id": "Joel",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "Amos",
+        "highest_consecutive_chapter": 9
+    },
+    {
+        "book_id": "Obad",
+        "highest_consecutive_chapter": 1
+    },
+    {
+        "book_id": "Jona",
+        "highest_consecutive_chapter": 4
+    },
+    {
+        "book_id": "Mic",
+        "highest_consecutive_chapter": 7
+    },
+    {
+        "book_id": "Nah",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "Hab",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "Zeph",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "Hag",
+        "highest_consecutive_chapter": 2
+    },
+    {
+        "book_id": "Zech",
+        "highest_consecutive_chapter": 14
+    },
+    {
+        "book_id": "Mal",
+        "highest_consecutive_chapter": 4
+    },
+    {
+        "book_id": "Matt",
+        "highest_consecutive_chapter": 28
+    },
+    {
+        "book_id": "Mark",
+        "highest_consecutive_chapter": 16
+    },
+    {
+        "book_id": "Luke",
+        "highest_consecutive_chapter": 24
+    },
+    {
+        "book_id": "John",
+        "highest_consecutive_chapter": 21
+    },
+    {
+        "book_id": "Acts",
+        "highest_consecutive_chapter": 28
+    },
+    {
+        "book_id": "Rom",
+        "highest_consecutive_chapter": 16
+    },
+    {
+        "book_id": "1Cor",
+        "highest_consecutive_chapter": 16
+    },
+    {
+        "book_id": "2Cor",
+        "highest_consecutive_chapter": 13
+    },
+    {
+        "book_id": "Gal",
+        "highest_consecutive_chapter": 6
+    },
+    {
+        "book_id": "Eph",
+        "highest_consecutive_chapter": 6
+    },
+    {
+        "book_id": "Phil",
+        "highest_consecutive_chapter": 4
+    },
+    {
+        "book_id": "Col",
+        "highest_consecutive_chapter": 4
+    },
+    {
+        "book_id": "1Thess",
+        "highest_consecutive_chapter": 5
+    },
+    {
+        "book_id": "2Thess",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "1Tim",
+        "highest_consecutive_chapter": 6
+    },
+    {
+        "book_id": "2Tim",
+        "highest_consecutive_chapter": 4
+    },
+    {
+        "book_id": "Titus",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "Phlm",
+        "highest_consecutive_chapter": 1
+    },
+    {
+        "book_id": "Heb",
+        "highest_consecutive_chapter": 13
+    },
+    {
+        "book_id": "Jas",
+        "highest_consecutive_chapter": 5
+    },
+    {
+        "book_id": "1Pet",
+        "highest_consecutive_chapter": 5
+    },
+    {
+        "book_id": "2Pet",
+        "highest_consecutive_chapter": 3
+    },
+    {
+        "book_id": "1John",
+        "highest_consecutive_chapter": 5
+    },
+    {
+        "book_id": "2John",
+        "highest_consecutive_chapter": 1
+    },
+    {
+        "book_id": "3John",
+        "highest_consecutive_chapter": 1
+    },
+    {
+        "book_id": "Jude",
+        "highest_consecutive_chapter": 1
+    },
+    {
+        "book_id": "Rev",
+        "highest_consecutive_chapter": 22
+    }
+]

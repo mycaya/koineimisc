@@ -1,0 +1,2466 @@
+[
+  {
+    "chapter": 6,
+    "verse": 1,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Сыновья Левия:"
+  },
+  {
+    "chapter": 6,
+    "verse": 1,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Гирсон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 1,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Кааф и Мерари."
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Сыновья Каафа:"
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Амрам,"
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Ицгар,"
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Хеврон и Узиил."
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Дети Амрама:"
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Аарон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Моисей и Мариам."
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Сыновья Аарона:"
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Надав,"
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "Авиуд,"
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 7,
+    "text": "Елеазар и Ифамар."
+  },
+  {
+    "chapter": 6,
+    "verse": 4,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Елеазар был отцом Финееса,"
+  },
+  {
+    "chapter": 6,
+    "verse": 4,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Финеес отцом Авишуя,"
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Авишуй отцом Буккия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Буккий отцом Уззия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 6,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Уззий отцом Зерахии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 6,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Зерахия отцом Мераиофа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Мераиоф отцом Амарии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Амария отцом Ахитува,"
+  },
+  {
+    "chapter": 6,
+    "verse": 8,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Ахитув отцом Садока,"
+  },
+  {
+    "chapter": 6,
+    "verse": 8,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Садок отцом Ахимааца,"
+  },
+  {
+    "chapter": 6,
+    "verse": 9,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Ахимаац отцом Азарии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 9,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Азария отцом Иоханана,"
+  },
+  {
+    "chapter": 6,
+    "verse": 10,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Иоханан отцом Азарии (это"
+  },
+  {
+    "chapter": 6,
+    "verse": 10,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "он был священником в храме,"
+  },
+  {
+    "chapter": 6,
+    "verse": 10,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "построенном"
+  },
+  {
+    "chapter": 6,
+    "verse": 10,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Соломоном в Иерусалиме),"
+  },
+  {
+    "chapter": 6,
+    "verse": 11,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Азария был отцом Амарии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 11,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Амария отцом Ахитува,"
+  },
+  {
+    "chapter": 6,
+    "verse": 12,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Ахитув отцом Садока,"
+  },
+  {
+    "chapter": 6,
+    "verse": 12,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Садок отцом Шаллума,"
+  },
+  {
+    "chapter": 6,
+    "verse": 13,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Шаллум отцом Хелкии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 13,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Хелкия отцом Азарии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 14,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Азария отцом Сераии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 14,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "И Сераия отцом Иоседека,"
+  },
+  {
+    "chapter": 6,
+    "verse": 15,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Иоседек попал в плен,"
+  },
+  {
+    "chapter": 6,
+    "verse": 15,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "когда Господь отправил в"
+  },
+  {
+    "chapter": 6,
+    "verse": 15,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "плен Иудею"
+  },
+  {
+    "chapter": 6,
+    "verse": 15,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "и Иерусалим рукою"
+  },
+  {
+    "chapter": 6,
+    "verse": 15,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Навуходоносора."
+  },
+  {
+    "chapter": 6,
+    "verse": 16,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Сыновья Левия:"
+  },
+  {
+    "chapter": 6,
+    "verse": 16,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Гирсон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 16,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Кааф и Мерари."
+  },
+  {
+    "chapter": 6,
+    "verse": 17,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Вот имена сыновей Гирсона:"
+  },
+  {
+    "chapter": 6,
+    "verse": 17,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Ливни и Шимей."
+  },
+  {
+    "chapter": 6,
+    "verse": 18,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Сыновья Каафа:"
+  },
+  {
+    "chapter": 6,
+    "verse": 18,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Амрам,"
+  },
+  {
+    "chapter": 6,
+    "verse": 18,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Ицгар,"
+  },
+  {
+    "chapter": 6,
+    "verse": 18,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Хеврон и Узиил."
+  },
+  {
+    "chapter": 6,
+    "verse": 19,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Сыновья Мерари:"
+  },
+  {
+    "chapter": 6,
+    "verse": 19,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Махли и Муши."
+  },
+  {
+    "chapter": 6,
+    "verse": 19,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Вот кланы левитов,"
+  },
+  {
+    "chapter": 6,
+    "verse": 19,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "исчисленные по их отцам:"
+  },
+  {
+    "chapter": 6,
+    "verse": 20,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "у Гирсона:"
+  },
+  {
+    "chapter": 6,
+    "verse": 20,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Ливни,"
+  },
+  {
+    "chapter": 6,
+    "verse": 20,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Иахат,"
+  },
+  {
+    "chapter": 6,
+    "verse": 20,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Зимма,"
+  },
+  {
+    "chapter": 6,
+    "verse": 21,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Иоах,"
+  },
+  {
+    "chapter": 6,
+    "verse": 21,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Иддо,"
+  },
+  {
+    "chapter": 6,
+    "verse": 21,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Зерах,"
+  },
+  {
+    "chapter": 6,
+    "verse": 21,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Иеафрай."
+  },
+  {
+    "chapter": 6,
+    "verse": 22,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Потомки Каафа:"
+  },
+  {
+    "chapter": 6,
+    "verse": 22,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Аминадав,"
+  },
+  {
+    "chapter": 6,
+    "verse": 22,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Корей,"
+  },
+  {
+    "chapter": 6,
+    "verse": 22,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Асир,"
+  },
+  {
+    "chapter": 6,
+    "verse": 23,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Елкана,"
+  },
+  {
+    "chapter": 6,
+    "verse": 23,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Евиасаф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 23,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Асир,"
+  },
+  {
+    "chapter": 6,
+    "verse": 24,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Тахаф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 24,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Уриил,"
+  },
+  {
+    "chapter": 6,
+    "verse": 24,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Уззия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 24,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Саул."
+  },
+  {
+    "chapter": 6,
+    "verse": 25,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Потомки Елканы:"
+  },
+  {
+    "chapter": 6,
+    "verse": 25,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Амасай и Ахимоф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 26,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Елкана,"
+  },
+  {
+    "chapter": 6,
+    "verse": 26,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Цофай,"
+  },
+  {
+    "chapter": 6,
+    "verse": 26,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Нахаф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 27,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Елиав,"
+  },
+  {
+    "chapter": 6,
+    "verse": 27,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Иерохам,"
+  },
+  {
+    "chapter": 6,
+    "verse": 27,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Елкана,"
+  },
+  {
+    "chapter": 6,
+    "verse": 27,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Самуил."
+  },
+  {
+    "chapter": 6,
+    "verse": 28,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Сыновья Самуила:"
+  },
+  {
+    "chapter": 6,
+    "verse": 28,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Иоиль,"
+  },
+  {
+    "chapter": 6,
+    "verse": 28,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его первенец,"
+  },
+  {
+    "chapter": 6,
+    "verse": 28,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "И Авия второй сын."
+  },
+  {
+    "chapter": 6,
+    "verse": 29,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Потомки Мерари:"
+  },
+  {
+    "chapter": 6,
+    "verse": 29,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Махли,"
+  },
+  {
+    "chapter": 6,
+    "verse": 29,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Ливни,"
+  },
+  {
+    "chapter": 6,
+    "verse": 29,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Шимей,"
+  },
+  {
+    "chapter": 6,
+    "verse": 29,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "его сын Узза,"
+  },
+  {
+    "chapter": 6,
+    "verse": 30,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Шима,"
+  },
+  {
+    "chapter": 6,
+    "verse": 30,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Хаггия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 30,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Асаия."
+  },
+  {
+    "chapter": 6,
+    "verse": 31,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Вот те,"
+  },
+  {
+    "chapter": 6,
+    "verse": 31,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "кому Давид вверил"
+  },
+  {
+    "chapter": 6,
+    "verse": 31,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "песенную службу в доме Господнем,"
+  },
+  {
+    "chapter": 6,
+    "verse": 31,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "после того,"
+  },
+  {
+    "chapter": 6,
+    "verse": 31,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "как туда был"
+  },
+  {
+    "chapter": 6,
+    "verse": 31,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "перенесен ковчег."
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Они несли песенную"
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "службу перед скинией собрания,"
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "пока Соломон не выстроил"
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Господу храм в Иерусалиме."
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Они"
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "исполняли свои обязанности"
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 7,
+    "text": "по положенным для них"
+  },
+  {
+    "chapter": 6,
+    "verse": 32,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 8,
+    "text": "установлениям."
+  },
+  {
+    "chapter": 6,
+    "verse": 33,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Вот имена тех,"
+  },
+  {
+    "chapter": 6,
+    "verse": 33,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "кто нес эту службу"
+  },
+  {
+    "chapter": 6,
+    "verse": 33,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "вместе со своими сыновьями:"
+  },
+  {
+    "chapter": 6,
+    "verse": 33,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "из каафитов Еман певец,"
+  },
+  {
+    "chapter": 6,
+    "verse": 33,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "сын Иоиля,"
+  },
+  {
+    "chapter": 6,
+    "verse": 33,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "сына Самуила,"
+  },
+  {
+    "chapter": 6,
+    "verse": 34,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Елканы,"
+  },
+  {
+    "chapter": 6,
+    "verse": 34,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Иерохама,"
+  },
+  {
+    "chapter": 6,
+    "verse": 34,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Елиела,"
+  },
+  {
+    "chapter": 6,
+    "verse": 34,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "сына Тоаха,"
+  },
+  {
+    "chapter": 6,
+    "verse": 35,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Цуфа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 35,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Елканы,"
+  },
+  {
+    "chapter": 6,
+    "verse": 35,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Махафа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 35,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "сына Амасая,"
+  },
+  {
+    "chapter": 6,
+    "verse": 36,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Елканы,"
+  },
+  {
+    "chapter": 6,
+    "verse": 36,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Иоиля,"
+  },
+  {
+    "chapter": 6,
+    "verse": 36,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Азарии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 36,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "сына Софонии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 37,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Тахафа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 37,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Асира,"
+  },
+  {
+    "chapter": 6,
+    "verse": 37,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Евиасафа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 37,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "сына Корея,"
+  },
+  {
+    "chapter": 6,
+    "verse": 38,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Ицгара,"
+  },
+  {
+    "chapter": 6,
+    "verse": 38,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Каафа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 38,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Левия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 38,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "сына Израиля."
+  },
+  {
+    "chapter": 6,
+    "verse": 39,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "И брат Емана Асаф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 39,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "который совершал"
+  },
+  {
+    "chapter": 6,
+    "verse": 39,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "службу справа от него:"
+  },
+  {
+    "chapter": 6,
+    "verse": 39,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Асаф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 39,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "сын Берехии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 39,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "сына Шимы,"
+  },
+  {
+    "chapter": 6,
+    "verse": 40,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Михаила,"
+  },
+  {
+    "chapter": 6,
+    "verse": 40,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Ваасеи,"
+  },
+  {
+    "chapter": 6,
+    "verse": 40,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Малхии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 41,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Ефния,"
+  },
+  {
+    "chapter": 6,
+    "verse": 41,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Зераха,"
+  },
+  {
+    "chapter": 6,
+    "verse": 41,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Адаии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 42,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Ефана,"
+  },
+  {
+    "chapter": 6,
+    "verse": 42,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Зиммы,"
+  },
+  {
+    "chapter": 6,
+    "verse": 42,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Шимея,"
+  },
+  {
+    "chapter": 6,
+    "verse": 43,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Иахафа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 43,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Гирсона,"
+  },
+  {
+    "chapter": 6,
+    "verse": 43,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Левия."
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "А из их братьев,"
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сыновей Мерари"
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "с левой стороны:"
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Ефан,"
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "сын Кишия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "сына Авдия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 44,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 7,
+    "text": "сына Маллуха,"
+  },
+  {
+    "chapter": 6,
+    "verse": 45,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Хашавии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 45,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Амасии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 45,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Хелкии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 46,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Амция,"
+  },
+  {
+    "chapter": 6,
+    "verse": 46,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Вания,"
+  },
+  {
+    "chapter": 6,
+    "verse": 46,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Шемера,"
+  },
+  {
+    "chapter": 6,
+    "verse": 47,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "сына Махлия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 47,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "сына Мушия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 47,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сына Мерари,"
+  },
+  {
+    "chapter": 6,
+    "verse": 47,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "сына Левия."
+  },
+  {
+    "chapter": 6,
+    "verse": 48,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Их братьям-левитам были"
+  },
+  {
+    "chapter": 6,
+    "verse": 48,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "поручены все прочие"
+  },
+  {
+    "chapter": 6,
+    "verse": 48,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "обязанности при доме"
+  },
+  {
+    "chapter": 6,
+    "verse": 48,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Божьем."
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "А Аарон"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "и его потомки совершали"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "приношения на жертвеннике"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "для всесожжений"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "и на жертвеннике для"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "возжигания благовоний,"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 7,
+    "text": "неся службу в"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 8,
+    "text": "Святом Святых,"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 9,
+    "text": "чтобы совершить"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 10,
+    "text": "отпущение за грехи Израиля,"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 11,
+    "text": "по всем повелениям"
+  },
+  {
+    "chapter": 6,
+    "verse": 49,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 12,
+    "text": "Божьего слуги Моисея."
+  },
+  {
+    "chapter": 6,
+    "verse": 50,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Вот потомки Аарона:"
+  },
+  {
+    "chapter": 6,
+    "verse": 50,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Елеазар,"
+  },
+  {
+    "chapter": 6,
+    "verse": 50,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Финеес,"
+  },
+  {
+    "chapter": 6,
+    "verse": 50,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "его сын Авишуа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 51,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Буккий,"
+  },
+  {
+    "chapter": 6,
+    "verse": 51,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Уззий,"
+  },
+  {
+    "chapter": 6,
+    "verse": 51,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Зерахия,"
+  },
+  {
+    "chapter": 6,
+    "verse": 52,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Мераиоф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 52,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Амария,"
+  },
+  {
+    "chapter": 6,
+    "verse": 52,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "его сын Ахитув,"
+  },
+  {
+    "chapter": 6,
+    "verse": 53,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "его сын Садок,"
+  },
+  {
+    "chapter": 6,
+    "verse": 53,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "его сын Ахимаац."
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Вот места их поселений,"
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "выделенные"
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "им в надел (они достались"
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "потомкам Аарона"
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "из клана Каафа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "потому что им"
+  },
+  {
+    "chapter": 6,
+    "verse": 54,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 7,
+    "text": "выпал первый жребий)."
+  },
+  {
+    "chapter": 6,
+    "verse": 55,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Им отдали Хеврон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 55,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "что в земле Иуды,"
+  },
+  {
+    "chapter": 6,
+    "verse": 55,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "с его"
+  },
+  {
+    "chapter": 6,
+    "verse": 55,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "окрестными пастбищами,"
+  },
+  {
+    "chapter": 6,
+    "verse": 56,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "но поля и села вокруг"
+  },
+  {
+    "chapter": 6,
+    "verse": 56,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "города были отданы Халеву,"
+  },
+  {
+    "chapter": 6,
+    "verse": 56,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "сыну Иефоннии."
+  },
+  {
+    "chapter": 6,
+    "verse": 57,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Итак,"
+  },
+  {
+    "chapter": 6,
+    "verse": 57,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "потомкам Аарона отдали"
+  },
+  {
+    "chapter": 6,
+    "verse": 57,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "города-убежища Хеврон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 57,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Ливну,"
+  },
+  {
+    "chapter": 6,
+    "verse": 57,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Иаттир,"
+  },
+  {
+    "chapter": 6,
+    "verse": 57,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "Ештемоа,"
+  },
+  {
+    "chapter": 6,
+    "verse": 58,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Хилен,"
+  },
+  {
+    "chapter": 6,
+    "verse": 58,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Давир,"
+  },
+  {
+    "chapter": 6,
+    "verse": 59,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Ашан и Беф-Шемеш"
+  },
+  {
+    "chapter": 6,
+    "verse": 59,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "От рода Вениамина"
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "они получили Геву,"
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Алемеф и Анафоф"
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Городов,"
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "розданных"
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 7,
+    "text": "каафитским кланам,"
+  },
+  {
+    "chapter": 6,
+    "verse": 60,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 8,
+    "text": "было всего тринадцать."
+  },
+  {
+    "chapter": 6,
+    "verse": 61,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Остальные потомки Каафа по"
+  },
+  {
+    "chapter": 6,
+    "verse": 61,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "жребию получили десять"
+  },
+  {
+    "chapter": 6,
+    "verse": 61,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "городов от половины рода"
+  },
+  {
+    "chapter": 6,
+    "verse": 61,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Манассии."
+  },
+  {
+    "chapter": 6,
+    "verse": 62,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Потомки Гирсона по своим"
+  },
+  {
+    "chapter": 6,
+    "verse": 62,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "кланам получили тринадцать"
+  },
+  {
+    "chapter": 6,
+    "verse": 62,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "городов от родов Иссахара,"
+  },
+  {
+    "chapter": 6,
+    "verse": 62,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Асира и Неффалима и от"
+  },
+  {
+    "chapter": 6,
+    "verse": 62,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "той части рода Манассии,"
+  },
+  {
+    "chapter": 6,
+    "verse": 62,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "что в Васане."
+  },
+  {
+    "chapter": 6,
+    "verse": 63,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Потомки Мерари по своим"
+  },
+  {
+    "chapter": 6,
+    "verse": 63,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "кланам по жребию получили"
+  },
+  {
+    "chapter": 6,
+    "verse": 63,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "двенадцать городов от родов"
+  },
+  {
+    "chapter": 6,
+    "verse": 63,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Рувима,"
+  },
+  {
+    "chapter": 6,
+    "verse": 63,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Гада и Завулона."
+  },
+  {
+    "chapter": 6,
+    "verse": 64,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Так"
+  },
+  {
+    "chapter": 6,
+    "verse": 64,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "израильтяне отдали эти"
+  },
+  {
+    "chapter": 6,
+    "verse": 64,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "города с"
+  },
+  {
+    "chapter": 6,
+    "verse": 64,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "их пастбищами левитам."
+  },
+  {
+    "chapter": 6,
+    "verse": 65,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "От родов Иуды,"
+  },
+  {
+    "chapter": 6,
+    "verse": 65,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Симеона и Вениамина они"
+  },
+  {
+    "chapter": 6,
+    "verse": 65,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "получили по жребию те города,"
+  },
+  {
+    "chapter": 6,
+    "verse": 65,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "которые уже упомянуты."
+  },
+  {
+    "chapter": 6,
+    "verse": 66,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Некоторые"
+  },
+  {
+    "chapter": 6,
+    "verse": 66,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "из каафитских кланов"
+  },
+  {
+    "chapter": 6,
+    "verse": 66,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "получили в надел города от"
+  },
+  {
+    "chapter": 6,
+    "verse": 66,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "рода Ефрема."
+  },
+  {
+    "chapter": 6,
+    "verse": 67,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "В нагорьях Ефрема они"
+  },
+  {
+    "chapter": 6,
+    "verse": 67,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "получили города-убежища Шехем,"
+  },
+  {
+    "chapter": 6,
+    "verse": 67,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Гезер,"
+  },
+  {
+    "chapter": 6,
+    "verse": 68,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Иокмеам,"
+  },
+  {
+    "chapter": 6,
+    "verse": 68,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Беф-Орон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 69,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Аиалон и"
+  },
+  {
+    "chapter": 6,
+    "verse": 69,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "Гаф-Риммон с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 70,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "А"
+  },
+  {
+    "chapter": 6,
+    "verse": 70,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "из надела половины рода"
+  },
+  {
+    "chapter": 6,
+    "verse": 70,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Манассии"
+  },
+  {
+    "chapter": 6,
+    "verse": 70,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "израильтяне дали остальным"
+  },
+  {
+    "chapter": 6,
+    "verse": 70,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "каафитским кланам Анер"
+  },
+  {
+    "chapter": 6,
+    "verse": 70,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 6,
+    "text": "и Билеам с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 71,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Гирсониты получили:"
+  },
+  {
+    "chapter": 6,
+    "verse": 71,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "от половины рода"
+  },
+  {
+    "chapter": 6,
+    "verse": 71,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Манассии Голан,"
+  },
+  {
+    "chapter": 6,
+    "verse": 71,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "что в Васане,"
+  },
+  {
+    "chapter": 6,
+    "verse": 71,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "и Аштароф с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 72,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "От рода Иссахара"
+  },
+  {
+    "chapter": 6,
+    "verse": 72,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "они получили Кедес,"
+  },
+  {
+    "chapter": 6,
+    "verse": 72,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Давраф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 73,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Рамоф и Анем с"
+  },
+  {
+    "chapter": 6,
+    "verse": 73,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 74,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "От рода Асира"
+  },
+  {
+    "chapter": 6,
+    "verse": 74,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "они получили Машал,"
+  },
+  {
+    "chapter": 6,
+    "verse": 74,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Авдон,"
+  },
+  {
+    "chapter": 6,
+    "verse": 75,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Хукок и Рехов с"
+  },
+  {
+    "chapter": 6,
+    "verse": 75,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 76,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "От рода Неффалима"
+  },
+  {
+    "chapter": 6,
+    "verse": 76,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "они получили Кедес,"
+  },
+  {
+    "chapter": 6,
+    "verse": 76,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "что в Галилее,"
+  },
+  {
+    "chapter": 6,
+    "verse": 76,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Хаммон и"
+  },
+  {
+    "chapter": 6,
+    "verse": 76,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Кириафаим с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 77,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Остальные"
+  },
+  {
+    "chapter": 6,
+    "verse": 77,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "мерариты получили:"
+  },
+  {
+    "chapter": 6,
+    "verse": 77,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "от рода Завулона Риммон"
+  },
+  {
+    "chapter": 6,
+    "verse": 77,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "и Фавор с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 78,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "От рода Рувима за Иорданом,"
+  },
+  {
+    "chapter": 6,
+    "verse": 78,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "к востоку от"
+  },
+  {
+    "chapter": 6,
+    "verse": 78,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "Иерихона они получили Восор,"
+  },
+  {
+    "chapter": 6,
+    "verse": 78,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "что в пустыне,"
+  },
+  {
+    "chapter": 6,
+    "verse": 78,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 5,
+    "text": "Иаацу,"
+  },
+  {
+    "chapter": 6,
+    "verse": 79,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Кедемоф и Мефааф"
+  },
+  {
+    "chapter": 6,
+    "verse": 79,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "с их пастбищами."
+  },
+  {
+    "chapter": 6,
+    "verse": 80,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "А от рода Гада"
+  },
+  {
+    "chapter": 6,
+    "verse": 80,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "они получили Рамоф,"
+  },
+  {
+    "chapter": 6,
+    "verse": 80,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 3,
+    "text": "что в Галааде,"
+  },
+  {
+    "chapter": 6,
+    "verse": 80,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 4,
+    "text": "Маханаим,"
+  },
+  {
+    "chapter": 6,
+    "verse": 81,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 1,
+    "text": "Есевон и Иазер"
+  },
+  {
+    "chapter": 6,
+    "verse": 81,
+    "book_name": "1 Chronicles",
+    "book_id": "1Chr",
+    "part": 2,
+    "text": "с их пастбищами."
+  }
+]

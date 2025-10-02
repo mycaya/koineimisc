@@ -1,0 +1,50 @@
+[
+    {
+        "chapter": 11,
+        "verse": 1,
+        "text": "Дирижеру хора. Псалом Давида.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 11,
+        "verse": 2,
+        "text": "Как долго, Господь? Неужели забыл Ты меня вовеки? Как долго Ты будешь скрывать от меня Свое лицо?",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 11,
+        "verse": 3,
+        "text": "Как долго мне муку в душе носить и целыми днями крушить болью сердце? Как долго моему врагу надо мной кичиться?",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 11,
+        "verse": 4,
+        "text": "Посмотри на меня и ответь, Господи, Боже мой. Глаза мои просвети, чтобы мне не уснуть смертным сном,",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 11,
+        "verse": 5,
+        "text": "чтобы враг не сказал: «Я его превозмог», - и когда я паду, не радовались бы недруги.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    },
+    {
+        "chapter": 11,
+        "verse": 6,
+        "text": "Я уповаю на Твою милость, мое сердце возрадуется спасению Твоему. Господу буду петь, потому что Он ко мне благ.",
+        "translation_id": "NRT",
+        "book_id": "Ps",
+        "book_name": "Psalms"
+    }
+]

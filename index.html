@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Koinei - Language Reader App</title>
+    <meta
+      name="description"
+      content="Koinei is a language reader app designed to help you learn new languages effectively. Start learning Russian with our free Bible course."
+    />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background-color: #f4f4f4;
+      }
+      header {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        position: fixed;
+        top: 0;
+      }
+      header .logo {
+        font-weight: bold;
+        font-size: 1.5em;
+      }
+      header .language-dropdown {
+        position: relative;
+      }
+      header .language-dropdown select {
+        padding: 5px;
+        font-size: 1em;
+      }
+      main {
+        margin-top: 100px;
+        text-align: center;
+      }
+      .menu {
+        margin-top: 20px;
+      }
+      .menu .dropdown {
+        margin-bottom: 20px;
+      }
+      .menu .dropdown select {
+        padding: 10px;
+        font-size: 1em;
+      }
+      .menu .thumbnail {
+        display: inline-block;
+        margin: 10px;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        text-align: center;
+      }
+      .menu .thumbnail img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 50%;
+      }
+      .menu .thumbnail .title {
+        margin-top: 10px;
+        font-size: 1.2em;
+        font-weight: bold;
+      }
+      .menu .thumbnail .price {
+        margin-top: 5px;
+        color: #28a745;
+        font-size: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="logo">Koinei</div>
+      <div class="language-dropdown">
+        <select>
+          <option value="en">English</option>
+          <option value="en-us">🇺🇸 English (US)</option>
+          <option value="en-gb">🇬🇧 English (UK)</option>
+        </select>
+      </div>
+    </header>
+    <main>
+      <div class="menu">
+        <div class="dropdown">
+          <label for="language-select">I want to learn:</label>
+          <select id="language-select">
+            <option value="ru">Russian</option>
+          </select>
+        </div>
+        <a href="Is53.html">
+          <div class="thumbnail">
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/033/054/340/small_2x/bible-bible-study-bible-verses-religious-text-sacred-scripture-scripture-analysis-ai-generative-png.png" alt="Bible Thumbnail" />
+            <div class="title">Bible</div>
+            <div class="price">Free</div>
+          </div>
+        </a>
+      </div>
+    </main>
+  </body>
+</html>

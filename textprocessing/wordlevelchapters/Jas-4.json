@@ -1,0 +1,818 @@
+[
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Откуда среди вас"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "враждебность"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "и распри? Не от ваших ли"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "страстных желаний,"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "которые борются друг с"
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "другом внутри вас самих?"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Вы чего-то хотите,"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "но не имеете,"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "и поэтому убиваете."
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "Вы чему-то завидуете,"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "но не можете этого достичь,"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "и поэтому вступаете"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "в борьбу и враждуете."
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 8,
+    "text": "Но вы не имеете потому,"
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 9,
+    "text": "что не просите;"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "просите и не получаете,"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "потому что"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "руководствуетесь нечистыми мотивами,"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "желая употребить"
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "просимое на наслаждения."
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "О неверные и изменяющие"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "Богу! Разве вы не знаете,"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "что дружба с миром это"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "вражда против Бога? Тот,"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "кто хочет быть"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "другом этому миру,"
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "становится врагом Богу."
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Или вы думаете,"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "Писание напрасно говорит,"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "что Бог до"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "ревности любит наш дух,"
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "который Он и поселил в нас?"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Но Он дает нам"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "большую благодать."
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "Поэтому Писание и говорит:"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "Бог противник гордых,"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "но смиренным Он"
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "дает благодать."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Поэтому покоритесь Богу,"
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "противостаньте дьяволу,"
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "и он убежит от вас."
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Приблизьтесь к Богу,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "и Он приблизится к вам."
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "Грешники,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "омойте ваши руки,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "и вы,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "двуличные,"
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "очистите ваши сердца."
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Сокрушайтесь,"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "плачьте и рыдайте."
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "Плачьте,"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "вместо того чтобы смеяться,"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "и вместо радости"
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "пусть у вас будет печаль."
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Смиритесь перед Господом,"
+  },
+  {
+    "chapter": 4,
+    "verse": 10,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "и тогда Он возвысит вас."
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Братья,"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "не говорите друг"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "о друге плохого."
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "Кто говорит плохо о"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "брате или судит его,"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "тот говорит плохо о"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "Законе и судит этот Закон."
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 8,
+    "text": "А когда"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 9,
+    "text": "человек судит Закон,"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 10,
+    "text": "то он уже не"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 11,
+    "text": "исполнитель Закона,"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 12,
+    "text": "а судья."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Есть только один"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "Законодатель и Судья,"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "и только Он может"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "спасти или погубить."
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "А ты кто такой,"
+  },
+  {
+    "chapter": 4,
+    "verse": 12,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "чтобы судить ближнего?"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Послушайте теперь те,"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "кто говорит:"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "Сегодня или завтра мы"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "поедем в такой-то город,"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "поживем там год,"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "будем торговать и"
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "получать прибыль."
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Вы не знаете даже того,"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "что произойдет завтра."
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "Что такое ваша"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "жизнь? Ведь вы как пар,"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "который на некоторое время"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 6,
+    "text": "появляется и потом"
+  },
+  {
+    "chapter": 4,
+    "verse": 14,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 7,
+    "text": "исчезает."
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Скажите лучше:"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "Если на то"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "будет воля Господня,"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "то мы еще поживем и"
+  },
+  {
+    "chapter": 4,
+    "verse": 15,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "сделаем то или другое."
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Вы же теперь хвастаетесь"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "в своей самонадеянности,"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "а всякое такое"
+  },
+  {
+    "chapter": 4,
+    "verse": 16,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "хвастовство есть зло."
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 1,
+    "text": "Всякий,"
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 2,
+    "text": "кто знает,"
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 3,
+    "text": "какое добро должен делать,"
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 4,
+    "text": "и не делает,"
+  },
+  {
+    "chapter": 4,
+    "verse": 17,
+    "book_name": "James",
+    "book_id": "Jas",
+    "part": 5,
+    "text": "грешит."
+  }
+]

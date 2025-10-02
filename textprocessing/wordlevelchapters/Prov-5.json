@@ -1,0 +1,706 @@
+[
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Мой сын,"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "будь внимателен"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "к моей мудрости,"
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "внимай моему разуму,"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "чтобы тебе"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сохранить рассудительность,"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и чтобы речь твоя всегда"
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "была приправлена знанием."
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ведь уста чужой"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "жены сочатся медом,"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и речь ее мягче,"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "чем елей;"
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "но под конец она горька,"
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "как полынь,"
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "остра,"
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "как меч обоюдоострый."
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Нисходят ноги ее к смерти,"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ее шаги ведут"
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "в мир мертвых."
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "О стезе жизни"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "она и не думает;"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "кривы ее тропы,"
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "а она и не знает."
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Итак,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сыновья,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "послушайте меня;"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "не отклоняйтесь от того,"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "что я скажу."
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Держи свой путь"
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "от нее подальше,"
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "к дверям ее дома"
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "не приближайся,"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "чтобы чести своей"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не отдать другим,"
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и безжалостным своих лет,"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "чтобы богатством твоим"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не насыщались чужаки,"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и твой труд не"
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "обогатил чужого дома."
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не то под конец"
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "жизни ты будешь стонать,"
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "когда плоть и тело"
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "твои будут истощены."
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Будешь говорить:"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Как ненавидел я"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "наставление! Как сердце мое"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "презирало упрек!"
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Я не слушался учителей"
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и наставникам не внимал."
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Я стою на краю"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "окончательной гибели у"
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "всего собрания на глазах."
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пей воду из своего водоема,"
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "воду,"
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "текущую из своего колодца."
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Зачем твоим родникам"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "растекаться по улицам"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и потокам вод твоих по"
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "площадям?"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть они будут"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "только твоими,"
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "с чужими ты не делись."
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть источник твой"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "будет благословен,"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и радуйся жене"
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "твоей юности,"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "прекрасной лани,"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "изящной серне."
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "Пусть груди ее"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "утоляют твое желание всегда,"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "пусть всегда ты"
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 6,
+    "text": "будешь опьянен ее любовью."
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Зачем,"
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "мой сын,"
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "опьяняться тебе другой и"
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "обнимать груди чужой жены?"
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ведь пути"
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "человека открыты Господу,"
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и Он размышляет"
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "обо всех его тропах."
+  },
+  {
+    "chapter": 5,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Грехи нечестивого"
+  },
+  {
+    "chapter": 5,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ловят его в западню;"
+  },
+  {
+    "chapter": 5,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "крепко держат его"
+  },
+  {
+    "chapter": 5,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "узы собственного греха."
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Гибнет он,"
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "не получив наставления,"
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и сбивается с пути по"
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "великой своей глупости."
+  }
+]

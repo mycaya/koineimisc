@@ -1,0 +1,922 @@
+[
+  {
+    "chapter": 31,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Высказывания Лемуила,"
+  },
+  {
+    "chapter": 31,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "царя."
+  },
+  {
+    "chapter": 31,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "Изречения,"
+  },
+  {
+    "chapter": 31,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "которой научила его мать:"
+  },
+  {
+    "chapter": 31,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "О сын мой,"
+  },
+  {
+    "chapter": 31,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "сын моего чрева,"
+  },
+  {
+    "chapter": 31,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "о сын мой ответ"
+  },
+  {
+    "chapter": 31,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "на молитвы мои,"
+  },
+  {
+    "chapter": 31,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "не давай своей"
+  },
+  {
+    "chapter": 31,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "силы женщинам,"
+  },
+  {
+    "chapter": 31,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "мощи своей"
+  },
+  {
+    "chapter": 31,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "губительницам царей."
+  },
+  {
+    "chapter": 31,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не царям,"
+  },
+  {
+    "chapter": 31,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Лемуил,"
+  },
+  {
+    "chapter": 31,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "не царям пить вино,"
+  },
+  {
+    "chapter": 31,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "не правителям"
+  },
+  {
+    "chapter": 31,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "жаждать хмельного питья,"
+  },
+  {
+    "chapter": 31,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "чтобы,"
+  },
+  {
+    "chapter": 31,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "напившись,"
+  },
+  {
+    "chapter": 31,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "они не забыли закона и не"
+  },
+  {
+    "chapter": 31,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "лишили всех угнетенных прав."
+  },
+  {
+    "chapter": 31,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Дайте хмельное"
+  },
+  {
+    "chapter": 31,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "питье погибающим,"
+  },
+  {
+    "chapter": 31,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "вино тем,"
+  },
+  {
+    "chapter": 31,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "кто скорбит жестоко;"
+  },
+  {
+    "chapter": 31,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "пусть выпьют"
+  },
+  {
+    "chapter": 31,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и бедность свою забудут"
+  },
+  {
+    "chapter": 31,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и не вспомнят больше своих"
+  },
+  {
+    "chapter": 31,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "невзгод."
+  },
+  {
+    "chapter": 31,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Говори за тех,"
+  },
+  {
+    "chapter": 31,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кто не может"
+  },
+  {
+    "chapter": 31,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "говорить за себя сам,"
+  },
+  {
+    "chapter": 31,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "для защиты"
+  },
+  {
+    "chapter": 31,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "всех обездоленных."
+  },
+  {
+    "chapter": 31,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Говори,"
+  },
+  {
+    "chapter": 31,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "справедливо суди,"
+  },
+  {
+    "chapter": 31,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "защищай права"
+  },
+  {
+    "chapter": 31,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "бедных и нищих."
+  },
+  {
+    "chapter": 31,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Добродетельная жена кто ее"
+  },
+  {
+    "chapter": 31,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "найдет? Камней дорогих она"
+  },
+  {
+    "chapter": 31,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "драгоценнее."
+  },
+  {
+    "chapter": 31,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Всем сердцем верит ей муж,"
+  },
+  {
+    "chapter": 31,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "он не будет"
+  },
+  {
+    "chapter": 31,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "нуждаться в прибытке."
+  },
+  {
+    "chapter": 31,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она приносит ему добро,"
+  },
+  {
+    "chapter": 31,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "а не зло во все"
+  },
+  {
+    "chapter": 31,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "дни своей жизни."
+  },
+  {
+    "chapter": 31,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она выбирает шерсть и лен"
+  },
+  {
+    "chapter": 31,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и охотно трудиться своими"
+  },
+  {
+    "chapter": 31,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "руками."
+  },
+  {
+    "chapter": 31,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она подобна купеческим"
+  },
+  {
+    "chapter": 31,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "кораблям"
+  },
+  {
+    "chapter": 31,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "издалека добывает свой"
+  },
+  {
+    "chapter": 31,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "хлеб."
+  },
+  {
+    "chapter": 31,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Затемно она встает,"
+  },
+  {
+    "chapter": 31,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "готовит пищу своей семье"
+  },
+  {
+    "chapter": 31,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и дает служанкам работу."
+  },
+  {
+    "chapter": 31,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Присматривает"
+  },
+  {
+    "chapter": 31,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "поле и покупает его;"
+  },
+  {
+    "chapter": 31,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "на заработанное ею"
+  },
+  {
+    "chapter": 31,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "насаждает виноградник."
+  },
+  {
+    "chapter": 31,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "С жаром"
+  },
+  {
+    "chapter": 31,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "принимается за работу,"
+  },
+  {
+    "chapter": 31,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "ее руки крепки"
+  },
+  {
+    "chapter": 31,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "для ее трудов."
+  },
+  {
+    "chapter": 31,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она понимает,"
+  },
+  {
+    "chapter": 31,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "что торговля ее доходна."
+  },
+  {
+    "chapter": 31,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "Не гаснет ночью"
+  },
+  {
+    "chapter": 31,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "ее светильник."
+  },
+  {
+    "chapter": 31,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Руки свои на прялку кладет,"
+  },
+  {
+    "chapter": 31,
+    "verse": 19,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "пальцы ее держат веретено."
+  },
+  {
+    "chapter": 31,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Для бедняка она открывает"
+  },
+  {
+    "chapter": 31,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ладонь"
+  },
+  {
+    "chapter": 31,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и протягивает руки"
+  },
+  {
+    "chapter": 31,
+    "verse": 20,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "нуждающимся."
+  },
+  {
+    "chapter": 31,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "В снег не"
+  },
+  {
+    "chapter": 31,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "боится за свою семью:"
+  },
+  {
+    "chapter": 31,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "вся ее семья"
+  },
+  {
+    "chapter": 31,
+    "verse": 21,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "одевается в алые одежды."
+  },
+  {
+    "chapter": 31,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она делает"
+  },
+  {
+    "chapter": 31,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "покрывала для своей постели,"
+  },
+  {
+    "chapter": 31,
+    "verse": 22,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "одевается в лен и пурпур."
+  },
+  {
+    "chapter": 31,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Мужа ее уважают у городских"
+  },
+  {
+    "chapter": 31,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ворот со старейшинами"
+  },
+  {
+    "chapter": 31,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "страны,"
+  },
+  {
+    "chapter": 31,
+    "verse": 23,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "там место его."
+  },
+  {
+    "chapter": 31,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она делает льняные одежды"
+  },
+  {
+    "chapter": 31,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и продает их"
+  },
+  {
+    "chapter": 31,
+    "verse": 24,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и поставляет купцам пояса."
+  },
+  {
+    "chapter": 31,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Одевается силою"
+  },
+  {
+    "chapter": 31,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и достоинством"
+  },
+  {
+    "chapter": 31,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и весело смотрит она в"
+  },
+  {
+    "chapter": 31,
+    "verse": 25,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "завтрашний день."
+  },
+  {
+    "chapter": 31,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она говорит с мудростью,"
+  },
+  {
+    "chapter": 31,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и доброе"
+  },
+  {
+    "chapter": 31,
+    "verse": 26,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "наставление на ее языке."
+  },
+  {
+    "chapter": 31,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она смотрит за"
+  },
+  {
+    "chapter": 31,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "делами своей семьи,"
+  },
+  {
+    "chapter": 31,
+    "verse": 27,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "хлеб безделья она не ест."
+  },
+  {
+    "chapter": 31,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ее дети встают и"
+  },
+  {
+    "chapter": 31,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "счастливой ее зовут,"
+  },
+  {
+    "chapter": 31,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "также муж,"
+  },
+  {
+    "chapter": 31,
+    "verse": 28,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "и хвалит ее:"
+  },
+  {
+    "chapter": 31,
+    "verse": 29,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Много есть"
+  },
+  {
+    "chapter": 31,
+    "verse": 29,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "превосходных жен,"
+  },
+  {
+    "chapter": 31,
+    "verse": 29,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "но ты превзошла их всех."
+  },
+  {
+    "chapter": 31,
+    "verse": 30,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Прелесть обманчива"
+  },
+  {
+    "chapter": 31,
+    "verse": 30,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "и красота мимолетна,"
+  },
+  {
+    "chapter": 31,
+    "verse": 30,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "но женщина,"
+  },
+  {
+    "chapter": 31,
+    "verse": 30,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "что боится Господа,"
+  },
+  {
+    "chapter": 31,
+    "verse": 30,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "достойна хвалы."
+  },
+  {
+    "chapter": 31,
+    "verse": 31,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Дайте ей награду,"
+  },
+  {
+    "chapter": 31,
+    "verse": 31,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "которую она заслужила,"
+  },
+  {
+    "chapter": 31,
+    "verse": 31,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "пусть дела ее славят"
+  },
+  {
+    "chapter": 31,
+    "verse": 31,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "ее у городских ворот."
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "chapter": 9,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Мудрость"
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "построила себе дом,"
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "вытесала для"
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "него семь столбов."
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она заколола свой скот,"
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "смешала вино со"
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "специями и на стол накрыла."
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Она разослала своих"
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "служанок призывать с"
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "возвышенностей городских."
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть все простаки сюда"
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "повернут! говорит она тем,"
+  },
+  {
+    "chapter": 9,
+    "verse": 4,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "кто наивен."
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Идите,"
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "ешьте мою еду и пейте вино,"
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "которое я смешала."
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Оставьте"
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "невежество и живите;"
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "ходите дорогой разума."
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Наставляющий"
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "глумливого бесчестие наживет;"
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "обличающий нечестивого"
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "навлечет на себя позор."
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Не обличай глумливого,"
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "чтобы он тебя"
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "не возненавидел;"
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "обличай мудреца,"
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "он возлюбит тебя."
+  },
+  {
+    "chapter": 9,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Научи мудреца,"
+  },
+  {
+    "chapter": 9,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "он станет еще мудрее;"
+  },
+  {
+    "chapter": 9,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "праведника наставь,"
+  },
+  {
+    "chapter": 9,
+    "verse": 9,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "он познания приумножит."
+  },
+  {
+    "chapter": 9,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Страх перед"
+  },
+  {
+    "chapter": 9,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "Господом начало мудрости,"
+  },
+  {
+    "chapter": 9,
+    "verse": 10,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "и познание Святого разум."
+  },
+  {
+    "chapter": 9,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Ведь со мною"
+  },
+  {
+    "chapter": 9,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "умножатся твои дни,"
+  },
+  {
+    "chapter": 9,
+    "verse": 11,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "годы жизни твоей продлятся."
+  },
+  {
+    "chapter": 9,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Если ты мудр,"
+  },
+  {
+    "chapter": 9,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "твоя мудрость"
+  },
+  {
+    "chapter": 9,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "тебя и наградит;"
+  },
+  {
+    "chapter": 9,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "если глумливый ты"
+  },
+  {
+    "chapter": 9,
+    "verse": 12,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 5,
+    "text": "один и пострадаешь."
+  },
+  {
+    "chapter": 9,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Глупость женщина шумливая,"
+  },
+  {
+    "chapter": 9,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "она невежда и"
+  },
+  {
+    "chapter": 9,
+    "verse": 13,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "ничего не знает."
+  },
+  {
+    "chapter": 9,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Сидит она у"
+  },
+  {
+    "chapter": 9,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "дверей своего дома,"
+  },
+  {
+    "chapter": 9,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "на сидении,"
+  },
+  {
+    "chapter": 9,
+    "verse": 14,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "на возвышенности городской,"
+  },
+  {
+    "chapter": 9,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "и зовет проходящих мимо,"
+  },
+  {
+    "chapter": 9,
+    "verse": 15,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "идущих прямо своим путем:"
+  },
+  {
+    "chapter": 9,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Пусть все простаки сюда"
+  },
+  {
+    "chapter": 9,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "повернут! говорит она тем,"
+  },
+  {
+    "chapter": 9,
+    "verse": 16,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "кто наивен."
+  },
+  {
+    "chapter": 9,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "Сладка украденная вода,"
+  },
+  {
+    "chapter": 9,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "вкусен хлеб,"
+  },
+  {
+    "chapter": 9,
+    "verse": 17,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "что едят утайкой!"
+  },
+  {
+    "chapter": 9,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 1,
+    "text": "И не знают они,"
+  },
+  {
+    "chapter": 9,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 2,
+    "text": "что там духи умерших,"
+  },
+  {
+    "chapter": 9,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 3,
+    "text": "что гости ее в"
+  },
+  {
+    "chapter": 9,
+    "verse": 18,
+    "book_name": "Proverbs",
+    "book_id": "Prov",
+    "part": 4,
+    "text": "глубинах мир мертвых."
+  }
+]
